@@ -353,6 +353,7 @@
 001 King Harvest
 001 Billy Bragg & Wilco
 001 Swingin' Medallions
+001 Cake
 001 Rodney Crowell
 001 Richard & Linda Thompson
 001 Dylan LeBlanc

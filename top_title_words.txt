@@ -1326,6 +1326,7 @@
 001 intervention
 001 beck's
 001 doin'
+001 frank
 001 molly
 001 heartbreaker
 001 york
@@ -1357,6 +1358,7 @@
 001 aladdin
 001 cranes
 001 babel
+001 sinatra
 001 goldrush
 001 birdland
 001 nancy
