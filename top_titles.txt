@@ -40,6 +40,7 @@
 002 Be Thankful For What You Got
 002 All I Really Want To Do
 002 Dancing In The Moonlight
+002 From A Whisper To A Scream
 002 Back In The USA
 002 Day Tripper
 002 Drive
@@ -221,6 +222,7 @@
 001 A Salty Dog
 001 Close To The Edge
 001 All The Way From Memphis
+001 Friday I'm In Love
 001 Boogie With Stu
 001 Can't Buy Me Love
 001 Controversy
@@ -324,6 +326,7 @@
 001 Biko
 001 Desolation Row
 001 For You Blue
+001 Fresh Air
 001 Come Down In Time
 001 Dark Horse
 001 Blank Generation
@@ -395,6 +398,7 @@
 001 Blue Monday
 001 Crash Into Me
 001 For What It's Worth
+001 From A Buick 6
 001 Don't Stop (Color On The Walls)
 001 Big Bird
 001 Farther On Down The Road
@@ -628,6 +632,7 @@
 001 Aja
 001 Copperhead Road
 001 Delerium
+001 Friday On My Mind
 001 Baby Don't Go
 001 Car Wheels On A Gravel Road
 001 Check The Rhyme
@@ -658,6 +663,7 @@
 001 All I Do
 001 Everybody's Got Something To Hide Except Me and My Monkey
 001 Cross-eyed Mary
+001 Friends
 001 Babylon Sisters
 001 Blame It On Me
 001 Don't Let Me Be Misunderstood
@@ -769,6 +775,7 @@
 001 Dead Fox
 001 Bad 'N' Ruin
 001 Enjoy The Silence
+001 Fresh Garbage
 001 And I Love Her
 001 Chain Lightning
 001 Bachelor Kisses
@@ -975,6 +982,7 @@
 001 D. J.
 001 Dancin' In The Streets
 001 Asking For Flowers
+001 Friday Night
 001 Fast Car
 001 Be My Yoko Ono
 001 Don't Wait Too Long
@@ -1066,6 +1074,7 @@
 001 Boys Don't Cry
 001 Bobby Jean
 001 Black Hearted Woman
+001 Freeway Jam
 001 Elderly Woman Behind The Counter In A Small Town
 001 Constant Craving
 001 A Natural Man
@@ -1260,6 +1269,7 @@
 001 Charlie Brown
 001 Day Or Night
 001 Doctor Wu
+001 Friend Of The Devil
 001 Every Little Thing
 001 Feelin' Alright
 001 Book Of Days

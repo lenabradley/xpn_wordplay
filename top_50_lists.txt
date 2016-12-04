@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-04, 11:56
+Last updated: 2016-12-04, 12:44
 
 ==============================
 Top 50 artists:
@@ -13,10 +13,10 @@ Top 50 artists:
 #   5:         17 Steely Dan
 #   6:         14 Joni Mitchell
 #   7:         14 Van Morrison
-#   8:         13 David Bowie
-#   9:         12 Grateful Dead
-#  10:         12 Led Zeppelin
-#  11:         11 Bob Dylan
+#   8:         13 Grateful Dead
+#   9:         13 David Bowie
+#  10:         13 Led Zeppelin
+#  11:         12 Bob Dylan
 #  12:         11 R. E. M.
 #  13:          9 Elton John
 #  14:          9 The Kinks
@@ -36,19 +36,19 @@ Top 50 artists:
 #  28:          6 Johnny Cash
 #  29:          6 Ryan Adams
 #  30:          6 The Beach Boys
-#  31:          6 The Allman Brothers
-#  32:          6 Fleetwood Mac
-#  33:          5 Bob Marley & The Wailers
-#  34:          5 Taj Mahal
-#  35:          5 Norah Jones
-#  36:          5 Electric Light Orchestra
-#  37:          5 Buffalo Springfield
-#  38:          5 Eric Clapton
-#  39:          5 Creedence Clearwater Revival
-#  40:          5 Radiohead
-#  41:          5 John Mayer
-#  42:          5 The Replacements
-#  43:          5 Elvis Costello
+#  31:          6 Elvis Costello
+#  32:          6 The Allman Brothers
+#  33:          6 Fleetwood Mac
+#  34:          5 Bob Marley & The Wailers
+#  35:          5 Taj Mahal
+#  36:          5 Norah Jones
+#  37:          5 Electric Light Orchestra
+#  38:          5 Buffalo Springfield
+#  39:          5 Eric Clapton
+#  40:          5 Creedence Clearwater Revival
+#  41:          5 Radiohead
+#  42:          5 John Mayer
+#  43:          5 The Replacements
 #  44:          5 Lenny Kravitz
 #  45:          5 Paul Simon
 #  46:          4 Red Hot Chili Peppers
@@ -104,34 +104,34 @@ Top 50 titles:
 #  40:          2 Be Thankful For What You Got
 #  41:          2 All I Really Want To Do
 #  42:          2 Dancing In The Moonlight
-#  43:          2 Back In The USA
-#  44:          2 Day Tripper
-#  45:          2 Drive
-#  46:          2 Alone Again Or
-#  47:          2 Calling All Angels
-#  48:          2 Closing Time
-#  49:          2 After Midnight
-#  50:          2 Don't Look Back
+#  43:          2 From A Whisper To A Scream
+#  44:          2 Back In The USA
+#  45:          2 Day Tripper
+#  46:          2 Drive
+#  47:          2 Alone Again Or
+#  48:          2 Calling All Angels
+#  49:          2 Closing Time
+#  50:          2 After Midnight
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Word/Phrase
 ==============================
-#   1:        153 the
-#   2:         95 a
-#   3:         78 of
+#   1:        154 the
+#   2:        100 a
+#   3:         79 of
 #   4:         74 you
-#   5:         69 in
+#   5:         70 in
 #   6:         67 don't
 #   7:         59 me
-#   8:         52 to
-#   9:         46 on
-#  10:         44 love
+#   8:         54 to
+#   9:         47 on
+#  10:         45 love
 #  11:         44 all
 #  12:         35 baby
 #  13:         34 and
-#  14:         31 my
+#  14:         32 my
 #  15:         30 it
 #  16:         30 i
 #  17:         29 do

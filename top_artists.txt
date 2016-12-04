@@ -5,10 +5,10 @@
 017 Steely Dan
 014 Joni Mitchell
 014 Van Morrison
+013 Grateful Dead
 013 David Bowie
-012 Grateful Dead
-012 Led Zeppelin
-011 Bob Dylan
+013 Led Zeppelin
+012 Bob Dylan
 011 R. E. M.
 009 Elton John
 009 The Kinks
@@ -28,6 +28,7 @@
 006 Johnny Cash
 006 Ryan Adams
 006 The Beach Boys
+006 Elvis Costello
 006 The Allman Brothers
 006 Fleetwood Mac
 005 Bob Marley & The Wailers
@@ -40,7 +41,6 @@
 005 Radiohead
 005 John Mayer
 005 The Replacements
-005 Elvis Costello
 005 Lenny Kravitz
 005 Paul Simon
 004 Red Hot Chili Peppers
@@ -82,6 +82,7 @@
 003 The National
 003 T Rex
 003 Stevie Ray Vaughan
+003 The Cure
 003 The J. Geils Band
 003 My Morning Jacket
 003 Lake Street Dive
@@ -89,6 +90,7 @@
 003 The Police
 003 Marvin Gaye
 003 The Doobie Brothers
+003 Jeff Beck
 003 The Ramones
 003 Enya
 003 Oasis
@@ -131,7 +133,6 @@
 002 10cc
 002 Marvin Gaye & Tammi Terrell
 002 Cheap Trick
-002 The Cure
 002 G Love & Special Sauce
 002 Violent Femmes
 002 Trey Anastasio
@@ -145,7 +146,6 @@
 002 Pete Yorn
 002 Courtney Barnett
 002 Leon Bridges
-002 Jeff Beck
 002 Phoenix
 002 Bob Weir
 002 Guster
@@ -177,6 +177,7 @@
 002 The Human League
 002 The Heptones
 002 The Foundations
+002 Spirit
 002 Nick Lowe
 002 LCD Soundsystem
 002 Big Audio Dynamite
@@ -248,8 +249,10 @@
 002 The Eagles
 002 Tears For Fears
 002 Dire Straits
+001 Allen Toussaint
 001 Bruce Hornsby & The Range
 001 Caetano Veloso
+001 Quicksilver Messenger Service
 001 Sugar
 001 Toad The Wet Sprocket
 001 Weather Report
@@ -406,6 +409,7 @@
 001 Elvis Presley & JXL
 001 Slim Harpo
 001 Roy Ayers
+001 The Darkness
 001 Ellie Goulding
 001 Bryan Ferry
 001 Elmore James
@@ -477,7 +481,6 @@
 001 The Lovin' Spoonful
 001 Joe Bonamassa
 001 Steve Miller Band
-001 Spirit
 001 Mark Knopfler
 001 Martha & The Muffins
 001 Dada
@@ -697,6 +700,7 @@
 001 Patty Griffin
 001 The Main Ingredient
 001 Ray Lamontagne & The Pariah Dogs
+001 The Easybeats
 001 Robert Knight
 001 Jim James
 001 Lightnin' Hopkins

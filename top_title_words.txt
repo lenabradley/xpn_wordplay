@@ -1,17 +1,17 @@
-153 the
-095 a
-078 of
+154 the
+100 a
+079 of
 074 you
-069 in
+070 in
 067 don't
 059 me
-052 to
-046 on
-044 love
+054 to
+047 on
+045 love
 044 all
 035 baby
 034 and
-031 my
+032 my
 030 it
 030 i
 029 do
@@ -50,13 +50,13 @@
 011 up
 010 every
 010 easy
+010 night
 010 everything
 010 now
 010 again
 010 crazy
 009 away
 009 cherry
-009 night
 009 way
 009 heart
 009 california
@@ -77,6 +77,7 @@
 008 little
 008 world
 008 road
+008 from
 008 it's
 008 home
 007 better
@@ -97,6 +98,7 @@
 007 boom
 006 boogie
 006 music
+006 mind
 006 dear
 006 dark
 006 broken
@@ -116,7 +118,6 @@
 005 fever
 005 after
 005 luck
-005 mind
 005 doo
 005 radio
 005 we
@@ -136,16 +137,17 @@
 005 song
 005 town
 005 fool
+005 friday
 005 american
 005 feel
 005 cut
 005 run
-005 from
 005 train
 005 light
 005 could
 005 ball
 004 street
+004 i'm
 004 tell
 004 driving
 004 evil
@@ -195,7 +197,6 @@
 003 four
 003 ever
 003 here
-003 i'm
 003 cocaine
 003 mr
 003 cadillac
@@ -227,6 +228,7 @@
 003 yourself
 003 fast
 003 2
+003 friend
 003 than
 003 shot
 003 enough
@@ -281,6 +283,7 @@
 003 candy
 003 hair
 003 book
+003 friends
 002 buddy
 002 clover
 002 lights
@@ -313,6 +316,7 @@
 002 talkin'
 002 letter
 002 alabama
+002 scream
 002 bomb
 002 queen
 002 twice
@@ -364,7 +368,6 @@
 002 blood
 002 caught
 002 anyone
-002 friend
 002 eyed
 002 flowers
 002 gotta
@@ -421,7 +424,6 @@
 002 hard
 002 gun
 002 hill
-002 friday
 002 horse
 002 golly
 002 fallen
@@ -444,6 +446,7 @@
 002 suede
 002 bell
 002 sweet
+002 devil
 002 empty
 002 century
 002 ready
@@ -458,6 +461,7 @@
 002 marie
 002 long
 002 downtown
+002 fresh
 002 buffalo
 002 drinkin'
 002 does
@@ -503,8 +507,8 @@
 002 sister
 002 bus
 002 cruel
+002 whisper
 002 happen
-002 friends
 001 yellow
 001 sleep
 001 evermore
@@ -649,6 +653,7 @@
 001 stoppin'
 001 chill
 001 cracker
+001 air
 001 dashboard
 001 batonga
 001 shame
@@ -1053,6 +1058,7 @@
 001 eye
 001 destination
 001 oh's
+001 6
 001 diamond
 001 known
 001 coyote
@@ -1191,7 +1197,6 @@
 001 dancer
 001 church
 001 rockin'
-001 devil
 001 dizzyspells
 001 pt
 001 celluloid
@@ -1242,6 +1247,7 @@
 001 deserves
 001 range
 001 block
+001 garbage
 001 folsom
 001 o'riley
 001 summertime
@@ -1254,6 +1260,7 @@
 001 z
 001 v
 001 constant
+001 freeway
 001 buck
 001 electrical
 001 nice
@@ -1388,6 +1395,7 @@
 001 jay
 001 buttons
 001 gravity's
+001 jam
 001 photographs
 001 means
 001 beat
@@ -1459,6 +1467,7 @@
 001 letters
 001 owe
 001 weather
+001 buick
 001 birdhouse
 001 custard
 001 glimmer
