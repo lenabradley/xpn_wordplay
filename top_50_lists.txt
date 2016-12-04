@@ -1,0 +1,161 @@
+=========================
+Top 50 artists:
+=========================
+#1: 032 The Beatles
+#2: 020 The Rolling Stones
+#3: 019 Neil Young
+#4: 019 Bruce Springsteen
+#5: 017 Steely Dan
+#6: 014 Van Morrison
+#7: 013 Joni Mitchell
+#8: 013 David Bowie
+#9: 012 Grateful Dead
+#10: 012 Led Zeppelin
+#11: 011 Bob Dylan
+#12: 011 R. E. M.
+#13: 009 Elton John
+#14: 009 The Kinks
+#15: 009 Jimi Hendrix
+#16: 009 U2
+#17: 008 Sting
+#18: 008 Little Feat
+#19: 007 Tom Petty & The Heartbreakers
+#20: 007 Warren Zevon
+#21: 007 Todd Rundgren
+#22: 007 Stevie Wonder
+#23: 007 The Who
+#24: 006 Talking Heads
+#25: 006 Coldplay
+#26: 006 Jackson Browne
+#27: 006 Pearl Jam
+#28: 006 Johnny Cash
+#29: 006 Ryan Adams
+#30: 006 The Beach Boys
+#31: 006 The Allman Brothers
+#32: 006 Fleetwood Mac
+#33: 005 Bob Marley & The Wailers
+#34: 005 Taj Mahal
+#35: 005 Norah Jones
+#36: 005 Electric Light Orchestra
+#37: 005 Buffalo Springfield
+#38: 005 Eric Clapton
+#39: 005 Creedence Clearwater Revival
+#40: 005 Radiohead
+#41: 005 John Mayer
+#42: 005 The Replacements
+#43: 005 Elvis Costello
+#44: 005 Lenny Kravitz
+#45: 005 Paul Simon
+#46: 004 Red Hot Chili Peppers
+#47: 004 The Clash
+#48: 004 The Band
+#49: 004 Frank Zappa
+#50: 004 Elvis Presley
+
+=========================
+Top 50 titles:
+=========================
+#1: 004 Fever
+#2: 004 Crazy
+#3: 004 Dreams
+#4: 004 Fire
+#5: 003 Ball Of Confusion
+#6: 003 Do It Again
+#7: 003 California
+#8: 003 Cocaine
+#9: 003 Cherry Oh Baby
+#10: 002 Changes
+#11: 002 Back Door Man
+#12: 002 Believe
+#13: 002 Don't Go Back To Rockville
+#14: 002 Big Boss Man
+#15: 002 Come Dancing
+#16: 002 China Girl
+#17: 002 Carmelita
+#18: 002 Everybody's Talkin'
+#19: 002 Can't Find My Way Home
+#20: 002 Come As You Are
+#21: 002 Down By The Water
+#22: 002 Biloxi
+#23: 002 Comfortably Numb
+#24: 002 Bad Luck
+#25: 002 All Along The Watchtower
+#26: 002 Dark Star
+#27: 002 Ain't Too Proud To Beg
+#28: 002 Candy
+#29: 002 Blue
+#30: 002 All I Need
+#31: 002 Everybody Knows
+#32: 002 Bizarre Love Triangle
+#33: 002 Cry Baby
+#34: 002 Change Partners
+#35: 002 Blackbird
+#36: 002 Blue Suede Shoes
+#37: 002 Angel From Montgomery
+#38: 002 Congo Square
+#39: 002 Dream On
+#40: 002 Be Thankful For What You Got
+#41: 002 All I Really Want To Do
+#42: 002 Dancing In The Moonlight
+#43: 002 Back In The USA
+#44: 002 Day Tripper
+#45: 002 Drive
+#46: 002 Alone Again Or
+#47: 002 Calling All Angels
+#48: 002 Closing Time
+#49: 002 After Midnight
+#50: 002 Don't Look Back
+
+=========================
+Top 50 title words:
+=========================
+#1: 152 the
+#2: 095 a
+#3: 076 of
+#4: 074 you
+#5: 068 in
+#6: 067 don't
+#7: 059 me
+#8: 052 to
+#9: 046 on
+#10: 044 love
+#11: 044 all
+#12: 035 baby
+#13: 034 and
+#14: 031 my
+#15: 030 it
+#16: 030 i
+#17: 029 do
+#18: 027 come
+#19: 026 down
+#20: 025 back
+#21: 024 for
+#22: 022 blue
+#23: 020 bad
+#24: 020 time
+#25: 020 ain't
+#26: 019 big
+#27: 019 be
+#28: 018 is
+#29: 018 girl
+#30: 018 can't
+#31: 017 cry
+#32: 017 day
+#33: 016 man
+#34: 016 your
+#35: 015 black
+#36: 015 with
+#37: 015 like
+#38: 014 dance
+#39: 014 get
+#40: 014 go
+#41: 013 blues
+#42: 012 no
+#43: 012 change
+#44: 012 cold
+#45: 012 that
+#46: 012 dancing
+#47: 011 another
+#48: 011 everybody
+#49: 011 up
+#50: 010 every

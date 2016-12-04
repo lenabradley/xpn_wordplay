@@ -25,7 +25,7 @@ f.write(top_artists)
 f.write('\n')
 f.write(top_titles)
 f.write('\n')
-f.write(top_artists)
+f.write(top_words)
 f.close()
 
 # save title, title-word and artists counts
