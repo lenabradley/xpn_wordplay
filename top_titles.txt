@@ -70,6 +70,7 @@
 002 Easy Now
 002 Baby, Now That I've Found You
 002 Creep
+002 Free
 002 Crimson & Clover
 002 Beast Of Burden
 002 Absolutely Sweet Marie
@@ -284,6 +285,7 @@
 001 All Mixed Up
 001 Astral Freak
 001 Even The Losers
+001 Free Like We Want 2 B
 001 Call Me
 001 Big Time Sensuality
 001 End of the Line
@@ -386,6 +388,7 @@
 001 Conversation
 001 Ana Ng
 001 Brace For Impact
+001 Freddie's Dead
 001 All Eyes On You
 001 Countdown
 001 Cathy's New Clown
@@ -639,6 +642,7 @@
 001 Day After Day
 001 Born Under Punches (the Heat Goes On)
 001 Dance Naked
+001 Freedom Overspill
 001 Campaigner
 001 China Cat / I Know You Rider
 001 Antmusic
@@ -689,6 +693,7 @@
 001 Brown Eyed Girl
 001 Caribbean Blue
 001 Cousins
+001 Freedom Of Choice
 001 Don't Do It
 001 Carey
 001 Big Lie Small World
@@ -780,6 +785,7 @@
 001 Catapult
 001 Eli's Comin'
 001 Another Star
+001 Free Falling
 001 Elected
 001 All The Young Dudes
 001 Country Girl
@@ -787,6 +793,7 @@
 001 Again & Again
 001 Blues Power
 001 Dear God
+001 Freedom
 001 Answering Machine
 001 Across The Great Divide
 001 Be Nice To Me
@@ -809,6 +816,7 @@
 001 Bloody Well Right
 001 Crystal Blue Persuasion
 001 Barely Breathing
+001 Freeker By The Speaker
 001 Breaking Us In Two
 001 Big Ideas
 001 Don't Take Your Guns To Town
@@ -863,6 +871,7 @@
 001 Dreaming
 001 Dazed And Confused
 001 Doctor Robert
+001 Free Nelson Mandela
 001 Doo Doo Doo Doo Doo (Heartbreaker)
 001 Art For Art's Sake
 001 For You
@@ -914,6 +923,7 @@
 001 Flashlight
 001 Everybody's Changing
 001 Down On The Corner
+001 Free Man In Paris
 001 Conquistador
 001 Everywhere That I'm Not
 001 Every Picture Tells A Story
@@ -1146,6 +1156,7 @@
 001 Deacon Blues
 001 Been There Done That
 001 Backstreets
+001 Free Range
 001 Always Something There To Remind Me
 001 Always Love
 001 Drive Back
@@ -1186,6 +1197,7 @@
 001 Bullet The Blue Sky
 001 Born To Run
 001 Cassidy
+001 Free Girl Now
 001 A Whiter Shade Of Pale
 001 Cover Me
 001 Don't You Worry Bout A Thing
@@ -1236,6 +1248,7 @@
 001 A-Punk
 001 Default
 001 Can't Cry Any More
+001 Freedom Of '76
 001 Bad Luck Blue Eyes Goodbye
 001 Can't You See
 001 Draggin' The Line

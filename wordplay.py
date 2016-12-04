@@ -107,17 +107,19 @@ def print_top(word_counts, title='', num=10):
     string = []
     ix = 1;
 
-    string.append('=========================')
+    string.append('==============================')
     string.append('Top %d %s:'%(num, title))
-    string.append('=========================')
+    string.append('------------------------------')
+    string.append('#Rank: Occurances Word/Phrase')
+    string.append('==============================')
 
     if len(word_counts) > num:
         for (word, count) in word_counts[:num]:
-            string.append('#%d: %03d %s'%(ix, count, word))
+            string.append('#%04s: %10s %s'%(str(ix), str(count), word))
             ix += 1
     else:
         for (word, count) in word_counts:
-            string.append('#%d: %03d %s'%(ix, count, word))
+            string.append('#%04s: %10s %s'%(str(ix), str(count), word))
             ix += 1
 
     fullstring = '\n'.join(string) +'\n'

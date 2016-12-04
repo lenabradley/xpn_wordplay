@@ -1,8 +1,8 @@
-152 the
+153 the
 095 a
-076 of
+078 of
 074 you
-068 in
+069 in
 067 don't
 059 me
 052 to
@@ -23,18 +23,18 @@
 020 bad
 020 time
 020 ain't
+019 girl
 019 big
 019 be
 018 is
-018 girl
 018 can't
+017 man
 017 cry
 017 day
-016 man
 016 your
+016 like
 015 black
 015 with
-015 like
 014 dance
 014 get
 014 go
@@ -46,19 +46,19 @@
 012 dancing
 011 another
 011 everybody
+011 by
 011 up
 010 every
 010 easy
 010 everything
+010 now
 010 again
-010 by
 010 crazy
 009 away
 009 cherry
 009 night
 009 way
 009 heart
-009 now
 009 california
 009 thing
 009 city
@@ -69,6 +69,8 @@
 009 everybody's
 009 know
 008 new
+008 want
+008 free
 008 right
 008 born
 008 can
@@ -77,7 +79,6 @@
 008 road
 008 it's
 008 home
-007 want
 007 better
 007 days
 007 what
@@ -118,9 +119,12 @@
 005 mind
 005 doo
 005 radio
+005 we
 005 country
 005 rain
 005 call
+005 dead
+005 falling
 005 boy
 005 car
 005 cat
@@ -149,12 +153,9 @@
 004 too
 004 feelin'
 004 dog
-004 we
 004 dreams
 004 o
-004 dead
 004 chain
-004 falling
 004 soul
 004 carry
 004 any
@@ -179,6 +180,7 @@
 004 d
 004 into
 004 young
+004 freedom
 004 chasing
 004 bye
 004 need
@@ -224,6 +226,7 @@
 003 place
 003 yourself
 003 fast
+003 2
 003 than
 003 shot
 003 enough
@@ -333,6 +336,7 @@
 002 check
 002 together
 002 battle
+002 choice
 002 cool
 002 did
 002 dig
@@ -360,7 +364,6 @@
 002 blood
 002 caught
 002 anyone
-002 2
 002 friend
 002 eyed
 002 flowers
@@ -506,6 +509,7 @@
 001 sleep
 001 evermore
 001 marching
+001 paris
 001 bigmouth
 001 biko
 001 worth
@@ -741,7 +745,6 @@
 001 cathy's
 001 jerk
 001 boombox
-001 choice
 001 fragments
 001 accidentally
 001 revolution
@@ -869,6 +872,7 @@
 001 carolina
 001 hiss
 001 'til
+001 freeker
 001 cautionary
 001 borrow
 001 naked
@@ -1013,6 +1017,7 @@
 001 careful
 001 d'yer
 001 tail
+001 mandela
 001 far
 001 fat
 001 frankenstein
@@ -1021,6 +1026,7 @@
 001 sane
 001 louie
 001 pasa
+001 overspill
 001 healed
 001 winds
 001 zero
@@ -1121,6 +1127,7 @@
 001 catapult
 001 park
 001 bellbottoms
+001 b
 001 mersey
 001 getaway
 001 stu
@@ -1233,6 +1240,7 @@
 001 carol
 001 goods
 001 deserves
+001 range
 001 block
 001 folsom
 001 o'riley
@@ -1333,6 +1341,7 @@
 001 heartbreaker
 001 york
 001 'cha
+001 freddie's
 001 craving
 001 backwards
 001 finest
@@ -1343,6 +1352,7 @@
 001 you're
 001 brimful
 001 monkey
+001 '76
 001 ankle
 001 misunderstood
 001 lot
@@ -1414,6 +1424,7 @@
 001 worksong
 001 blasphemous
 001 cross
+001 speaker
 001 devil's
 001 lobby
 001 dinah
@@ -1471,6 +1482,7 @@
 001 rumors
 001 u
 001 jamming
+001 nelson
 001 monday
 001 rhapsody
 001 rule

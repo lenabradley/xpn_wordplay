@@ -3,8 +3,8 @@
 019 Neil Young
 019 Bruce Springsteen
 017 Steely Dan
+014 Joni Mitchell
 014 Van Morrison
-013 Joni Mitchell
 013 David Bowie
 012 Grateful Dead
 012 Led Zeppelin
@@ -55,8 +55,10 @@
 004 John Prine
 004 Crosby Stills Nash & Young
 004 Vampire Weekend
+004 Phish
 004 George Harrison
 004 Counting Crows
+004 Tom Petty
 004 Santana
 004 Sheryl Crow
 004 Dave Matthews Band
@@ -96,7 +98,6 @@
 003 Genesis
 003 Tori Amos
 003 The Temptations
-003 Phish
 003 Tommy James & The Shondells
 003 Traffic
 003 The Smithereens
@@ -109,6 +110,7 @@
 003 The Hollies
 003 Los Lobos
 003 The Pretenders
+003 Steve Winwood
 003 Parquet Courts
 003 Richard Thompson
 003 Jethro Tull
@@ -170,6 +172,7 @@
 002 Joan Armatrading
 002 Jim Lauderdale
 002 Aretha Franklin
+002 Devo
 002 John Lennon
 002 The Human League
 002 The Heptones
@@ -187,7 +190,6 @@
 002 Rod Stewart
 002 Fats Domino
 002 Jefferson Airplane
-002 Tom Petty
 002 Joe Jackson
 002 Susan Tedeschi
 002 The Animals
@@ -204,7 +206,6 @@
 002 Donovan
 002 Citizen Cope
 002 Bright Eyes
-002 Steve Winwood
 002 Carl Perkins
 002 Beastie Boys
 002 Aimee Mann
@@ -387,6 +388,7 @@
 001 Michael Hedges
 001 Midnight Oil
 001 Crosby & Nash
+001 Curtis Mayfield
 001 Chuck Prophet
 001 The Stooges
 001 Borns
@@ -420,6 +422,7 @@
 001 Joseph Arthur
 001 The Felice Brothers
 001 Bananarama
+001 Keller Williams
 001 David Gray
 001 Stephen Stills
 001 Traveling Wilburys
@@ -444,9 +447,10 @@
 001 The Dandy Warhols
 001 Robin Trower
 001 The Intruders
+001 Donavon Frankenreiter
 001 Godley & Creme
-001 Devo
 001 Trio
+001 Richie Havens
 001 Edwin Starr
 001 Sonny Boy Williamson
 001 Euphoria
@@ -507,6 +511,7 @@
 001 Free
 001 Nick Drake
 001 The Marcus King Band
+001 Ziggy Marley
 001 case/lang/veirs
 001 The Box Tops
 001 Stories
@@ -552,6 +557,7 @@
 001 Patty Larkin
 001 Morrissey
 001 Dexy's Midnight Runners
+001 The Fall
 001 Gene Vincent
 001 Stan Ridgway
 001 Kraftwerk
@@ -617,6 +623,7 @@
 001 Barry White
 001 Phantogram
 001 John Wesley Harding
+001 Special AKA
 001 The Origin
 001 MGMT
 001 World Party
@@ -667,6 +674,7 @@
 001 Passion Pit
 001 Jane's Addiction
 001 Garnet Mimms
+001 Ween
 001 Karl Blau
 001 Guy Davis
 001 St. Vincent

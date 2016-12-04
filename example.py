@@ -25,6 +25,7 @@ top_artists = print_top(artist_counts, title='artists', num=50)
 
 # save top lists to a text file
 f = open('top_50_lists.txt', 'w')
+f.write('WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell\n')
 f.write(nowstr)
 f.write('\n\n')
 f.write(top_artists)
