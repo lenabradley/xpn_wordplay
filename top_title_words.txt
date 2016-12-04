@@ -1,13 +1,13 @@
-154 the
-100 a
+155 the
+102 a
 079 of
 074 you
 070 in
 067 don't
 059 me
-054 to
+055 to
 047 on
-045 love
+046 love
 044 all
 035 baby
 034 and
@@ -17,8 +17,8 @@
 029 do
 027 come
 026 down
+025 for
 025 back
-024 for
 022 blue
 020 bad
 020 time
@@ -39,6 +39,7 @@
 014 get
 014 go
 013 blues
+013 from
 012 no
 012 change
 012 cold
@@ -77,7 +78,6 @@
 008 little
 008 world
 008 road
-008 from
 008 it's
 008 home
 007 better
@@ -104,6 +104,7 @@
 006 broken
 006 burning
 006 dirty
+006 song
 006 fall
 006 good
 006 always
@@ -129,12 +130,12 @@
 005 boy
 005 car
 005 cat
+005 funky
 005 doctor
 005 around
 005 or
 005 as
 005 alright
-005 song
 005 town
 005 fool
 005 friday
@@ -155,11 +156,13 @@
 004 too
 004 feelin'
 004 dog
+004 things
 004 dreams
 004 o
 004 chain
 004 soul
 004 carry
+004 friend
 004 any
 004 forever
 004 bright
@@ -210,7 +213,6 @@
 003 sunshine
 003 catch
 003 if
-003 things
 003 people
 003 fight
 003 roll
@@ -228,7 +230,6 @@
 003 yourself
 003 fast
 003 2
-003 friend
 003 than
 003 shot
 003 enough
@@ -244,6 +245,7 @@
 003 her
 003 stars
 003 gone
+003 small
 003 darkness
 003 sun
 003 two
@@ -359,6 +361,7 @@
 002 dreamland
 002 midnight
 002 years
+002 window
 002 killer
 002 rock
 002 square
@@ -385,6 +388,7 @@
 002 caroline
 002 morning
 002 miles
+002 seat
 002 blame
 002 s
 002 myself
@@ -410,7 +414,6 @@
 002 children
 002 crimson
 002 sand
-002 small
 002 streets
 002 everlasting
 002 full
@@ -425,6 +428,7 @@
 002 gun
 002 hill
 002 horse
+002 beginning
 002 golly
 002 fallen
 002 storm
@@ -554,6 +558,7 @@
 001 end
 001 chameleon
 001 machine
+001 drummer
 001 hop
 001 mess
 001 adia
@@ -585,6 +590,7 @@
 001 eleventh
 001 arrow
 001 side
+001 hank
 001 telescope
 001 abracadabra
 001 diane
@@ -758,6 +764,7 @@
 001 art's
 001 ground
 001 badge
+001 funeral
 001 dazed
 001 chilton
 001 witch
@@ -815,7 +822,6 @@
 001 still
 001 blackbirds
 001 maid
-001 window
 001 feats
 001 lonely
 001 1957
@@ -837,7 +843,6 @@
 001 albuquerque
 001 flyer
 001 carnival
-001 funky
 001 swing
 001 blind
 001 ono
@@ -885,7 +890,6 @@
 001 could've
 001 bombs
 001 where
-001 seat
 001 elected
 001 apologies
 001 diver
@@ -1003,6 +1007,7 @@
 001 drivers
 001 barabajagal
 001 astronaut
+001 bridie's
 001 gon'
 001 desolation
 001 drift
@@ -1062,6 +1067,7 @@
 001 diamond
 001 known
 001 coyote
+001 eden
 001 nine
 001 learn
 001 pony
@@ -1085,10 +1091,13 @@
 001 mission
 001 through
 001 darlington
+001 broadway
+001 hendrix
 001 buttercup
 001 late
 001 dolly
 001 bout
+001 lies
 001 ya
 001 ye
 001 moronie
@@ -1115,7 +1124,6 @@
 001 belief
 001 centerfold
 001 ask
-001 beginning
 001 blister
 001 prophet
 001 deja
@@ -1195,6 +1203,7 @@
 001 hollow
 001 gypsy
 001 dancer
+001 frosty
 001 church
 001 rockin'
 001 dizzyspells
@@ -1206,6 +1215,7 @@
 001 avenging
 001 cinco
 001 liver
+001 funk
 001 crackerbox
 001 brilliant
 001 accidently
@@ -1217,6 +1227,7 @@
 001 used
 001 lie
 001 painless
+001 ceili
 001 cleaning
 001 anybody
 001 concrete
@@ -1286,6 +1297,7 @@
 001 accuse
 001 mak'er
 001 rain's
+001 bleeding
 001 incidentally
 001 plays
 001 desperado
@@ -1396,6 +1408,7 @@
 001 buttons
 001 gravity's
 001 jam
+001 fuel
 001 photographs
 001 means
 001 beat
@@ -1422,6 +1435,7 @@
 001 baldhead
 001 slowly
 001 kingpin
+001 kingston
 001 desperados
 001 criminal
 001 wild
@@ -1489,6 +1503,7 @@
 001 inc
 001 compared
 001 rumors
+001 49
 001 u
 001 jamming
 001 nelson

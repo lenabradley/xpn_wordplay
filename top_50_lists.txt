@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-04, 12:44
+Last updated: 2016-12-04, 13:45
 
 ==============================
 Top 50 artists:
@@ -7,9 +7,9 @@ Top 50 artists:
 #Rank: Occurances Word/Phrase
 ==============================
 #   1:         32 The Beatles
-#   2:         20 The Rolling Stones
-#   3:         19 Neil Young
-#   4:         19 Bruce Springsteen
+#   2:         20 Neil Young
+#   3:         20 Bruce Springsteen
+#   4:         20 The Rolling Stones
 #   5:         17 Steely Dan
 #   6:         14 Joni Mitchell
 #   7:         14 Van Morrison
@@ -18,7 +18,7 @@ Top 50 artists:
 #  10:         13 Led Zeppelin
 #  11:         12 Bob Dylan
 #  12:         11 R. E. M.
-#  13:          9 Elton John
+#  13:         10 Elton John
 #  14:          9 The Kinks
 #  15:          9 Jimi Hendrix
 #  16:          9 U2
@@ -118,16 +118,16 @@ Top 50 title words:
 ------------------------------
 #Rank: Occurances Word/Phrase
 ==============================
-#   1:        154 the
-#   2:        100 a
+#   1:        155 the
+#   2:        102 a
 #   3:         79 of
 #   4:         74 you
 #   5:         70 in
 #   6:         67 don't
 #   7:         59 me
-#   8:         54 to
+#   8:         55 to
 #   9:         47 on
-#  10:         45 love
+#  10:         46 love
 #  11:         44 all
 #  12:         35 baby
 #  13:         34 and
@@ -137,8 +137,8 @@ Top 50 title words:
 #  17:         29 do
 #  18:         27 come
 #  19:         26 down
-#  20:         25 back
-#  21:         24 for
+#  20:         25 for
+#  21:         25 back
 #  22:         22 blue
 #  23:         20 bad
 #  24:         20 time
@@ -159,12 +159,12 @@ Top 50 title words:
 #  39:         14 get
 #  40:         14 go
 #  41:         13 blues
-#  42:         12 no
-#  43:         12 change
-#  44:         12 cold
-#  45:         12 that
-#  46:         12 dancing
-#  47:         11 another
-#  48:         11 everybody
-#  49:         11 by
-#  50:         11 up
+#  42:         13 from
+#  43:         12 no
+#  44:         12 change
+#  45:         12 cold
+#  46:         12 that
+#  47:         12 dancing
+#  48:         11 another
+#  49:         11 everybody
+#  50:         11 by

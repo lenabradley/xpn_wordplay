@@ -105,6 +105,7 @@
 001 Burned
 001 After The Goldrush
 001 After The Gold Rush
+001 Funk #49
 001 Downtown
 001 Cissy Strut
 001 Drive-in Saturday
@@ -118,6 +119,7 @@
 001 A Hard Rain's A-gonna Fall
 001 Dizz Knee Land
 001 Barton Hollow
+001 From A Window Seat
 001 Every Night
 001 Expressway To Your Heart
 001 A Day In The Life
@@ -488,6 +490,7 @@
 001 Fire It Up
 001 American Girl
 001 Bohemian Rhapsody
+001 From Hank To Hendrix
 001 Cigarettes And Chocolate Milk
 001 Dancin' With Myself
 001 Avant Gardener
@@ -566,6 +569,7 @@
 001 Eminence Front
 001 All Right Now
 001 Boogie On Reggae Woman
+001 Frosty
 001 Fix You
 001 Bad Liver And A Broken Heart
 001 China Grove
@@ -656,6 +660,7 @@
 001 Boys in the Street
 001 Amsterdam (Gonna Write You A Letter)
 001 Clubland
+001 Funky Drummer
 001 Around The World In A Day
 001 Are You Experienced?
 001 Always A Friend
@@ -870,6 +875,7 @@
 001 Delirious
 001 Cars
 001 Cool Jerk
+001 From Eden
 001 Crawl Back Under My Stone
 001 Diddley Daddy
 001 Don't Tell Me
@@ -944,6 +950,7 @@
 001 Camel Walk
 001 Astronaut
 001 Black Gold
+001 Fuel
 001 Double Shot Of My Baby's Love
 001 Battle Of Evermore
 001 Across 110th Street
@@ -1077,6 +1084,7 @@
 001 Freeway Jam
 001 Elderly Woman Behind The Counter In A Small Town
 001 Constant Craving
+001 Funky Ceili (Bridie's Song)
 001 A Natural Man
 001 Black Magic Woman/gypsy Queen
 001 Excitable Boy
@@ -1091,6 +1099,7 @@
 001 Fortune Teller
 001 Fashion
 001 Everything Is Everything
+001 From The Beginning
 001 Cinco De Mayo
 001 Already Gone
 001 Brand New Cadillac
@@ -1146,8 +1155,10 @@
 001 Cracking Up
 001 Atlantic City
 001 Black Mirror
+001 From Small Things
 001 Bird Of Prey
 001 Baby Scratch My Back
+001 Funeral For A Friend/Love Lies Bleeding
 001 Fallin' Rain
 001 Cat's In The Cradle
 001 Brass In Pocket
@@ -1165,6 +1176,7 @@
 001 Deacon Blues
 001 Been There Done That
 001 Backstreets
+001 Funky Kingston
 001 Free Range
 001 Always Something There To Remind Me
 001 Always Love
@@ -1220,6 +1232,7 @@
 001 Casual Party
 001 Alive
 001 Ain't Wastin' Time No More
+001 Funky Broadway
 001 Car On A Hill
 001 Doctor! Doctor!
 001 Fight The Power

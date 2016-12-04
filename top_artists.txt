@@ -1,7 +1,7 @@
 032 The Beatles
+020 Neil Young
+020 Bruce Springsteen
 020 The Rolling Stones
-019 Neil Young
-019 Bruce Springsteen
 017 Steely Dan
 014 Joni Mitchell
 014 Van Morrison
@@ -10,7 +10,7 @@
 013 Led Zeppelin
 012 Bob Dylan
 011 R. E. M.
-009 Elton John
+010 Elton John
 009 The Kinks
 009 Jimi Hendrix
 009 U2
@@ -92,6 +92,7 @@
 003 The Doobie Brothers
 003 Jeff Beck
 003 The Ramones
+003 James Brown
 003 Enya
 003 Oasis
 003 Howlin' Wolf
@@ -152,7 +153,6 @@
 002 Big Head Todd & The Monsters
 002 B. B. King
 002 Leonard Cohen
-002 James Brown
 002 Rodrigo Y Gabriela
 002 Dave Clark Five
 002 Dionne Warwick
@@ -375,6 +375,7 @@
 001 Loggins & Messina
 001 Smith
 001 Edward Sharpe & The Magnetic Zeros
+001 Toots & The Maytals
 001 Josh Ritter
 001 Okkervil River
 001 Syd Barrett
@@ -440,8 +441,10 @@
 001 The Jesus And Mary Chain
 001 Natalie Merchant
 001 Naked Eyes
+001 Hozier
 001 Angelique Kidjo
 001 Eric Donaldson
+001 James Gang
 001 Funkadelic
 001 Petula Clark
 001 R. L. Burnside
@@ -479,6 +482,7 @@
 001 Five For Fighting
 001 The Head And The Heart
 001 The Lovin' Spoonful
+001 Emerson Lake & Palmer
 001 Joe Bonamassa
 001 Steve Miller Band
 001 Mark Knopfler
@@ -493,6 +497,7 @@
 001 Keane
 001 Mojo Nixon
 001 TLC
+001 Black 47
 001 Edwyn Collins
 001 Tegan And Sara
 001 The Crazy World Of Arthur Brown
@@ -556,6 +561,7 @@
 001 Tame Impala
 001 INXS
 001 The Plimsouls
+001 Wilson Pickett
 001 Love And Rockets
 001 Patty Larkin
 001 Morrissey
@@ -629,10 +635,12 @@
 001 Special AKA
 001 The Origin
 001 MGMT
+001 Ani DiFranco
 001 World Party
 001 The Showstoppers
 001 Franz Ferdinand
 001 Greg Brown
+001 Dawes
 001 Francis Dunnery
 001 Blind Faith
 001 Matthew Sweet
@@ -656,6 +664,7 @@
 001 Erin McKeown
 001 Grace Potter And The Nocturnals
 001 Soul Coughing
+001 Albert Collins
 001 Lindsey Buckingham
 001 Best Coast
 001 Tammy Wynette
