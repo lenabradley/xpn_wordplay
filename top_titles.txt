@@ -259,6 +259,7 @@
 001 Ask The Angels
 001 Australia
 001 Crash
+001 Frankenstein
 001 Bungle In The Jungle
 001 Back On The Chain Gang
 001 Book Of Rules
@@ -1051,6 +1052,7 @@
 001 Back Off Boogaloo
 001 Drinkin' Wine Spo-Dee-O-Dee
 001 Dancing Days
+001 Frankie's Gun
 001 Boys Don't Cry
 001 Bobby Jean
 001 Black Hearted Woman

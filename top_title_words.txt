@@ -416,6 +416,7 @@
 002 plane
 002 ashes
 002 hard
+002 gun
 002 hill
 002 friday
 002 horse
@@ -1014,6 +1015,7 @@
 001 tail
 001 far
 001 fat
+001 frankenstein
 001 soles
 001 heaven
 001 sane
@@ -1092,7 +1094,6 @@
 001 generation
 001 fish
 001 idea
-001 gun
 001 alcohol
 001 robert
 001 fountain
@@ -1216,6 +1217,7 @@
 001 delerium
 001 australia
 001 dearly
+001 frankie's
 001 caldonia
 001 parade
 001 creation

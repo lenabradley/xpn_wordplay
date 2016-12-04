@@ -418,6 +418,7 @@
 001 Boston
 001 Kid Creole & The Coconuts
 001 Joseph Arthur
+001 The Felice Brothers
 001 Bananarama
 001 David Gray
 001 Stephen Stills
@@ -449,6 +450,7 @@
 001 Edwin Starr
 001 Sonny Boy Williamson
 001 Euphoria
+001 Edgar Winter Group
 001 Imogen Heap
 001 Dion & The Belmonts
 001 Love

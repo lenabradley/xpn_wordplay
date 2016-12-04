@@ -3,9 +3,13 @@ Example code to run xpn_wordplay
 '''
 
 from wordplay import *
+import datetime
 
 # get list of song titles & artists
 songlist = get_songs()
+now = datetime.datetime.now()
+nowstr = 'Last updated: %04d-%02d-%02d, %02d:%02d'%(now.year, now.month, now.day,
+                                                   now.hour, now.minute)
 
 # get song title occurances, title word occurances, and artist occurances
 titles = [song[0] for song in songlist]
@@ -21,6 +25,8 @@ top_artists = print_top(artist_counts, title='artists', num=50)
 
 # save top lists to a text file
 f = open('top_50_lists.txt', 'w')
+f.write(nowstr)
+f.write('\n\n')
 f.write(top_artists)
 f.write('\n')
 f.write(top_titles)
