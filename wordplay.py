@@ -104,22 +104,26 @@ def print_top(word_counts, title='', num=10):
     '''
     given a list of string-count tuples, print the first ten entries
     '''
+    string = []
+    ix = 1;
 
-    print '========================='
-    print 'Top %d %s:'%(num, title)
-    print '========================='
-
-    ix = 1
+    string.append('=========================')
+    string.append('Top %d %s:'%(num, title))
+    string.append('=========================')
 
     if len(word_counts) > num:
         for (word, count) in word_counts[:num]:
-            print '#%d: %03d %s'%(ix, count, word)
+            string.append('#%d: %03d %s'%(ix, count, word))
             ix += 1
     else:
         for (word, count) in word_counts:
-            print '#%d: %03d %s'%(ix, count, word)
+            string.append('#%d: %03d %s'%(ix, count, word))
             ix += 1
 
+    fullstring = '\n'.join(string) +'\n'
+    print fullstring
+
+    return fullstring
 
 def save_counts(word_counts, filename='word_counts.txt'):
     '''
