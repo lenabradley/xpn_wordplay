@@ -7,6 +7,10 @@
 003 Cocaine
 003 Cherry Oh Baby
 003 California
+002 Got To Get You Into My Life
+002 Good Enough
+002 Going To The Country
+002 Going Down
 002 Girl, You'll Be A Woman Soon
 002 Girl
 002 Get Rhythm
@@ -59,6 +63,95 @@
 002 Can You Get to That
 002 Calling All Angels
 002 Call Me the Breeze
+001 Gypsy Woman
+001 Gypsy In Me
+001 Gypsy
+001 Gunpowder
+001 Guitars, Cadillacs
+001 Guitar Town
+001 Guinnevere
+001 Guesthouse
+001 Growing Up
+001 Groovin'
+001 Groove Me
+001 Greetings To The New Brunette
+001 Green-Eyed Lady
+001 Green Tambourine
+001 Green River
+001 Green Onions
+001 Green Grass & High Tides
+001 Green Garden
+001 Green Earrings
+001 Great Big Love
+001 Great Balls Of Fire
+001 Gravity Fails
+001 Gravity
+001 Graceland
+001 Grace for Saints and Ramblers
+001 Grace
+001 Gotta Serve Somebody
+001 Gotta Jibboo
+001 Gotta Get Up
+001 Gotta Get Back
+001 Gotta Get Away
+001 Got To Give It Up
+001 Got Nuffin
+001 Goshen '97
+001 Goody Two Shoes
+001 Goodnight Rose
+001 Goodnight Moon
+001 Goodbye's All We've Got Left
+001 Goodbye Yellow Brick Road
+001 Goodbye Stranger
+001 Goodbye
+001 Good Vibrations
+001 Good Times, Bad Times
+001 Good Times Roll
+001 Good Thing
+001 Good Shepherd
+001 Good Rocking Tonight
+001 Good Rockin' Tonight
+001 Good Rockin' Daddy
+001 Good People
+001 Good Music
+001 Good Morning Little School Girl
+001 Good Morning Good Morning
+001 Good Lovin'
+001 Good Guys And Bad Guys
+001 Good Golly Miss Molly
+001 Good Day Sunshine
+001 Good Bye Daughters Of The Revolution
+001 Goo Goo Muck
+001 Gonna Move
+001 Gonna Get Ya
+001 Gonna Change My Way Of Thinking
+001 Gonna Be Some Changes Made
+001 Gone, Gone, Gone (Done Moved On)
+001 Gone Gone Gone
+001 Gone Daddy Gone
+001 Gone At Last
+001 Goldfinger
+001 Golden Years
+001 Golden Slumbers
+001 Golden Lady
+001 Golden Brown
+001 Golden Age
+001 Golden
+001 Gold Soundz
+001 Gold On The Ceiling
+001 Gold Lion
+001 Gold Dust Woman
+001 Going, Going, Gone
+001 Going Up The Country
+001 Going Underground
+001 Going To Town
+001 Going To California
+001 Going To A Go-Go
+001 Going Mobile
+001 Going In The Right Direction
+001 Going For The One
+001 Going Down To Liverpool
+001 Going Back To Georgia
 001 Goin' Down To Laurel
 001 Goin' Back To New Orleans
 001 Goin' Back

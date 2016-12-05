@@ -1,4 +1,5 @@
 # Windows image file caches
+scrape*
 *apikey
 Thumbs.db
 ehthumbs.db
