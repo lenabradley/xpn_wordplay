@@ -1,170 +1,226 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-04, 13:45
+Last updated: 2016-12-04, 21:39
 
 ==============================
 Top 50 artists:
 ------------------------------
-#Rank: Occurances Word/Phrase
+#Rank: Occurances Item
 ==============================
-#   1:         32 The Beatles
-#   2:         20 Neil Young
-#   3:         20 Bruce Springsteen
-#   4:         20 The Rolling Stones
-#   5:         17 Steely Dan
-#   6:         14 Joni Mitchell
-#   7:         14 Van Morrison
-#   8:         13 Grateful Dead
-#   9:         13 David Bowie
-#  10:         13 Led Zeppelin
-#  11:         12 Bob Dylan
-#  12:         11 R. E. M.
-#  13:         10 Elton John
-#  14:          9 The Kinks
-#  15:          9 Jimi Hendrix
-#  16:          9 U2
-#  17:          8 Sting
-#  18:          8 Little Feat
-#  19:          7 Tom Petty & The Heartbreakers
-#  20:          7 Warren Zevon
-#  21:          7 Todd Rundgren
-#  22:          7 Stevie Wonder
-#  23:          7 The Who
-#  24:          6 Talking Heads
-#  25:          6 Coldplay
-#  26:          6 Jackson Browne
-#  27:          6 Pearl Jam
-#  28:          6 Johnny Cash
-#  29:          6 Ryan Adams
-#  30:          6 The Beach Boys
-#  31:          6 Elvis Costello
-#  32:          6 The Allman Brothers
-#  33:          6 Fleetwood Mac
-#  34:          5 Bob Marley & The Wailers
-#  35:          5 Taj Mahal
-#  36:          5 Norah Jones
-#  37:          5 Electric Light Orchestra
-#  38:          5 Buffalo Springfield
-#  39:          5 Eric Clapton
-#  40:          5 Creedence Clearwater Revival
-#  41:          5 Radiohead
-#  42:          5 John Mayer
-#  43:          5 The Replacements
-#  44:          5 Lenny Kravitz
-#  45:          5 Paul Simon
-#  46:          4 Red Hot Chili Peppers
-#  47:          4 The Clash
-#  48:          4 The Band
-#  49:          4 Frank Zappa
-#  50:          4 Elvis Presley
+#   1:         20 The Beatles
+#   2:         15 The Rolling Stones
+#   3:         15 Neil Young
+#   4:         12 Bruce Springsteen
+#   5:         11 Joni Mitchell
+#   6:         10 Led Zeppelin
+#   7:         10 Grateful Dead
+#   8:          9 Van Morrison
+#   9:          9 Steely Dan
+#  10:          9 R. E. M.
+#  11:          9 David Bowie
+#  12:          8 The Beach Boys
+#  13:          8 Little Feat
+#  14:          8 Bob Dylan
+#  15:          7 James Brown
+#  16:          6 The Kinks
+#  17:          6 Johnny Cash
+#  18:          5 Tom Petty & The Heartbreakers
+#  19:          5 Red Hot Chili Peppers
+#  20:          5 Norah Jones
+#  21:          5 Lucinda Williams
+#  22:          5 Jimi Hendrix
+#  23:          5 Jackson Browne
+#  24:          5 Elton John
+#  25:          5 Electric Light Orchestra
+#  26:          5 Coldplay
+#  27:          5 Bob Marley & The Wailers
+#  28:          4 Vampire Weekend
+#  29:          4 U2
+#  30:          4 Train
+#  31:          4 Traffic
+#  32:          4 The Who
+#  33:          4 Sting
+#  34:          4 Sly & The Family Stone
+#  35:          4 Pearl Jam
+#  36:          4 Paul Simon
+#  37:          4 John Lennon
+#  38:          4 Fleetwood Mac
+#  39:          4 Dave Matthews Band
+#  40:          4 Beck
+#  41:          3 Warren Zevon
+#  42:          3 Tori Amos
+#  43:          3 Tommy James & The Shondells
+#  44:          3 Tom Petty
+#  45:          3 The Police
+#  46:          3 The J. Geils Band
+#  47:          3 The Clash
+#  48:          3 The Black Keys
+#  49:          3 The Allman Brothers
+#  50:          3 Talking Heads
 
 ==============================
 Top 50 titles:
 ------------------------------
-#Rank: Occurances Word/Phrase
+#Rank: Occurances Item
 ==============================
-#   1:          4 Fever
-#   2:          4 Crazy
+#   1:          4 Fire
+#   2:          4 Fever
 #   3:          4 Dreams
-#   4:          4 Fire
-#   5:          3 Ball Of Confusion
+#   4:          4 Crazy
+#   5:          3 Gloria
 #   6:          3 Do It Again
-#   7:          3 California
-#   8:          3 Cocaine
-#   9:          3 Cherry Oh Baby
-#  10:          2 Changes
-#  11:          2 Back Door Man
-#  12:          2 Believe
-#  13:          2 Don't Go Back To Rockville
-#  14:          2 Big Boss Man
-#  15:          2 Come Dancing
-#  16:          2 China Girl
-#  17:          2 Carmelita
+#   7:          3 Cocaine
+#   8:          3 Cherry Oh Baby
+#   9:          3 California
+#  10:          2 Girl, You'll Be A Woman Soon
+#  11:          2 Girl
+#  12:          2 Get Rhythm
+#  13:          2 Get It While You Can
+#  14:          2 Games People Play
+#  15:          2 From A Whisper To A Scream
+#  16:          2 Free
+#  17:          2 Express Yourself
 #  18:          2 Everybody's Talkin'
-#  19:          2 Can't Find My Way Home
-#  20:          2 Come As You Are
-#  21:          2 Down By The Water
-#  22:          2 Biloxi
-#  23:          2 Comfortably Numb
-#  24:          2 Bad Luck
-#  25:          2 All Along The Watchtower
-#  26:          2 Dark Star
-#  27:          2 Ain't Too Proud To Beg
-#  28:          2 Candy
-#  29:          2 Blue
-#  30:          2 All I Need
-#  31:          2 Everybody Knows
-#  32:          2 Bizarre Love Triangle
-#  33:          2 Cry Baby
-#  34:          2 Change Partners
-#  35:          2 Blackbird
-#  36:          2 Blue Suede Shoes
-#  37:          2 Angel From Montgomery
-#  38:          2 Congo Square
-#  39:          2 Dream On
-#  40:          2 Be Thankful For What You Got
-#  41:          2 All I Really Want To Do
-#  42:          2 Dancing In The Moonlight
-#  43:          2 From A Whisper To A Scream
-#  44:          2 Back In The USA
-#  45:          2 Day Tripper
-#  46:          2 Drive
-#  47:          2 Alone Again Or
-#  48:          2 Calling All Angels
-#  49:          2 Closing Time
-#  50:          2 After Midnight
+#  19:          2 Everybody Knows
+#  20:          2 Ever Fallen In Love?
+#  21:          2 Easy Now
+#  22:          2 Early In The Morning
+#  23:          2 Dust
+#  24:          2 Drive
+#  25:          2 Dream On
+#  26:          2 Down By The Water
+#  27:          2 Don't Think Twice, It's Alright
+#  28:          2 Don't Look Back
+#  29:          2 Don't Go Back To Rockville
+#  30:          2 Don't Bring Me Down
+#  31:          2 Dirty Water
+#  32:          2 Dear Prudence
+#  33:          2 Day Tripper
+#  34:          2 Dark Star
+#  35:          2 Dancing In The Moonlight
+#  36:          2 Cry Baby
+#  37:          2 Crimson & Clover
+#  38:          2 Creep
+#  39:          2 Crazy Mama
+#  40:          2 Crazy Love
+#  41:          2 Congo Square
+#  42:          2 Comfortably Numb
+#  43:          2 Come Together
+#  44:          2 Come See About Me
+#  45:          2 Come Dancing
+#  46:          2 Come As You Are
+#  47:          2 Closing Time
+#  48:          2 Close to Me
+#  49:          2 China Girl
+#  50:          2 Cherry Bomb
 
 ==============================
 Top 50 title words:
 ------------------------------
-#Rank: Occurances Word/Phrase
+#Rank: Occurances Item
 ==============================
-#   1:        155 the
-#   2:        102 a
-#   3:         79 of
-#   4:         74 you
-#   5:         70 in
-#   6:         67 don't
-#   7:         59 me
-#   8:         55 to
-#   9:         47 on
-#  10:         46 love
-#  11:         44 all
-#  12:         35 baby
-#  13:         34 and
-#  14:         32 my
-#  15:         30 it
-#  16:         30 i
-#  17:         29 do
-#  18:         27 come
-#  19:         26 down
-#  20:         25 for
-#  21:         25 back
-#  22:         22 blue
-#  23:         20 bad
-#  24:         20 time
-#  25:         20 ain't
-#  26:         19 girl
-#  27:         19 big
-#  28:         19 be
-#  29:         18 is
-#  30:         18 can't
-#  31:         17 man
-#  32:         17 cry
-#  33:         17 day
-#  34:         16 your
-#  35:         16 like
-#  36:         15 black
-#  37:         15 with
-#  38:         14 dance
-#  39:         14 get
-#  40:         14 go
-#  41:         13 blues
-#  42:         13 from
-#  43:         12 no
-#  44:         12 change
-#  45:         12 cold
-#  46:         12 that
-#  47:         12 dancing
-#  48:         11 another
-#  49:         11 everybody
-#  50:         11 by
+#   1:        103 the
+#   2:         61 don't
+#   3:         52 me
+#   4:         49 you
+#   5:         47 a
+#   6:         45 to
+#   7:         45 of
+#   8:         45 in
+#   9:         37 on
+#  10:         36 get
+#  11:         32 love
+#  12:         32 it
+#  13:         27 my
+#  14:         25 come
+#  15:         23 down
+#  16:         23 do
+#  17:         19 girl
+#  18:         18 and
+#  19:         17 up
+#  20:         17 can't
+#  21:         16 go
+#  22:         16 for
+#  23:         16 cry
+#  24:         15 your
+#  25:         15 is
+#  26:         15 back
+#  27:         14 i
+#  28:         14 give
+#  29:         13 be
+#  30:         12 with
+#  31:         12 from
+#  32:         12 dance
+#  33:         12 cold
+#  34:         12 baby
+#  35:         11 time
+#  36:         11 everybody
+#  37:         11 dancing
+#  38:         10 out
+#  39:         10 everything
+#  40:         10 every
+#  41:         10 crazy
+#  42:         10 change
+#  43:         10 away
+#  44:          9 little
+#  45:          9 like
+#  46:          9 girls
+#  47:          9 funky
+#  48:          9 fire
+#  49:          9 everybody's
+#  50:          9 can
+
+==============================
+Top 50 release years:
+------------------------------
+#Rank: Occurances Item
+==============================
+#   1:         38 2014
+#   2:         34 1976
+#   3:         33 1973
+#   4:         32 1979
+#   5:         31 1978
+#   6:         31 1970
+#   7:         29 1972
+#   8:         27 1981
+#   9:         27 1971
+#  10:         26 1969
+#  11:         25 1977
+#  12:         24 1974
+#  13:         23 1967
+#  14:         22 1992
+#  15:         22 1975
+#  16:         21 2016
+#  17:         21 1980
+#  18:         20 2012
+#  19:         20 2003
+#  20:         20 1984
+#  21:         19 2011
+#  22:         19 2002
+#  23:         18 2015
+#  24:         18 1993
+#  25:         17 2013
+#  26:         17 2008
+#  27:         17 2007
+#  28:         17 2005
+#  29:         17 1994
+#  30:         17 1991
+#  31:         17 1983
+#  32:         16 1968
+#  33:         15 2001
+#  34:         15 1985
+#  35:         14 2004
+#  36:         14 1986
+#  37:         14 1982
+#  38:         13 2009
+#  39:         13 1998
+#  40:         13 1995
+#  41:         13 0
+#  42:         12 1996
+#  43:         12 1988
+#  44:         11 1990
+#  45:         11 1987
+#  46:         10 1966
+#  47:          8 2010
+#  48:          8 2006
+#  49:          7 2000
+#  50:          7 1989
