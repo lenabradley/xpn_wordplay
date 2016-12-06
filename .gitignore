@@ -1,6 +1,6 @@
 # Windows image file caches
-scrape*
 *apikey
+*.pyc
 Thumbs.db
 ehthumbs.db
 
