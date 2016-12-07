@@ -2,9 +2,11 @@ from scrapy.http import FormRequest
 from scrapy.spiders import Spider
 import re
 import urllib
+import urlparse
 import pandas as pd
 import datetime as dt
 import os
+import datetime
 
 # hard code start time and the number of days to search
 timezero = dt.datetime(2016, 11, 30, 6, 0)
@@ -37,7 +39,7 @@ class PlaylistSpider(Spider):
         hreflist = response.xpath('//div[@id="accordion"]/h3/a/@href').extract()
 
         # initialize data storage
-        datetimes = []
+        songtimes = []
         artists = []
         albums = []
         tracks = []
@@ -68,36 +70,58 @@ class PlaylistSpider(Spider):
                 elif meridiem =='a':
                     if hour==12:
                         hour = hour-12
-                track = match.group(4)
-                artist = match.group(5)
+                artist = match.group(4)
+                track = match.group(5)
                 textOK = True
 
             # parse link address for album name
+            # 1) extract query string which contains the song info
+            # 2) parse the query string to extract the album name
             link = urllib.unquote(link)
-            match = re.search(r'\^([^\^]+)\^\d+$', link)
+            link = urlparse.urlparse(link)
+            qstr = ''
+            if link.query:
+                link_qs = urlparse.parse_qs(link.query)
+                try:
+                    qstr = link_qs['q'][0]
+                except:
+                    None
+
+            match = re.search(r'\^([^\^]+)\^\d+$', qstr)
             if match:
                 album = match.group(1)
                 linkOK = True;
 
-            # store data
+            # store all data
             if dateOK and textOK and linkOK:
-                datetime = dt.datetime(year, month, day, hour, minute)
+                songtime = dt.datetime(year, month, day, hour, minute)
                 # skip if before the 'zero' time when A-Z started
-                if datetime > timezero:
-                    datetimes.append(datetime)
+                if songtime > timezero:
+                    songtimes.append(songtime)
                     artists.append(artist)
                     albums.append(album)
                     tracks.append(track)
 
         # store data in dataframes
-        df = pd.DataFrame({'time':datetimes[::-1], 'artist':artists[::-1],
+        df = pd.DataFrame({'time':songtimes[::-1], 'artist':artists[::-1],
                            'album':albums[::-1], 'track':tracks[::-1]})
 
         # save as tab-delimited data
         filename = '../playlistdata_{0:04d}_{1:02d}_{2:02d}.csv'.format(year, month, day)
         filename = os.path.abspath(filename)
-        df.to_csv(filename, sep='\t', encoding='utf-8')
+        df.to_csv(filename, sep='\t', encoding='utf-8', index=False)
         print 'Saved data to {0}'.format(filename)
+
+        # also save current time as last-updated
+        now = datetime.datetime.now()
+        nowstr = 'Last updated: %04d-%02d-%02d, %02d:%02d'%(now.year, now.month, now.day,
+                                                            now.hour, now.minute)
+        filename = os.path.abspath('../last_updated.txt')
+        f = open(filename, 'w')
+        f.write(nowstr+'\n')
+        f.close()
+        print filename
+        print nowstr
 
 
 

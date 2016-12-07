@@ -1,226 +1,171 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-05, 11:58
+Last updated: 2016-12-06, 22:54
+
 
 ==============================
 Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:         24 The Beatles
-#   2:         15 The Rolling Stones
-#   3:         15 Neil Young
-#   4:         13 Bruce Springsteen
-#   5:         12 Led Zeppelin
-#   6:         11 Joni Mitchell
-#   7:         11 Grateful Dead
-#   8:         11 Bob Dylan
-#   9:         10 Steely Dan
-#  10:         10 David Bowie
-#  11:          9 Van Morrison
-#  12:          9 The Beach Boys
-#  13:          9 R. E. M.
-#  14:          8 Little Feat
-#  15:          7 James Brown
-#  16:          6 The Kinks
-#  17:          6 Paul Simon
-#  18:          6 Johnny Cash
-#  19:          6 Fleetwood Mac
-#  20:          6 Elton John
-#  21:          5 Tom Petty & The Heartbreakers
-#  22:          5 The Who
-#  23:          5 The Black Keys
-#  24:          5 Steve Earle
-#  25:          5 Red Hot Chili Peppers
-#  26:          5 Norah Jones
-#  27:          5 Lucinda Williams
-#  28:          5 Jimi Hendrix
-#  29:          5 Jackson Browne
-#  30:          5 Electric Light Orchestra
-#  31:          5 Coldplay
-#  32:          5 Bob Marley & The Wailers
-#  33:          4 Vampire Weekend
-#  34:          4 U2
-#  35:          4 Train
-#  36:          4 Traffic
-#  37:          4 Supertramp
-#  38:          4 Sting
-#  39:          4 Stevie Wonder
-#  40:          4 Sly & The Family Stone
-#  41:          4 Ryan Adams
-#  42:          4 Pearl Jam
-#  43:          4 My Morning Jacket
-#  44:          4 John Lennon
-#  45:          4 Dave Matthews Band
-#  46:          4 Creedence Clearwater Revival
-#  47:          4 Beck
-#  48:          3 Yes
-#  49:          3 Warren Zevon
-#  50:          3 Tori Amos
+#   1:         68 The Beatles
+#   2:         31 The Rolling Stones
+#   3:         29 Bruce Springsteen
+#   4:         23 Neil Young
+#   5:         22 Bob Dylan
+#   6:         21 Steely Dan
+#   7:         21 Led Zeppelin
+#   8:         18 David Bowie
+#   9:         16 Grateful Dead
+#  10:         15 Van Morrison
+#  11:         15 Stevie Wonder
+#  12:         14 U2
+#  13:         14 R. E. M.
+#  14:         13 The Who
+#  15:         13 The Beach Boys
+#  16:         13 Joni Mitchell
+#  17:         13 Elton John
+#  18:         12 Fleetwood Mac
+#  19:         10 Talking Heads
+#  20:         10 Sting
+#  21:         10 Jimi Hendrix
+#  22:         10 Jackson Browne
+#  23:         10 Eric Clapton
+#  24:          9 Wilco
+#  25:          9 Warren Zevon
+#  26:          9 Todd Rundgren
+#  27:          9 The Kinks
+#  28:          9 Richard Thompson
+#  29:          8 Ryan Adams
+#  30:          8 Paul Simon
+#  31:          8 My Morning Jacket
+#  32:          8 Little Feat
+#  33:          8 Johnny Cash
+#  34:          8 Creedence Clearwater Revival
+#  35:          7 Vampire Weekend
+#  36:          7 The Replacements
+#  37:          7 The Allman Brothers
+#  38:          7 Red Hot Chili Peppers
+#  39:          7 Radiohead
+#  40:          7 Phish
+#  41:          7 Peter Gabriel
+#  42:          7 Pearl Jam
+#  43:          7 Marvin Gaye
+#  44:          7 John Lennon
+#  45:          7 James Brown
+#  46:          7 George Harrison
+#  47:          7 Elvis Costello
+#  48:          7 Coldplay
+#  49:          7 Bonnie Raitt
+#  50:          6 The Temptations
 
 ==============================
 Top 50 titles:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:          4 Fire
-#   2:          4 Fever
-#   3:          4 Dreams
-#   4:          4 Crazy
-#   5:          3 Gloria
-#   6:          3 Do It Again
-#   7:          3 Cocaine
-#   8:          3 Cherry Oh Baby
-#   9:          3 California
-#  10:          2 Got To Get You Into My Life
-#  11:          2 Good Enough
-#  12:          2 Going To The Country
-#  13:          2 Going Down
-#  14:          2 Girl, You'll Be A Woman Soon
-#  15:          2 Girl
-#  16:          2 Get Rhythm
-#  17:          2 Get It While You Can
-#  18:          2 Games People Play
-#  19:          2 From A Whisper To A Scream
-#  20:          2 Free
-#  21:          2 Express Yourself
-#  22:          2 Everybody's Talkin'
-#  23:          2 Everybody Knows
-#  24:          2 Ever Fallen In Love?
-#  25:          2 Easy Now
-#  26:          2 Early In The Morning
-#  27:          2 Dust
-#  28:          2 Drive
-#  29:          2 Dream On
-#  30:          2 Down By The Water
-#  31:          2 Don't Think Twice, It's Alright
-#  32:          2 Don't Look Back
-#  33:          2 Don't Go Back To Rockville
-#  34:          2 Don't Bring Me Down
-#  35:          2 Dirty Water
-#  36:          2 Dear Prudence
-#  37:          2 Day Tripper
-#  38:          2 Dark Star
-#  39:          2 Dancing In The Moonlight
-#  40:          2 Cry Baby
-#  41:          2 Crimson & Clover
-#  42:          2 Creep
-#  43:          2 Crazy Mama
-#  44:          2 Crazy Love
-#  45:          2 Congo Square
-#  46:          2 Comfortably Numb
-#  47:          2 Come Together
-#  48:          2 Come See About Me
-#  49:          2 Come Dancing
-#  50:          2 Come As You Are
+#   1:          5 Dreams
+#   2:          5 Crazy
+#   3:          4 Home
+#   4:          4 Hold On
+#   5:          4 Hard to Handle
+#   6:          4 Fire
+#   7:          4 Fever
+#   8:          4 Ball Of Confusion
+#   9:          3 I'm Free
+#  10:          3 I Got A Woman
+#  11:          3 I Ain't Superstitious
+#  12:          3 Human
+#  13:          3 Heaven
+#  14:          3 Head Over Heels
+#  15:          3 Hallelujah
+#  16:          3 Gloria
+#  17:          3 Drive
+#  18:          3 Do It Again
+#  19:          3 Cocaine
+#  20:          3 Cherry Oh Baby
+#  21:          3 California
+#  22:          3 All I Really Want To Do
+#  23:          3 All I Need
+#  24:          3 After Midnight
+#  25:          2 If Not For You
+#  26:          2 If I Wanted Someone
+#  27:          2 I'm Writing a Novel
+#  28:          2 I'm Tore Down
+#  29:          2 I'm Shakin'
+#  30:          2 I'm On Fire
+#  31:          2 I'm Not The Only One
+#  32:          2 I'm Gonna Make You Love Me
+#  33:          2 I'm Diggin' You (Like An Old Soul Record)
+#  34:          2 I'm Alive
+#  35:          2 I'm A Midnight Mover
+#  36:          2 I'm A Man
+#  37:          2 I'm A Believer
+#  38:          2 I Will Survive
+#  39:          2 I Want You Back
+#  40:          2 I Want Candy
+#  41:          2 I Thank You
+#  42:          2 I Need Love
+#  43:          2 I Melt With You
+#  44:          2 I Keep Forgettin'
+#  45:          2 I Heard It Through The Grapevine
+#  46:          2 I Fought The Law
+#  47:          2 I Can't Get Next To You
+#  48:          2 How Can You Mend A Broken Heart
+#  49:          2 Hotel California
+#  50:          2 Hollywood
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        111 the
-#   2:         61 don't
-#   3:         56 to
-#   4:         54 me
-#   5:         51 you
-#   6:         48 of
-#   7:         48 a
-#   8:         47 in
-#   9:         42 get
-#  10:         39 on
-#  11:         33 love
-#  12:         33 it
-#  13:         30 my
-#  14:         26 down
-#  15:         25 good
-#  16:         25 come
-#  17:         23 do
-#  18:         21 up
-#  19:         20 girl
-#  20:         20 and
-#  21:         18 go
-#  22:         18 for
-#  23:         17 can't
-#  24:         17 back
-#  25:         16 going
-#  26:         16 cry
-#  27:         15 your
-#  28:         15 is
-#  29:         15 give
-#  30:         14 i
-#  31:         14 be
-#  32:         12 with
-#  33:         12 gone
-#  34:         12 from
-#  35:         12 dance
-#  36:         12 cold
-#  37:         12 baby
-#  38:         11 time
-#  39:         11 everybody
-#  40:         11 dancing
-#  41:         11 change
-#  42:         11 away
-#  43:         10 out
-#  44:         10 little
-#  45:         10 fire
-#  46:         10 everything
-#  47:         10 every
-#  48:         10 crazy
-#  49:         10 california
-#  50:          9 like
-
-==============================
-Top 50 release years:
-------------------------------
-#Rank: Occurances Item
-==============================
-#   1:         46 2014
-#   2:         37 1979
-#   3:         36 1978
-#   4:         36 1976
-#   5:         34 1973
-#   6:         33 1970
-#   7:         30 1972
-#   8:         30 1971
-#   9:         30 1969
-#  10:         28 1981
-#  11:         28 1977
-#  12:         26 1975
-#  13:         24 1980
-#  14:         24 1974
-#  15:         24 1967
-#  16:         23 2012
-#  17:         23 2003
-#  18:         23 1992
-#  19:         22 2016
-#  20:         22 1984
-#  21:         21 2013
-#  22:         20 2011
-#  23:         20 2007
-#  24:         20 1993
-#  25:         20 1986
-#  26:         19 2015
-#  27:         19 2002
-#  28:         19 1994
-#  29:         18 2008
-#  30:         18 2005
-#  31:         18 1991
-#  32:         17 1983
-#  33:         17 1982
-#  34:         17 1968
-#  35:         16 2004
-#  36:         16 0
-#  37:         15 2009
-#  38:         15 2001
-#  39:         15 1985
-#  40:         14 1996
-#  41:         13 1998
-#  42:         13 1995
-#  43:         13 1988
-#  44:         11 1990
-#  45:         11 1987
-#  46:         10 1966
-#  47:          9 2010
-#  48:          9 2006
-#  49:          9 2000
-#  50:          7 1989
+#   1:        238 i
+#   2:        221 the
+#   3:        155 a
+#   4:        151 you
+#   5:        113 to
+#   6:         93 of
+#   7:         87 in
+#   8:         84 love
+#   9:         82 me
+#  10:         73 don't
+#  11:         71 on
+#  12:         68 i'm
+#  13:         56 it
+#  14:         53 and
+#  15:         51 my
+#  16:         51 all
+#  17:         42 get
+#  18:         41 be
+#  19:         39 your
+#  20:         39 for
+#  21:         38 back
+#  22:         35 down
+#  23:         35 can't
+#  24:         34 want
+#  25:         34 baby
+#  26:         33 if
+#  27:         32 come
+#  28:         31 do
+#  29:         29 is
+#  30:         29 good
+#  31:         28 girl
+#  32:         27 man
+#  33:         27 go
+#  34:         26 with
+#  35:         25 up
+#  36:         25 time
+#  37:         25 ain't
+#  38:         24 hey
+#  39:         23 like
+#  40:         23 bad
+#  41:         22 heart
+#  42:         21 got
+#  43:         20 now
+#  44:         20 blue
+#  45:         20 big
+#  46:         19 know
+#  47:         19 day
+#  48:         18 how
+#  49:         18 can
+#  50:         17 woman

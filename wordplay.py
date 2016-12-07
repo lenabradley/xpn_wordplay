@@ -6,73 +6,93 @@ Author: Lena Bartell, github.com/lbartell
 
 # imports
 import urllib
+import urllib2
 import urlparse
 import re
 import string
 import discogs_client
 import warnings
+import pandas as pd
+import glob
+
 
 # function definitions
-def parse_url(url='http://origin.xpn.org/static/az.php', query='a',
-                  pattern=r'<li>([^<]+) - ([^<]+)</li>', remove_duplicates=True):
+def read_data():
     '''
-    Download data from the provided url, adding the given query and return a
-    list of the results matching the regular expression given in pattern.
-    '''
-
-    # construct the url, adding a query for the given letter
-    url_parts = list(urlparse.urlparse(url))
-    queryobj = dict(urlparse.parse_qsl(url_parts[4]))
-    queryobj.update({'q':query})
-    url_parts[4] = urllib.urlencode(queryobj)
-    full_url = urlparse.urlunparse(url_parts)
-
-    # Read the url
-    try:
-        ufile = urllib.urlopen(full_url)  # get file-like object for url
-        info = ufile.info()   # meta-info about the url content
-        if info.gettype() == 'text/html':
-            url_text = ufile.read()  # read all its text
-    except IOError:
-        url_text = ''
-        print 'problem reading url:', full_url
-
-    # Parse the url text into a list of tuples (title, artist)
-    pattern = r'<li>([^<]+) - ([^<]+)</li>'
-    results = re.findall(pattern, url_text)
-
-    # remove duplicate listings
-    if remove_duplicates:
-        unique_results = []
-        for item in results:
-            if item not in unique_results:
-                unique_results.append(item)
-        results = unique_results
-
-    return results
-
-
-def get_songs(letters=''):
-    '''
-    Download and return list of all songs starting with the letters listed in
-    the input letters. Default is to use all letters a-z
+    import data saved by the scrapy spider
+    concatenate data from all days and return as a pandas DataFrame
     '''
 
-    # loop over each letter to construct full songlist
-    if not letters:
-        letters = tuple(string.ascii_lowercase)
+    # import all data
+    paths = glob.glob('playlistdata_*.csv')
+    dflist = []
+    for filename in paths:
+        dflist.append(pd.read_csv(filename, sep='\t', header=0))
 
-    songlist = []
-    print 'Downloading',
-    for letter in letters:
-        print '%s'%(letter),
+    # concatenate data from each file/day
+    data = pd.concat(dflist, ignore_index=True)
 
-        songs = parse_url(query=letter)
-        if songs:
-            songlist = songlist + songs
+    return data
 
-    print
-    return songlist
+
+def get_discogs_data(songlist=[], token='', search_type='release', verbose=True):
+    '''
+    Use Discogs search to get more data for each (artist, album, track)
+    tuple in the list songlist. Return corresponding lists of release year,
+    genres, and album titles.
+
+    Notes:
+    Each track may be associated with multiple genres (stored as a list).
+    If the search is unsuccessful, the data is set to [] .
+    The year of the first result is returned.
+    Discogs API is authenticated using token.
+    '''
+    if not verbose:
+        print 'Working...',
+
+    # read user token if not given
+    if not token:
+        f = open('discogsapikey')
+        token = f.readline()
+        f.close()
+
+    # setup the api client
+    d = discogs_client.Client('XPN_wordplay/0.1', user_token=token)
+    years = []
+    genres = []
+    albums = []
+
+    # loop over each song title/artist tuple
+    for tup in songlist:
+        artist, _, track = tup
+        results = d.search(type='master',
+                           artist=artist, track=track, sort='year,desc') # **** sorting not working.. why?!?
+        results = results.sort(u'year')
+        if results:
+            release = results[0].main_release
+            year = release.year
+            genre = release.genres
+            album = release.title
+            if verbose:
+                print 'YEAR: %s'%year
+                print 'ARTIST: %s'%artist
+                print 'TRACK: %s'%track
+            years.append(year)
+            genres.append(genre)
+            albums.append(album)
+
+        else:
+            # if it doesn't work, print a message and return 0 as the year
+            warnings.warn('* Problem finding track %s - %s - %s, setting as empty'%(tup))
+            years.append([])
+            genres.append([])
+            albums.append([])
+
+    if not verbose:
+        print 'Done'
+
+    return (years, genres, albums)
+
 
 
 def count_list(stringlist, break_words=True):
@@ -108,7 +128,7 @@ def count_list(stringlist, break_words=True):
 
 def print_top(word_counts, title='', num=10):
     '''
-    given a list of string-count tuples, print the first ten entries
+    given a list of string-count tuples, print the first num entries
     '''
     stringlist = []
     ix = 1;
@@ -142,48 +162,7 @@ def save_counts(word_counts, filename='word_counts.txt'):
     f.write('\n'.join(data))
     f.close()
 
-def get_release_years(songlist=[], token='', search_type='release', verbose=True):
-    '''
-    Use Discogs API to get the release year for each (title, artist) tuple
-    in the list songlist and return as a list of integer years.
 
-    Notes:
-    If the search is unsuccessful, the year is set to be 0.
-    The year of the top result is result is returned.
-    Discogs API is authenticated using token.
-    '''
-    if not verbose:
-        print 'Working...',
-
-    # read user token if not given
-    if not token:
-        f = open('discogsapikey')
-        token = f.readline()
-        f.close()
-
-    # setup the api client
-    d = discogs_client.Client('XPN_wordplay/0.1', user_token=token)
-    years = []
-
-    # loop over each song title/artist tuple
-    for tup in songlist:
-        searchstr = ' - '.join(tup)
-        try:
-            results = d.search(searchstr, type='release')[0]
-            if verbose:
-                print 'ARTIST: %s'%results.artists[0].name,
-                print 'ALBUM: %s'%results.title,
-                print 'YEAR: %s'%results.year
-            years.append(int(results.year))
-
-        except:
-            # if it doesn't work, print a message and return 0 as the year
-            warnings.warn('Problem finding year for %s, setting as 0'%searchstr)
-            years.append(0)
-
-    if not verbose:
-        print 'Done'
-    return years
 
 def save_song_info(infolist=[], headerstr=None, pattern='{2:d}\t{0}\t{1}\n',
                    filename='output.txt'):
