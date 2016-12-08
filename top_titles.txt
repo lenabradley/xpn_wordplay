@@ -23,6 +23,9 @@
 003	All I Really Want To Do
 003	All I Need
 003	After Midnight
+002	Last Goodbye
+002	Landslide
+002	Knock On Wood
 002	Keep On Truckin'
 002	Kansas City
 002	Jump
@@ -168,6 +171,54 @@
 002	Ah Mary
 002	A Girl Like You
 002	A Day In The Life
+001	Last Good Day Of The Year
+001	Laredo
+001	Land Of 1000 Dances
+001	Land Ho!
+001	Lampshades on Fire
+001	Lake Of Fire
+001	Lake Marie
+001	Lagos Jump
+001	Ladyflash
+001	Ladyfingers
+001	Lady Writer
+001	Lady Marmalade
+001	Lady Madonna
+001	Lady Jane
+001	Lady Doctor
+001	Lady Blue
+001	Ladder
+001	La La Means I Love You
+001	La Femme D'Argent
+001	L.E.S. Artistes
+001	L. A. Woman
+001	Kozmik
+001	Kodachrome
+001	Knives Out
+001	Kissing The Lipless
+001	Kissin on the Blacktop
+001	Kiss Off
+001	Kiss Me On The Bus
+001	Kiss
+001	King Without A Crown
+001	King Of The Hill
+001	King Of Pain
+001	King Of California
+001	King Of All The World
+001	King Midas In Reverse
+001	King Harvest
+001	Kind Of A Drag
+001	Killin' Kind
+001	Kiko And The Lavender Moon
+001	Kids
+001	Kid Charlemagne
+001	Kid
+001	Kick Out The Jams
+001	Kick Drum Heart
+001	Ketchy Shuby
+001	Kentucky Woman
+001	Keep The Car Running
+001	Keep Playin That Rock N Roll
 001	Keep On Working
 001	Keep On Smilin'
 001	Keep Me In Your Heart

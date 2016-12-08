@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-07, 18:01
+Last updated: 2016-12-07, 22:18
 
 
 ==============================
@@ -7,11 +7,11 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:         73 The Beatles
-#   2:         34 The Rolling Stones
+#   1:         74 The Beatles
+#   2:         35 The Rolling Stones
 #   3:         34 Bruce Springsteen
 #   4:         32 Bob Dylan
-#   5:         24 Steely Dan
+#   5:         25 Steely Dan
 #   6:         23 Neil Young
 #   7:         23 Led Zeppelin
 #   8:         20 David Bowie
@@ -36,27 +36,27 @@ Top 50 artists:
 #  27:         10 Eric Clapton
 #  28:          9 The Allman Brothers
 #  29:          9 Richard Thompson
-#  30:          9 Pearl Jam
-#  31:          9 My Morning Jacket
-#  32:          9 Johnny Cash
-#  33:          9 John Lennon
-#  34:          8 Ryan Adams
-#  35:          8 Radiohead
-#  36:          8 Peter Gabriel
-#  37:          8 Paul Simon
-#  38:          8 Marvin Gaye
-#  39:          8 Little Feat
-#  40:          8 George Harrison
-#  41:          8 Elvis Costello
-#  42:          8 Creedence Clearwater Revival
-#  43:          8 Coldplay
-#  44:          7 Vampire Weekend
-#  45:          7 The Temptations
-#  46:          7 The Replacements
-#  47:          7 The Clash
-#  48:          7 The Byrds
-#  49:          7 Sarah McLachlan
-#  50:          7 Santana
+#  30:          9 Radiohead
+#  31:          9 Pearl Jam
+#  32:          9 Paul Simon
+#  33:          9 My Morning Jacket
+#  34:          9 Johnny Cash
+#  35:          9 John Lennon
+#  36:          8 The Replacements
+#  37:          8 Ryan Adams
+#  38:          8 Peter Gabriel
+#  39:          8 Marvin Gaye
+#  40:          8 Little Feat
+#  41:          8 John Prine
+#  42:          8 George Harrison
+#  43:          8 Elvis Costello
+#  44:          8 Creedence Clearwater Revival
+#  45:          8 Coldplay
+#  46:          7 Vampire Weekend
+#  47:          7 The Temptations
+#  48:          7 The Pretenders
+#  49:          7 The Doors
+#  50:          7 The Clash
 
 ==============================
 Top 50 titles:
@@ -88,53 +88,53 @@ Top 50 titles:
 #  23:          3 All I Really Want To Do
 #  24:          3 All I Need
 #  25:          3 After Midnight
-#  26:          2 Keep On Truckin'
-#  27:          2 Kansas City
-#  28:          2 Jump
-#  29:          2 Joyful Girl
-#  30:          2 Jolene
-#  31:          2 Jingo
-#  32:          2 It's Probably Me
-#  33:          2 It's Only Life
-#  34:          2 It's My Life
-#  35:          2 It's All Over Now, Baby Blue
-#  36:          2 It Makes No Difference
-#  37:          2 It Don't Come Easy
-#  38:          2 Into The Fire
-#  39:          2 If Not For You
-#  40:          2 If I Wanted Someone
-#  41:          2 I'm Writing a Novel
-#  42:          2 I'm Tore Down
-#  43:          2 I'm Shakin'
-#  44:          2 I'm On Fire
-#  45:          2 I'm Not The Only One
-#  46:          2 I'm Gonna Make You Love Me
-#  47:          2 I'm Diggin' You (Like An Old Soul Record)
-#  48:          2 I'm Alive
-#  49:          2 I'm A Midnight Mover
-#  50:          2 I'm A Man
+#  26:          2 Last Goodbye
+#  27:          2 Landslide
+#  28:          2 Knock On Wood
+#  29:          2 Keep On Truckin'
+#  30:          2 Kansas City
+#  31:          2 Jump
+#  32:          2 Joyful Girl
+#  33:          2 Jolene
+#  34:          2 Jingo
+#  35:          2 It's Probably Me
+#  36:          2 It's Only Life
+#  37:          2 It's My Life
+#  38:          2 It's All Over Now, Baby Blue
+#  39:          2 It Makes No Difference
+#  40:          2 It Don't Come Easy
+#  41:          2 Into The Fire
+#  42:          2 If Not For You
+#  43:          2 If I Wanted Someone
+#  44:          2 I'm Writing a Novel
+#  45:          2 I'm Tore Down
+#  46:          2 I'm Shakin'
+#  47:          2 I'm On Fire
+#  48:          2 I'm Not The Only One
+#  49:          2 I'm Gonna Make You Love Me
+#  50:          2 I'm Diggin' You (Like An Old Soul Record)
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        251 the
-#   2:        242 i
-#   3:        182 a
-#   4:        167 you
+#   1:        260 the
+#   2:        243 i
+#   3:        185 a
+#   4:        168 you
 #   5:        127 to
-#   6:        121 in
-#   7:        101 of
-#   8:         91 me
-#   9:         89 love
-#  10:         78 on
+#   6:        122 in
+#   7:        109 of
+#   8:         92 me
+#   9:         90 love
+#  10:         83 on
 #  11:         78 it
 #  12:         76 don't
 #  13:         71 i'm
 #  14:         62 my
-#  15:         58 and
-#  16:         58 all
+#  15:         59 and
+#  16:         59 all
 #  17:         47 it's
 #  18:         45 your
 #  19:         44 be
@@ -149,10 +149,10 @@ Top 50 title words:
 #  28:         35 come
 #  29:         34 if
 #  30:         32 just
-#  31:         32 girl
-#  32:         32 do
-#  33:         31 like
-#  34:         31 good
+#  31:         32 good
+#  32:         32 girl
+#  33:         32 do
+#  34:         31 like
 #  35:         31 ain't
 #  36:         29 with
 #  37:         28 man
@@ -160,12 +160,12 @@ Top 50 title words:
 #  39:         27 go
 #  40:         26 up
 #  41:         26 time
-#  42:         26 bad
-#  43:         25 heart
+#  42:         26 heart
+#  43:         26 bad
 #  44:         24 now
 #  45:         24 hey
-#  46:         23 blue
+#  46:         24 blue
 #  47:         23 big
 #  48:         21 know
-#  49:         20 life
-#  50:         20 i've
+#  49:         21 day
+#  50:         20 woman
