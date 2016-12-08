@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-07, 22:18
+Last updated: 2016-12-08, 07:58
 
 
 ==============================
@@ -7,56 +7,56 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:         74 The Beatles
-#   2:         35 The Rolling Stones
-#   3:         34 Bruce Springsteen
-#   4:         32 Bob Dylan
+#   1:         75 The Beatles
+#   2:         37 The Rolling Stones
+#   3:         36 Bob Dylan
+#   4:         34 Bruce Springsteen
 #   5:         25 Steely Dan
-#   6:         23 Neil Young
+#   6:         24 Neil Young
 #   7:         23 Led Zeppelin
-#   8:         20 David Bowie
+#   8:         22 David Bowie
 #   9:         18 Van Morrison
 #  10:         17 Grateful Dead
 #  11:         16 Stevie Wonder
-#  12:         15 U2
-#  13:         15 R. E. M.
-#  14:         14 The Beach Boys
-#  15:         14 Joni Mitchell
-#  16:         13 Warren Zevon
-#  17:         13 The Who
-#  18:         13 Elton John
-#  19:         12 Sting
-#  20:         12 Jackson Browne
-#  21:         12 Fleetwood Mac
-#  22:         11 Wilco
-#  23:         11 Todd Rundgren
-#  24:         10 The Kinks
-#  25:         10 Talking Heads
-#  26:         10 Jimi Hendrix
-#  27:         10 Eric Clapton
-#  28:          9 The Allman Brothers
-#  29:          9 Richard Thompson
-#  30:          9 Radiohead
-#  31:          9 Pearl Jam
-#  32:          9 Paul Simon
-#  33:          9 My Morning Jacket
-#  34:          9 Johnny Cash
-#  35:          9 John Lennon
-#  36:          8 The Replacements
-#  37:          8 Ryan Adams
-#  38:          8 Peter Gabriel
-#  39:          8 Marvin Gaye
-#  40:          8 Little Feat
-#  41:          8 John Prine
-#  42:          8 George Harrison
-#  43:          8 Elvis Costello
-#  44:          8 Creedence Clearwater Revival
-#  45:          8 Coldplay
-#  46:          7 Vampire Weekend
-#  47:          7 The Temptations
-#  48:          7 The Pretenders
-#  49:          7 The Doors
-#  50:          7 The Clash
+#  12:         16 R. E. M.
+#  13:         15 Warren Zevon
+#  14:         15 U2
+#  15:         15 The Beach Boys
+#  16:         15 Joni Mitchell
+#  17:         14 Jackson Browne
+#  18:         14 Elton John
+#  19:         13 The Who
+#  20:         13 Eric Clapton
+#  21:         12 Talking Heads
+#  22:         12 Sting
+#  23:         12 Fleetwood Mac
+#  24:         11 Wilco
+#  25:         11 Todd Rundgren
+#  26:         11 Jimi Hendrix
+#  27:         10 The Kinks
+#  28:         10 Radiohead
+#  29:         10 Pearl Jam
+#  30:         10 Paul Simon
+#  31:         10 My Morning Jacket
+#  32:          9 The Replacements
+#  33:          9 The Allman Brothers
+#  34:          9 Ryan Adams
+#  35:          9 Richard Thompson
+#  36:          9 Marvin Gaye
+#  37:          9 Johnny Cash
+#  38:          9 John Lennon
+#  39:          9 Elvis Costello
+#  40:          8 The Doors
+#  41:          8 The Clash
+#  42:          8 The Band
+#  43:          8 Pink Floyd
+#  44:          8 Peter Gabriel
+#  45:          8 Nirvana
+#  46:          8 Little Feat
+#  47:          8 Lenny Kravitz
+#  48:          8 John Prine
+#  49:          8 Indigo Girls
+#  50:          8 George Harrison
 
 ==============================
 Top 50 titles:
@@ -88,84 +88,84 @@ Top 50 titles:
 #  23:          3 All I Really Want To Do
 #  24:          3 All I Need
 #  25:          3 After Midnight
-#  26:          2 Last Goodbye
-#  27:          2 Landslide
-#  28:          2 Knock On Wood
-#  29:          2 Keep On Truckin'
-#  30:          2 Kansas City
-#  31:          2 Jump
-#  32:          2 Joyful Girl
-#  33:          2 Jolene
-#  34:          2 Jingo
-#  35:          2 It's Probably Me
-#  36:          2 It's Only Life
-#  37:          2 It's My Life
-#  38:          2 It's All Over Now, Baby Blue
-#  39:          2 It Makes No Difference
-#  40:          2 It Don't Come Easy
-#  41:          2 Into The Fire
-#  42:          2 If Not For You
-#  43:          2 If I Wanted Someone
-#  44:          2 I'm Writing a Novel
-#  45:          2 I'm Tore Down
-#  46:          2 I'm Shakin'
-#  47:          2 I'm On Fire
-#  48:          2 I'm Not The Only One
-#  49:          2 I'm Gonna Make You Love Me
-#  50:          2 I'm Diggin' You (Like An Old Soul Record)
+#  26:          2 Like A Rolling Stone
+#  27:          2 Lightning Strikes
+#  28:          2 Life's Been Good
+#  29:          2 Lies
+#  30:          2 Let's Dance
+#  31:          2 Let The Good Times Roll
+#  32:          2 Last Train Home
+#  33:          2 Last Goodbye
+#  34:          2 Landslide
+#  35:          2 Knock On Wood
+#  36:          2 Keep On Truckin'
+#  37:          2 Kansas City
+#  38:          2 Jump
+#  39:          2 Joyful Girl
+#  40:          2 Jolene
+#  41:          2 Jingo
+#  42:          2 It's Probably Me
+#  43:          2 It's Only Life
+#  44:          2 It's My Life
+#  45:          2 It's All Over Now, Baby Blue
+#  46:          2 It Makes No Difference
+#  47:          2 It Don't Come Easy
+#  48:          2 Into The Fire
+#  49:          2 If Not For You
+#  50:          2 If I Wanted Someone
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        260 the
+#   1:        274 the
 #   2:        243 i
-#   3:        185 a
+#   3:        195 a
 #   4:        168 you
-#   5:        127 to
-#   6:        122 in
-#   7:        109 of
-#   8:         92 me
-#   9:         90 love
-#  10:         83 on
-#  11:         78 it
+#   5:        132 to
+#   6:        127 in
+#   7:        115 of
+#   8:         95 me
+#   9:         95 love
+#  10:         90 it
+#  11:         88 on
 #  12:         76 don't
 #  13:         71 i'm
-#  14:         62 my
-#  15:         59 and
-#  16:         59 all
-#  17:         47 it's
-#  18:         45 your
-#  19:         44 be
-#  20:         43 get
-#  21:         40 is
-#  22:         40 for
+#  14:         64 my
+#  15:         62 and
+#  16:         60 all
+#  17:         48 be
+#  18:         47 it's
+#  19:         46 your
+#  20:         46 get
+#  21:         44 for
+#  22:         43 is
 #  23:         40 baby
-#  24:         39 back
-#  25:         36 can't
-#  26:         35 want
-#  27:         35 down
-#  28:         35 come
-#  29:         34 if
-#  30:         32 just
-#  31:         32 good
-#  32:         32 girl
-#  33:         32 do
-#  34:         31 like
-#  35:         31 ain't
-#  36:         29 with
-#  37:         28 man
-#  38:         27 got
-#  39:         27 go
-#  40:         26 up
-#  41:         26 time
-#  42:         26 heart
-#  43:         26 bad
-#  44:         24 now
-#  45:         24 hey
-#  46:         24 blue
-#  47:         23 big
-#  48:         21 know
-#  49:         21 day
-#  50:         20 woman
+#  24:         39 down
+#  25:         39 back
+#  26:         38 like
+#  27:         37 can't
+#  28:         36 good
+#  29:         35 want
+#  30:         35 come
+#  31:         34 if
+#  32:         33 girl
+#  33:         33 do
+#  34:         32 just
+#  35:         31 go
+#  36:         31 ain't
+#  37:         29 with
+#  38:         29 life
+#  39:         28 up
+#  40:         28 man
+#  41:         28 little
+#  42:         27 got
+#  43:         26 time
+#  44:         26 let
+#  45:         26 heart
+#  46:         26 bad
+#  47:         24 now
+#  48:         24 hey
+#  49:         24 blue
+#  50:         23 big

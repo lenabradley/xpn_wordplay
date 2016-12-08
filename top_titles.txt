@@ -23,6 +23,13 @@
 003	All I Really Want To Do
 003	All I Need
 003	After Midnight
+002	Like A Rolling Stone
+002	Lightning Strikes
+002	Life's Been Good
+002	Lies
+002	Let's Dance
+002	Let The Good Times Roll
+002	Last Train Home
 002	Last Goodbye
 002	Landslide
 002	Knock On Wood
@@ -171,6 +178,110 @@
 002	Ah Mary
 002	A Girl Like You
 002	A Day In The Life
+001	Little Perennials
+001	Little Movies
+001	Little Miss Can't Be Wrong
+001	Little Lovin'
+001	Little Green
+001	Little Girl
+001	Little Deuce Coupe
+001	Little Criminals
+001	Little By Little
+001	Little Bribes
+001	Little Black Submarines
+001	Little Bit of Everything
+001	Little Bit Of Sympathy
+001	Lithium
+001	Lisztomania
+001	Listen Like Thieves
+001	Listen For The Laugh
+001	Listen
+001	Lip Service
+001	Linger
+001	Limit To Your Love
+001	Lily, Rosemary And The Jack Of Hearts
+001	Lily
+001	Like The Weather
+001	Like Humans Do
+001	Like A Virgin
+001	Like A Hurricane
+001	Lights Out
+001	Light Up Or Leave Me Alone
+001	Light My Fire
+001	Light And Day/reach For The Sun
+001	Lifted By Love
+001	Lifetime Piling Up
+001	Life'll Kill Ya
+001	Life is Hard
+001	Life On Mars?
+001	Life On A Chain
+001	Life Is A Minestrone
+001	Life Is A Carnival
+001	Life In A Northern Town
+001	Life During Wartime
+001	Life By The Drop
+001	Life By Numbers
+001	Lido Shuffle
+001	Liar, Liar
+001	Liar
+001	Levon
+001	Levi Stubb's Tears
+001	Let's Twist Again
+001	Let's Stay Together
+001	Let's Spend The Night Together
+001	Let's See Action
+001	Let's Live For Today
+001	Let's Go To Bed
+001	Let's Go
+001	Let's Get Lost On A Country Road
+001	Let's Get Lost
+001	Let's Get It On
+001	Let's Be Still
+001	Let The Mystery Be
+001	Let My Love Open The Door
+001	Let Me Go
+001	Let Love Rule
+001	Let It Ride
+001	Let It Rain
+001	Let It Out (let It All Hang Out)
+001	Let It Grow
+001	Let It Go, Let It Flow
+001	Let It Bleed
+001	Let It Be
+001	Let Him Fly
+001	Let Em In
+001	Let Down
+001	Leopard
+001	Legend Of A Mind
+001	Legalize It
+001	Left Of The Dial
+001	Left Of Center
+001	Led Boots
+001	Lebanese Blonde
+001	Leaving Las Vegas
+001	Leave It
+001	Least Complicated
+001	Learning To Fly
+001	Learn To Fly
+001	Lean On Me
+001	Lazy Lightnin'
+001	Lazaretto
+001	Lay Low
+001	Lay Lady Lay
+001	Lay Down Sally
+001	Lay Down (Candles In The Rain)
+001	Lay Down
+001	Lawyers, Guns, And Money
+001	Lawyers In Love
+001	Laughing
+001	Late Night Conversation
+001	Late In The Evening
+001	Late For The Sky
+001	Late At Night
+001	Last Train To Clarksville
+001	Last Summer
+001	Last Nite
+001	Last Kiss
 001	Last Good Day Of The Year
 001	Laredo
 001	Land Of 1000 Dances
