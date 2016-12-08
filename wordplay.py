@@ -1,36 +1,46 @@
-'''
+"""
 Functions to download and display stats about WXPN's A-Z songs playlist
 
 Author: Lena Bartell, github.com/lbartell
-'''
-
+"""
 # imports
-import urllib
-import urllib2
-import urlparse
 import re
-import string
 import discogs_client
 import warnings
 import pandas as pd
-import glob
-
-
+import os
+import string
 # function definitions
-def read_data():
+
+#def get_data():
+#
+#    # download data from xpn website
+#    base_url = 'http://origin.xpn.org/static/az.php'
+#    url_parts = list(urlparse.urlparse(base_url))
+#
+#    # loop over each letter of the alphabet
+#    letters = list(string.ascii_letters)
+#
+#    for letter in letters:
+#
+#        # format url query
+#        url_parts[4] = urllib.urlencode({'q': letter})
+#        full_url = urlparse.urlunparse(url_parts)
+#
+#        # get url data
+#        ufile = urllib.urlopen(full_url)
+#        url_text = ufile.read()
+
+def read_data(filename=None):
     '''
-    import data saved by the scrapy spider
-    concatenate data from all days and return as a pandas DataFrame
+    import data saved by the scrapy spider, return as a pandas DataFrame
     '''
 
     # import all data
-    paths = glob.glob('playlistdata_*.csv')
-    dflist = []
-    for filename in paths:
-        dflist.append(pd.read_csv(filename, sep='\t', header=0))
-
-    # concatenate data from each file/day
-    data = pd.concat(dflist, ignore_index=True)
+    if not filename:
+        filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
+    filename = os.path.abspath(filename)
+    data = pd.read_csv(filename, sep='\t', header=0)
 
     return data
 
@@ -126,9 +136,11 @@ def count_list(stringlist, break_words=True):
 
     return word_counts
 
-def print_top(word_counts, title='', num=10):
+def print_top(word_counts, title='', num=10, quiet=False):
     '''
     given a list of string-count tuples, print the first num entries
+    if quiet=True, don't actually print to the screen
+    Either way, return a string to print
     '''
     stringlist = []
     ix = 1;
@@ -149,7 +161,8 @@ def print_top(word_counts, title='', num=10):
             ix += 1
 
     fullstring = '\n'.join(stringlist) +'\n'
-    print fullstring
+    if not quiet:
+        print fullstring
 
     return fullstring
 
@@ -157,12 +170,13 @@ def save_counts(word_counts, filename='word_counts.txt'):
     '''
     Save list of string-count tuples in a text file with the name filename
     '''
+    filename = os.path.abspath(filename)
     f = open(filename, 'w')
-    data = ['%03d %s'%(b,a) for (a,b) in word_counts]
+    data = ['%03d\t%s'%(b,a) for (a,b) in word_counts]
     f.write('\n'.join(data))
     f.close()
 
-
+    return None
 
 def save_song_info(infolist=[], headerstr=None, pattern='{2:d}\t{0}\t{1}\n',
                    filename='output.txt'):
@@ -183,9 +197,66 @@ def save_song_info(infolist=[], headerstr=None, pattern='{2:d}\t{0}\t{1}\n',
     return
 
 
+def main():
+    '''
+    Use contained functions to import, analyze, and save results of xpn
+    playlist data
+    '''
+
+    # gather song data
+    filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
+    data = read_data(filename=filename)
+    artists = list(data['artist'])
+    times = list(data['time'])
+    tracks = list(data['track'])
+    albums = list(data['album'])
+
+    # count unique artists, titles, and title words
+    unique_track_words = count_list(tracks, break_words=True)
+    unique_tracks = count_list(tracks, break_words=False)
+    unique_artists = count_list(artists, break_words=False)
+
+    # save title, title-word and artists counts
+    save_counts(unique_track_words, filename='top_title_words.txt')
+    save_counts(unique_tracks, filename='top_titles.txt')
+    save_counts(unique_artists, filename='top_artists.txt')
+
+    # get top 20 lists
+    top_track_words = print_top(unique_track_words, title='title words', num=50, quiet=True)
+    top_tracks = print_top(unique_tracks, title='titles', num=50, quiet=True)
+    top_artists = print_top(unique_artists, title='artists', num=50, quiet=True)
+
+    # save top 20 lists to a text file
+    f = open('last_updated.txt')
+    nowstr = f.readline()
+    f.close()
+    f = open('top_50_lists.txt', 'w')
+    f.write('WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell\n')
+    f.write(nowstr)
+    f.write('\n\n')
+    f.write(top_artists)
+    f.write('\n')
+    f.write(top_tracks)
+    f.write('\n')
+    f.write(top_track_words)
+    f.close()
+
+    # Number of tracks in each letter
+    first_letter = [x[0].lower() for x in tracks]
+    letter_counts = dict((x,0) for x in list(string.ascii_lowercase))
+    unique_letters = count_list(first_letter, break_words=False)
+    letter_counts.update(unique_letters)
+    unique_letters = zip(letter_counts.keys(), letter_counts.values())
+    save_counts(unique_letters, filename='letter_counts.txt')
+
+    # hours per letter
+
+
+    # number of words in song title
 
 
 
 
-
+if __name__ == '__main__':
+  main()
 

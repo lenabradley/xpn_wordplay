@@ -6,7 +6,9 @@ import urlparse
 import pandas as pd
 import datetime as dt
 import os
-import datetime
+import glob
+#from scrapy.utils.response import open_in_browser
+
 
 # hard code start time and the number of days to search
 timezero = dt.datetime(2016, 11, 30, 6, 0)
@@ -14,9 +16,11 @@ num_days = 10
 
 class PlaylistSpider(Spider):
     name = "xpn_playlist"
-    start_urls = ['http://xpn.org/playlists/xpn-playlist']
+    start_urls = ['http://origin.xpn.org/playlists/xpn-playlist']
 
     def parse(self, response):
+
+#        open_in_browser(response)
 
         # setup and loop over each day of interest
         date_list = [timezero + dt.timedelta(days=x) for x in range(0, num_days)]
@@ -31,7 +35,7 @@ class PlaylistSpider(Spider):
 
     def parse1(self, response):
         '''
-        extract data
+        extract data and save
         '''
         # get xpath results
         datetxt = response.xpath('//h2[@itemprop="headline"]/text()').extract()
@@ -107,13 +111,13 @@ class PlaylistSpider(Spider):
                            'album':albums[::-1], 'track':tracks[::-1]})
 
         # save as tab-delimited data
-        filename = '../playlistdata_{0:04d}_{1:02d}_{2:02d}.csv'.format(year, month, day)
+        filename = 'playlistdata_{0:04d}_{1:02d}_{2:02d}.csv'.format(year, month, day)
         filename = os.path.abspath(filename)
         df.to_csv(filename, sep='\t', encoding='utf-8', index=False)
         print 'Saved data to {0}'.format(filename)
 
         # also save current time as last-updated
-        now = datetime.datetime.now()
+        now = dt.datetime.now()
         nowstr = 'Last updated: %04d-%02d-%02d, %02d:%02d'%(now.year, now.month, now.day,
                                                             now.hour, now.minute)
         filename = os.path.abspath('../last_updated.txt')
@@ -123,5 +127,25 @@ class PlaylistSpider(Spider):
         print filename
         print nowstr
 
+    def closed(self, response):
+        '''
+        import data saved by the scrapy spider
+        concatenate data from all days and save as a pandas DataFrame
+        '''
+
+        # import all data
+        paths = glob.glob('playlistdata_*.csv')
+        dflist = []
+        for filename in paths:
+            dflist.append(pd.read_csv(filename, sep='\t', header=0))
+
+        # concatenate data from each file/day
+        data = pd.concat(dflist, ignore_index=True)
+
+        # save as master data csv
+        filename = os.path.abspath('D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv')
+        data.to_csv(filename, sep='\t', encoding='utf-8', index=False)
+
+        print '*** Saved master data to {0}'.format(filename)
 
 
