@@ -7,19 +7,29 @@ import pandas as pd
 import datetime as dt
 import os
 import glob
+from xpn_wordplay import wordplay as wp
 #from scrapy.utils.response import open_in_browser
 
 
 # hard code start time and the number of days to search
-timezero = dt.datetime(2016, 11, 30, 6, 0)
-num_days = 10
+timezero = dt.datetime(2016, 11, 30, 6, 0) # time the A-Z started
+now = dt.datetime.now()
+
+# find the last saved song record so we can start reading from that day
+prev_data = wp.read_playlist_data()
+if not prev_data.empty:
+    start_time_str = max(prev_data['time'])
+    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
+
+# number of days to read
+num_days = (now-timezero).days+1
+print '*** TIME ZERO: ', timezero
 
 class PlaylistSpider(Spider):
     name = "xpn_playlist"
     start_urls = ['http://origin.xpn.org/playlists/xpn-playlist']
 
     def parse(self, response):
-
 #        open_in_browser(response)
 
         # setup and loop over each day of interest
@@ -99,20 +109,30 @@ class PlaylistSpider(Spider):
             # store all data
             if dateOK and textOK and linkOK:
                 songtime = dt.datetime(year, month, day, hour, minute)
-                # skip if before the 'zero' time when A-Z started
+
+                # skip if before the 'zero' time
                 if songtime > timezero:
                     songtimes.append(songtime)
                     artists.append(artist)
                     albums.append(album)
                     tracks.append(track)
 
-        # store data in dataframes
+        # store data in dataframes, with most recent at the end
         df = pd.DataFrame({'time':songtimes[::-1], 'artist':artists[::-1],
-                           'album':albums[::-1], 'track':tracks[::-1]})
+                           'album':albums[::-1], 'track':tracks[::-1],'release_year':None})
 
-        # save as tab-delimited data
+        # read in any existing data
         filename = 'playlistdata_{0:04d}_{1:02d}_{2:02d}.csv'.format(year, month, day)
         filename = os.path.abspath(filename)
+        if os.path.isfile(filename):
+            prev_df = pd.read_csv(filename, sep='\t', header=0)
+        else:
+            prev_df = pd.DataFrame()
+
+        # combine previous and current data
+        df = pd.concat([prev_df, df], ignore_index=True)
+
+        # save as tab-delimited dataframe
         df.to_csv(filename, sep='\t', encoding='utf-8', index=False)
         print 'Saved data to {0}'.format(filename)
 

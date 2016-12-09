@@ -5,35 +5,18 @@ Author: Lena Bartell, github.com/lbartell
 """
 # imports
 import re
-import discogs_client
 import warnings
 import pandas as pd
 import os
 import string
+import musicbrainzngs as mb
+import numpy as np
+
 # function definitions
-
-#def get_data():
-#
-#    # download data from xpn website
-#    base_url = 'http://origin.xpn.org/static/az.php'
-#    url_parts = list(urlparse.urlparse(base_url))
-#
-#    # loop over each letter of the alphabet
-#    letters = list(string.ascii_letters)
-#
-#    for letter in letters:
-#
-#        # format url query
-#        url_parts[4] = urllib.urlencode({'q': letter})
-#        full_url = urlparse.urlunparse(url_parts)
-#
-#        # get url data
-#        ufile = urllib.urlopen(full_url)
-#        url_text = ufile.read()
-
-def read_data(filename=None):
+def read_playlist_data(filename=None, update_mb=False, remove_duplicate=True):
     '''
-    import data saved by the scrapy spider, return as a pandas DataFrame
+    import data saved by the scrapy spider, update the musicbrainz data,
+    re-save the data, and return the data as a pandas DataFrame
     '''
 
     # import all data
@@ -42,68 +25,123 @@ def read_data(filename=None):
     filename = os.path.abspath(filename)
     data = pd.read_csv(filename, sep='\t', header=0)
 
+    # update musicbrainz data
+    if (not data.empty) and update_mb:
+        data = get_mb_data(data)
+
+    # remove duplicate rows
+    if remove_duplicate:
+        data = data.drop_duplicates()
+
+    # if we changed anything, save it again
+    if ((not data.empty) and update_mb) or remove_duplicate:
+        data.to_csv(filename, sep='\t', encoding='utf-8', index=False)
+        print 'data updated and saved to: {0}'.format(filename)
+
     return data
 
 
-def get_discogs_data(songlist=[], token='', search_type='release', verbose=True):
+def get_mb_data(data):
     '''
-    Use Discogs search to get more data for each (artist, album, track)
-    tuple in the list songlist. Return corresponding lists of release year,
-    genres, and album titles.
-
-    Notes:
-    Each track may be associated with multiple genres (stored as a list).
-    If the search is unsuccessful, the data is set to [] .
-    The year of the first result is returned.
-    Discogs API is authenticated using token.
+    Given pandas dataframe containing song information, fill in data about
+    release year, album, etc, for entires that don't yet have that info. Return
+    the completed table
     '''
-    if not verbose:
-        print 'Working...',
 
-    # read user token if not given
-    if not token:
-        f = open('discogsapikey')
-        token = f.readline()
-        f.close()
+    # if our fields are missing, add them
+    if 'release_year' not in data.columns:
+        data['release_year'] = 0
 
-    # setup the api client
-    d = discogs_client.Client('XPN_wordplay/0.1', user_token=token)
+    # If there are NaNs, set them to zero
+    data = data.fillna(value=0)
+    data['release_year'] = data['release_year'].astype(int)
+
+    # setup musicbrainz agent
+    filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\contact'
+    filename = os.path.abspath(filename)
+    f = open(filename, 'r')
+    contact = f.read()
+    f.close()
+    mb.set_useragent('xpn playlist analysis', '1.0', contact=contact)
+
+    # setup output
     years = []
-    genres = []
-    albums = []
 
-    # loop over each song title/artist tuple
-    for tup in songlist:
-        artist, _, track = tup
-        results = d.search(type='master',
-                           artist=artist, track=track, sort='year,desc') # **** sorting not working.. why?!?
-        results = results.sort(u'year')
-        if results:
-            release = results[0].main_release
-            year = release.year
-            genre = release.genres
-            album = release.title
-            if verbose:
-                print 'YEAR: %s'%year
-                print 'ARTIST: %s'%artist
-                print 'TRACK: %s'%track
-            years.append(year)
-            genres.append(genre)
-            albums.append(album)
+    # run search on each song
+    for song in data.itertuples():
+
+        # only run the search if we don't have the data already
+        if (song.release_year is None) or (song.release_year==0):
+
+            query = 'artist:"{0}" AND recording:"{1}" AND status:"official"'.format(song.artist, song.track)
+            results = mb.search_recordings(query=query, strict=True)
+
+            # extract fields of interest
+            release_year, _ = extract_mb_results(results)
+
+            # show result
+            try:
+                print '{0:d} {1} by {2}'.format(release_year, song.track, song.artist)
+            except:
+                print 'error', release_year, 'setting to zero'
+                release_year = int(0)
+
+            years.append(release_year)
 
         else:
-            # if it doesn't work, print a message and return 0 as the year
-            warnings.warn('* Problem finding track %s - %s - %s, setting as empty'%(tup))
-            years.append([])
-            genres.append([])
-            albums.append([])
+            release_year = song.release_year
+            years.append(song.release_year)
 
-    if not verbose:
-        print 'Done'
+    # update dataframe
+    data['release_year'] = years
 
-    return (years, genres, albums)
+    # return data frame
+    return data
 
+def extract_mb_results(results):
+    '''
+    given results from a musicbrainzngs.search_recordings query, extract the
+    earliest official release and return the year and album name. If no
+    results, return year as 0 and album name as ''
+    '''
 
+    # extract all release years
+    alldata = []
+    if 'recording-list' in results:
+        recording_list = results['recording-list']
+        for rec in recording_list:
+
+            if 'release-list' in rec:
+                release_list = rec['release-list']
+
+                for rel in release_list:
+
+                    # get album name
+                    if 'title' in rel:
+                        title = rel['title']
+                    else:
+                        title = []
+
+                    # get album release year
+                    if 'date' in rel:
+                        match = re.search(r'\d\d\d\d', rel['date'])
+                        if match:
+                            year = int(match.group())
+                        else:
+                            year = []
+                    else:
+                        year = []
+
+                    # store data
+                    alldata.append((year, title))
+
+    # identify earliest matching release
+    if alldata:
+        data = min(alldata, key=lambda x: x[0])
+    else:
+        data = (0, '')
+
+    return data
 
 def count_list(stringlist, break_words=True):
     '''
@@ -205,7 +243,7 @@ def main():
 
     # gather song data
     filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
-    data = read_data(filename=filename)
+    data = read_playlist_data(filename=filename, update_mb=True)
     artists = list(data['artist'])
     times = list(data['time'])
     tracks = list(data['track'])

@@ -1,6 +1,7 @@
 # Windows image file caches
 *apikey
 *.pyc
+contact
 Thumbs.db
 ehthumbs.db
 
