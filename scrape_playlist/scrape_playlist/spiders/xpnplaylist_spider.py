@@ -15,11 +15,13 @@ from xpn_wordplay import wordplay as wp
 timezero = dt.datetime(2016, 11, 30, 6, 0) # time the A-Z started
 now = dt.datetime.now()
 
-# find the last saved song record so we can start reading from that day
-prev_data = wp.read_playlist_data()
-if not prev_data.empty:
-    start_time_str = max(prev_data['time'])
-    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
+## find the last saved song record so we can start reading from that day
+#filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
+#filename = os.path.abspath(filename)
+#prev_data = pd.read_csv(filename, sep='\t', header=0)
+#if not prev_data.empty:
+#    start_time_str = max(prev_data['time'])
+#    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
 
 # number of days to read
 num_days = (now-timezero).days+1
@@ -119,7 +121,7 @@ class PlaylistSpider(Spider):
 
         # store data in dataframes, with most recent at the end
         df = pd.DataFrame({'time':songtimes[::-1], 'artist':artists[::-1],
-                           'album':albums[::-1], 'track':tracks[::-1],'release_year':None})
+                           'album':albums[::-1], 'track':tracks[::-1]})
 
         # read in any existing data
         filename = 'playlistdata_{0:04d}_{1:02d}_{2:02d}.csv'.format(year, month, day)
@@ -147,25 +149,26 @@ class PlaylistSpider(Spider):
         print filename
         print nowstr
 
-    def closed(self, response):
-        '''
-        import data saved by the scrapy spider
-        concatenate data from all days and save as a pandas DataFrame
-        '''
-
-        # import all data
-        paths = glob.glob('playlistdata_*.csv')
-        dflist = []
-        for filename in paths:
-            dflist.append(pd.read_csv(filename, sep='\t', header=0))
-
-        # concatenate data from each file/day
-        data = pd.concat(dflist, ignore_index=True)
-
-        # save as master data csv
-        filename = os.path.abspath('D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv')
-        data.to_csv(filename, sep='\t', encoding='utf-8', index=False)
-
-        print '*** Saved master data to {0}'.format(filename)
+#    def closed(self, response):
+#        '''
+#        import data saved by the scrapy spider
+#        concatenate data from all days and save as a pandas DataFrame
+#        '''
+#
+#        # import all data
+#        paths = glob.glob('playlistdata_*.csv')
+#        dflist = []
+#        for filename in paths:
+#            dflist.append(pd.read_csv(filename, sep='\t', header=0))
+#
+#        # gather new data (after the start time)
+#        new_data = pd.concat(dflist, ignore_index=True)
+#        new_data = new_data[new_data['time'] > timezero]
+#
+#        # save as master data csv
+#        filename = os.path.abspath('D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata_raw.csv')
+#        data.to_csv(filename, sep='\t', encoding='utf-8', index=False)
+#
+#        print '*** Saved master data to {0}'.format(filename)
 
 

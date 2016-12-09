@@ -1,3 +1,1050 @@
-001	Johnny Cash
-001	Jackson 55
-001	Elvis Presley
+082	The Beatles
+047	The Rolling Stones
+044	Bob Dylan
+039	Bruce Springsteen
+029	Neil Young
+026	Steely Dan
+024	Led Zeppelin
+024	David Bowie
+020	Stevie Wonder
+020	R. E. M.
+020	Grateful Dead
+018	Van Morrison
+018	Elton John
+016	Warren Zevon
+016	The Who
+016	Joni Mitchell
+016	Eric Clapton
+015	The Beach Boys
+015	Jackson Browne
+014	U2
+014	Talking Heads
+014	Paul Simon
+014	Jimi Hendrix
+013	Fleetwood Mac
+013	Bonnie Raitt
+012	Wilco
+012	Todd Rundgren
+012	The Kinks
+012	The Allman Brothers
+012	Sting
+011	The Doors
+011	The Clash
+011	My Morning Jacket
+011	John Lennon
+011	Creedence Clearwater Revival
+011	Coldplay
+010	The Replacements
+010	The Pretenders
+010	Radiohead
+010	Pearl Jam
+010	Marvin Gaye
+010	Dr. John
+009	Richard Thompson
+009	Pink Floyd
+009	Peter Gabriel
+009	Little Feat
+009	Johnny Cash
+009	George Harrison
+009	Elvis Costello
+009	Al Green
+008	Yes
+008	Vampire Weekend
+008	The Cure
+008	The Byrds
+008	The Black Keys
+008	The Band
+008	Sheryl Crow
+008	Santana
+008	Ryan Adams
+008	Red Hot Chili Peppers
+008	Lucinda Williams
+008	Lenny Kravitz
+008	John Prine
+008	James Brown
+008	Indigo Girls
+008	Boz Scaggs
+008	Bee Gees
+007	Traffic
+007	Tom Petty
+007	The Temptations
+007	The Police
+007	The J. Geils Band
+007	The Cars
+007	Sarah McLachlan
+007	Rod Stewart
+007	Randy Newman
+007	Nirvana
+007	Los Lobos
+007	John Mayer
+007	John Hiatt
+007	Elvis Presley
+007	Electric Light Orchestra
+007	Dave Matthews Band
+007	Buffalo Springfield
+006	Wilson Pickett
+006	The Eagles
+006	The Doobie Brothers
+006	Taj Mahal
+006	T Rex
+006	Supertramp
+006	Steve Earle
+006	Psychedelic Furs
+006	Prince
+006	Phish
+006	Pete Townshend
+006	Otis Redding
+006	Old 97's
+006	Jeff Beck
+006	Frank Zappa
+006	Counting Crows
+006	Bruce Cockburn
+006	Beck
+005	Train
+005	Tom Waits
+005	The Spinners
+005	The Ramones
+005	The Lemonheads
+005	The Avett Brothers
+005	Stevie Ray Vaughan
+005	Steve Winwood
+005	Robert Palmer
+005	Ray Charles
+005	Pete Yorn
+005	Patty Griffin
+005	Oasis
+005	Norah Jones
+005	NRBQ
+005	Muddy Waters
+005	Modest Mouse
+005	Leonard Cohen
+005	King Crimson
+005	Josh Ritter
+005	John Mellencamp
+005	Joe Jackson
+005	Joan Armatrading
+005	Jeff Buckley
+005	Janis Joplin
+005	Jack Johnson
+005	Genesis
+005	Faces
+005	Dire Straits
+005	Chuck Berry
+005	Cheap Trick
+004	War
+004	Violent Femmes
+004	They Might Be Giants
+004	The Supremes
+004	The Pixies
+004	The O'Jays
+004	The National
+004	The Jayhawks
+004	The Hollies
+004	The Blasters
+004	The Animals
+004	Tedeschi Trucks Band
+004	Tears For Fears
+004	Susan Tedeschi
+004	Steve Miller Band
+004	Spoon
+004	Rufus Wainwright
+004	Roxy Music
+004	Rickie Lee Jones
+004	Phoenix
+004	Paul McCartney
+004	Patti Smith
+004	Nils Lofgren
+004	Neville Brothers
+004	Morrissey
+004	Matthew Sweet
+004	Lyle Lovett
+004	Little Richard
+004	LL Cool J
+004	LCD Soundsystem
+004	Kathleen Edwards
+004	John Lee Hooker
+004	Jethro Tull
+004	Jerry Garcia
+004	Jefferson Airplane
+004	J. J. Cale
+004	Iron And Wine
+004	Iggy Pop
+004	Howlin' Wolf
+004	Harry Nilsson
+004	Fats Domino
+004	Donovan
+004	Dionne Warwick
+004	Devo
+004	Dawes
+004	Cream
+004	Citizen Cope
+004	Buddy Guy
+004	Bob Weir
+004	Ben Folds Five
+004	Beastie Boys
+004	Barenaked Ladies
+004	10cc
+003	k. d. lang
+003	XTC
+003	Willie Nelson
+003	Traveling Wilburys
+003	Tori Amos
+003	Toots Hibbert
+003	Them
+003	The Yardbirds
+003	The White Stripes
+003	The Thompson Twins
+003	The Staple Singers
+003	The Smiths
+003	The Smithereens
+003	The Shins
+003	The Moody Blues
+003	The Monkees
+003	The Meters
+003	The Jesus And Mary Chain
+003	The Human League
+003	The Hooters
+003	The Heptones
+003	The Head And The Heart
+003	The English Beat
+003	The Black Crowes
+003	The Afghan Whigs
+003	TV On The Radio
+003	Suzanne Vega
+003	Sufjan Stevens
+003	Spirit
+003	Sam Cooke
+003	Ray Lamontagne
+003	Queen
+003	Procol Harum
+003	Peter Tosh
+003	Parquet Courts
+003	New Order
+003	Neneh Cherry
+003	Neil Diamond
+003	Natalie Merchant
+003	Mott The Hoople
+003	Madonna
+003	Leon Russell
+003	Lake Street Dive
+003	K. T. Tunstall
+003	Joseph Arthur
+003	Johnny Winter
+003	Joe Walsh
+003	Joe Cocker
+003	Jimmy Reed
+003	Jim Lauderdale
+003	Jane Siberry
+003	Jackson 5
+003	Ingrid Michaelson
+003	Hot Tuna
+003	Hank Williams
+003	Grand Funk Railroad
+003	Graham Parker
+003	Gin Blossoms
+003	Gary Clark Jr.
+003	Four Tops
+003	Foo Fighters
+003	Fine Young Cannibals
+003	Etta James
+003	Enya
+003	Emmylou Harris
+003	Elmore James
+003	Dr. Dog
+003	Depeche Mode
+003	Death Cab For Cutie
+003	David Bromberg
+003	Dave Clark Five
+003	Crowded House
+003	Courtney Barnett
+003	Chicago Transit Authority
+003	Bobby "Blue" Bland
+003	Blondie
+003	Bjork
+003	Bill Withers
+003	Bangles
+003	Band Of Horses
+003	Badfinger
+003	B. B. King
+003	Aretha Franklin
+003	Arcade Fire
+003	Alison Krauss
+003	Alanis Morissette
+003	Air
+003	10,000 Maniacs
+002	Ziggy Marley
+002	Zero 7
+002	ZZ Top
+002	World Party
+002	Utopia
+002	Uncle Tupelo
+002	UB40
+002	Trey Anastasio
+002	Tracy Chapman
+002	The Youngbloods
+002	The Waterboys
+002	The Sundays
+002	The Style Council
+002	The Stone Roses
+002	The Spencer Davis Group
+002	The Specials
+002	The Ronettes
+002	The Raspberries
+002	The Main Ingredient
+002	The Lumineers
+002	The Jam
+002	The Intruders
+002	The Impressions
+002	The Hold Steady
+002	The Grass Roots
+002	The Gaslight Anthem
+002	The Foundations
+002	The Flaming Lips
+002	The Dirty Dozen Brass Band
+002	The Delfonics
+002	The Decemberists
+002	The Darkness
+002	The Cranberries
+002	The Civil Wars
+002	The Buzzcocks
+002	The Buckinghams
+002	The Breeders
+002	The Alan Parsons Project
+002	Ten Years After
+002	Sugar
+002	Strawbs
+002	Steve Forbert
+002	Stephen Stills
+002	St. Vincent
+002	Squeeze
+002	Soup Dragons
+002	Social Distortion
+002	Snow Patrol
+002	Slim Harpo
+002	Simple Minds
+002	Shelby Lynne
+002	Shawn Colvin
+002	Semisonic
+002	Sam Smith
+002	Rosanne Cash
+002	Rodrigo Y Gabriela
+002	Rodney Crowell
+002	Robin Trower
+002	Robert Plant
+002	Ringo Starr
+002	Richie Havens
+002	R. L. Burnside
+002	Pulp
+002	Public Enemy
+002	Professor Longhair
+002	Primal Scream
+002	Phil Collins
+002	Pavement
+002	Paula Cole
+002	Paul Westerberg
+002	Patsy Cline
+002	Passion Pit
+002	Parliament
+002	Ozark Mountain Daredevils
+002	Otis Rush
+002	Ohio Players
+002	Nouvelle Vague
+002	Nick Lowe
+002	Morphine
+002	Melanie
+002	Me'shell Ndegeocello
+002	Mayer Hawthorne
+002	Massive Attack
+002	Mark Knopfler
+002	Madeleine Peyroux
+002	MGMT
+002	MC5
+002	Lynyrd Skynyrd
+002	Love
+002	Loudon Wainwright III
+002	Lou Reed
+002	Little Willie John
+002	Little Walter
+002	Lissie
+002	Lindsey Buckingham
+002	Leon Bridges
+002	Keane
+002	Kate Bush
+002	Junior Wells
+002	John Wesley Harding
+002	John Mayall
+002	John Coltrane
+002	Jim James
+002	Jerry Lee Lewis
+002	Jenny Lewis
+002	Jefferson Starship
+002	Jane's Addiction
+002	James Taylor
+002	JD McPherson
+002	Imogen Heap
+002	INXS
+002	Husker Du
+002	Hozier
+002	Heart
+002	Haircut One Hundred
+002	Guster
+002	Guided By Voices
+002	Gregg Allman
+002	Gram Parsons
+002	Gorillaz
+002	Gomez
+002	Gillian Welch
+002	George Ezra
+002	Gang Of Four
+002	G Love
+002	Freddie King
+002	Frank Sinatra
+002	Foster The People
+002	Florence And The Machine
+002	Fiona Apple
+002	Feist
+002	Father John Misty
+002	Eurythmics
+002	Eddie Kendricks
+002	Eddie Floyd
+002	Dusty Springfield
+002	Duran Duran
+002	Donavon Frankenreiter
+002	Donald Fagen
+002	Diana Ross
+002	Delta Rae
+002	Delbert McClinton
+002	Dave Edmunds
+002	Daft Punk
+002	Curtis Mayfield
+002	Crash Test Dummies
+002	Cracker
+002	Cowboy Junkies
+002	Chuck Prophet
+002	Carole King
+002	Carl Perkins
+002	Cake
+002	Cage The Elephant
+002	Bright Eyes
+002	Bon Iver
+002	Bobby Womack
+002	Bo Diddley
+002	Blur
+002	Blues Traveler
+002	Billy Joel
+002	Billy Bragg
+002	Big Audio Dynamite
+002	Beth Orton
+002	Ben Harper
+002	Belly
+002	Argent
+002	Arctic Monkeys
+002	Andrew Bird
+002	Amos Lee
+002	Alice Cooper
+002	Aimee Mann
+002	Aerosmith
+002	Adele
+002	Action Figure Party
+001	fun.
+001	case/lang/veirs
+001	Yeah Yeah Yeahs
+001	Yaz
+001	X
+001	Wynonie Harris
+001	Wings
+001	Willie Dixon
+001	William DeVaughn
+001	Wilbert Harrison
+001	Whiskeytown
+001	Wet Willie
+001	Weezer
+001	Ween
+001	Weather Report
+001	Warren Haynes
+001	Wang Chung
+001	Walter Egan
+001	Wall Of Voodoo
+001	Vanity Fare
+001	Van Hunt
+001	Van Halen
+001	Valerie June
+001	Us 3
+001	Urge Overkill
+001	Urban Dance Squad
+001	Tyrone Davis
+001	Trombone Shorty
+001	Trio
+001	Treat Her Right
+001	Translator
+001	Tony Bennett
+001	Tom Tom Club
+001	Tom Jones
+001	Toad The Wet Sprocket
+001	Tin Huey
+001	Timbuk 3
+001	Tim Hardin
+001	Tim Curry
+001	Tim Buckley
+001	Three Dog Night
+001	Thomas Dolby
+001	Third World
+001	Thin Lizzy
+001	Thievery Corporation
+001	The dB's
+001	The Young Rascals
+001	The Word
+001	The War On Drugs
+001	The Walkmen
+001	The Waitresses
+001	The Vogues
+001	The Verve
+001	The Velvet Underground
+001	The Velvelettes
+001	The Vaughan Brothers
+001	The Turtles
+001	The Troggs
+001	The Time
+001	The Syndicate Of Sound
+001	The Subdudes
+001	The Stylistics
+001	The Strokes
+001	The Stranglers
+001	The Strangeloves
+001	The Stooges
+001	The Standells
+001	The Spiral Staircase
+001	The Soft Boys
+001	The Slickers
+001	The Showstoppers
+001	The Shirelles
+001	The Sex Pistols
+001	The Searchers
+001	The Runaways
+001	The Roots
+001	The Revivalists
+001	The Revelations feat. Tre' Williams
+001	The Raveonettes
+001	The Rascals
+001	The Primitives
+001	The Posies
+001	The Poozies
+001	The Polyphonic Spree
+001	The Pogues
+001	The Plimsouls
+001	The Origin
+001	The Only Ones
+001	The New Pornographers
+001	The Nerves
+001	The Mavericks
+001	The Marvelettes
+001	The Marcus King Band
+001	The Lovin' Spoonful
+001	The Lemon Pipers
+001	The Korgis
+001	The Knickerbockers
+001	The Kit Kats
+001	The Kingsmen
+001	The Killers
+001	The Isley Brothers
+001	The Inmates
+001	The Iguanas
+001	The Honeycombs
+001	The Hombres
+001	The Heavy
+001	The Gourds
+001	The Go! Team
+001	The Go Gos
+001	The Fray
+001	The Flying Lizards
+001	The Flamingos
+001	The Fifth Dimension
+001	The Felice Brothers
+001	The Fall
+001	The Everly Brothers
+001	The Esquires
+001	The Electric Prunes
+001	The Easybeats
+001	The Dream Academy
+001	The Dramatics
+001	The Doublewides
+001	The Dandy Warhols
+001	The Creation
+001	The Crazy World Of Arthur Brown
+001	The Cramps
+001	The Contours
+001	The Commodores
+001	The Church
+001	The Chills
+001	The Chiffons
+001	The Castaways
+001	The Cardigans
+001	The Capitols
+001	The Box Tops
+001	The Bottle Rockets
+001	The Boomtown Rats
+001	The Bobby Fuller Four
+001	The Bluebells
+001	The Beginning Of The End
+001	The Angels
+001	The American Dream
+001	The Amboy Dukes
+001	Television
+001	Tegan And Sara
+001	Teddy Pendergrass
+001	Ted Hawkins
+001	Tanita Tikaram
+001	Tammy Wynette
+001	Tame Impala
+001	Talk Talk
+001	TLC
+001	Sylvan Esso
+001	Syd Straw
+001	Syd Barrett
+001	Swingin' Medallions
+001	Sweet
+001	Suicide
+001	Sugarloaf
+001	Sugarcubes
+001	Sugar Blue
+001	Sublime
+001	Styx
+001	Sturgill Simpson
+001	Strawberry Alarm Clock
+001	Strand Of Oaks
+001	Stories
+001	Stone Temple Pilots
+001	Stevie Nicks
+001	Steppenwolf
+001	Steeleye Span
+001	Stan Ridgway
+001	Squirrel Nut Zippers
+001	Split Enz
+001	Spiritualized
+001	Spin Doctors
+001	Special AKA
+001	Southern Culture On The Skids
+001	Soulive
+001	Soul Survivors
+001	Soul Coughing
+001	Soul Asylum
+001	Sonny Landreth
+001	Sonny Boy Williamson
+001	Sonia Dada
+001	Son Volt
+001	Solomon Burke
+001	Solange
+001	Soggy Bottom Boys
+001	Sniff N The Tears
+001	Smith
+001	Smashing Pumpkins
+001	Small Faces
+001	Sir Douglas Quintet
+001	Sinead O'Connor
+001	Silver Convention
+001	Sigue Sigue Sputnik
+001	Sia
+001	Shuggie Otis
+001	Shivaree
+001	Shirley Bassey
+001	Shemekia Copeland
+001	Shakey Graves
+001	Seal
+001	Screamin' Jay Hawkins
+001	Sara Bareilles
+001	Santogold
+001	Sade
+001	Ryan Bingham
+001	Ry Cooder
+001	Rusted Root
+001	Roy Orbison
+001	Roy Brown
+001	Roy Ayers
+001	Ron Wood
+001	Roger McGuinn
+001	Robert Knight
+001	Robert Hazard
+001	Robert Cray
+001	Robert Bradley's Blackwater Surprise
+001	Rick Nelson
+001	Rhett Miller
+001	Renaissance
+001	Ray Barretto
+001	Raul Malo
+001	Rag 'N' Bone Man
+001	Quicksilver Messenger Service
+001	Punch Brothers
+001	Pretty Poison
+001	Polica
+001	Poco
+001	Plastic Bertrand
+001	Phil Roy
+001	Phil Ochs
+001	Pharrell Williams
+001	Phantogram
+001	Petula Clark
+001	Peter Wolf
+001	Peter Bjorn And John
+001	Pete Seeger
+001	Pet Shop Boys
+001	Peggy Lee
+001	Paul Mauriat
+001	Paul Butterfield Blues Band
+001	Patty Larkin
+001	Patti Drew
+001	Patrice Rushen
+001	Pat Metheny Group
+001	Pablo Cruise
+001	PJ Harvey
+001	Orchestral Manoeuvres In The Dark
+001	Olu Dara
+001	Ollabelle
+001	Okkervil River
+001	Of Monsters And Men
+001	North Mississippi Allstars
+001	Nine Inch Nails
+001	Nina Simone
+001	Nil Lara
+001	Nickel Creek
+001	Nick Waterhouse
+001	Nick Drake
+001	New York City
+001	New Riders Of The Purple Sage
+001	Neutral Milk Hotel
+001	Neko Case
+001	Neil Finn
+001	Nazareth
+001	Natalie Prass
+001	Nanci Griffith
+001	Naked Eyes
+001	Nada Surf
+001	N. W. A.
+001	Mungo Jerry
+001	Mouth Music
+001	Mountain
+001	Mosquitos
+001	Monsters of Folk
+001	Mojo Nixon
+001	Modern English
+001	Milky Chance
+001	Mike Doughty
+001	Miike Snow
+001	Midlake
+001	Mick Jagger
+001	Michael McDonald
+001	Michael Kiwanuka
+001	Michael Hedges
+001	Metric
+001	Merle Haggard
+001	Mercy
+001	Men At Work
+001	Meat Puppets
+001	Mazzy Star
+001	Mavis Staples
+001	Matisyahu
+001	Marshall Tucker Band
+001	Marshall Crenshaw
+001	Marianne Faithfull
+001	Maria McKee
+001	Marc Broussard
+001	Manfred Mann
+001	Man Man
+001	Major Harris
+001	Maggie Rogers
+001	Macy Gray
+001	M83
+001	Lydia Loveless
+001	Luscious Jackson
+001	Luna
+001	Luka Bloom
+001	Love Unlimited Orchestra
+001	Love And Rockets
+001	Lou Rawls
+001	Lou Christie
+001	Los Lonely Boys
+001	Los Bravos
+001	Loretta Lynn
+001	Lord Huron
+001	Loamlands
+001	Lizz Wright
+001	Living Colour
+001	Live
+001	Little Junior Parker
+001	Linda Ronstadt
+001	Lightnin' Hopkins
+001	Lianne La Havas
+001	Lee Michaels
+001	Lavern Baker
+001	Laura Nyro
+001	Laura Mvula
+001	Larry Williams
+001	Lana Del Rey
+001	Labelle
+001	Kyle Craft
+001	Kraftwerk
+001	Koko Taylor
+001	Kirsty MacColl
+001	Kings Of Leon
+001	Kingfish
+001	King Harvest
+001	King Floyd
+001	King Curtis
+001	Kim Richey
+001	Kenny Rogers
+001	Keller Williams
+001	Keith Richards
+001	Karla Bonoff
+001	Karl Denson's Tiny Universe
+001	Karl Blau
+001	Justin Townes Earle
+001	Junior Reid
+001	Junior
+001	Joy Division
+001	Journey
+001	Joss Stone
+001	Josh Rouse
+001	Jose Gonzalez
+001	Jonny Lang
+001	Jonatha Brooke
+001	Jon Spencer Blues Explosion
+001	Johnny Nash
+001	John Martyn
+001	John Gorka
+001	John Fred and His Playboy Band
+001	John Butler Trio
+001	John Barry
+001	Joe Tex
+001	Joe Bonamassa
+001	Joan Osborne
+001	Joan Baez
+001	Jimmy Cliff
+001	Jimmy Buffett
+001	Jill Sobule
+001	Jerry Jeff Walker
+001	Jerry Butler
+001	Jellyfish
+001	Jeffrey Gaines
+001	Jeb Loy Nichols
+001	Jean Knight
+001	Jamie xx
+001	James Hunter
+001	James Blake
+001	Jackie Wilson
+001	Jack White
+001	J. J. Jackson
+001	It's A Beautiful Day
+001	Iron Butterfly
+001	Iris Dement
+001	Icehouse
+001	Ice Cube
+001	Ian Hunter
+001	Ian Gomm
+001	Hurray For The Riff Raff
+001	Howard Tate
+001	Hound Dog Taylor And The Houserockers
+001	Hoodoo Gurus
+001	Holmes Brothers
+001	Hiss Golden Messenger
+001	Herbie Hancock
+001	Hem
+001	Heaven 17
+001	Heatwave
+001	Hayes Carll
+001	Haim
+001	Guy Davis
+001	Greg Kihn
+001	Greg Holden
+001	Greg Brown
+001	Grant Lee Phillips
+001	Grant Lee Buffalo
+001	Grace Potter And The Nocturnals
+001	Grace Potter
+001	Gordon Lightfoot
+001	Good Old War
+001	Gnarls Barkley
+001	Gloria Gaynor
+001	Glen Campbell
+001	Gipsy Kings
+001	Gino Vannelli
+001	George Clinton
+001	Generation X
+001	Gene Vincent
+001	Gene Clark
+001	Gary Wright
+001	Gary Numan
+001	Gary Jules
+001	Funkadelic
+001	Frente
+001	Freedy Johnston
+001	Free
+001	Frederick Knight
+001	Fred Neil
+001	Franz Ferdinand
+001	Francis Dunnery
+001	Focus
+001	Foals
+001	Flight Of The Conchords
+001	Fleet Foxes
+001	Five For Fighting
+001	Field Report
+001	Euphoria
+001	Erin McKeown
+001	Eric Donaldson
+001	Elliott Smith
+001	Ellie Goulding
+001	Elle King
+001	Edwyn Collins
+001	Edwin Starr
+001	Edison Lighthouse
+001	Edgar Winter Group
+001	Edgar Winter
+001	Eddie Vedder
+001	Eddie Holman
+001	Dylan LeBlanc
+001	Dwight Yoakam
+001	Dwight Twilley Band
+001	Duncan Sheik
+001	Dum Dum Girls
+001	Duffy
+001	Dream Warriors
+001	Drake
+001	Donnie Iris
+001	Donna Summer
+001	Don Henley
+001	Dolly Parton
+001	Dobie Gray
+001	Django Django
+001	Dixie Chicks
+001	Divinyls
+001	Dinah Washington
+001	Diego Garcia
+001	Dido
+001	Dick Dale
+001	Dexy's Midnight Runners
+001	Desmond Dekker
+001	Dennis Brown
+001	Delta Spirit
+001	Del Fuegos
+001	Deep Purple
+001	De La Soul
+001	Dawg Yawp
+001	David Wax Museum
+001	David Ruffin
+001	David Lindley
+001	David Gray
+001	David Byrne
+001	Dave Mason
+001	Dave Alvin
+001	Daughn Gibson
+001	Darlingside
+001	Dar Williams
+001	Danielia Cotton
+001	Damien Rice
+001	Dada
+001	Cyndi Lauper
+001	Culture Club
+001	Crescent City Gold
+001	Cousteau
+001	Cornershop
+001	Concrete Blonde
+001	Climax Blues Band
+001	Chuck Jackson
+001	Chubby Checker
+001	Chris Whitley
+001	Chris Rea
+001	Chris Isaak
+001	Chris Botti
+001	Chris Bell
+001	Chicago
+001	Chet Baker
+001	Chemical Brothers
+001	Charlie
+001	Charles Bradley
+001	Chakachas
+001	Chairmen Of The Board
+001	Cee Lo Green
+001	Cat Stevens
+001	Cat Power
+001	Caravan
+001	Car Seat Headrest
+001	Canned Heat
+001	Camper Van Beethoven
+001	Calexico
+001	Caetano Veloso
+001	Buena Vista Social Club
+001	Buddy Holly
+001	Buckwheat Zydeco
+001	Bryan Ferry
+001	Bruce Hornsby
+001	Brothers Johnson
+001	Broken Bells
+001	Brighter Side Of Darkness
+001	Brian Eno and John Cale
+001	Brian Auger's Oblivion Express
+001	Brett Dennen
+001	Brenton Wood
+001	Bread
+001	Bram Tchaikovsky
+001	Brad Mehldau
+001	Bow Wow Wow
+001	Boston
+001	Borns
+001	Bobby Darin
+001	Bobby Byrd
+001	Bobbie Gentry
+001	Bob Mould
+001	Bob Andy
+001	Blue Rodeo
+001	Blind Faith
+001	Blind Boys Of Alabama
+001	Blancmange
+001	Black Uhuru
+001	Black Sabbath
+001	Black Rebel Motorcycle Club
+001	Black Kids
+001	Black 47
+001	Billy Swan
+001	Billy Idol
+001	Billie Joe + Norah
+001	Big Country
+001	Betty Wright
+001	Best Coast
+001	Ben Vaughn
+001	Ben Lee
+001	Ben Arnold
+001	Battles
+001	Barry White
+001	Barns Courtney
+001	Bananarama
+001	Bad Company
+001	Bad Brains
+001	Back Door Slam
+001	B. T. Express
+001	Aztec Camera
+001	Average White Band
+001	Arlo Guthrie
+001	Ariel Pink's Haunted Graffiti
+001	Antibalas
+001	Ann Peebles
+001	Ani DiFranco
+001	Angelique Kidjo
+001	Andy Pratt
+001	Andy Gibb
+001	Amy Winehouse
+001	Ambrosia
+001	Aloe Blacc
+001	Allen Toussaint
+001	Alice In Chains
+001	Alejandro Escovedo
+001	Albert King
+001	Albert Collins
+001	Adrian Belew
+001	Adam Duritz
+001	Adam Ant
+001	Abba
+001	Aaron Neville
+001	Aaron Lee Tasjan
+001	ACE
+001	AC/DC
+001	A Tribe Called Quest
+001	A Flock Of Seagulls

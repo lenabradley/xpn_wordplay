@@ -10,33 +10,63 @@ import pandas as pd
 import os
 import string
 import musicbrainzngs as mb
+import datetime as dt
+import glob
 import numpy as np
 
 # function definitions
-def read_playlist_data(filename=None, update_mb=False, remove_duplicate=True):
+def read_playlist_data(filename=None, update_mb=False, save_data=True):
     '''
     import data saved by the scrapy spider, update the musicbrainz data,
     re-save the data, and return the data as a pandas DataFrame
     '''
 
-    # import all data
-    if not filename:
-        filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
+    # setup for import
+    col_dtypes = {'artist':str, 'track':str, 'time':dt.datetime, 'release_year':np.int64}
+    csv_kwargs = {'sep': '\t', 'header': 0, 'dtype': col_dtypes, 'index_col':'time'}
+
+    # import all raw data & remove duplicates
+    paths = glob.glob('./scrape_playlist/playlistdata_*.csv')
+    dflist = []
+    for path in paths:
+        dflist.append(pd.read_csv(path, **csv_kwargs))
+    raw_data = pd.concat(dflist)
+    raw_data = raw_data.drop_duplicates().reset_index()
+
+    # import all current data & remove duplicates
+    if filename is None:
+        filename = 'playlistdata.csv'
     filename = os.path.abspath(filename)
-    data = pd.read_csv(filename, sep='\t', header=0)
+    prev_data = pd.read_csv(filename, **csv_kwargs)
+    prev_data = prev_data.drop_duplicates().reset_index()
+
+    # combine into master dataframe & fill NaNs with zeros
+    data = prev_data.merge(raw_data, how='outer')
+    data = data.fillna(value=int(0))
+    data['release_year'] = data['release_year'].astype(np.int64)
+
+    # save data
+    to_csv_kwargs = {'filename':filename, 'set':'\t', 'encoding':'utf-8', 'index':False}
+    if save_data:
+        data.to_csv(**to_csv_kwargs)
+        print 'data - combined raw and prev data and saved to: {0}'.format(filename)
 
     # update musicbrainz data
     if (not data.empty) and update_mb:
-        data = get_mb_data(data)
+        letters = list(string.ascii_lowercase)
 
-    # remove duplicate rows
-    if remove_duplicate:
-        data = data.drop_duplicates()
+        # update one letter at a time, saving in between
+        for letter in letters:
 
-    # if we changed anything, save it again
-    if ((not data.empty) and update_mb) or remove_duplicate:
-        data.to_csv(filename, sep='\t', encoding='utf-8', index=False)
-        print 'data updated and saved to: {0}'.format(filename)
+            # get MB data for the current subset
+            keep = [x[0].lower()==letter for x in data['track']]
+            sub_data = data[keep]
+            sub_data = get_mb_data(sub_data)
+
+            # append it to the full dataset and save
+            data[keep] = sub_data
+            data.to_csv(**to_csv_kwargs)
+            print 'data - update MB data for {0} and saved to: {1}'.format(letter, filename)
 
     return data
 
@@ -241,9 +271,9 @@ def main():
     playlist data
     '''
 
-    # gather song data
+    # gather song data and update MB info
     filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
-    data = read_playlist_data(filename=filename, update_mb=True)
+    data = read_playlist_data(filename=filename, update_mb=False, save_data=True)
     artists = list(data['artist'])
     times = list(data['time'])
     tracks = list(data['track'])

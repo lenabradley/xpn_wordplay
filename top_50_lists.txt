@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-08, 22:21
+Last updated: 2016-12-09, 15:36
 
 
 ==============================
@@ -7,31 +7,165 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:          1 Johnny Cash
-#   2:          1 Jackson 55
-#   3:          1 Elvis Presley
+#   1:         82 The Beatles
+#   2:         47 The Rolling Stones
+#   3:         44 Bob Dylan
+#   4:         39 Bruce Springsteen
+#   5:         29 Neil Young
+#   6:         26 Steely Dan
+#   7:         24 Led Zeppelin
+#   8:         24 David Bowie
+#   9:         20 Stevie Wonder
+#  10:         20 R. E. M.
+#  11:         20 Grateful Dead
+#  12:         18 Van Morrison
+#  13:         18 Elton John
+#  14:         16 Warren Zevon
+#  15:         16 The Who
+#  16:         16 Joni Mitchell
+#  17:         16 Eric Clapton
+#  18:         15 The Beach Boys
+#  19:         15 Jackson Browne
+#  20:         14 U2
+#  21:         14 Talking Heads
+#  22:         14 Paul Simon
+#  23:         14 Jimi Hendrix
+#  24:         13 Fleetwood Mac
+#  25:         13 Bonnie Raitt
+#  26:         12 Wilco
+#  27:         12 Todd Rundgren
+#  28:         12 The Kinks
+#  29:         12 The Allman Brothers
+#  30:         12 Sting
+#  31:         11 The Doors
+#  32:         11 The Clash
+#  33:         11 My Morning Jacket
+#  34:         11 John Lennon
+#  35:         11 Creedence Clearwater Revival
+#  36:         11 Coldplay
+#  37:         10 The Replacements
+#  38:         10 The Pretenders
+#  39:         10 Radiohead
+#  40:         10 Pearl Jam
+#  41:         10 Marvin Gaye
+#  42:         10 Dr. John
+#  43:          9 Richard Thompson
+#  44:          9 Pink Floyd
+#  45:          9 Peter Gabriel
+#  46:          9 Little Feat
+#  47:          9 Johnny Cash
+#  48:          9 George Harrison
+#  49:          9 Elvis Costello
+#  50:          9 Al Green
 
 ==============================
 Top 50 titles:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:          1 ABC
-#   2:          1 A Boy Named Sue (live)
-#   3:          1 A Big Hunk O' Love
+#   1:          4 Home
+#   2:          4 Hold On
+#   3:          4 Hard to Handle
+#   4:          4 Fire
+#   5:          4 Fever
+#   6:          4 Dreams
+#   7:          4 Crazy
+#   8:          3 Mess Around
+#   9:          3 It's Alright
+#  10:          3 I'm Free
+#  11:          3 I Ain't Superstitious
+#  12:          3 Human
+#  13:          3 Heaven
+#  14:          3 Head Over Heels
+#  15:          3 Hallelujah
+#  16:          3 Gloria
+#  17:          3 Drive
+#  18:          3 Do It Again
+#  19:          3 Cocaine
+#  20:          3 Cherry Oh Baby
+#  21:          3 California
+#  22:          3 Ball Of Confusion
+#  23:          2 Mustang Sally
+#  24:          2 Mr. Jones
+#  25:          2 Mr. Bojangles
+#  26:          2 Money (That's What I Want)
+#  27:          2 Miss You
+#  28:          2 Midnight Rider
+#  29:          2 Mercury Blues
+#  30:          2 May You Never
+#  31:          2 Mama Tried
+#  32:          2 Mad World
+#  33:          2 Luka
+#  34:          2 Lowdown
+#  35:          2 Love Vigilantes
+#  36:          2 Love Song
+#  37:          2 Love Rollercoaster
+#  38:          2 Love Hurts
+#  39:          2 Love And Happiness
+#  40:          2 Like A Rolling Stone
+#  41:          2 Lightning Strikes
+#  42:          2 Lies
+#  43:          2 Let's Dance
+#  44:          2 Let The Good Times Roll
+#  45:          2 Landslide
+#  46:          2 Knock On Wood
+#  47:          2 Keep On Truckin'
+#  48:          2 Kansas City
+#  49:          2 Jump
+#  50:          2 Jolene
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:          2 a
-#   2:          1 sue
-#   3:          1 o'
-#   4:          1 named
-#   5:          1 love
-#   6:          1 live
-#   7:          1 hunk
-#   8:          1 boy
-#   9:          1 big
-#  10:          1 abc
+#   1:        302 the
+#   2:        243 i
+#   3:        207 a
+#   4:        181 you
+#   5:        167 love
+#   6:        151 in
+#   7:        139 to
+#   8:        125 of
+#   9:        114 me
+#  10:        102 my
+#  11:         96 on
+#  12:         93 it
+#  13:         75 don't
+#  14:         73 and
+#  15:         68 i'm
+#  16:         60 all
+#  17:         54 is
+#  18:         54 for
+#  19:         48 your
+#  20:         48 be
+#  21:         46 it's
+#  22:         46 get
+#  23:         46 baby
+#  24:         42 like
+#  25:         41 man
+#  26:         41 down
+#  27:         40 back
+#  28:         38 little
+#  29:         38 can't
+#  30:         36 want
+#  31:         36 good
+#  32:         36 come
+#  33:         34 with
+#  34:         33 if
+#  35:         33 go
+#  36:         33 do
+#  37:         32 just
+#  38:         32 girl
+#  39:         32 ain't
+#  40:         31 up
+#  41:         31 life
+#  42:         28 time
+#  43:         28 heart
+#  44:         28 got
+#  45:         27 let
+#  46:         26 blue
+#  47:         25 now
+#  48:         25 hey
+#  49:         25 bad
+#  50:         24 big
