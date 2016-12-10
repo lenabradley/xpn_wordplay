@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-10, 08:44
+Last updated: 2016-12-10, 13:13
 
 
 ==============================
@@ -7,32 +7,32 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:         87 The Beatles
-#   2:         48 The Rolling Stones
+#   1:         88 The Beatles
+#   2:         51 The Rolling Stones
 #   3:         46 Bob Dylan
-#   4:         42 Bruce Springsteen
-#   5:         33 Neil Young
-#   6:         27 Steely Dan
-#   7:         27 Led Zeppelin
-#   8:         25 David Bowie
-#   9:         22 Grateful Dead
-#  10:         21 R. E. M.
+#   4:         43 Bruce Springsteen
+#   5:         34 Neil Young
+#   6:         28 Led Zeppelin
+#   7:         27 Steely Dan
+#   8:         26 David Bowie
+#   9:         22 R. E. M.
+#  10:         22 Grateful Dead
 #  11:         20 Stevie Wonder
 #  12:         19 Van Morrison
-#  13:         18 Elton John
-#  14:         17 Warren Zevon
-#  15:         17 U2
-#  16:         17 The Who
-#  17:         17 Joni Mitchell
-#  18:         17 Eric Clapton
-#  19:         16 Fleetwood Mac
-#  20:         15 The Beach Boys
-#  21:         15 Talking Heads
-#  22:         15 Paul Simon
-#  23:         15 Jackson Browne
-#  24:         15 Bonnie Raitt
-#  25:         14 Jimi Hendrix
-#  26:         13 Wilco
+#  13:         18 Fleetwood Mac
+#  14:         18 Elton John
+#  15:         17 Warren Zevon
+#  16:         17 U2
+#  17:         17 The Who
+#  18:         17 Joni Mitchell
+#  19:         17 Eric Clapton
+#  20:         16 Paul Simon
+#  21:         16 Bonnie Raitt
+#  22:         15 The Beach Boys
+#  23:         15 Talking Heads
+#  24:         15 Jackson Browne
+#  25:         14 Wilco
+#  26:         14 Jimi Hendrix
 #  27:         13 The Allman Brothers
 #  28:         13 My Morning Jacket
 #  29:         12 Todd Rundgren
@@ -40,23 +40,23 @@ Top 50 artists:
 #  31:         12 The Kinks
 #  32:         12 Sting
 #  33:         12 John Lennon
-#  34:         11 The Replacements
-#  35:         11 The Doors
-#  36:         11 The Clash
-#  37:         11 Pearl Jam
-#  38:         11 Little Feat
-#  39:         11 Creedence Clearwater Revival
-#  40:         11 Coldplay
-#  41:         10 Santana
-#  42:         10 Ryan Adams
-#  43:         10 Radiohead
+#  34:         12 Coldplay
+#  35:         11 The Replacements
+#  36:         11 The Doors
+#  37:         11 The Clash
+#  38:         11 Santana
+#  39:         11 Radiohead
+#  40:         11 Pearl Jam
+#  41:         11 Little Feat
+#  42:         11 Creedence Clearwater Revival
+#  43:         10 Ryan Adams
 #  44:         10 Pink Floyd
 #  45:         10 Peter Gabriel
 #  46:         10 Marvin Gaye
 #  47:         10 Johnny Cash
-#  48:         10 George Harrison
-#  49:         10 Elvis Costello
-#  50:         10 Dr. John
+#  48:         10 James Brown
+#  49:         10 George Harrison
+#  50:         10 Elvis Costello
 
 ==============================
 Top 50 titles:
@@ -87,74 +87,74 @@ Top 50 titles:
 #  22:          3 Cherry Oh Baby
 #  23:          3 California
 #  24:          3 Ball Of Confusion
-#  25:          2 Only You Know And I Know
-#  26:          2 Only Love Can Break Your Heart
-#  27:          2 One Way Out
-#  28:          2 One Of These Days
-#  29:          2 One Big Love
-#  30:          2 On The Road Again
-#  31:          2 Omaha
-#  32:          2 Oh Atlanta
-#  33:          2 No Reply
-#  34:          2 Night People
-#  35:          2 Mustang Sally
-#  36:          2 Mr. Jones
-#  37:          2 Mr. Bojangles
-#  38:          2 Money (That's What I Want)
-#  39:          2 Miss You
-#  40:          2 Midnight Rider
-#  41:          2 Mercury Blues
-#  42:          2 May You Never
-#  43:          2 Mama Tried
-#  44:          2 Mad World
-#  45:          2 Luka
-#  46:          2 Lowdown
-#  47:          2 Love Vigilantes
-#  48:          2 Love Song
-#  49:          2 Love Rollercoaster
-#  50:          2 Love Hurts
+#  25:          2 Paradise
+#  26:          2 Over And Over
+#  27:          2 Ophelia
+#  28:          2 Only You Know And I Know
+#  29:          2 Only Love Can Break Your Heart
+#  30:          2 One Way Out
+#  31:          2 One Of These Days
+#  32:          2 One Big Love
+#  33:          2 On The Road Again
+#  34:          2 Omaha
+#  35:          2 Oh Atlanta
+#  36:          2 No Reply
+#  37:          2 Night People
+#  38:          2 Mustang Sally
+#  39:          2 Mr. Jones
+#  40:          2 Mr. Bojangles
+#  41:          2 Money (That's What I Want)
+#  42:          2 Miss You
+#  43:          2 Midnight Rider
+#  44:          2 Mercury Blues
+#  45:          2 May You Never
+#  46:          2 Mama Tried
+#  47:          2 Mad World
+#  48:          2 Luka
+#  49:          2 Lowdown
+#  50:          2 Love Vigilantes
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        320 the
+#   1:        326 the
 #   2:        245 i
-#   3:        214 a
+#   3:        217 a
 #   4:        194 you
-#   5:        178 love
-#   6:        158 in
+#   5:        179 love
+#   6:        160 in
 #   7:        148 to
-#   8:        135 of
-#   9:        124 my
-#  10:        117 me
-#  11:        113 on
-#  12:         94 it
-#  13:         77 and
-#  14:         75 don't
+#   8:        139 of
+#   9:        126 my
+#  10:        118 me
+#  11:        115 on
+#  12:         95 it
+#  13:         82 and
+#  14:         76 don't
 #  15:         68 i'm
 #  16:         60 all
 #  17:         55 is
 #  18:         55 for
-#  19:         51 your
-#  20:         51 no
+#  19:         52 no
+#  20:         51 your
 #  21:         49 one
 #  22:         48 be
 #  23:         47 it's
 #  24:         47 baby
-#  25:         46 get
-#  26:         45 man
+#  25:         46 man
+#  26:         46 get
 #  27:         45 like
-#  28:         42 down
+#  28:         43 down
 #  29:         42 back
 #  30:         39 can't
-#  31:         38 little
-#  32:         37 go
-#  33:         36 want
-#  34:         36 time
-#  35:         36 good
-#  36:         36 come
+#  31:         38 time
+#  32:         38 little
+#  33:         37 go
+#  34:         37 come
+#  35:         36 want
+#  36:         36 good
 #  37:         34 with
 #  38:         34 up
 #  39:         34 night
@@ -164,9 +164,9 @@ Top 50 title words:
 #  43:         32 life
 #  44:         32 just
 #  45:         32 ain't
-#  46:         30 heart
-#  47:         28 new
-#  48:         28 got
+#  46:         31 heart
+#  47:         29 new
+#  48:         29 got
 #  49:         27 let
 #  50:         27 hey
 
@@ -175,53 +175,53 @@ Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        122 1
-#   2:        116 1970
-#   3:        102 1969
-#   4:        100 1971
-#   5:         93 1973
-#   6:         92 1972
-#   7:         83 1967
-#   8:         78 1975
-#   9:         78 1974
+#   1:        125 1
+#   2:        120 1970
+#   3:        103 1969
+#   4:        101 1971
+#   5:         97 1973
+#   6:         95 1972
+#   7:         84 1967
+#   8:         79 1975
+#   9:         79 1974
 #  10:         76 1976
-#  11:         70 1968
-#  12:         69 1980
-#  13:         69 1978
-#  14:         69 1977
-#  15:         67 1994
-#  16:         65 1979
-#  17:         63 1982
-#  18:         61 1993
-#  19:         61 1991
+#  11:         72 1968
+#  12:         70 1994
+#  13:         70 1980
+#  14:         70 1978
+#  15:         69 1977
+#  16:         66 1979
+#  17:         64 1982
+#  18:         63 1991
+#  19:         61 1993
 #  20:         60 1984
-#  21:         57 1992
-#  22:         55 1966
-#  23:         54 1989
+#  21:         59 1966
+#  22:         58 1992
+#  23:         55 1989
 #  24:         54 1965
 #  25:         50 1985
 #  26:         49 1988
-#  27:         48 1986
-#  28:         46 1995
-#  29:         46 1987
-#  30:         44 1996
-#  31:         44 1983
-#  32:         42 2004
-#  33:         42 2001
-#  34:         41 2007
+#  27:         49 1986
+#  28:         47 1987
+#  29:         47 1983
+#  30:         46 1996
+#  31:         46 1995
+#  32:         43 2004
+#  33:         42 2007
+#  34:         42 2001
 #  35:         41 1998
-#  36:         40 2003
-#  37:         40 2000
-#  38:         40 1981
-#  39:         39 1964
-#  40:         37 2016
-#  41:         37 2002
-#  42:         37 1990
+#  36:         41 1981
+#  37:         40 2003
+#  38:         40 2000
+#  39:         39 2002
+#  40:         39 1964
+#  41:         38 2016
+#  42:         38 1990
 #  43:         36 1999
-#  44:         33 2005
-#  45:         32 2013
-#  46:         31 2006
-#  47:         30 2011
+#  44:         34 2005
+#  45:         33 2013
+#  46:         33 2006
+#  47:         32 2011
 #  48:         30 2010
 #  49:         29 2009
 #  50:         25 2014

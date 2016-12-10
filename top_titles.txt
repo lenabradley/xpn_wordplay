@@ -22,6 +22,9 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Paradise
+002	Over And Over
+002	Ophelia
 002	Only You Know And I Know
 002	Only Love Can Break Your Heart
 002	One Way Out
@@ -170,6 +173,57 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Party Time
+001	Particle Man
+001	Part of Me
+001	Part Of The Plan
+001	Parklife
+001	Paris 1919
+001	Paranoid Android
+001	Paranoid
+001	Paradise By The Dashboard Light
+001	Parachute Woman
+001	Paperback Writer
+001	Paper Sun
+001	Paper Planes
+001	Papa's Got A Brand New Bag
+001	Papa Was A Rolling Stone
+001	Papa Don't Take No Mess (Part 1)
+001	Papa Come Quick
+001	Panic In Detroit
+001	Panic
+001	Panama Red
+001	Pale Shelter
+001	Painting By Numbers
+001	Paint It, Black
+001	Pain Lies On The Riverside
+001	Oye Isabel
+001	Oye Como Va
+001	Oxford Comma
+001	Owner Of A Lonely Heart
+001	Overnight Sensation (hit Record)
+001	Over Under Sideways Down
+001	Over The Hills And Far Away
+001	Over My Head
+001	Over And Over Again (lost And Found)
+001	Outtasite (outta Mind)
+001	Outrageous
+001	Out On The Weekend
+001	Out Of Time
+001	Out In The Street
+001	Our Love
+001	Our Lips Are Sealed
+001	Our House
+001	Our Hearts Are Wrong
+001	Orion
+001	Orinocco Flow
+001	Original Sin
+001	Oregon Hill
+001	Ordinary People
+001	Orange Sky
+001	Orange Crush
+001	Operator
+001	Open My Eyes
 001	Open Invitation
 001	Ooh Las Vegas
 001	Ooh La La
