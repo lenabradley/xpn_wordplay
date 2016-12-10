@@ -1,9 +1,9 @@
-329	the
+330	the
 245	i
-217	a
+218	a
 195	you
-179	love
-160	in
+180	love
+161	in
 149	to
 139	of
 126	my
@@ -22,8 +22,8 @@
 048	be
 047	man
 047	it's
+047	get
 047	baby
-046	get
 045	like
 043	down
 042	back
@@ -44,8 +44,8 @@
 032	just
 032	ain't
 031	heart
+030	got
 029	new
-029	got
 027	let
 027	hey
 027	big
@@ -66,6 +66,7 @@
 020	home
 020	fire
 020	dance
+019	people
 019	mind
 019	going
 018	world
@@ -79,11 +80,11 @@
 018	black
 017	that
 017	never
+017	gonna
 017	from
 017	again
 016	thing
 016	let's
-016	gonna
 015	so
 015	see
 015	rain
@@ -110,6 +111,7 @@
 013	into
 013	hold
 013	heaven
+013	have
 013	hard
 013	feel
 013	easy
@@ -123,7 +125,6 @@
 012	mama
 012	lost
 012	keep
-012	have
 012	dream
 012	days
 012	dancing
@@ -146,8 +147,8 @@
 011	eyes
 011	country
 011	california
+011	are
 010	we
-010	people
 010	money
 010	lady
 010	house
@@ -173,7 +174,6 @@
 009	everybody's
 009	but
 009	as
-009	are
 008	without
 008	under
 008	things
@@ -229,6 +229,8 @@
 006	take
 006	sleep
 006	she
+006	say
+006	ready
 006	queen
 006	peace
 006	nothing
@@ -271,9 +273,7 @@
 005	stone
 005	still
 005	shoes
-005	say
 005	run
-005	ready
 005	place
 005	party
 005	our
@@ -335,6 +335,7 @@
 004	through
 004	think
 004	tears
+004	talk
 004	sweet
 004	sunshine
 004	strikes
@@ -348,6 +349,7 @@
 004	s
 004	running
 004	room
+004	power
 004	part
 004	paradise
 004	once
@@ -438,7 +440,6 @@
 003	triangle
 003	top
 003	talkin'
-003	talk
 003	takes
 003	survive
 003	superstitious
@@ -460,7 +461,6 @@
 003	red
 003	record
 003	pretty
-003	power
 003	pie
 003	papa
 003	ordinary
@@ -637,6 +637,7 @@
 002	summertime
 002	sugar
 002	suede
+002	sue
 002	stuff
 002	strong
 002	stranger
@@ -755,6 +756,7 @@
 002	lowdown
 002	lovers
 002	love's
+002	lotta
 002	lot
 002	loser
 002	lose
@@ -1105,7 +1107,6 @@
 001	sunrise
 001	sunlight
 001	sunflower
-001	sue
 001	sucker
 001	such
 001	submarines
@@ -1119,6 +1120,7 @@
 001	streak
 001	straw
 001	strangers
+001	strange
 001	storm
 001	stoned
 001	stinks
@@ -1340,6 +1342,10 @@
 001	personality
 001	perennials
 001	peppermints
+001	pensacola
+001	penny
+001	peggy
+001	peg
 001	pedestrian
 001	pearly
 001	peacekeeper
@@ -1414,6 +1420,7 @@
 001	nightclub
 001	nick
 001	ng
+001	nerve
 001	nelson
 001	negrita
 001	needles
@@ -1554,7 +1561,6 @@
 001	loud
 001	lou
 001	lotus
-001	lotta
 001	lord
 001	looks
 001	lookout
@@ -1616,6 +1622,7 @@
 001	launcher
 001	laughing
 001	laredo
+001	lane
 001	lampshades
 001	lagos
 001	ladyflash

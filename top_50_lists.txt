@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-10, 14:22
+Last updated: 2016-12-10, 15:14
 
 
 ==============================
@@ -7,13 +7,13 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:         88 The Beatles
+#   1:         89 The Beatles
 #   2:         51 The Rolling Stones
 #   3:         46 Bob Dylan
 #   4:         43 Bruce Springsteen
 #   5:         35 Neil Young
-#   6:         28 Led Zeppelin
-#   7:         27 Steely Dan
+#   6:         28 Steely Dan
+#   7:         28 Led Zeppelin
 #   8:         26 David Bowie
 #   9:         22 R. E. M.
 #  10:         22 Grateful Dead
@@ -33,12 +33,12 @@ Top 50 artists:
 #  24:         15 Jackson Browne
 #  25:         14 Wilco
 #  26:         14 Jimi Hendrix
-#  27:         13 The Allman Brothers
-#  28:         13 My Morning Jacket
-#  29:         12 Todd Rundgren
-#  30:         12 The Pretenders
-#  31:         12 The Kinks
-#  32:         12 The Doors
+#  27:         13 The Doors
+#  28:         13 The Allman Brothers
+#  29:         13 My Morning Jacket
+#  30:         12 Todd Rundgren
+#  31:         12 The Pretenders
+#  32:         12 The Kinks
 #  33:         12 Sting
 #  34:         12 John Lennon
 #  35:         12 Coldplay
@@ -119,12 +119,12 @@ Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        329 the
+#   1:        330 the
 #   2:        245 i
-#   3:        217 a
+#   3:        218 a
 #   4:        195 you
-#   5:        179 love
-#   6:        160 in
+#   5:        180 love
+#   6:        161 in
 #   7:        149 to
 #   8:        139 of
 #   9:        126 my
@@ -143,8 +143,8 @@ Top 50 title words:
 #  22:         48 be
 #  23:         47 man
 #  24:         47 it's
-#  25:         47 baby
-#  26:         46 get
+#  25:         47 get
+#  26:         47 baby
 #  27:         45 like
 #  28:         43 down
 #  29:         42 back
@@ -165,8 +165,8 @@ Top 50 title words:
 #  44:         32 just
 #  45:         32 ain't
 #  46:         31 heart
-#  47:         29 new
-#  48:         29 got
+#  47:         30 got
+#  48:         29 new
 #  49:         27 let
 #  50:         27 hey
 
@@ -181,30 +181,30 @@ Top 50 release year:
 #   4:        102 1971
 #   5:         97 1973
 #   6:         95 1972
-#   7:         84 1967
-#   8:         79 1975
-#   9:         79 1974
+#   7:         86 1967
+#   8:         80 1974
+#   9:         79 1975
 #  10:         77 1976
 #  11:         72 1968
 #  12:         71 1994
 #  13:         70 1980
 #  14:         70 1978
-#  15:         69 1977
-#  16:         67 1979
+#  15:         70 1977
+#  16:         68 1979
 #  17:         64 1982
 #  18:         63 1991
-#  19:         61 1993
-#  20:         61 1984
-#  21:         59 1966
-#  22:         58 1992
+#  19:         62 1984
+#  20:         61 1993
+#  21:         59 1992
+#  22:         59 1966
 #  23:         55 1989
-#  24:         54 1965
-#  25:         50 1988
+#  24:         55 1965
+#  25:         51 1988
 #  26:         50 1985
 #  27:         49 1986
-#  28:         48 1987
-#  29:         47 1996
-#  30:         47 1995
+#  28:         48 1995
+#  29:         48 1987
+#  30:         47 1996
 #  31:         47 1983
 #  32:         43 2004
 #  33:         42 2007
@@ -218,10 +218,10 @@ Top 50 release year:
 #  41:         39 1964
 #  42:         38 1990
 #  43:         37 1999
-#  44:         34 2005
-#  45:         33 2013
-#  46:         33 2006
+#  44:         34 2006
+#  45:         34 2005
+#  46:         33 2013
 #  47:         32 2011
 #  48:         30 2010
-#  49:         29 2009
+#  49:         30 2009
 #  50:         25 2015

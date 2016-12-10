@@ -84,7 +84,7 @@ def get_mb_data(data):
     '''
 
     # setup musicbrainz agent
-    filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\contact'
+    filename = 'contact'
     filename = os.path.abspath(filename)
     f = open(filename, 'r')
     contact = f.read()
@@ -231,7 +231,7 @@ def print_top(word_counts, title='', num=10, quiet=False):
 
     return fullstring
 
-def save_counts(word_counts, filename='word_counts.txt'):
+def save_counts(word_counts, filename='counts.txt'):
     '''
     Save list of string-count tuples in a text file with the name filename
     '''
@@ -269,7 +269,7 @@ def main():
     '''
 
     # gather song data and update MB info
-    filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
+    filename = 'playlistdata.csv'
     data = read_playlist_data(filename=filename, update_mb=True, save_data=True)
     artists = list(data['artist'])
     years = list(data['release_year'])
@@ -318,14 +318,6 @@ def main():
     letter_counts.update(unique_letters)
     unique_letters = zip(letter_counts.keys(), letter_counts.values())
     save_counts(unique_letters, filename='letter_counts.txt')
-
-    # hours per letter
-
-
-    # number of words in song title
-
-
-
 
 if __name__ == '__main__':
   main()

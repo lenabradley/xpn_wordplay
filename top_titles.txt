@@ -174,6 +174,18 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	People Say
+001	People In Love
+001	People Have The Power
+001	People Got A Lotta Nerve
+001	People Gonna Talk
+001	People Get Ready
+001	People Are Strange
+001	People Are People
+001	Pensacola
+001	Penny Lane
+001	Peggy Sue
+001	Peg
 001	Pedestrian At Best
 001	Pearly
 001	Peaches En Regalia

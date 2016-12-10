@@ -1,10 +1,10 @@
-088	The Beatles
+089	The Beatles
 051	The Rolling Stones
 046	Bob Dylan
 043	Bruce Springsteen
 035	Neil Young
+028	Steely Dan
 028	Led Zeppelin
-027	Steely Dan
 026	David Bowie
 022	R. E. M.
 022	Grateful Dead
@@ -24,12 +24,12 @@
 015	Jackson Browne
 014	Wilco
 014	Jimi Hendrix
+013	The Doors
 013	The Allman Brothers
 013	My Morning Jacket
 012	Todd Rundgren
 012	The Pretenders
 012	The Kinks
-012	The Doors
 012	Sting
 012	John Lennon
 012	Coldplay
@@ -124,6 +124,7 @@
 005	Ray Charles
 005	Pete Yorn
 005	Paul McCartney
+005	Patti Smith
 005	Oasis
 005	Norah Jones
 005	NRBQ
@@ -155,6 +156,7 @@
 004	The O'Jays
 004	The National
 004	The Moody Blues
+004	The Meters
 004	The Jayhawks
 004	The Hollies
 004	The Heptones
@@ -169,7 +171,6 @@
 004	Roxy Music
 004	Rickie Lee Jones
 004	Phoenix
-004	Patti Smith
 004	Nils Lofgren
 004	Neville Brothers
 004	Morrissey
@@ -178,6 +179,7 @@
 004	Little Richard
 004	LL Cool J
 004	Joe Walsh
+004	Joan Osborne
 004	Jethro Tull
 004	Jerry Garcia
 004	Jefferson Airplane
@@ -193,6 +195,7 @@
 004	Donovan
 004	Dionne Warwick
 004	Devo
+004	Depeche Mode
 004	Death Cab For Cutie
 004	Dawes
 004	Cream
@@ -220,9 +223,9 @@
 003	The Staple Singers
 003	The Raspberries
 003	The Monkees
-003	The Meters
 003	The Lumineers
 003	The Jesus And Mary Chain
+003	The Impressions
 003	The Human League
 003	The Hooters
 003	The Head And The Heart
@@ -249,6 +252,7 @@
 003	Mountain
 003	Mott The Hoople
 003	Madonna
+003	Loudon Wainwright III
 003	Lou Reed
 003	Little Willie John
 003	Leon Russell
@@ -257,7 +261,6 @@
 003	Joseph Arthur
 003	Johnny Winter
 003	Joe Cocker
-003	Joan Osborne
 003	Jimmy Reed
 003	Jim Lauderdale
 003	Jerry Butler
@@ -282,7 +285,6 @@
 003	Dusty Springfield
 003	Dr. Dog
 003	Donald Fagen
-003	Depeche Mode
 003	David Bromberg
 003	Dave Clark Five
 003	Daft Punk
@@ -290,6 +292,7 @@
 003	Cowboy Junkies
 003	Chicago Transit Authority
 003	Cake
+003	Buddy Holly
 003	Bobby "Blue" Bland
 003	Blur
 003	Bjork
@@ -329,7 +332,6 @@
 002	The Knickerbockers
 002	The Jam
 002	The Intruders
-002	The Impressions
 002	The Iguanas
 002	The Hold Steady
 002	The Grass Roots
@@ -388,6 +390,7 @@
 002	Nouvelle Vague
 002	Nick Lowe
 002	New Riders Of The Purple Sage
+002	Neko Case
 002	Morphine
 002	Merle Haggard
 002	Melanie
@@ -403,7 +406,6 @@
 002	Luscious Jackson
 002	Love And Rockets
 002	Love
-002	Loudon Wainwright III
 002	Live
 002	Little Walter
 002	Lissie
@@ -422,6 +424,7 @@
 002	Jefferson Starship
 002	Jane's Addiction
 002	James Taylor
+002	James Hunter
 002	JD McPherson
 002	Imogen Heap
 002	Ian Hunter
@@ -463,7 +466,6 @@
 002	Carl Perkins
 002	Canned Heat
 002	Cage The Elephant
-002	Buddy Holly
 002	Bright Eyes
 002	Brenton Wood
 002	Bon Iver
@@ -759,7 +761,6 @@
 001	Nick Drake
 001	New York City
 001	Neutral Milk Hotel
-001	Neko Case
 001	Neil Finn
 001	Nazz
 001	Nazareth
@@ -889,7 +890,6 @@
 001	Jean Knight
 001	Jamie xx
 001	James McMurtry
-001	James Hunter
 001	James Blake
 001	Jackie Wilson
 001	Jack White
