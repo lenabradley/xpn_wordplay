@@ -22,6 +22,7 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Peace Train
 002	Paradise
 002	Over And Over
 002	Ophelia
@@ -173,6 +174,22 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Pedestrian At Best
+001	Pearly
+001	Peaches En Regalia
+001	Peaches
+001	Peacekeeper
+001	Peaceful, Easy Feeling
+001	Peace Trail
+001	Peace Tonight
+001	Peace Frog
+001	Pay To The Piper
+001	Pay The Man
+001	Pastime Paradise
+001	Past The Mission
+001	Passionate Kisses
+001	Passion Is No Ordinary Word
+001	Pass You By
 001	Party Time
 001	Particle Man
 001	Part of Me

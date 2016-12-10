@@ -1,10 +1,10 @@
-326	the
+329	the
 245	i
 217	a
-194	you
+195	you
 179	love
 160	in
-148	to
+149	to
 139	of
 126	my
 118	me
@@ -14,15 +14,15 @@
 076	don't
 068	i'm
 060	all
-055	is
+056	is
 055	for
-052	no
+053	no
 051	your
 049	one
 048	be
+047	man
 047	it's
 047	baby
-046	man
 046	get
 045	like
 043	down
@@ -59,8 +59,8 @@
 024	over
 023	woman
 023	can
+022	by
 021	only
-021	by
 021	away
 020	i've
 020	home
@@ -70,6 +70,7 @@
 019	going
 018	world
 018	what
+018	train
 018	road
 018	long
 018	how
@@ -80,7 +81,6 @@
 017	never
 017	from
 017	again
-016	train
 016	thing
 016	let's
 016	gonna
@@ -103,6 +103,7 @@
 014	cry
 014	city
 014	been
+014	at
 013	sun
 013	stop
 013	more
@@ -111,8 +112,8 @@
 013	heaven
 013	hard
 013	feel
+013	easy
 013	change
-013	at
 013	another
 013	alright
 012	will
@@ -123,7 +124,6 @@
 012	lost
 012	keep
 012	have
-012	easy
 012	dream
 012	days
 012	dancing
@@ -132,6 +132,7 @@
 012	around
 011	was
 011	too
+011	tonight
 011	roll
 011	rock
 011	or
@@ -146,7 +147,6 @@
 011	country
 011	california
 010	we
-010	tonight
 010	people
 010	money
 010	lady
@@ -230,6 +230,7 @@
 006	sleep
 006	she
 006	queen
+006	peace
 006	nothing
 006	next
 006	mystery
@@ -303,6 +304,7 @@
 005	freedom
 005	fine
 005	find
+005	feeling
 005	ever
 005	enough
 005	dust
@@ -347,6 +349,7 @@
 004	running
 004	room
 004	part
+004	paradise
 004	once
 004	nobody
 004	nice
@@ -393,7 +396,6 @@
 004	forget
 004	five
 004	first
-004	feeling
 004	feelin'
 004	falling
 004	fade
@@ -460,12 +462,13 @@
 003	pretty
 003	power
 003	pie
-003	paradise
 003	papa
+003	ordinary
 003	orange
 003	o
 003	numbers
 003	mountain
+003	mission
 003	mine
 003	million
 003	message
@@ -684,6 +687,10 @@
 002	plane
 002	pity
 002	pieces
+002	peaches
+002	pay
+002	past
+002	pass
 002	partners
 002	park
 002	paris
@@ -697,7 +704,6 @@
 002	oye
 002	other
 002	orleans
-002	ordinary
 002	ophelia
 002	ooh
 002	omaha
@@ -729,7 +735,6 @@
 002	modern
 002	misunderstood
 002	mistake
-002	mission
 002	mirror
 002	messin'
 002	mercury
@@ -932,6 +937,7 @@
 002	blackbird
 002	bittersweet
 002	biloxi
+002	best
 002	believer
 002	belief
 002	beginning
@@ -984,6 +990,7 @@
 001	worth
 001	worksong
 001	works
+001	word
 001	wonderful
 001	wonder
 001	won
@@ -1051,6 +1058,7 @@
 001	trick
 001	treatment
 001	trashcan
+001	trail
 001	traffic
 001	track
 001	toy
@@ -1265,6 +1273,7 @@
 001	reign
 001	regrets
 001	reggae
+001	regalia
 001	reed
 001	reason
 001	realize
@@ -1320,6 +1329,7 @@
 001	places
 001	pitiful
 001	pirates
+001	piper
 001	pins
 001	pink
 001	pilot
@@ -1330,11 +1340,15 @@
 001	personality
 001	perennials
 001	peppermints
-001	peace
+001	pedestrian
+001	pearly
+001	peacekeeper
+001	peaceful
 001	pavements
 001	patrolman
-001	past
-001	pass
+001	pastime
+001	passionate
+001	passion
 001	particular
 001	particle
 001	parklife
@@ -1618,6 +1632,7 @@
 001	kite
 001	kissing
 001	kissin
+001	kisses
 001	kingpin
 001	kinda
 001	killin'
@@ -1869,6 +1884,7 @@
 001	frosty
 001	frontier
 001	front
+001	frog
 001	freight
 001	freeway
 001	freeker
@@ -1958,6 +1974,7 @@
 001	englishman
 001	ends
 001	ended
+001	en
 001	empire
 001	emotional
 001	eminence
@@ -2358,7 +2375,6 @@
 001	between
 001	betcha
 001	bet
-001	best
 001	beside
 001	bertha
 001	bernadette
