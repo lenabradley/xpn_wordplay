@@ -13,12 +13,17 @@ import musicbrainzngs as mb
 import datetime as dt
 import glob
 import numpy as np
+pd.options.mode.chained_assignment = None  # default='warn'
 
 # function definitions
 def read_playlist_data(filename=None, update_mb=False, save_data=True):
     '''
     import data saved by the scrapy spider, update the musicbrainz data,
     re-save the data, and return the data as a pandas DataFrame
+
+    release_year key:
+    if 0: haven't looked for this track yet (new data)
+    if 1: failed to find this track before (don't try again)
     '''
 
     # setup for import
@@ -46,9 +51,9 @@ def read_playlist_data(filename=None, update_mb=False, save_data=True):
     data['release_year'] = data['release_year'].astype(np.int64)
 
     # save data
-    to_csv_kwargs = {'filename':filename, 'set':'\t', 'encoding':'utf-8', 'index':False}
+    to_csv_kwargs = {'sep':'\t', 'encoding':'utf-8', 'index':False}
     if save_data:
-        data.to_csv(**to_csv_kwargs)
+        data.to_csv(filename, **to_csv_kwargs)
         print 'data - combined raw and prev data and saved to: {0}'.format(filename)
 
     # update musicbrainz data
@@ -60,12 +65,12 @@ def read_playlist_data(filename=None, update_mb=False, save_data=True):
 
             # get MB data for the current subset
             keep = [x[0].lower()==letter for x in data['track']]
-            sub_data = data[keep]
+            sub_data = data.loc[keep]
             sub_data = get_mb_data(sub_data)
 
             # append it to the full dataset and save
             data[keep] = sub_data
-            data.to_csv(**to_csv_kwargs)
+            data.to_csv(filename, **to_csv_kwargs)
             print 'data - update MB data for {0} and saved to: {1}'.format(letter, filename)
 
     return data
@@ -77,14 +82,6 @@ def get_mb_data(data):
     release year, album, etc, for entires that don't yet have that info. Return
     the completed table
     '''
-
-    # if our fields are missing, add them
-    if 'release_year' not in data.columns:
-        data['release_year'] = 0
-
-    # If there are NaNs, set them to zero
-    data = data.fillna(value=0)
-    data['release_year'] = data['release_year'].astype(int)
 
     # setup musicbrainz agent
     filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\contact'
@@ -113,17 +110,17 @@ def get_mb_data(data):
             try:
                 print '{0:d} {1} by {2}'.format(release_year, song.track, song.artist)
             except:
-                print 'error', release_year, 'setting to zero'
-                release_year = int(0)
+                print 'error', release_year, 'setting to 1'
+                release_year = 1
 
             years.append(release_year)
 
         else:
-            release_year = song.release_year
-            years.append(song.release_year)
+            release_year = int(song.release_year)
+            years.append(release_year)
 
     # update dataframe
-    data['release_year'] = years
+    data.loc[:,'release_year'] = years
 
     # return data frame
     return data
@@ -132,7 +129,7 @@ def extract_mb_results(results):
     '''
     given results from a musicbrainzngs.search_recordings query, extract the
     earliest official release and return the year and album name. If no
-    results, return year as 0 and album name as ''
+    results, return year as 1 and album name as ''
     '''
 
     # extract all release years
@@ -169,7 +166,7 @@ def extract_mb_results(results):
     if alldata:
         data = min(alldata, key=lambda x: x[0])
     else:
-        data = (0, '')
+        data = (1, '')
 
     return data
 
@@ -273,9 +270,9 @@ def main():
 
     # gather song data and update MB info
     filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
-    data = read_playlist_data(filename=filename, update_mb=False, save_data=True)
+    data = read_playlist_data(filename=filename, update_mb=True, save_data=True)
     artists = list(data['artist'])
-    times = list(data['time'])
+    years = list(data['release_year'])
     tracks = list(data['track'])
     albums = list(data['album'])
 
@@ -283,16 +280,19 @@ def main():
     unique_track_words = count_list(tracks, break_words=True)
     unique_tracks = count_list(tracks, break_words=False)
     unique_artists = count_list(artists, break_words=False)
+    unique_years = count_list(years, break_words=False)
 
     # save title, title-word and artists counts
     save_counts(unique_track_words, filename='top_title_words.txt')
     save_counts(unique_tracks, filename='top_titles.txt')
     save_counts(unique_artists, filename='top_artists.txt')
+    save_counts(unique_years, filename='top_years.txt')
 
     # get top 20 lists
     top_track_words = print_top(unique_track_words, title='title words', num=50, quiet=True)
     top_tracks = print_top(unique_tracks, title='titles', num=50, quiet=True)
     top_artists = print_top(unique_artists, title='artists', num=50, quiet=True)
+    top_years = print_top(unique_years, title='release year', num=50, quiet=True)
 
     # save top 20 lists to a text file
     f = open('last_updated.txt')
@@ -307,6 +307,8 @@ def main():
     f.write(top_tracks)
     f.write('\n')
     f.write(top_track_words)
+    f.write('\n')
+    f.write(top_years)
     f.close()
 
     # Number of tracks in each letter
