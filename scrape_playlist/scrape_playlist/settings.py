@@ -8,6 +8,7 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
+import os
 
 BOT_NAME = 'scrape_playlist'
 
@@ -16,7 +17,13 @@ NEWSPIDER_MODULE = 'scrape_playlist.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'scrape_playlist (+http://www.yourdomain.com)'
+# setup user agent
+filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\contact'
+filename = os.path.abspath(filename)
+f = open(filename, 'r')
+contact = f.read()
+f.close()
+USER_AGENT = 'xpn_atoz_analyis ({0}, github.com/lbartell/xpn_wordplay)'.format(contact)
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True

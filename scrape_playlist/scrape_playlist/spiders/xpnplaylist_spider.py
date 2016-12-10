@@ -8,20 +8,25 @@ import datetime as dt
 import os
 import glob
 from xpn_wordplay import wordplay as wp
+import numpy as np
 #from scrapy.utils.response import open_in_browser
-
 
 # hard code start time and the number of days to search
 timezero = dt.datetime(2016, 11, 30, 6, 0) # time the A-Z started
 now = dt.datetime.now()
 
-## find the last saved song record so we can start reading from that day
-#filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
-#filename = os.path.abspath(filename)
-#prev_data = pd.read_csv(filename, sep='\t', header=0)
-#if not prev_data.empty:
-#    start_time_str = max(prev_data['time'])
-#    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
+# import all current data & remove duplicates
+filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
+filename = os.path.abspath(filename)
+col_dtypes = {'artist':str, 'track':str, 'time':dt.datetime, 'release_year':np.int64}
+csv_kwargs = {'sep': '\t', 'header': 0, 'dtype': col_dtypes, 'index_col':'time'}
+prev_data = pd.read_csv(filename, **csv_kwargs)
+prev_data = prev_data.drop_duplicates().reset_index()
+
+# get last song's day
+if not prev_data.empty:
+    start_time_str = max(prev_data['time'])
+    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
 
 # number of days to read
 num_days = (now-timezero).days+1
@@ -148,27 +153,5 @@ class PlaylistSpider(Spider):
         f.close()
         print filename
         print nowstr
-
-#    def closed(self, response):
-#        '''
-#        import data saved by the scrapy spider
-#        concatenate data from all days and save as a pandas DataFrame
-#        '''
-#
-#        # import all data
-#        paths = glob.glob('playlistdata_*.csv')
-#        dflist = []
-#        for filename in paths:
-#            dflist.append(pd.read_csv(filename, sep='\t', header=0))
-#
-#        # gather new data (after the start time)
-#        new_data = pd.concat(dflist, ignore_index=True)
-#        new_data = new_data[new_data['time'] > timezero]
-#
-#        # save as master data csv
-#        filename = os.path.abspath('D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata_raw.csv')
-#        data.to_csv(filename, sep='\t', encoding='utf-8', index=False)
-#
-#        print '*** Saved master data to {0}'.format(filename)
 
 
