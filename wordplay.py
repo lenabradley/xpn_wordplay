@@ -274,19 +274,23 @@ def main():
     artists = list(data['artist'])
     years = list(data['release_year'])
     tracks = list(data['track'])
+    first_word = [x.split()[0] for x in tracks]
     albums = list(data['album'])
+    times = pd.to_datetime(data['time']).tolist()
 
     # count unique artists, titles, and title words
     unique_track_words = count_list(tracks, break_words=True)
     unique_tracks = count_list(tracks, break_words=False)
     unique_artists = count_list(artists, break_words=False)
     unique_years = count_list(years, break_words=False)
+    unique_first_word = count_list(first_word, break_words=False)
 
     # save title, title-word and artists counts
     save_counts(unique_track_words, filename='top_title_words.txt')
     save_counts(unique_tracks, filename='top_titles.txt')
     save_counts(unique_artists, filename='top_artists.txt')
     save_counts(unique_years, filename='top_years.txt')
+    save_counts(unique_first_word, filename='top_first_word.txt')
 
     # get top 20 lists
     top_track_words = print_top(unique_track_words, title='title words', num=50, quiet=True)
@@ -318,6 +322,22 @@ def main():
     letter_counts.update(unique_letters)
     unique_letters = zip(letter_counts.keys(), letter_counts.values())
     save_counts(unique_letters, filename='letter_counts.txt')
+
+    # text file listing totals of interest
+    letters_played = len([x[0] for x in unique_letters if x[1]>0])
+    pct_played = letters_played / 26. * 100.
+    letters_played_str = '{0:d} ({1:04.1f}%)'.format(letters_played, pct_played)
+    elapsed = max(times)-min(times)
+    f = open(os.path.abspath('summary.txt'),'w')
+    f.write('{0}:\t{1}\n'.format('Elapsed time', str(elapsed)))
+    f.write('{0}:\t{1}\n'.format('Songs', len(tracks)))
+    f.write('{0}:\t{1}\n'.format('Artists', len(unique_artists)))
+    f.write('{0}:\t{1}\n'.format('Song Names', len(unique_tracks)))
+    f.write('{0}:\t{1}\n'.format('Song Title Words', len(unique_track_words)))
+    f.write('{0}:\t{1}\n'.format('Letters', letters_played_str))
+    f.close()
+
+
 
 if __name__ == '__main__':
   main()

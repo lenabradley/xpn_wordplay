@@ -22,6 +22,10 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Pictures Of Matchstick Men
+002	Pickin' Up The Pieces
+002	Photograph
+002	Personal Jesus
 002	Peace Train
 002	Paradise
 002	Over And Over
@@ -174,6 +178,51 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Poor Poor Pitiful Me
+001	Ponta De Lanca Africano (umbabarauma)
+001	Ponta De Areia
+001	Polythene Pam
+001	Polk Salad Annie
+001	Political Science
+001	Policy Of Truth
+001	Police On My Back
+001	Police And Thieves
+001	Poison Girl
+001	Poison Arrow
+001	Point Blank
+001	Poets
+001	Poetry Man
+001	Pocohantas
+001	Pledging My Love
+001	Please Please Me
+001	Please Forgive Me
+001	Please Don't Worry
+001	Playing In The Band
+001	Play With Me
+001	Play That Fast Thing One More Time
+001	Play Me Backwards
+001	Plastic Fantastic Lover
+001	Pipeline
+001	Pink Moon
+001	Pink + White
+001	Pinball Wizard
+001	Pigs (three Different Ones)
+001	Piece Of My Heart
+001	Pictures Of You
+001	Pictures Of Lily
+001	Picture Book
+001	Pick Up The Pieces
+001	Pick Myself Up
+001	Philosopher's Stone
+001	Phantom Limb
+001	Pets
+001	Perpetual Change
+001	Perfectly Good Guitar
+001	Perfect Timing (This Morning)
+001	Perfect Fit
+001	Perfect Day
+001	Perfect Blue Buildings
+001	People Who Died
 001	People Say
 001	People In Love
 001	People Have The Power
