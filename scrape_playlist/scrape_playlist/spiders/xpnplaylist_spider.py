@@ -14,6 +14,7 @@ import numpy as np
 # hard code start time and the number of days to search
 timezero = dt.datetime(2016, 11, 30, 6, 0) # time the A-Z started
 now = dt.datetime.now()
+now = dt.datetime(now.year, now.month, now.day, 23, 59) # set now to be the end of today to ensure proper num_days
 
 # import all current data & remove duplicates
 filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'

@@ -1,3 +1,4 @@
+004	Revolution
 004	Home
 004	Hold On
 004	Hard to Handle
@@ -22,6 +23,15 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Roll Over Beethoven
+002	Roll Away The Stone
+002	Rock On
+002	Ring of Fire
+002	Right Here, Right Now
+002	Respect
+002	Raspberry Beret
+002	Rain
+002	Pride And Joy
 002	Pictures Of Matchstick Men
 002	Pickin' Up The Pieces
 002	Photograph
@@ -178,6 +188,219 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Rough Boys
+001	Rosie
+001	Rose Rouge
+001	Room To Move
+001	Romeo's Tune
+001	Rolling In The Deep
+001	Rollin' Tumblin' (remix)
+001	Rollin' Stone
+001	Roller
+001	Roll With The Punches
+001	Roll With It
+001	Roll Up Your Sleeves
+001	Roll Um Easy
+001	Roll To Me
+001	Roll Another Number (For The Road)
+001	Roland The Headless Thompson Gunner
+001	Rocky Mountain Way
+001	Rocky Mountain High
+001	Rocks Off
+001	Rockin' Pneumonia
+001	Rockin' In The Free World
+001	Rockin' At Midnight
+001	Rocket Man
+001	Rocket In My Pocket
+001	Rockaway Beach
+001	Rockaria!
+001	Rock and Roll, Hoochie Koo
+001	Rock With You
+001	Rock This Town
+001	Rock The Casbah
+001	Rock The Boat
+001	Rock Steady
+001	Rock N Roll Star
+001	Rock N Roll Band
+001	Rock Me On The Water
+001	Rock Me
+001	Rock And Roll Woman
+001	Rock And Roll Stew
+001	Rock And Roll Doctor
+001	Rock And Roll Ain't Noise Pollution
+001	Rock And Roll
+001	Rock 'n' Roll Lifestyle
+001	Roads To Moscow
+001	Roadrunner
+001	Roadhouse Blues
+001	Road to Nowhere
+001	Riviera Paradise
+001	Rivers of Babylon
+001	Riverman
+001	Rita Mae Young
+001	Rise
+001	Ripple
+001	Rip It Up
+001	Ring My Bell
+001	Rikki Don't Lose That Number
+001	Righteously
+001	Right Place Wrong Time
+001	Right Moves
+001	Right Hand Man
+001	Right Down The Line
+001	Right As Rain
+001	Riding On The Back
+001	Ridin' In My Car
+001	Ridgetop
+001	Riders On The Storm
+001	Ride The Tiger
+001	Ride On Josephine
+001	Ride My See
+001	Ride A White Swan
+001	Ricochet In Time
+001	Rhumba Man
+001	Rhiannon
+001	Revolutionary Kind
+001	Revolution Blues
+001	Revolution 9
+001	Revival
+001	Reva's House
+001	Rev It Up
+001	Return To The Moon
+001	Return Of The Grievous Angel
+001	Restless
+001	Rest Of My Days
+001	Respectable Street
+001	Respectable
+001	Respect Yourself
+001	Rescue Me
+001	Rent I Pay
+001	Release
+001	Relax
+001	Rehab
+001	Reggae On Broadway
+001	Reggae Music
+001	Refuge Of The Roads
+001	Reflektor
+001	Reflections Of My Life
+001	Reet Petite (Finest Girl You Ever Wanna Meet)
+001	Reelin' In The Years
+001	Redondo Beach
+001	Redbone
+001	Red Vines
+001	Red Streamliner
+001	Red Rubber Ball
+001	Red Rose
+001	Red Red Wine
+001	Red Rain
+001	Red Light Indicates Doors Are Secure
+001	Red Eyes
+001	Red
+001	Reconsider Baby
+001	Rebirth Of Slick (cool Like Dat)
+001	Rebel Side Of Heaven
+001	Rebel Rouser
+001	Rebel Rebel
+001	Reason To Believe
+001	Reality Used To Be A Friend Of Mine
+001	Real Real Gone
+001	Real Man
+001	Real Love
+001	Real Live Bleeding Fingers And Broken Guitar Strings
+001	Real Fine Love
+001	Real Emotions
+001	Ready To Start
+001	Ready Or Not Here I Come (Can't Hide From Love)
+001	Reach Out Richard
+001	Reach Out I'll Be There
+001	Ravers
+001	Rave On
+001	Rapture
+001	Rapper's Delight
+001	Ranking Full Stop
+001	Range Life
+001	Randy Scouse Git
+001	Random Name Generator
+001	Ramrod
+001	Ramble On
+001	Rainy Day Blues
+001	Raindrops Keep Fallin' On My Head
+001	Rainbow
+001	Rain Plans
+001	Rain On The Scarecrow
+001	Rain King
+001	Rain In Spain
+001	Rain Dogs
+001	Rain Come Down
+001	Rag Mama Rag
+001	Radioactive
+001	Radio, Radio
+001	Radio Song
+001	Radio Nowhere
+001	Radio Girl
+001	Radio Ga Ga
+001	Radio Free Europe
+001	Radio
+001	Radar Love
+001	Racing In The Streets
+001	Race For The Prize
+001	R.o.c.k.
+001	Question
+001	Queen of California
+001	Queen Of Hearts
+001	Queen Jane Approximately
+001	Quattro (World Drifts In)
+001	Put Your Records On
+001	Put The Message In The Box
+001	Put Me On Top
+001	Pushin' Too Hard
+001	Push On Til The Day
+001	Purple Rain
+001	Purple Haze
+001	Pure And Easy
+001	Pure
+001	Punk Rock Girl
+001	Pump Up The Volume
+001	Pump It Up
+001	Pulling Mussels From A Shell
+001	Pull Up To The Bumper
+001	Public Image
+001	Psychotic Reaction
+001	Psychedelic Shack
+001	Prove It All Night
+001	Promises Promises
+001	Promised You A Miracle
+001	Private Revolution
+001	Private Life
+001	Private Conversation
+001	Primrose Green
+001	Prime Of Life
+001	Pride Of Man
+001	Pride
+001	Pretzel Logic
+001	Pretty Pimpin'
+001	Pretty Persuasion
+001	Pretty Maids All In A Row
+001	Pretty Little Rebel
+001	Pretty In Pink
+001	Pretty Good Year
+001	Pretty Ballerina
+001	Pretty As You Feel
+001	Pretending
+001	Pressure Drop
+001	Presence Of The Lord
+001	Power To The People
+001	Power To Move Ya
+001	Power And Passion
+001	Powderfinger
+001	Possession
+001	Positively 4th Street
+001	Positive Bleeding
+001	Portland Oregon
+001	Portions For Foxes
+001	Porcelain
+001	Pop Song 89
+001	Pop Muzik
 001	Poor Poor Pitiful Me
 001	Ponta De Lanca Africano (umbabarauma)
 001	Ponta De Areia

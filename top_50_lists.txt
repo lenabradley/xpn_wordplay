@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-10, 20:09
+Last updated: 2016-12-11, 16:19
 
 
 ==============================
@@ -7,221 +7,221 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:         91 The Beatles
-#   2:         51 The Rolling Stones
-#   3:         46 Bob Dylan
-#   4:         44 Bruce Springsteen
-#   5:         36 Neil Young
-#   6:         28 Steely Dan
-#   7:         28 Led Zeppelin
-#   8:         26 David Bowie
-#   9:         23 Grateful Dead
-#  10:         22 R. E. M.
-#  11:         21 Van Morrison
+#   1:         94 The Beatles
+#   2:         53 The Rolling Stones
+#   3:         48 Bruce Springsteen
+#   4:         48 Bob Dylan
+#   5:         41 Neil Young
+#   6:         31 Steely Dan
+#   7:         30 Led Zeppelin
+#   8:         27 David Bowie
+#   9:         26 R. E. M.
+#  10:         24 Grateful Dead
+#  11:         22 Van Morrison
 #  12:         21 Stevie Wonder
-#  13:         19 The Who
-#  14:         19 Fleetwood Mac
-#  15:         18 Warren Zevon
-#  16:         18 Elton John
-#  17:         17 U2
-#  18:         17 Joni Mitchell
-#  19:         17 Eric Clapton
-#  20:         16 Paul Simon
-#  21:         16 Bonnie Raitt
-#  22:         15 The Beach Boys
-#  23:         15 Talking Heads
-#  24:         15 Jackson Browne
-#  25:         14 Wilco
-#  26:         14 Jimi Hendrix
-#  27:         13 The Kinks
-#  28:         13 The Doors
-#  29:         13 The Allman Brothers
-#  30:         13 My Morning Jacket
-#  31:         12 Todd Rundgren
-#  32:         12 The Pretenders
-#  33:         12 The Clash
-#  34:         12 Sting
-#  35:         12 John Lennon
-#  36:         12 Coldplay
-#  37:         11 The Replacements
-#  38:         11 Santana
-#  39:         11 Radiohead
-#  40:         11 Pink Floyd
-#  41:         11 Pearl Jam
-#  42:         11 Little Feat
-#  43:         11 Creedence Clearwater Revival
-#  44:         10 Yes
-#  45:         10 The Eagles
-#  46:         10 Ryan Adams
-#  47:         10 Peter Gabriel
-#  48:         10 Marvin Gaye
-#  49:         10 Johnny Cash
-#  50:         10 James Brown
+#  13:         20 Fleetwood Mac
+#  14:         19 Warren Zevon
+#  15:         19 The Who
+#  16:         19 Eric Clapton
+#  17:         19 Elton John
+#  18:         18 U2
+#  19:         18 Joni Mitchell
+#  20:         17 Jackson Browne
+#  21:         16 Talking Heads
+#  22:         16 Paul Simon
+#  23:         16 Bonnie Raitt
+#  24:         15 Wilco
+#  25:         15 The Doors
+#  26:         15 The Beach Boys
+#  27:         15 Little Feat
+#  28:         15 Jimi Hendrix
+#  29:         14 The Allman Brothers
+#  30:         13 Todd Rundgren
+#  31:         13 The Pretenders
+#  32:         13 The Kinks
+#  33:         13 The Clash
+#  34:         13 My Morning Jacket
+#  35:         13 John Lennon
+#  36:         12 Sting
+#  37:         12 Lucinda Williams
+#  38:         12 Elvis Costello
+#  39:         12 Dr. John
+#  40:         12 Coldplay
+#  41:         11 The Replacements
+#  42:         11 The Eagles
+#  43:         11 Santana
+#  44:         11 Radiohead
+#  45:         11 Pink Floyd
+#  46:         11 Peter Gabriel
+#  47:         11 Pearl Jam
+#  48:         11 Marvin Gaye
+#  49:         11 Johnny Cash
+#  50:         11 Creedence Clearwater Revival
 
 ==============================
 Top 50 titles:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:          4 Home
-#   2:          4 Hold On
-#   3:          4 Hard to Handle
-#   4:          4 Fire
-#   5:          4 Fever
-#   6:          4 Dreams
-#   7:          4 Crazy
-#   8:          3 One
-#   9:          3 Night Train
-#  10:          3 Mess Around
-#  11:          3 It's Alright
-#  12:          3 I'm Free
-#  13:          3 I Ain't Superstitious
-#  14:          3 Human
-#  15:          3 Heaven
-#  16:          3 Head Over Heels
-#  17:          3 Hallelujah
-#  18:          3 Gloria
-#  19:          3 Drive
-#  20:          3 Do It Again
-#  21:          3 Cocaine
-#  22:          3 Cherry Oh Baby
-#  23:          3 California
-#  24:          3 Ball Of Confusion
-#  25:          2 Pictures Of Matchstick Men
-#  26:          2 Pickin' Up The Pieces
-#  27:          2 Photograph
-#  28:          2 Personal Jesus
-#  29:          2 Peace Train
-#  30:          2 Paradise
-#  31:          2 Over And Over
-#  32:          2 Ophelia
-#  33:          2 Only You Know And I Know
-#  34:          2 Only Love Can Break Your Heart
-#  35:          2 One Way Out
-#  36:          2 One Of These Days
-#  37:          2 One Big Love
-#  38:          2 On The Road Again
-#  39:          2 Omaha
-#  40:          2 Oh Atlanta
-#  41:          2 No Reply
-#  42:          2 Night People
-#  43:          2 Mustang Sally
-#  44:          2 Mr. Jones
-#  45:          2 Mr. Bojangles
-#  46:          2 Money (That's What I Want)
-#  47:          2 Miss You
-#  48:          2 Midnight Rider
-#  49:          2 Mercury Blues
-#  50:          2 May You Never
+#   1:          4 Revolution
+#   2:          4 Home
+#   3:          4 Hold On
+#   4:          4 Hard to Handle
+#   5:          4 Fire
+#   6:          4 Fever
+#   7:          4 Dreams
+#   8:          4 Crazy
+#   9:          3 One
+#  10:          3 Night Train
+#  11:          3 Mess Around
+#  12:          3 It's Alright
+#  13:          3 I'm Free
+#  14:          3 I Ain't Superstitious
+#  15:          3 Human
+#  16:          3 Heaven
+#  17:          3 Head Over Heels
+#  18:          3 Hallelujah
+#  19:          3 Gloria
+#  20:          3 Drive
+#  21:          3 Do It Again
+#  22:          3 Cocaine
+#  23:          3 Cherry Oh Baby
+#  24:          3 California
+#  25:          3 Ball Of Confusion
+#  26:          2 Roll Over Beethoven
+#  27:          2 Roll Away The Stone
+#  28:          2 Rock On
+#  29:          2 Ring of Fire
+#  30:          2 Right Here, Right Now
+#  31:          2 Respect
+#  32:          2 Raspberry Beret
+#  33:          2 Rain
+#  34:          2 Pride And Joy
+#  35:          2 Pictures Of Matchstick Men
+#  36:          2 Pickin' Up The Pieces
+#  37:          2 Photograph
+#  38:          2 Personal Jesus
+#  39:          2 Peace Train
+#  40:          2 Paradise
+#  41:          2 Over And Over
+#  42:          2 Ophelia
+#  43:          2 Only You Know And I Know
+#  44:          2 Only Love Can Break Your Heart
+#  45:          2 One Way Out
+#  46:          2 One Of These Days
+#  47:          2 One Big Love
+#  48:          2 On The Road Again
+#  49:          2 Omaha
+#  50:          2 Oh Atlanta
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        334 the
-#   2:        245 i
-#   3:        218 a
-#   4:        196 you
-#   5:        181 love
-#   6:        162 in
-#   7:        149 to
-#   8:        145 of
-#   9:        129 my
-#  10:        123 me
-#  11:        116 on
-#  12:         95 it
-#  13:         83 and
-#  14:         77 don't
+#   1:        362 the
+#   2:        247 i
+#   3:        223 a
+#   4:        200 you
+#   5:        185 love
+#   6:        174 in
+#   7:        160 to
+#   8:        160 of
+#   9:        136 my
+#  10:        130 on
+#  11:        128 me
+#  12:        100 it
+#  13:         94 and
+#  14:         78 don't
 #  15:         68 i'm
-#  16:         60 all
-#  17:         56 is
-#  18:         55 for
-#  19:         53 no
-#  20:         51 your
-#  21:         50 one
-#  22:         48 man
-#  23:         48 be
-#  24:         47 it's
-#  25:         47 get
-#  26:         47 baby
-#  27:         45 like
-#  28:         43 down
-#  29:         43 back
-#  30:         39 time
-#  31:         39 can't
-#  32:         38 up
-#  33:         38 little
-#  34:         37 good
-#  35:         37 go
-#  36:         37 come
-#  37:         36 want
-#  38:         35 with
-#  39:         34 night
-#  40:         34 girl
-#  41:         33 if
-#  42:         33 do
-#  43:         32 life
-#  44:         32 just
-#  45:         32 heart
-#  46:         32 ain't
-#  47:         30 got
-#  48:         29 new
-#  49:         27 let
-#  50:         27 hey
+#  16:         62 all
+#  17:         58 for
+#  18:         56 is
+#  19:         53 your
+#  20:         53 no
+#  21:         53 man
+#  22:         50 one
+#  23:         50 be
+#  24:         48 baby
+#  25:         47 it's
+#  26:         47 get
+#  27:         46 like
+#  28:         45 down
+#  29:         44 up
+#  30:         44 back
+#  31:         41 time
+#  32:         40 can't
+#  33:         39 little
+#  34:         39 come
+#  35:         38 with
+#  36:         38 good
+#  37:         37 go
+#  38:         37 girl
+#  39:         36 want
+#  40:         36 life
+#  41:         35 night
+#  42:         33 if
+#  43:         33 do
+#  44:         33 ain't
+#  45:         32 just
+#  46:         32 heart
+#  47:         30 roll
+#  48:         30 rock
+#  49:         30 got
+#  50:         29 new
 
 ==============================
 Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        126 1
-#   2:        122 1970
-#   3:        108 1969
-#   4:        104 1971
-#   5:         98 1973
-#   6:         98 1972
-#   7:         89 1967
-#   8:         82 1974
-#   9:         81 1976
-#  10:         80 1975
-#  11:         74 1980
-#  12:         74 1968
-#  13:         72 1977
-#  14:         71 1994
-#  15:         71 1978
-#  16:         68 1979
-#  17:         65 1993
-#  18:         65 1982
-#  19:         64 1991
-#  20:         62 1984
-#  21:         60 1992
-#  22:         59 1966
-#  23:         58 1989
-#  24:         55 1965
-#  25:         51 1988
-#  26:         50 1985
-#  27:         49 1995
-#  28:         49 1987
-#  29:         49 1986
-#  30:         47 1996
-#  31:         47 1983
-#  32:         44 1998
-#  33:         43 2007
-#  34:         43 2004
-#  35:         42 2001
-#  36:         42 1981
-#  37:         41 2003
-#  38:         40 2016
-#  39:         40 2000
-#  40:         39 2002
-#  41:         39 1990
-#  42:         39 1964
-#  43:         38 1999
-#  44:         36 2006
-#  45:         34 2005
-#  46:         33 2013
+#   1:        141 1
+#   2:        129 1970
+#   3:        115 1969
+#   4:        111 1971
+#   5:        107 1973
+#   6:        107 1972
+#   7:         93 1967
+#   8:         90 1974
+#   9:         87 1975
+#  10:         85 1976
+#  11:         83 1980
+#  12:         80 1978
+#  13:         79 1977
+#  14:         78 1968
+#  15:         76 1994
+#  16:         72 1979
+#  17:         70 1993
+#  18:         68 1982
+#  19:         66 1991
+#  20:         65 1984
+#  21:         64 1992
+#  22:         63 1989
+#  23:         63 1966
+#  24:         58 1965
+#  25:         56 1985
+#  26:         54 1988
+#  27:         53 1995
+#  28:         53 1987
+#  29:         52 1986
+#  30:         49 1996
+#  31:         49 1983
+#  32:         47 1990
+#  33:         46 2007
+#  34:         46 2003
+#  35:         46 1981
+#  36:         45 2004
+#  37:         45 1998
+#  38:         44 1999
+#  39:         43 2016
+#  40:         43 2001
+#  41:         42 2000
+#  42:         41 2002
+#  43:         39 1964
+#  44:         37 2013
+#  45:         37 2006
+#  46:         35 2005
 #  47:         32 2011
-#  48:         30 2010
-#  49:         30 2009
-#  50:         25 2015
+#  48:         32 2010
+#  49:         30 2015
+#  50:         30 2009

@@ -332,7 +332,7 @@ def main():
     f.write('{0}:\t{1}\n'.format('Elapsed time', str(elapsed)))
     f.write('{0}:\t{1}\n'.format('Songs', len(tracks)))
     f.write('{0}:\t{1}\n'.format('Artists', len(unique_artists)))
-    f.write('{0}:\t{1}\n'.format('Song Names', len(unique_tracks)))
+    f.write('{0}:\t{1}\n'.format('Song Titles', len(unique_tracks)))
     f.write('{0}:\t{1}\n'.format('Song Title Words', len(unique_track_words)))
     f.write('{0}:\t{1}\n'.format('Letters', letters_played_str))
     f.close()

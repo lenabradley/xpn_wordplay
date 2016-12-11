@@ -1,6 +1,6 @@
-Elapsed time:	10 days 13:59:00
-Songs:	3149
-Artists:	1128
-Song Names:	2938
-Song Title Words:	2567
-Letters:	16 (61.5%)
+Elapsed time:	11 days 10:18:00
+Songs:	3384
+Artists:	1182
+Song Titles:	3161
+Song Title Words:	2733
+Letters:	18 (69.2%)
