@@ -188,6 +188,25 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Run Runaway
+001	Run On
+001	Run For Your Life
+001	Run Around
+001	Run
+001	Rumor Has It
+001	Rumble
+001	Rudy, A  Message To You
+001	Rudie Can't Fail
+001	Ruby Tuesday
+001	Ruby
+001	Rubberneckin'
+001	Rubberband Man
+001	Rubberband Girl
+001	Roxanne
+001	Roundabout
+001	Round Of Blues
+001	Round Here
+001	Rough God Goes Riding
 001	Rough Boys
 001	Rosie
 001	Rose Rouge

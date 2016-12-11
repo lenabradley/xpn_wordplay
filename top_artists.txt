@@ -1,5 +1,5 @@
-094	The Beatles
-053	The Rolling Stones
+095	The Beatles
+054	The Rolling Stones
 048	Bruce Springsteen
 048	Bob Dylan
 041	Neil Young
@@ -8,7 +8,7 @@
 027	David Bowie
 026	R. E. M.
 024	Grateful Dead
-022	Van Morrison
+023	Van Morrison
 021	Stevie Wonder
 020	Fleetwood Mac
 019	Warren Zevon
@@ -26,11 +26,11 @@
 015	The Beach Boys
 015	Little Feat
 015	Jimi Hendrix
+014	The Clash
 014	The Allman Brothers
 013	Todd Rundgren
 013	The Pretenders
 013	The Kinks
-013	The Clash
 013	My Morning Jacket
 013	John Lennon
 012	Sting
@@ -38,6 +38,7 @@
 012	Elvis Costello
 012	Dr. John
 012	Coldplay
+011	Yes
 011	The Replacements
 011	The Eagles
 011	Santana
@@ -48,7 +49,7 @@
 011	Marvin Gaye
 011	Johnny Cash
 011	Creedence Clearwater Revival
-010	Yes
+010	The Police
 010	The Band
 010	Ryan Adams
 010	Los Lobos
@@ -57,17 +58,17 @@
 010	James Brown
 010	George Harrison
 010	Electric Light Orchestra
+010	Counting Crows
 010	Bee Gees
 009	Vampire Weekend
 009	Traffic
 009	The Temptations
-009	The Police
 009	The Cure
 009	The Black Keys
 009	Richard Thompson
 009	John Prine
 009	Indigo Girls
-009	Counting Crows
+009	Elvis Presley
 009	Buffalo Springfield
 009	Al Green
 008	Tom Waits
@@ -83,7 +84,6 @@
 008	Pete Townshend
 008	Patty Griffin
 008	Lenny Kravitz
-008	Elvis Presley
 008	Boz Scaggs
 007	Tom Petty
 007	The Cars
@@ -104,6 +104,7 @@
 007	Bruce Cockburn
 007	Beck
 006	Wilson Pickett
+006	The Spinners
 006	The Ramones
 006	The Moody Blues
 006	The Doobie Brothers
@@ -111,6 +112,7 @@
 006	Supertramp
 006	Steve Winwood
 006	Steve Earle
+006	Shawn Colvin
 006	Phish
 006	Patti Smith
 006	NRBQ
@@ -128,7 +130,6 @@
 005	Tori Amos
 005	They Might Be Giants
 005	The Supremes
-005	The Spinners
 005	The Shins
 005	The Lemonheads
 005	The Blasters
@@ -136,7 +137,6 @@
 005	Tedeschi Trucks Band
 005	Tears For Fears
 005	Spoon
-005	Shawn Colvin
 005	Ray Charles
 005	Pete Yorn
 005	Paul McCartney
@@ -162,6 +162,7 @@
 005	Barenaked Ladies
 005	Aretha Franklin
 005	Aimee Mann
+005	Adele
 004	XTC
 004	World Party
 004	War
@@ -229,7 +230,6 @@
 004	Badfinger
 004	Arctic Monkeys
 004	Alison Krauss
-004	Adele
 004	10cc
 004	10,000 Maniacs
 003	k. d. lang
@@ -243,6 +243,7 @@
 003	Them
 003	The White Stripes
 003	The Thompson Twins
+003	The Specials
 003	The Raspberries
 003	The Lumineers
 003	The Jesus And Mary Chain
@@ -260,6 +261,7 @@
 003	Sufjan Stevens
 003	Steve Forbert
 003	Squeeze
+003	Snow Patrol
 003	Simple Minds
 003	Sam Cooke
 003	Roy Orbison
@@ -275,12 +277,14 @@
 003	Neil Diamond
 003	Natalie Merchant
 003	Mountain
+003	Moby
 003	Mayer Hawthorne
 003	Madonna
 003	Loudon Wainwright III
 003	Little Willie John
 003	Lake Street Dive
 003	Kings Of Leon
+003	Kate Bush
 003	K. T. Tunstall
 003	Joseph Arthur
 003	Johnny Winter
@@ -321,6 +325,7 @@
 003	Bobby "Blue" Bland
 003	Bo Diddley
 003	Blur
+003	Blues Traveler
 003	Bjork
 003	Billy Joel
 003	Bill Withers
@@ -346,7 +351,6 @@
 002	The Style Council
 002	The Stone Roses
 002	The Spencer Davis Group
-002	The Specials
 002	The Searchers
 002	The Ronettes
 002	The Record Company
@@ -379,7 +383,6 @@
 002	Soup Dragons
 002	Sonny Boy Williamson
 002	Social Distortion
-002	Snow Patrol
 002	Slim Harpo
 002	Sinead O'Connor
 002	Shelby Lynne
@@ -414,7 +417,6 @@
 002	Neko Case
 002	Naked Eyes
 002	Morphine
-002	Moby
 002	Michael Jackson
 002	Merle Haggard
 002	Melanie
@@ -438,7 +440,7 @@
 002	Leon Bridges
 002	Larry Williams
 002	Keane
-002	Kate Bush
+002	Kaiser Chiefs
 002	Junior Wells
 002	Johnny Nash
 002	John Wesley Harding
@@ -501,7 +503,6 @@
 002	Bon Iver
 002	Bobby Womack
 002	Bobbie Gentry
-002	Blues Traveler
 002	Blind Faith
 002	Black Sabbath
 002	Billy Bragg
@@ -735,6 +736,7 @@
 001	Smith
 001	Smashing Pumpkins
 001	Small Faces
+001	Slade
 001	Sir Douglas Quintet
 001	Silver Convention
 001	Sigue Sigue Sputnik
@@ -876,6 +878,7 @@
 001	Liz Phair
 001	Living Colour
 001	Little Junior Parker
+001	Link Wray
 001	Linda Ronstadt
 001	Lightnin' Hopkins
 001	Lianne La Havas
@@ -904,7 +907,6 @@
 001	Karla Bonoff
 001	Karl Denson's Tiny Universe
 001	Karl Blau
-001	Kaiser Chiefs
 001	Justin Townes Earle
 001	Junior Reid
 001	Junior Murvin

@@ -100,6 +100,7 @@
 006	California
 006	Angel
 006	And
+005	Run
 005	Peace
 005	Move
 005	Man
@@ -248,6 +249,10 @@
 003	Alone
 003	Alive
 003	Across
+002	Ruby
+002	Rubberband
+002	Round
+002	Rough
 002	Rollin'
 002	Rocky
 002	Rocket
@@ -442,7 +447,13 @@
 002	Amsterdam
 002	Alison
 002	Alabama
-001	Rough
+001	Rumor
+001	Rumble
+001	Rudy,
+001	Rudie
+001	Rubberneckin'
+001	Roxanne
+001	Roundabout
 001	Rosie
 001	Rose
 001	Room

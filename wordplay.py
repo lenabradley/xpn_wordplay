@@ -323,11 +323,21 @@ def main():
     unique_letters = zip(letter_counts.keys(), letter_counts.values())
     save_counts(unique_letters, filename='letter_counts.txt')
 
-    # text file listing totals of interest
+    # gather some summary data/notes
+
+    # - totals
     letters_played = len([x[0] for x in unique_letters if x[1]>0])
     pct_played = letters_played / 26. * 100.
     letters_played_str = '{0:d} ({1:04.1f}%)'.format(letters_played, pct_played)
     elapsed = max(times)-min(times)
+
+    # - last updated
+    filename = os.path.abspath('last_updated.txt')
+    f = open(filename, 'r')
+    last_update_str = f.readline().strip()
+    f.close()
+
+    # text file summary
     f = open(os.path.abspath('summary.txt'),'w')
     f.write('{0}:\t{1}\n'.format('Elapsed time', str(elapsed)))
     f.write('{0}:\t{1}\n'.format('Songs', len(tracks)))
@@ -335,9 +345,8 @@ def main():
     f.write('{0}:\t{1}\n'.format('Song Titles', len(unique_tracks)))
     f.write('{0}:\t{1}\n'.format('Song Title Words', len(unique_track_words)))
     f.write('{0}:\t{1}\n'.format('Letters', letters_played_str))
+    f.write('{0}:\t{1}\n'.format(*last_update_str.split(': ')))
     f.close()
-
-
 
 if __name__ == '__main__':
   main()
