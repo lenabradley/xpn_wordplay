@@ -22,6 +22,13 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	She Came In Through The Bathroom Window
+002	Shake It Out
+002	Shake It Baby
+002	Shake
+002	Sexual Healing
+002	Secret Agent Man
+002	Season Of The Witch
 002	School Days
 002	Sara
 002	Sail Away
@@ -194,6 +201,104 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Sherry Darling
+001	Shelter Song
+001	Shelter From The Storm
+001	Sheena Is A Punk Rocker
+001	Sheela-Na-Gig
+001	She's So Cold
+001	She's Not There
+001	She's Not Just Another Woman
+001	She's No Lady
+001	She's Leaving Home
+001	She's Got Soul
+001	She's Got Her Ticket
+001	She's Got Everything
+001	She's Got A New Spell
+001	She's Gone
+001	She's A Woman
+001	She's A Rainbow
+001	She's A Lady
+001	She Will Have Her Way
+001	She Walks In So Many Ways
+001	She Took Off My Romeos
+001	She Talks To Angels
+001	She Sells Sanctuary
+001	She Sells
+001	She Said She Said
+001	She Moves On
+001	She May Call You Up Tonight
+001	She Makes Me Feel Good
+001	She Loves You
+001	She Drives Me Crazy
+001	She Don't Use Jelly
+001	She Doesn't Laugh At My Jokes
+001	She Cries Your Name
+001	She Bangs The Drums
+001	She
+001	Shattered
+001	Sharon
+001	Shapes Of Things
+001	Shangri-La
+001	Shanghai Noodle Factory
+001	Shame On You
+001	Shame Chamber
+001	Shakin' Shakin' Shakes
+001	Shakin' All Over
+001	Shakey Ground
+001	Shakedown Street
+001	Shake Your Rump
+001	Shake Your Money Maker
+001	Shake Your Hips
+001	Shake Some Action
+001	Shake Rattle And Roll
+001	Shake 'Em On Down
+001	Shadowboxer
+001	Shadow People
+001	Shadow Days
+001	Shack And Shambles
+001	Sgt. Pepper's Lonely Heart's Club Band
+001	Sexy Sadie
+001	Sexxlaws
+001	Sexuality
+001	Sex On Fire
+001	Sex And Candy
+001	Seventh Son
+001	Seven Year Ache
+001	Seven Nation Army
+001	Seven Days
+001	Seven Chinese Brothers
+001	Set Me Free (rosa Lee)
+001	Set Fire to the Rain
+001	Serpents
+001	Sequestered In Memphis
+001	September Gurls
+001	Sentimental Lady
+001	Sensitive Kind
+001	Senses Working Overtime
+001	Sense Of Purpose
+001	Send Your Love
+001	Send Me On My Way
+001	Seether
+001	See What Love
+001	See The World
+001	See Saw
+001	See No Evil
+001	See How We Are
+001	See Emily Play
+001	See A Little Light
+001	Sedona
+001	Secret Smile
+001	Secret O'Life
+001	Secret Garden
+001	Second Hand News
+001	Second Hand Heart
+001	Seattle
+001	Seasons (Waiting On You)
+001	Sea of Love
+001	Sea Of Joy
+001	Sea Of Heartbreak
+001	Scorpio
 001	School's Out
 001	Scary Monsters
 001	Scarlet Begonias
