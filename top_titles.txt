@@ -17,12 +17,13 @@
 003	Head Over Heels
 003	Hallelujah
 003	Gloria
-003	Drive
 003	Do It Again
 003	Cocaine
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	School Days
+002	Sara
 002	Sail Away
 002	Running Out Of Time
 002	Roll Over Beethoven
@@ -60,6 +61,7 @@
 002	Midnight Rider
 002	Mercury Blues
 002	May You Never
+002	Mary, Mary
 002	Mama Tried
 002	Mad World
 002	Luka
@@ -74,6 +76,7 @@
 002	Lies
 002	Let's Dance
 002	Let The Good Times Roll
+002	Let It Ride
 002	Landslide
 002	Knock On Wood
 002	Keep On Truckin'
@@ -132,6 +135,7 @@
 002	Easy Now
 002	Early In The Morning
 002	Dust
+002	Drive
 002	Dream On
 002	Down By The Water
 002	Don't Think Twice, It's Alright
@@ -190,6 +194,32 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	School's Out
+001	Scary Monsters
+001	Scarlet Begonias
+001	Scarecrow
+001	Scar Tissue
+001	Say You Love Me
+001	Say Yes
+001	Say What
+001	Say Something
+001	Say Please
+001	Say It Loud, I'm Black And I'm Proud Pt 1
+001	Say It Ain't So
+001	Say Goodbye To Hollywood
+001	Savoy Truffle
+001	Saved By Zero
+001	Save Tonight
+001	Save The Last Dance For Me
+001	Save The Country
+001	Save It For Later
+001	Save It For A Rainy Day
+001	Saturday's Song
+001	Satisfy You
+001	Satisfy Me
+001	Satisfaction (I Can't Get No)
+001	Satellites
+001	Satellite Of Love
 001	Santa Fe
 001	San Quentin
 001	San Francisco (Be Sure To Wear Flowers In Your Hair)
@@ -273,12 +303,14 @@
 001	Rock N Roll Band
 001	Rock Me On The Water
 001	Rock Me
+001	Rock Lobster
 001	Rock And Roll Woman
 001	Rock And Roll Stew
 001	Rock And Roll Doctor
 001	Rock And Roll Ain't Noise Pollution
 001	Rock And Roll
 001	Rock 'n' Roll Lifestyle
+001	Roam
 001	Roads To Moscow
 001	Roadrunner
 001	Roadhouse Blues
@@ -304,7 +336,7 @@
 001	Riders On The Storm
 001	Ride The Tiger
 001	Ride On Josephine
-001	Ride My See
+001	Ride My See-saw
 001	Ride A White Swan
 001	Ricochet In Time
 001	Rhumba Man
@@ -324,6 +356,7 @@
 001	Respect Yourself
 001	Rescue Me
 001	Rent I Pay
+001	Remember (Walkin' In The Sand)
 001	Release
 001	Relax
 001	Rehab
@@ -421,6 +454,7 @@
 001	Promised You A Miracle
 001	Private Revolution
 001	Private Life
+001	Private Idaho
 001	Private Conversation
 001	Primrose Green
 001	Prime Of Life
@@ -474,9 +508,10 @@
 001	Play That Fast Thing One More Time
 001	Play Me Backwards
 001	Plastic Fantastic Lover
+001	Planet Claire
 001	Pipeline
 001	Pink Moon
-001	Pink + White
+001	Pink   White
 001	Pinball Wizard
 001	Pigs (three Different Ones)
 001	Piece Of My Heart
@@ -486,6 +521,7 @@
 001	Pick Up The Pieces
 001	Pick Myself Up
 001	Philosopher's Stone
+001	Philly Dog
 001	Phantom Limb
 001	Pets
 001	Perpetual Change
@@ -508,7 +544,7 @@
 001	Peggy Sue
 001	Peg
 001	Pedestrian At Best
-001	Pearly
+001	Pearly-dewdrops' Drops
 001	Peaches En Regalia
 001	Peaches
 001	Peacekeeper
@@ -524,6 +560,7 @@
 001	Passion Is No Ordinary Word
 001	Pass You By
 001	Party Time
+001	Party Out Of Bounds
 001	Particle Man
 001	Part of Me
 001	Part Of The Plan
@@ -640,6 +677,7 @@
 001	Oh My My
 001	Oh My Love
 001	Oh Happy Day
+001	Oh Girl
 001	Oh Daddy
 001	Off The Wall
 001	Off The Record
@@ -649,8 +687,8 @@
 001	Octopus's Garden
 001	Ocean Breathes Salty
 001	Oblivious
+001	O-O-H Child
 001	O Superman
-001	O
 001	Nuclear
 001	Nowadays Clancy Can't Even Sing
 001	Now That We've Found Love
@@ -726,6 +764,7 @@
 001	New Kid In Town
 001	New Frontier
 001	New Delhi Freight Train
+001	New Country
 001	New Coat of Paint
 001	New Beginning
 001	Never There
@@ -736,6 +775,7 @@
 001	Never In My Life
 001	Never Had Nobody Like You
 001	Never Gonna Give You Up
+001	Never Gonna Change
 001	Never Going Back Again
 001	Never Go Back
 001	Never Give You Up
@@ -792,6 +832,7 @@
 001	My Back Pages
 001	My Baby Don't Tolerate
 001	My Baby Blue
+001	My Adiddas
 001	Musta Got Lost
 001	Mushaboom
 001	Murder By Numbers
@@ -852,7 +893,7 @@
 001	Misty Mountain Hop
 001	Mistaken For Strangers
 001	Mississippi Queen
-001	Mississippi Half
+001	Mississippi Half-step Uptown Toodleloo
 001	Mississippi Delta
 001	Mississippi
 001	Missionary Man
@@ -871,6 +912,7 @@
 001	Midnight Without You
 001	Midnight Special
 001	Midnight Rambler
+001	Midnight On The Bay
 001	Midnight Cruiser
 001	Midnight Cowboy
 001	Midnight City
@@ -886,7 +928,7 @@
 001	Messin' With The Kid
 001	Message Of Love
 001	Message In A Bottle
-001	Merry
+001	Merry-Go-Round
 001	Mercy Street
 001	Mercy Mercy Me (The Ecology)
 001	Mercy
@@ -919,7 +961,6 @@
 001	Masters of War
 001	Master Blaster (Jammin')
 001	Massachusetts
-001	Mary, Mary
 001	Mary Queen Of Arkansas
 001	Mary Jane's Last Dance
 001	Martha My Dear
@@ -971,11 +1012,11 @@
 001	Mad Mission
 001	Mad Man Moon
 001	Mack The Knife
-001	Ma
+001	Ma-ma-ma Belle
 001	Lust For Life
 001	Luck Of The Draw
 001	Lucille
-001	Low Spark Of High
+001	Low Spark Of High-heeled Boys
 001	Low Rider
 001	Low Budget
 001	Low
@@ -1008,13 +1049,14 @@
 001	Love Struck Baby
 001	Love Stinks
 001	Love Sneakin' Up On You
+001	Love Shack
 001	Love Reign O'er Me
 001	Love Potion Number Nine
 001	Love Plus One
 001	Love Or Confusion
 001	Love Of The Common Man
 001	Love My Way
-001	Love Missle F1
+001	Love Missle F1-11
 001	Love Minus Zero / No Limit
 001	Love Me Two Times
 001	Love Me Tomorrow
@@ -1077,6 +1119,7 @@
 001	Long Time Gone
 001	Long Tall Sally
 001	Long Road
+001	Long May You Run
 001	Long Hot Summer
 001	Long Distance Runaround
 001	Long Distance Love
@@ -1135,8 +1178,8 @@
 001	Lip Service
 001	Linger
 001	Limit To Your Love
+001	Lily-a-passion
 001	Lily, Rosemary And The Jack Of Hearts
-001	Lily
 001	Like The Weather
 001	Like Humans Do
 001	Like A Virgin
@@ -1178,7 +1221,6 @@
 001	Let My Love Open The Door
 001	Let Me Go
 001	Let Love Rule
-001	Let It Ride
 001	Let It Rain
 001	Let It Out (let It All Hang Out)
 001	Let It Grow
@@ -1188,11 +1230,13 @@
 001	Let Him Fly
 001	Let Em In
 001	Let Down
-001	Leopard
+001	Leopard-Skin Pill-Box Hat
 001	Legend Of A Mind
 001	Legalize It
+001	Legal Tender
 001	Left Of The Dial
 001	Left Of Center
+001	Left Hand Free
 001	Led Boots
 001	Lebanese Blonde
 001	Leaving Las Vegas
@@ -1202,6 +1246,7 @@
 001	Learn To Fly
 001	Lean On Me
 001	Lazy Lightnin'
+001	Lazy
 001	Lazaretto
 001	Lay Low
 001	Lay Lady Lay
@@ -1252,6 +1297,7 @@
 001	Kiss
 001	King Without A Crown
 001	King Of The Hill
+001	King Of Rock
 001	King Of Pain
 001	King Of California
 001	King Of All The World
@@ -1273,8 +1319,8 @@
 001	Keep On Smilin'
 001	Keep Me In Your Heart
 001	Keep Going
+001	Keep A-Knockin'
 001	Keep A Lid On Things
-001	Keep A
 001	Kathleen
 001	Katchi
 001	Kashmir
@@ -1291,6 +1337,7 @@
 001	Just Like Heaven
 001	Just Like A Woman
 001	Just Kissed My Baby
+001	Just Dropped In To See What Condition My Condition Was In
 001	Just Dropped In (to See What Condition My Condition Was In)
 001	Just Don't Want To Be Lonely
 001	Just Can't Last
@@ -1332,7 +1379,7 @@
 001	Jimmy Jazz
 001	Jimi Thing
 001	Jim Dandy
-001	Jig
+001	Jig-saw Puzzle
 001	Jetpack
 001	Jesus, Etc.
 001	Jesus Just Left Chicago
@@ -1343,6 +1390,7 @@
 001	Jeremy
 001	Jenny's Got A Pony
 001	Jennifer Juniper
+001	Jennifer
 001	Jeepster
 001	Jeannie Needs A Shooter
 001	Jealousy
@@ -1366,6 +1414,7 @@
 001	Itchycoo Park
 001	It's Your Thing
 001	It's Wonderful
+001	It's Tricky
 001	It's Too Late
 001	It's The End Of The World As We Know It (And I Feel Fine)
 001	It's Probably Me
@@ -1432,6 +1481,7 @@
 001	Industrial Disease
 001	Indoor Fireworks
 001	Incense And Peppermints
+001	In-a-gadda-da-vida
 001	In Your Eyes
 001	In This House That I Call Home
 001	In These Shoes?
@@ -1457,7 +1507,6 @@
 001	In Between Days
 001	In A Little While
 001	In A Big Country
-001	In
 001	Impossible Germany
 001	Immigrant Song
 001	Imitation Of Life
@@ -1634,6 +1683,7 @@
 001	I Love A Man In Uniform
 001	I Live Alone
 001	I Left My Heart In San Francisco
+001	I Learned The Hard Way
 001	I Know You Got Soul
 001	I Know What I Like
 001	I Know What Boys Like
@@ -1874,12 +1924,12 @@
 001	Heartbreak A Stranger
 001	Heartbeats
 001	Heartache Tonight
+001	Heart-Shaped Box
 001	Heart Of The Sunrise
 001	Heart Of Stone
 001	Heart Of Gold
 001	Heart Of Glass
 001	Heart Full Of Soul
-001	Heart
 001	Headlines
 001	Heading For The Light
 001	Head Like A Hole
@@ -1890,6 +1940,7 @@
 001	He Mandu
 001	Having A Party
 001	Have You Seen Your Mother Baby?
+001	Have You Seen Her
 001	Have I The Right
 001	Have A Little Faith In Me
 001	Have A Heart
@@ -1931,11 +1982,11 @@
 001	Groovin'
 001	Groove Me
 001	Greetings To The New Brunette
+001	Green-Eyed Lady
 001	Green Tambourine
 001	Green River
 001	Green Garden
 001	Green Earrings
-001	Green
 001	Great Big Love
 001	Great Balls Of Fire
 001	Gravity Fails
@@ -2178,7 +2229,7 @@
 001	Fire On High
 001	Fire It Up
 001	Fire Cracker
-001	Fingertips 
+001	Fingertips - Part 2
 001	Finest Worksong
 001	Fight The Power
 001	Fight For Your Right
@@ -2323,11 +2374,12 @@
 001	Driving Me Mad
 001	Driver's Seat
 001	Driven To Tears
+001	Drive-in Saturday
 001	Drive South
 001	Drive On
 001	Drive My Car
 001	Drive Back
-001	Drinkin' Wine Spo
+001	Drinkin' Wine Spo-Dee-O-Dee
 001	Drift Away
 001	Dreamland
 001	Dreaming
@@ -2389,7 +2441,7 @@
 001	Don't Dream It's Over
 001	Don't Do It
 001	Don't Cry No Tears
-001	Don't Come Home A
+001	Don't Come Home A-Drinkin' With Lovin' On Your Mind
 001	Don't Come Back
 001	Don't Come Around Here No More
 001	Don't Change
@@ -2497,7 +2549,7 @@
 001	Dark Star
 001	Dark Necessities
 001	Dark Horse
-001	Danny's All
+001	Danny's All-star Joint
 001	Daniel
 001	Dani California
 001	Danger Man
@@ -2524,8 +2576,8 @@
 001	Da Da Da
 001	D.I.Y.
 001	D. J.
+001	D-I-V-O-R-C-E
 001	D'yer Mak'er
-001	D
 001	Cynical Girl
 001	Cut Your Hair
 001	Cut The Cake
@@ -2550,7 +2602,7 @@
 001	Crossfire
 001	Crosseyed Cat
 001	Crosseyed And Painless
-001	Cross
+001	Cross-eyed Mary
 001	Crippled Inside
 001	Criminal
 001	Crime Of The Century
@@ -2666,6 +2718,7 @@
 001	Chasing Heather Crazy
 001	Chasing Cars
 001	Charlie Brown
+001	Channel Z
 001	Changed The Locks
 001	Change the Sheets
 001	Change Of Time
@@ -2697,7 +2750,7 @@
 001	Carry That Weight
 001	Carry On
 001	Carried Away
-001	Carrie
+001	Carrie-Anne
 001	Carpetbaggers
 001	Carpet Of The Sun
 001	Carouselambra
@@ -2831,6 +2884,7 @@
 001	Born In Chicago
 001	Born At The Right Time
 001	Borderline
+001	Border Town
 001	Border Song
 001	Border Radio
 001	Boombox
@@ -2943,7 +2997,7 @@
 001	Beeswing
 001	Been There Done That
 001	Been Caught Stealing
-001	Beechwood 4
+001	Beechwood 4-5789
 001	Beck's Bolero
 001	Because The Night
 001	Because Of Her Beauty
@@ -2952,12 +3006,12 @@
 001	Beautiful World
 001	Beautiful Day
 001	Beat Surrender
+001	Be-Bop-A-Lula
 001	Be OK
 001	Be Nice To Me
 001	Be My Yoko Ono
 001	Be My Baby
 001	Be Careful With A Fool
-001	Be
 001	Battle Of Evermore
 001	Batonga
 001	Bastards Of Young
@@ -2970,7 +3024,7 @@
 001	Bang A Gong (Get It On)
 001	Baltimore
 001	Ballad Of Easy Rider
-001	Ballad Of A Well
+001	Ballad Of A Well-Known Gun
 001	Ballad Of A Thin Man
 001	Ball And Chain
 001	Ball And Biscuit
@@ -3001,6 +3055,7 @@
 001	Back In Your Head
 001	Back In The U. S. S. R.
 001	Back Down South
+001	Bachelor Kisses
 001	Babylon Sisters
 001	Babylon
 001	Baby, I Need Your Loving
@@ -3160,7 +3215,7 @@
 001	Ain't Gwine Whistle Dixie
 001	Ah! Leah!
 001	Ah Mary
-001	Agent Double
+001	Agent Double-O-Soul
 001	After The Goldrush
 001	After The Gold Rush
 001	Adventure Of A Lifetime
@@ -3178,6 +3233,7 @@
 001	Abracadabra
 001	About A Girl
 001	ABC
+001	A-Punk
 001	A Whiter Shade Of Pale
 001	A Well Respected Man
 001	A Trick Of The Tail
@@ -3194,7 +3250,7 @@
 001	A Love Bizarre
 001	A Little Bit Of Bad
 001	A Higher Place
-001	A Hard Rain's A
+001	A Hard Rain's A-gonna Fall
 001	A Hard Day's Night
 001	A Good Idea
 001	A Good Feelin' To Know
@@ -3207,4 +3263,3 @@
 001	A Case Of You
 001	A Boy Named Sue (live)
 001	A Big Hunk O' Love
-001	A

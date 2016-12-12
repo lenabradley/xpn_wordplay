@@ -81,7 +81,7 @@ class PlaylistSpider(Spider):
             linkOK = False;
 
             # parse link text for time, track, and artist info
-            match = re.search(r'(\d\d)\:(\d\d) ([ap])m ([^-]+) - ([^-]+)', text)
+            match = re.search(r'(\d\d)\:(\d\d) ([ap])m', text)
             if match:
                 hour = int(match.group(1))
                 minute = int(match.group(2))
@@ -92,27 +92,20 @@ class PlaylistSpider(Spider):
                 elif meridiem =='a':
                     if hour==12:
                         hour = hour-12
-                artist = match.group(4)
-                track = match.group(5)
                 textOK = True
 
-            # parse link address for album name
-            # 1) extract query string which contains the song info
-            # 2) parse the query string to extract the album name
+            # parse link address for artist, track, and album name
             link = urllib.unquote(link)
             link = urlparse.urlparse(link)
-            qstr = ''
             if link.query:
                 link_qs = urlparse.parse_qs(link.query)
-                try:
-                    qstr = link_qs['q'][0]
-                except:
-                    None
-
-            match = re.search(r'\^([^\^]+)\^\d+$', qstr)
-            if match:
-                album = match.group(1)
-                linkOK = True;
+                qstr = link_qs['q'][0]
+                match = re.search(r'([^\^]+)\^([^\^]+)\^([^\^]+)\^\d+$', qstr)
+                if match:
+                    artist = match.group(1)
+                    track = match.group(2)
+                    album = match.group(3)
+                    linkOK = True
 
             # store all data
             if dateOK and textOK and linkOK:
