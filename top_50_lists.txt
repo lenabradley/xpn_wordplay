@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-12, 10:20
+Last updated: 2016-12-12, 13:20
 
 
 ==============================
@@ -10,7 +10,7 @@ Top 50 artists:
 #   1:        103 The Beatles
 #   2:         59 The Rolling Stones
 #   3:         51 Bruce Springsteen
-#   4:         50 Bob Dylan
+#   4:         51 Bob Dylan
 #   5:         41 Neil Young
 #   6:         31 Steely Dan
 #   7:         30 Led Zeppelin
@@ -18,22 +18,22 @@ Top 50 artists:
 #   9:         28 David Bowie
 #  10:         27 Grateful Dead
 #  11:         23 Van Morrison
-#  12:         23 Fleetwood Mac
-#  13:         22 Stevie Wonder
-#  14:         20 The Who
-#  15:         19 Warren Zevon
-#  16:         19 Eric Clapton
-#  17:         19 Elton John
+#  12:         23 Stevie Wonder
+#  13:         23 Fleetwood Mac
+#  14:         21 The Who
+#  15:         20 Elton John
+#  16:         19 Warren Zevon
+#  17:         19 Eric Clapton
 #  18:         18 U2
 #  19:         18 Joni Mitchell
 #  20:         18 Jackson Browne
 #  21:         17 Paul Simon
-#  22:         17 Bonnie Raitt
-#  23:         16 The Clash
-#  24:         16 The Beach Boys
-#  25:         16 Talking Heads
-#  26:         16 Little Feat
-#  27:         15 Wilco
+#  22:         17 Little Feat
+#  23:         17 Bonnie Raitt
+#  24:         16 Wilco
+#  25:         16 The Clash
+#  26:         16 The Beach Boys
+#  27:         16 Talking Heads
 #  28:         15 The Kinks
 #  29:         15 The Doors
 #  30:         15 Jimi Hendrix
@@ -42,12 +42,12 @@ Top 50 artists:
 #  33:         13 Todd Rundgren
 #  34:         13 Sting
 #  35:         13 Pink Floyd
-#  36:         13 My Morning Jacket
-#  37:         13 John Lennon
-#  38:         13 Coldplay
-#  39:         12 Yes
-#  40:         12 Santana
-#  41:         12 Peter Gabriel
+#  36:         13 Peter Gabriel
+#  37:         13 My Morning Jacket
+#  38:         13 John Lennon
+#  39:         13 Coldplay
+#  40:         12 Yes
+#  41:         12 Santana
 #  42:         12 Marvin Gaye
 #  43:         12 Lucinda Williams
 #  44:         12 Los Lobos
@@ -119,36 +119,36 @@ Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        384 the
-#   2:        252 i
+#   1:        390 the
+#   2:        254 i
 #   3:        237 a
-#   4:        211 you
-#   5:        191 love
-#   6:        184 in
-#   7:        175 of
-#   8:        168 to
-#   9:        144 on
+#   4:        212 you
+#   5:        194 love
+#   6:        185 in
+#   7:        178 of
+#   8:        171 to
+#   9:        148 on
 #  10:        141 my
 #  11:        137 me
-#  12:        110 it
+#  12:        112 it
 #  13:        101 and
 #  14:         79 don't
 #  15:         71 i'm
 #  16:         64 all
-#  17:         62 your
-#  18:         62 for
+#  17:         63 for
+#  18:         62 your
 #  19:         57 is
 #  20:         56 no
 #  21:         56 man
 #  22:         51 one
 #  23:         51 be
 #  24:         50 baby
-#  25:         48 it's
-#  26:         48 get
-#  27:         48 down
+#  25:         49 down
+#  26:         48 it's
+#  27:         48 get
 #  28:         47 up
 #  29:         46 like
-#  30:         44 back
+#  30:         45 back
 #  31:         43 time
 #  32:         43 can't
 #  33:         40 little
@@ -168,7 +168,7 @@ Top 50 title words:
 #  47:         33 heart
 #  48:         33 do
 #  49:         32 rock
-#  50:         31 roll
+#  50:         32 new
 
 ==============================
 Top 50 release year:
@@ -176,51 +176,51 @@ Top 50 release year:
 #Rank: Occurances Item
 ==============================
 #   1:        155 1
-#   2:        133 1970
+#   2:        134 1970
 #   3:        123 1969
-#   4:        117 1971
+#   4:        118 1971
 #   5:        115 1972
 #   6:        110 1973
 #   7:        102 1967
-#   8:         98 1974
-#   9:         94 1975
-#  10:         92 1976
-#  11:         88 1980
+#   8:        101 1974
+#   9:         96 1975
+#  10:         93 1976
+#  11:         89 1980
 #  12:         86 1978
 #  13:         85 1977
-#  14:         84 1968
+#  14:         85 1968
 #  15:         81 1994
-#  16:         79 1993
+#  16:         81 1993
 #  17:         78 1979
-#  18:         75 1989
-#  19:         74 1982
+#  18:         76 1989
+#  19:         75 1982
 #  20:         70 1991
-#  21:         69 1992
-#  22:         69 1984
-#  23:         69 1966
-#  24:         62 1965
-#  25:         60 1987
-#  26:         59 1985
+#  21:         70 1984
+#  22:         70 1966
+#  23:         69 1992
+#  24:         62 1985
+#  25:         62 1965
+#  26:         60 1987
 #  27:         57 1988
 #  28:         56 1995
-#  29:         55 1986
-#  30:         52 1996
+#  29:         56 1986
+#  30:         54 1996
 #  31:         51 1983
 #  32:         50 2003
-#  33:         50 1990
-#  34:         49 1998
-#  35:         48 2000
-#  36:         48 1981
-#  37:         47 2007
-#  38:         47 2004
+#  33:         50 1998
+#  34:         50 1990
+#  35:         49 2007
+#  36:         49 2000
+#  37:         48 2004
+#  38:         48 1981
 #  39:         47 1999
-#  40:         45 2002
+#  40:         46 2002
 #  41:         45 2001
 #  42:         43 2016
 #  43:         40 2006
 #  44:         40 1964
 #  45:         39 2013
-#  46:         37 2005
+#  46:         38 2005
 #  47:         36 2011
 #  48:         34 2015
 #  49:         34 2010

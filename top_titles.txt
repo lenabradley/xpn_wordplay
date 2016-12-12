@@ -204,6 +204,38 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Slip Kid
+001	Sleepwalker
+001	Sleep To Dream
+001	Sleep On The Left Side
+001	Sledgehammer
+001	Slave To The Rhythm
+001	Slave To Love
+001	Sky Blue Sky
+001	Skinny Love
+001	Skin Tight
+001	Skin It Back
+001	Skating Away On The Thin Ice Of The New Day
+001	Skateaway
+001	Sixty Years On
+001	Six O'clock News
+001	Situation
+001	Sitting, Waiting, Wishing
+001	Sitting In Limbo
+001	Sittin' On The Dock Of The Bay
+001	Sit Down I Think I Love You
+001	Sisters Are Doin' It For Themselves
+001	Sister Lost Soul
+001	Sister Jack
+001	Sister Havana
+001	Sissyneck
+001	Sir Duke
+001	Sinner
+001	Sing, Sing, Sing
+001	Since You've Been Gone
+001	Simple Twist Of Fate
+001	Simple Song
+001	Silver Naked Ladies
 001	Silver Lining
 001	Silent Movies
 001	Silent All These Years
