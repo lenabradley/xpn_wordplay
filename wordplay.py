@@ -339,7 +339,7 @@ def main():
 
     # text file summary
     f = open(os.path.abspath('summary.txt'),'w')
-    f.write('{0}:\t{1}\n'.format('Elapse d time', str(elapsed)))
+    f.write('{0}:\t{1}\n'.format('Elapsed time', str(elapsed)))
     f.write('{0}:\t{1}\n'.format('Songs', len(tracks)))
     f.write('{0}:\t{1}\n'.format('Artists', len(unique_artists)))
     f.write('{0}:\t{1}\n'.format('Song Titles', len(unique_tracks)))

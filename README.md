@@ -13,3 +13,7 @@ Here's a quick analysis, including code to
 For a fun, public visualization of the data see my Tableau Viz: 
 
 [![Tableau Viz Link](xpnatoz.jpg)](https://public.tableau.com/views/XPN_AtoZ/XPNA-ZPlaylistData?:embed=y&:display_count=yes)
+
+## Related Work
+
+Also check out complementary & expanded analysis of the #XPNAtoZ playlist by [Drew Sudell](https://github.com/asudell/a2z) and [Bruce Segal](https://twitter.com/besegal)
