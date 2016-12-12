@@ -1,13 +1,13 @@
-363	the
+366	the
 247	i
-225	a
+226	a
 202	you
 185	love
-174	in
-163	of
-161	to
+176	in
+164	of
+163	to
 136	my
-132	on
+133	on
 128	me
 101	it
 095	and
@@ -16,11 +16,11 @@
 062	all
 059	for
 056	is
-054	your
+055	your
 054	man
 053	no
+051	be
 050	one
-050	be
 048	baby
 047	it's
 047	get
@@ -29,7 +29,7 @@
 045	up
 044	back
 043	time
-041	can't
+042	can't
 039	little
 039	come
 038	with
@@ -51,18 +51,18 @@
 029	new
 029	day
 028	now
+028	hey
 027	way
 027	let
-027	hey
 027	blue
 027	big
 027	bad
 026	rain
 026	over
 025	know
+025	away
 024	woman
 023	can
-023	away
 022	fire
 022	by
 022	blues
@@ -70,12 +70,12 @@
 021	people
 021	only
 021	home
+021	dance
 020	world
 020	that
 020	road
 020	i've
 020	from
-020	dance
 019	train
 019	mind
 019	here
@@ -147,6 +147,7 @@
 012	better
 012	as
 012	are
+011	water
 011	was
 011	tonight
 011	run
@@ -157,8 +158,8 @@
 011	girls
 011	country
 010	we
-010	water
 010	town
+010	stone
 010	running
 010	money
 010	lover
@@ -170,7 +171,6 @@
 009	times
 009	summer
 009	street
-009	stone
 009	soul
 009	revolution
 009	real
@@ -213,6 +213,7 @@
 007	together
 007	these
 007	tell
+007	shoes
 007	rider
 007	ride
 007	really
@@ -239,14 +240,17 @@
 007	an
 007	am
 007	alive
+007	across
 006	wind
 006	wait
 006	used
 006	us
+006	through
 006	take
 006	sleep
 006	she
 006	say
+006	sally
 006	s
 006	please
 006	place
@@ -280,7 +284,6 @@
 006	always
 006	alone
 006	after
-006	across
 005	yourself
 005	young
 005	where
@@ -288,11 +291,10 @@
 005	wants
 005	u
 005	today
-005	through
 005	that's
 005	than
 005	still
-005	shoes
+005	san
 005	runaway
 005	rose
 005	room
@@ -381,7 +383,7 @@
 004	sister
 004	sing
 004	shot
-004	sally
+004	sail
 004	said
 004	rolling
 004	pink
@@ -552,6 +554,7 @@
 003	he
 003	hands
 003	half
+003	hair
 003	guys
 003	groove
 003	goin'
@@ -562,6 +565,7 @@
 003	gave
 003	four
 003	follow
+003	flowers
 003	fell
 003	favorite
 003	farm
@@ -698,6 +702,7 @@
 002	son
 002	something
 002	somebody
+002	sneakin'
 002	slang
 002	sign
 002	side
@@ -712,8 +717,9 @@
 002	saturday
 002	satisfied
 002	sand
-002	san
 002	salty
+002	saint
+002	sailing
 002	safe
 002	sad
 002	runnin'
@@ -866,6 +872,7 @@
 002	key
 002	kansas
 002	k
+002	julia
 002	jude
 002	joyful
 002	journey
@@ -894,7 +901,6 @@
 002	harlem
 002	happen
 002	hanging
-002	hair
 002	guns
 002	gravity
 002	grapevine
@@ -913,12 +919,12 @@
 002	frontiers
 002	friends
 002	fresh
+002	francisco
 002	frame
 002	fought
 002	forgettin'
 002	fools
 002	flying
-002	flowers
 002	flow
 002	flood
 002	finest
@@ -941,6 +947,7 @@
 002	english
 002	end
 002	eight
+002	earth
 002	early
 002	drummer
 002	drum
@@ -1057,6 +1064,7 @@
 002	amsterdam
 002	amazed
 002	along
+002	alley
 002	alison
 002	alabama
 002	ah
@@ -1105,6 +1113,7 @@
 001	weighs
 001	weeks
 001	wee
+001	wear
 001	wave
 001	waters
 001	waterline
@@ -1199,6 +1208,7 @@
 001	swan
 001	swallow
 001	suzanne
+001	sure
 001	supernova
 001	supermarket
 001	superman
@@ -1254,7 +1264,6 @@
 001	someday
 001	soles
 001	sneeze
-001	sneakin'
 001	sneakers
 001	smoke
 001	smilin'
@@ -1278,6 +1287,7 @@
 001	sinatra
 001	sin
 001	simpleton
+001	simon
 001	silence
 001	sideways
 001	shy
@@ -1303,6 +1313,7 @@
 001	seventeen
 001	service
 001	serve
+001	serenade
 001	sensuality
 001	sense
 001	sensations
@@ -1329,11 +1340,16 @@
 001	sayin'
 001	saw
 001	satin
+001	santa
 001	sane
+001	sample
+001	sam
+001	salt
 001	salad
 001	sake
 001	saints
-001	saint
+001	sailor
+001	sailin'
 001	sabotage
 001	rust
 001	rush
@@ -1457,6 +1473,7 @@
 001	quit
 001	quick
 001	question
+001	quentin
 001	quattro
 001	quarter
 001	pushin'
@@ -1530,6 +1547,7 @@
 001	photographs
 001	phoenix
 001	philosopher's
+001	philadelphia
 001	phantom
 001	pets
 001	petite
@@ -1867,7 +1885,6 @@
 001	jungleland
 001	jumpin'
 001	julio
-001	julia
 001	judy's
 001	judy
 001	josie
@@ -1898,6 +1915,7 @@
 001	jeannie
 001	jean
 001	jay
+001	jar
 001	japan
 001	janie
 001	jane's
@@ -2116,7 +2134,6 @@
 001	frankie's
 001	frankenstein
 001	frank
-001	francisco
 001	france
 001	fragments
 001	fracture
@@ -2157,6 +2174,7 @@
 001	femme
 001	feed
 001	feats
+001	fe
 001	favourite
 001	father's
 001	father
@@ -2230,7 +2248,6 @@
 001	eaves
 001	eastwood
 001	ease
-001	earth
 001	earrings
 001	eagle
 001	e's
@@ -2280,6 +2297,7 @@
 001	dime
 001	digital
 001	diggin'
+001	diego
 001	died
 001	die
 001	dick
@@ -2699,7 +2717,6 @@
 001	almost
 001	allow
 001	allison
-001	alley
 001	alice
 001	alex
 001	alcohol

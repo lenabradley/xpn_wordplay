@@ -23,6 +23,7 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Sail Away
 002	Running Out Of Time
 002	Roll Over Beethoven
 002	Roll Away The Stone
@@ -189,6 +190,20 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Santa Fe
+001	San Quentin
+001	San Francisco (Be Sure To Wear Flowers In Your Hair)
+001	San Diego Serenade
+001	Sample In A Jar
+001	Sam Stone
+001	Salt Of The Earth
+001	Sally Can't Dance
+001	Saint Simon
+001	Sailing To Philadelphia
+001	Sailing Shoes/Hey Julia/Sneakin' Sally Through The Alley
+001	Sailin' Shoes
+001	Sail On, Sailor
+001	Sail Across The Water
 001	Safe From Harm
 001	Safe European Home
 001	Sad And Deep As You

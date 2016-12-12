@@ -128,6 +128,7 @@
 005	Boogie
 005	Ball
 005	Always
+004	Sail
 004	Ride
 004	Pride
 004	Pictures
@@ -169,6 +170,7 @@
 004	Baby,
 004	American
 004	After
+003	San
 003	Runaway
 003	Rockin'
 003	Ring
@@ -251,6 +253,7 @@
 003	Alone
 003	Alive
 003	Across
+002	Sailing
 002	Safe
 002	Ruby
 002	Rubberband
@@ -450,6 +453,13 @@
 002	Amsterdam
 002	Alison
 002	Alabama
+001	Santa
+001	Sample
+001	Sam
+001	Salt
+001	Sally
+001	Saint
+001	Sailin'
 001	Sad
 001	Sabotage
 001	S.O.S.

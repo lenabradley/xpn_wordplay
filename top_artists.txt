@@ -1,5 +1,5 @@
 095	The Beatles
-054	The Rolling Stones
+055	The Rolling Stones
 048	Bruce Springsteen
 048	Bob Dylan
 041	Neil Young
@@ -18,14 +18,14 @@
 018	U2
 018	Joni Mitchell
 018	Jackson Browne
+016	The Beach Boys
 016	Talking Heads
 016	Paul Simon
+016	Little Feat
 016	Bonnie Raitt
 015	Wilco
 015	The Doors
 015	The Clash
-015	The Beach Boys
-015	Little Feat
 015	Jimi Hendrix
 014	The Allman Brothers
 013	Todd Rundgren
@@ -35,6 +35,7 @@
 013	John Lennon
 012	Sting
 012	Lucinda Williams
+012	Johnny Cash
 012	Elvis Costello
 012	Dr. John
 012	Creedence Clearwater Revival
@@ -48,12 +49,12 @@
 011	Peter Gabriel
 011	Pearl Jam
 011	Marvin Gaye
-011	Johnny Cash
 010	The Temptations
 010	The Police
 010	The Band
 010	Ryan Adams
 010	Los Lobos
+010	John Prine
 010	John Mayer
 010	John Hiatt
 010	James Brown
@@ -63,15 +64,15 @@
 010	Bee Gees
 009	Vampire Weekend
 009	Traffic
+009	Tom Waits
 009	The Cure
 009	The Black Keys
 009	Richard Thompson
-009	John Prine
+009	Randy Newman
 009	Indigo Girls
 009	Elvis Presley
 009	Buffalo Springfield
 009	Al Green
-008	Tom Waits
 008	Tom Petty
 008	The J. Geils Band
 008	The Byrds
@@ -79,8 +80,8 @@
 008	Sheryl Crow
 008	Sarah McLachlan
 008	Rod Stewart
+008	Robert Palmer
 008	Red Hot Chili Peppers
-008	Randy Newman
 008	Prince
 008	Pete Townshend
 008	Patty Griffin
@@ -88,8 +89,8 @@
 008	Boz Scaggs
 007	The Cars
 007	Stevie Ray Vaughan
-007	Robert Palmer
 007	Psychedelic Furs
+007	Phish
 007	Otis Redding
 007	Old 97's
 007	Oasis
@@ -105,6 +106,7 @@
 007	Beck
 006	Wilson Pickett
 006	The Spinners
+006	The Shins
 006	The Ramones
 006	The Moody Blues
 006	The Doobie Brothers
@@ -113,7 +115,6 @@
 006	Steve Winwood
 006	Steve Earle
 006	Shawn Colvin
-006	Phish
 006	Patti Smith
 006	NRBQ
 006	Modest Mouse
@@ -131,7 +132,6 @@
 005	Tori Amos
 005	They Might Be Giants
 005	The Supremes
-005	The Shins
 005	The Lemonheads
 005	The Blasters
 005	The Avett Brothers
@@ -143,6 +143,7 @@
 005	Paul McCartney
 005	Norah Jones
 005	Lyle Lovett
+005	Lou Reed
 005	Little Richard
 005	Leonard Cohen
 005	LCD Soundsystem
@@ -199,12 +200,12 @@
 004	Mott The Hoople
 004	Morrissey
 004	Matthew Sweet
-004	Lou Reed
 004	Leon Russell
 004	LL Cool J
 004	Kate Bush
 004	Jethro Tull
 004	Jerry Garcia
+004	Jane Siberry
 004	J. J. Cale
 004	Iron And Wine
 004	INXS
@@ -282,6 +283,7 @@
 003	Moby
 003	Mayer Hawthorne
 003	Massive Attack
+003	Mark Knopfler
 003	Madonna
 003	Loudon Wainwright III
 003	Little Willie John
@@ -296,7 +298,6 @@
 003	Jim Lauderdale
 003	Jerry Butler
 003	Jefferson Starship
-003	Jane Siberry
 003	Jackson 5
 003	Ingrid Michaelson
 003	Hot Tuna
@@ -317,6 +318,7 @@
 003	Dusty Springfield
 003	Dr. Dog
 003	Donald Fagen
+003	David Gray
 003	David Bromberg
 003	Dave Mason
 003	Dave Clark Five
@@ -425,7 +427,6 @@
 002	Merle Haggard
 002	Melanie
 002	Me'shell Ndegeocello
-002	Mark Knopfler
 002	Madness
 002	Madeleine Peyroux
 002	MGMT
@@ -485,7 +486,6 @@
 002	Delbert McClinton
 002	Del Amitri
 002	David Lindley
-002	David Gray
 002	Dave Edmunds
 002	Curtis Mayfield
 002	Crash Test Dummies
@@ -512,6 +512,7 @@
 002	Beth Orton
 002	Ben Harper
 002	Belly
+002	Beirut
 002	Barry White
 002	Aztec Camera
 002	Average White Band
@@ -751,6 +752,7 @@
 001	Sea Level
 001	Screaming Trees
 001	Screamin' Jay Hawkins
+001	Scott McKenzie
 001	Sara Bareilles
 001	Santogold
 001	Sade
@@ -1150,7 +1152,6 @@
 001	Ben Vaughn
 001	Ben Lee
 001	Ben Arnold
-001	Beirut
 001	Battles
 001	Barns Courtney
 001	Bananarama
