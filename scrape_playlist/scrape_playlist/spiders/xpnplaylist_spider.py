@@ -95,7 +95,6 @@ class PlaylistSpider(Spider):
                 textOK = True
 
             # parse link address for artist, track, and album name
-            link = urllib.unquote(link)
             link = urlparse.urlparse(link)
             if link.query:
                 link_qs = urlparse.parse_qs(link.query)
