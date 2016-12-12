@@ -23,6 +23,7 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Running Out Of Time
 002	Roll Over Beethoven
 002	Roll Away The Stone
 002	Rock On
@@ -188,6 +189,20 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Safe From Harm
+001	Safe European Home
+001	Sad And Deep As You
+001	Sabotage
+001	S.O.S.
+001	Running Up That Hill
+001	Running Scared
+001	Running On Empty
+001	Runnin' Down A Dream
+001	Runaways
+001	Runaway Train
+001	Runaway Child, Running Wild
+001	Runaway
+001	Run Through The Jungle
 001	Run Runaway
 001	Run On
 001	Run For Your Life

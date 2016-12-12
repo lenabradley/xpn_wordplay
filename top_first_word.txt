@@ -80,6 +80,7 @@
 007	Easy
 007	Drive
 007	Dance
+006	Run
 006	Revolution
 006	Real
 006	Radio
@@ -100,7 +101,7 @@
 006	California
 006	Angel
 006	And
-005	Run
+005	Running
 005	Peace
 005	Move
 005	Man
@@ -168,6 +169,7 @@
 004	Baby,
 004	American
 004	After
+003	Runaway
 003	Rockin'
 003	Ring
 003	Respect
@@ -249,6 +251,7 @@
 003	Alone
 003	Alive
 003	Across
+002	Safe
 002	Ruby
 002	Rubberband
 002	Round
@@ -447,6 +450,11 @@
 002	Amsterdam
 002	Alison
 002	Alabama
+001	Sad
+001	Sabotage
+001	S.O.S.
+001	Runnin'
+001	Runaways
 001	Rumor
 001	Rumble
 001	Rudy,

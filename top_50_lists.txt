@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-11, 18:03
+Last updated: 2016-12-11, 19:12
 
 
 ==============================
@@ -26,16 +26,16 @@ Top 50 artists:
 #  17:         19 Elton John
 #  18:         18 U2
 #  19:         18 Joni Mitchell
-#  20:         17 Jackson Browne
+#  20:         18 Jackson Browne
 #  21:         16 Talking Heads
 #  22:         16 Paul Simon
 #  23:         16 Bonnie Raitt
 #  24:         15 Wilco
 #  25:         15 The Doors
-#  26:         15 The Beach Boys
-#  27:         15 Little Feat
-#  28:         15 Jimi Hendrix
-#  29:         14 The Clash
+#  26:         15 The Clash
+#  27:         15 The Beach Boys
+#  28:         15 Little Feat
+#  29:         15 Jimi Hendrix
 #  30:         14 The Allman Brothers
 #  31:         13 Todd Rundgren
 #  32:         13 The Pretenders
@@ -46,17 +46,17 @@ Top 50 artists:
 #  37:         12 Lucinda Williams
 #  38:         12 Elvis Costello
 #  39:         12 Dr. John
-#  40:         12 Coldplay
-#  41:         11 Yes
-#  42:         11 The Replacements
-#  43:         11 The Eagles
-#  44:         11 Santana
-#  45:         11 Radiohead
-#  46:         11 Pink Floyd
-#  47:         11 Peter Gabriel
-#  48:         11 Pearl Jam
-#  49:         11 Marvin Gaye
-#  50:         11 Johnny Cash
+#  40:         12 Creedence Clearwater Revival
+#  41:         12 Coldplay
+#  42:         11 Yes
+#  43:         11 The Replacements
+#  44:         11 The Eagles
+#  45:         11 Santana
+#  46:         11 Radiohead
+#  47:         11 Pink Floyd
+#  48:         11 Peter Gabriel
+#  49:         11 Pearl Jam
+#  50:         11 Marvin Gaye
 
 ==============================
 Top 50 titles:
@@ -88,50 +88,50 @@ Top 50 titles:
 #  23:          3 Cherry Oh Baby
 #  24:          3 California
 #  25:          3 Ball Of Confusion
-#  26:          2 Roll Over Beethoven
-#  27:          2 Roll Away The Stone
-#  28:          2 Rock On
-#  29:          2 Ring of Fire
-#  30:          2 Right Here, Right Now
-#  31:          2 Respect
-#  32:          2 Raspberry Beret
-#  33:          2 Rain
-#  34:          2 Pride And Joy
-#  35:          2 Pictures Of Matchstick Men
-#  36:          2 Pickin' Up The Pieces
-#  37:          2 Photograph
-#  38:          2 Personal Jesus
-#  39:          2 Peace Train
-#  40:          2 Paradise
-#  41:          2 Over And Over
-#  42:          2 Ophelia
-#  43:          2 Only You Know And I Know
-#  44:          2 Only Love Can Break Your Heart
-#  45:          2 One Way Out
-#  46:          2 One Of These Days
-#  47:          2 One Big Love
-#  48:          2 On The Road Again
-#  49:          2 Omaha
-#  50:          2 Oh Atlanta
+#  26:          2 Running Out Of Time
+#  27:          2 Roll Over Beethoven
+#  28:          2 Roll Away The Stone
+#  29:          2 Rock On
+#  30:          2 Ring of Fire
+#  31:          2 Right Here, Right Now
+#  32:          2 Respect
+#  33:          2 Raspberry Beret
+#  34:          2 Rain
+#  35:          2 Pride And Joy
+#  36:          2 Pictures Of Matchstick Men
+#  37:          2 Pickin' Up The Pieces
+#  38:          2 Photograph
+#  39:          2 Personal Jesus
+#  40:          2 Peace Train
+#  41:          2 Paradise
+#  42:          2 Over And Over
+#  43:          2 Ophelia
+#  44:          2 Only You Know And I Know
+#  45:          2 Only Love Can Break Your Heart
+#  46:          2 One Way Out
+#  47:          2 One Of These Days
+#  48:          2 One Big Love
+#  49:          2 On The Road Again
+#  50:          2 Omaha
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        362 the
+#   1:        363 the
 #   2:        247 i
-#   3:        224 a
-#   4:        201 you
+#   3:        225 a
+#   4:        202 you
 #   5:        185 love
 #   6:        174 in
-#   7:        161 to
-#   8:        161 of
+#   7:        163 of
+#   8:        161 to
 #   9:        136 my
-#  10:        131 on
+#  10:        132 on
 #  11:        128 me
 #  12:        101 it
-#  13:         94 and
+#  13:         95 and
 #  14:         78 don't
 #  15:         68 i'm
 #  16:         62 all
@@ -146,10 +146,10 @@ Top 50 title words:
 #  25:         47 it's
 #  26:         47 get
 #  27:         46 like
-#  28:         45 down
-#  29:         44 up
+#  28:         46 down
+#  29:         45 up
 #  30:         44 back
-#  31:         41 time
+#  31:         43 time
 #  32:         41 can't
 #  33:         39 little
 #  34:         39 come
@@ -167,8 +167,8 @@ Top 50 title words:
 #  46:         32 heart
 #  47:         30 roll
 #  48:         30 rock
-#  49:         30 got
-#  50:         29 new
+#  49:         30 out
+#  50:         30 got
 
 ==============================
 Top 50 release year:
@@ -176,27 +176,27 @@ Top 50 release year:
 #Rank: Occurances Item
 ==============================
 #   1:        142 1
-#   2:        129 1970
-#   3:        116 1969
+#   2:        131 1970
+#   3:        117 1969
 #   4:        111 1971
 #   5:        108 1973
 #   6:        107 1972
 #   7:         94 1967
 #   8:         90 1974
-#   9:         87 1975
+#   9:         88 1975
 #  10:         85 1976
 #  11:         83 1980
-#  12:         82 1978
-#  13:         79 1977
-#  14:         78 1968
-#  15:         77 1994
-#  16:         73 1979
-#  17:         72 1993
+#  12:         83 1978
+#  13:         80 1977
+#  14:         78 1994
+#  15:         78 1968
+#  16:         73 1993
+#  17:         73 1979
 #  18:         68 1982
-#  19:         66 1991
+#  19:         67 1991
 #  20:         65 1992
-#  21:         65 1984
-#  22:         64 1989
+#  21:         65 1989
+#  22:         65 1984
 #  23:         63 1966
 #  24:         59 1965
 #  25:         56 1985
@@ -206,16 +206,16 @@ Top 50 release year:
 #  29:         52 1986
 #  30:         50 1983
 #  31:         49 1996
-#  32:         47 2007
-#  33:         47 1990
+#  32:         48 1990
+#  33:         47 2007
 #  34:         46 2004
 #  35:         46 2003
 #  36:         46 1981
 #  37:         45 1999
 #  38:         45 1998
-#  39:         43 2016
-#  40:         43 2001
-#  41:         43 2000
+#  39:         44 2016
+#  40:         44 2000
+#  41:         43 2001
 #  42:         41 2002
 #  43:         39 1964
 #  44:         37 2013
