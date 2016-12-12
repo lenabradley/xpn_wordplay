@@ -22,6 +22,9 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Sideways
+002	Shout
+002	Shine
 002	She Came In Through The Bathroom Window
 002	Shake It Out
 002	Shake It Baby
@@ -201,11 +204,37 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	Silver Lining
+001	Silent Movies
+001	Silent All These Years
+001	Signed, Sealed, Delivered I'm Yours
+001	Sign O' The Times
+001	Siberian Khatru
+001	Shut Your Eyes
+001	Shut Up And Let Me Go
+001	Showdown
+001	Show Me
+001	Show And Tell
+001	Shout Out Loud
+001	Should I Stay Or Should I Go?
+001	Shotgun Down The Avalanche
+001	Short Skirt/long Jacket
+001	Shootout At The Fantasy Factory
+001	Shock The Monkey
+001	Shiver
+001	Ship to Wreck
+001	Ship Of Fools
+001	Shiny Happy People
+001	Shinin' On
+001	Shine On You Crazy Diamond (part 1)
+001	Shine On
+001	Shine A Light
 001	Sherry Darling
 001	Shelter Song
 001	Shelter From The Storm
 001	Sheena Is A Punk Rocker
 001	Sheela-Na-Gig
+001	She's The One
 001	She's So Cold
 001	She's Not There
 001	She's Not Just Another Woman
