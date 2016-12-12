@@ -1,12 +1,12 @@
 103	The Beatles
 059	The Rolling Stones
+052	Bob Dylan
 051	Bruce Springsteen
-051	Bob Dylan
 041	Neil Young
 031	Steely Dan
 030	Led Zeppelin
+029	David Bowie
 028	R. E. M.
-028	David Bowie
 027	Grateful Dead
 023	Van Morrison
 023	Stevie Wonder
@@ -16,9 +16,9 @@
 019	Warren Zevon
 019	Eric Clapton
 018	U2
+018	Paul Simon
 018	Joni Mitchell
 018	Jackson Browne
-017	Paul Simon
 017	Little Feat
 017	Bonnie Raitt
 016	Wilco
@@ -44,24 +44,24 @@
 012	Los Lobos
 012	Johnny Cash
 012	Elvis Costello
+012	Electric Light Orchestra
 012	Dr. John
 012	Creedence Clearwater Revival
 011	Traffic
 011	The Temptations
 011	The Replacements
+011	The Police
 011	The Eagles
+011	Ryan Adams
 011	Radiohead
 011	Pearl Jam
 011	John Mayer
+011	John Hiatt
 011	James Brown
-011	Electric Light Orchestra
 011	Counting Crows
-010	The Police
 010	The Band
-010	Ryan Adams
 010	Otis Redding
 010	John Prine
-010	John Hiatt
 010	Indigo Girls
 010	George Harrison
 010	Buffalo Springfield
@@ -70,6 +70,7 @@
 009	Tom Waits
 009	The Cure
 009	The Black Keys
+009	Robert Palmer
 009	Richard Thompson
 009	Red Hot Chili Peppers
 009	Randy Newman
@@ -85,10 +86,12 @@
 008	Sheryl Crow
 008	Sarah McLachlan
 008	Rod Stewart
-008	Robert Palmer
 008	Pete Townshend
 008	Patty Griffin
+008	Nirvana
 008	Lenny Kravitz
+008	Dire Straits
+008	Dave Matthews Band
 008	Chuck Berry
 008	Boz Scaggs
 008	B-52's
@@ -100,14 +103,11 @@
 007	Phish
 007	Old 97's
 007	Oasis
-007	Nirvana
 007	Muddy Waters
 007	Lyle Lovett
 007	John Mellencamp
 007	Jeff Beck
 007	Frank Zappa
-007	Dire Straits
-007	Dave Matthews Band
 007	Cheap Trick
 007	Bruce Cockburn
 007	Aretha Franklin
@@ -127,12 +127,15 @@
 006	NRBQ
 006	Modest Mouse
 006	Lou Reed
+006	Little Richard
+006	Leonard Cohen
 006	King Crimson
 006	Kathleen Edwards
 006	Josh Ritter
 006	John Lee Hooker
 006	Joan Osborne
 006	Jefferson Airplane
+006	Jeff Buckley
 006	Jack Johnson
 006	Genesis
 006	Faces
@@ -142,10 +145,12 @@
 006	Adele
 005	XTC
 005	Willie Nelson
+005	War
 005	Train
 005	They Might Be Giants
 005	The Yardbirds
 005	The Supremes
+005	The Staple Singers
 005	The Lemonheads
 005	The English Beat
 005	The Blasters
@@ -157,17 +162,15 @@
 005	Pete Yorn
 005	Paul McCartney
 005	Norah Jones
-005	Little Richard
-005	Leonard Cohen
 005	LCD Soundsystem
 005	Joe Walsh
 005	Joe Jackson
 005	Joan Armatrading
 005	Jethro Tull
-005	Jeff Buckley
 005	Janis Joplin
 005	J. J. Cale
 005	Iggy Pop
+005	Howlin' Wolf
 005	Grand Funk Railroad
 005	Gram Parsons
 005	Enya
@@ -182,12 +185,10 @@
 005	Amos Lee
 005	Aimee Mann
 004	World Party
-004	War
 004	Violent Femmes
 004	Trey Anastasio
 004	Tracy Chapman
 004	The White Stripes
-004	The Staple Singers
 004	The Smiths
 004	The Smithereens
 004	The Pixies
@@ -214,6 +215,7 @@
 004	Phoenix
 004	Peter Tosh
 004	Nils Lofgren
+004	Nick Lowe
 004	New Order
 004	Neville Brothers
 004	Mott The Hoople
@@ -228,7 +230,6 @@
 004	Jane Siberry
 004	Iron And Wine
 004	INXS
-004	Howlin' Wolf
 004	Harry Nilsson
 004	Graham Parker
 004	Gomez
@@ -243,8 +244,10 @@
 004	Dionne Warwick
 004	Death Cab For Cutie
 004	David Bromberg
+004	Dave Mason
 004	Cream
 004	Courtney Barnett
+004	Carole King
 004	Buddy Holly
 004	Buddy Guy
 004	Billy Joel
@@ -299,7 +302,6 @@
 003	Paul Westerberg
 003	Parquet Courts
 003	Ohio Players
-003	Nick Lowe
 003	Nick Drake
 003	Neneh Cherry
 003	Neil Finn
@@ -311,10 +313,13 @@
 003	Massive Attack
 003	Mark Knopfler
 003	Madonna
+003	Love And Rockets
 003	Loudon Wainwright III
 003	Little Willie John
+003	Leon Bridges
 003	Lake Street Dive
 003	K. T. Tunstall
+003	Junior Wells
 003	Joseph Arthur
 003	Johnny Winter
 003	John Mayall
@@ -344,7 +349,7 @@
 003	Donald Fagen
 003	David Lindley
 003	David Gray
-003	Dave Mason
+003	Dave Edmunds
 003	Dave Clark Five
 003	Daft Punk
 003	Crowded House
@@ -426,11 +431,13 @@
 002	Sharon Jones And The Dap-Kings
 002	Sam Smith
 002	Saint Etienne
+002	Ry Cooder
 002	Rusted Root
 002	Roy Brown
 002	Ron Wood
 002	Rodney Crowell
 002	Robin Trower
+002	Robert Cray
 002	Richie Havens
 002	Rhett Miller
 002	Quicksilver Messenger Service
@@ -466,7 +473,6 @@
 002	Lynyrd Skynyrd
 002	Luscious Jackson
 002	Luna
-002	Love And Rockets
 002	Love
 002	Los Lonely Boys
 002	Loretta Lynn
@@ -474,7 +480,6 @@
 002	Little Walter
 002	Lissie
 002	Lindsey Buckingham
-002	Leon Bridges
 002	Laura Nyro
 002	Larry Williams
 002	Langhorne Slim
@@ -482,7 +487,6 @@
 002	Keane
 002	Karl Denson's Tiny Universe
 002	Kaiser Chiefs
-002	Junior Wells
 002	Johnny Nash
 002	John Wesley Harding
 002	John Coltrane
@@ -522,7 +526,6 @@
 002	Delta Rae
 002	Delbert McClinton
 002	Del Amitri
-002	Dave Edmunds
 002	Curtis Mayfield
 002	Crash Test Dummies
 002	Cornershop
@@ -530,7 +533,6 @@
 002	Chris Whitley
 002	Chairmen Of The Board
 002	Cat Stevens
-002	Carole King
 002	Carl Perkins
 002	Canned Heat
 002	Calexico
@@ -617,6 +619,7 @@
 001	The Velvet Underground
 001	The Velvelettes
 001	The Vaughan Brothers
+001	The Undisputed Truth
 001	The Turtles
 001	The Troggs
 001	The Tragically Hip
@@ -628,6 +631,7 @@
 001	The Strokes
 001	The Stranglers
 001	The Strangeloves
+001	The Story
 001	The Stooges
 001	The Standells
 001	The Spiral Staircase
@@ -800,14 +804,12 @@
 001	Sade
 001	Ryley Walker
 001	Ryan Bingham
-001	Ry Cooder
 001	Roy Ayers
 001	Roger McGuinn
 001	Rockpile
 001	Robert Knight
 001	Robert Hazard
 001	Robert Earl Keen
-001	Robert Cray
 001	Robert Bradley's Blackwater Surprise
 001	Rilo Kiley
 001	Rick Nelson
@@ -922,10 +924,12 @@
 001	Little Junior Parker
 001	Link Wray
 001	Linda Ronstadt
+001	Lily Allen
 001	Lightnin' Hopkins
 001	Lianne La Havas
 001	Lene Lovich
 001	Lee Michaels
+001	Lee Dorsey
 001	Lavern Baker
 001	Laurie Anderson
 001	Laura Mvula

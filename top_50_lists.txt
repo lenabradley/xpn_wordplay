@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-12, 13:20
+Last updated: 2016-12-12, 15:41
 
 
 ==============================
@@ -9,13 +9,13 @@ Top 50 artists:
 ==============================
 #   1:        103 The Beatles
 #   2:         59 The Rolling Stones
-#   3:         51 Bruce Springsteen
-#   4:         51 Bob Dylan
+#   3:         52 Bob Dylan
+#   4:         51 Bruce Springsteen
 #   5:         41 Neil Young
 #   6:         31 Steely Dan
 #   7:         30 Led Zeppelin
-#   8:         28 R. E. M.
-#   9:         28 David Bowie
+#   8:         29 David Bowie
+#   9:         28 R. E. M.
 #  10:         27 Grateful Dead
 #  11:         23 Van Morrison
 #  12:         23 Stevie Wonder
@@ -25,9 +25,9 @@ Top 50 artists:
 #  16:         19 Warren Zevon
 #  17:         19 Eric Clapton
 #  18:         18 U2
-#  19:         18 Joni Mitchell
-#  20:         18 Jackson Browne
-#  21:         17 Paul Simon
+#  19:         18 Paul Simon
+#  20:         18 Joni Mitchell
+#  21:         18 Jackson Browne
 #  22:         17 Little Feat
 #  23:         17 Bonnie Raitt
 #  24:         16 Wilco
@@ -53,10 +53,10 @@ Top 50 artists:
 #  44:         12 Los Lobos
 #  45:         12 Johnny Cash
 #  46:         12 Elvis Costello
-#  47:         12 Dr. John
-#  48:         12 Creedence Clearwater Revival
-#  49:         11 Traffic
-#  50:         11 The Temptations
+#  47:         12 Electric Light Orchestra
+#  48:         12 Dr. John
+#  49:         12 Creedence Clearwater Revival
+#  50:         11 Traffic
 
 ==============================
 Top 50 titles:
@@ -87,51 +87,51 @@ Top 50 titles:
 #  22:          3 Cherry Oh Baby
 #  23:          3 California
 #  24:          3 Ball Of Confusion
-#  25:          2 Sideways
-#  26:          2 Shout
-#  27:          2 Shine
-#  28:          2 She Came In Through The Bathroom Window
-#  29:          2 Shake It Out
-#  30:          2 Shake It Baby
-#  31:          2 Shake
-#  32:          2 Sexual Healing
-#  33:          2 Secret Agent Man
-#  34:          2 Season Of The Witch
-#  35:          2 School Days
-#  36:          2 Sara
-#  37:          2 Sail Away
-#  38:          2 Running Out Of Time
-#  39:          2 Roll Over Beethoven
-#  40:          2 Roll Away The Stone
-#  41:          2 Rock On
-#  42:          2 Ring of Fire
-#  43:          2 Right Here, Right Now
-#  44:          2 Respect
-#  45:          2 Raspberry Beret
-#  46:          2 Rain
-#  47:          2 Pride And Joy
-#  48:          2 Pictures Of Matchstick Men
-#  49:          2 Pickin' Up The Pieces
-#  50:          2 Photograph
+#  25:          2 So Far Away
+#  26:          2 So Alive
+#  27:          2 Sideways
+#  28:          2 Shout
+#  29:          2 Shine
+#  30:          2 She Came In Through The Bathroom Window
+#  31:          2 Shake It Out
+#  32:          2 Shake It Baby
+#  33:          2 Shake
+#  34:          2 Sexual Healing
+#  35:          2 Secret Agent Man
+#  36:          2 Season Of The Witch
+#  37:          2 School Days
+#  38:          2 Sara
+#  39:          2 Sail Away
+#  40:          2 Running Out Of Time
+#  41:          2 Roll Over Beethoven
+#  42:          2 Roll Away The Stone
+#  43:          2 Rock On
+#  44:          2 Ring of Fire
+#  45:          2 Right Here, Right Now
+#  46:          2 Respect
+#  47:          2 Raspberry Beret
+#  48:          2 Rain
+#  49:          2 Pride And Joy
+#  50:          2 Pictures Of Matchstick Men
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        390 the
+#   1:        393 the
 #   2:        254 i
 #   3:        237 a
 #   4:        212 you
 #   5:        194 love
-#   6:        185 in
+#   6:        186 in
 #   7:        178 of
-#   8:        171 to
+#   8:        172 to
 #   9:        148 on
 #  10:        141 my
-#  11:        137 me
-#  12:        112 it
-#  13:        101 and
+#  11:        139 me
+#  12:        115 it
+#  13:        105 and
 #  14:         79 don't
 #  15:         71 i'm
 #  16:         64 all
@@ -142,13 +142,13 @@ Top 50 title words:
 #  21:         56 man
 #  22:         51 one
 #  23:         51 be
-#  24:         50 baby
+#  24:         51 baby
 #  25:         49 down
 #  26:         48 it's
 #  27:         48 get
 #  28:         47 up
-#  29:         46 like
-#  30:         45 back
+#  29:         47 like
+#  30:         46 back
 #  31:         43 time
 #  32:         43 can't
 #  33:         40 little
@@ -164,64 +164,64 @@ Top 50 title words:
 #  43:         34 just
 #  44:         34 got
 #  45:         34 ain't
-#  46:         33 if
-#  47:         33 heart
-#  48:         33 do
-#  49:         32 rock
-#  50:         32 new
+#  46:         33 rock
+#  47:         33 if
+#  48:         33 heart
+#  49:         33 do
+#  50:         32 so
 
 ==============================
 Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        155 1
-#   2:        134 1970
+#   1:        156 1
+#   2:        135 1970
 #   3:        123 1969
-#   4:        118 1971
+#   4:        122 1971
 #   5:        115 1972
 #   6:        110 1973
-#   7:        102 1967
-#   8:        101 1974
-#   9:         96 1975
-#  10:         93 1976
+#   7:        103 1967
+#   8:        102 1974
+#   9:         96 1976
+#  10:         96 1975
 #  11:         89 1980
-#  12:         86 1978
-#  13:         85 1977
+#  12:         87 1978
+#  13:         86 1977
 #  14:         85 1968
-#  15:         81 1994
+#  15:         83 1994
 #  16:         81 1993
-#  17:         78 1979
-#  18:         76 1989
+#  17:         78 1989
+#  18:         78 1979
 #  19:         75 1982
-#  20:         70 1991
-#  21:         70 1984
-#  22:         70 1966
+#  20:         71 1991
+#  21:         71 1984
+#  22:         71 1966
 #  23:         69 1992
-#  24:         62 1985
+#  24:         63 1985
 #  25:         62 1965
 #  26:         60 1987
-#  27:         57 1988
+#  27:         59 1988
 #  28:         56 1995
 #  29:         56 1986
-#  30:         54 1996
-#  31:         51 1983
-#  32:         50 2003
+#  30:         55 1996
+#  31:         52 1983
+#  32:         51 2003
 #  33:         50 1998
 #  34:         50 1990
 #  35:         49 2007
 #  36:         49 2000
 #  37:         48 2004
 #  38:         48 1981
-#  39:         47 1999
-#  40:         46 2002
+#  39:         47 2002
+#  40:         47 1999
 #  41:         45 2001
 #  42:         43 2016
 #  43:         40 2006
 #  44:         40 1964
 #  45:         39 2013
 #  46:         38 2005
-#  47:         36 2011
-#  48:         34 2015
+#  47:         37 2011
+#  48:         35 2015
 #  49:         34 2010
 #  50:         34 2009

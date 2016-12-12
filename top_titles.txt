@@ -22,6 +22,8 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	So Far Away
+002	So Alive
 002	Sideways
 002	Shout
 002	Shine
@@ -204,6 +206,33 @@
 002	Ain't Too Proud To Beg
 002	After Midnight
 002	A Girl Like You
+001	So Real
+001	So Much To Say
+001	So Much Mine
+001	So Long, Marianne
+001	So Lonely
+001	So It Goes
+001	So High (Rock Me Baby And Roll Me Away)
+001	So Fine
+001	So Beautiful or So What
+001	Sneakin' Sally Thru The Alley
+001	Sneakin' Sally Through The Alley
+001	Snatch It Back And Hold It
+001	Smooth Sailin'
+001	Smoking Gun
+001	Smokestack Lightnin'
+001	Smiling Faces Sometimes
+001	Smile
+001	Smells Like Teen Spirit
+001	Smackwater Jack
+001	Smack Dab In The Middle
+001	Slow Turning
+001	Slow Train Coming
+001	Slow Burn
+001	Slipping Away
+001	Slippin' Into Darkness
+001	Slippin' And Slidin' (Peepin' And Hidin')
+001	Slippery People
 001	Slip Kid
 001	Sleepwalker
 001	Sleep To Dream
