@@ -5,31 +5,31 @@
 046	Neil Young
 034	David Bowie
 031	Steely Dan
+031	R.E.M.
 031	Led Zeppelin
 031	Grateful Dead
-030	R.E.M.
 025	The Who
 025	Joni Mitchell
+024	Stevie Wonder
 024	Fleetwood Mac
 023	Van Morrison
 023	U2
-023	Stevie Wonder
 022	Bob Marley & The Wailers
+021	Eric Clapton
 021	Elton John
-020	Eric Clapton
 019	Warren Zevon
 019	Paul Simon
 019	Jackson Browne
+018	The Kinks
 018	Little Feat
 018	Bonnie Raitt
-017	The Kinks
 017	The Doors
 017	The Clash
 017	The Allman Brothers
 017	Talking Heads
+017	James Brown
 016	Wilco
 016	The Beach Boys
-016	James Brown
 015	The Pretenders
 015	Jimi Hendrix
 014	Todd Rundgren
@@ -75,6 +75,7 @@
 011	Bee Gees
 010	The Black Crowes
 010	Sheryl Crow
+010	Shawn Colvin
 010	John Prine
 010	Chuck Berry
 010	Buffalo Springfield
@@ -84,7 +85,6 @@
 009	The Cure
 009	The Byrds
 009	Simon & Garfunkel
-009	Shawn Colvin
 009	Robert Palmer
 009	Richard Thompson
 009	Red Hot Chili Peppers
@@ -143,6 +143,7 @@
 006	Supertramp
 006	Spoon
 006	Pete Yorn
+006	Norah Jones
 006	NRBQ
 006	Mumford & Sons
 006	Modest Mouse
@@ -159,10 +160,12 @@
 006	Jack Johnson
 006	Grand Funk Railroad
 006	Earth Wind & Fire
+006	Donovan
 006	Derek & The Dominos
 006	Depeche Mode
 006	Death Cab For Cutie
 006	Crosby Stills Nash & Young
+006	Cream
 006	Citizen Cope
 006	Beastie Boys
 005	Willie Nelson
@@ -190,10 +193,10 @@
 005	Queen
 005	Pavement
 005	Paul McCartney
-005	Norah Jones
 005	New Order
 005	Leon Russell
 005	LCD Soundsystem
+005	Kings Of Leon
 005	K. T. Tunstall
 005	Joe Walsh
 005	Joe Cocker
@@ -210,10 +213,8 @@
 005	Four Tops
 005	Enya
 005	Emerson Lake & Palmer
-005	Donovan
 005	Devo
 005	Dawes
-005	Cream
 005	Chicago Transit Authority
 005	Cake
 005	Bob Weir
@@ -254,6 +255,7 @@
 004	Rosanne Cash
 004	Rodrigo Y Gabriela
 004	Ringo Starr
+004	Ray Lamontagne
 004	Prince & The Revolution
 004	Phoenix
 004	Peter Tosh
@@ -266,8 +268,8 @@
 004	Mayer Hawthorne
 004	Matthew Sweet
 004	LL Cool J
-004	Kings Of Leon
 004	Kate Bush
+004	Joss Stone
 004	Jane Siberry
 004	Iron And Wine
 004	INXS
@@ -341,7 +343,6 @@
 003	Robert Randolph & The Family Band
 003	Robert Plant & Alison Krauss
 003	Robert Plant
-003	Ray Lamontagne
 003	R. L. Burnside
 003	Public Image Ltd.
 003	Procol Harum
@@ -368,7 +369,6 @@
 003	Keane
 003	Kate & Anna McGarrigle
 003	Junior Wells
-003	Joss Stone
 003	Joseph Arthur
 003	Johnny Winter
 003	Johnny Nash
@@ -401,12 +401,15 @@
 003	David Gray
 003	Dave Clark Five
 003	Daft Punk
+003	Curtis Mayfield
+003	Crash Test Dummies
 003	Cracker
 003	Chuck Prophet
 003	Camper Van Beethoven
 003	Bright Eyes
 003	Bon Iver
 003	Bobby "Blue" Bland
+003	Bob Mould
 003	Bo Diddley
 003	Blues Traveler
 003	Blind Faith
@@ -483,6 +486,7 @@
 002	Stephen Stills
 002	St. Vincent
 002	Soup Dragons
+002	Soul Coughing
 002	Sonny Boy Williamson
 002	Sonny & Cher
 002	Son Volt
@@ -599,6 +603,7 @@
 002	Frank Ocean
 002	Francis Dunnery
 002	Foster The People
+002	Five For Fighting
 002	Feist
 002	Ernie K-Doe
 002	Eric Burdon & The Animals
@@ -608,6 +613,7 @@
 002	Dwight Yoakam
 002	Duran Duran
 002	Donavon Frankenreiter
+002	Don Henley
 002	Dickey Betts & Great Southern
 002	Diana Ross & The Supremes
 002	Diana Ross
@@ -616,8 +622,6 @@
 002	Delaney & Bonnie & Friends
 002	Del Amitri
 002	Danny & The Juniors
-002	Curtis Mayfield
-002	Crash Test Dummies
 002	Cornershop
 002	Chris Whitley
 002	Chris Isaak
@@ -637,7 +641,6 @@
 002	Bobby Womack
 002	Bobby Darin
 002	Bobbie Gentry
-002	Bob Mould
 002	Blind Boys Of Alabama
 002	Black Sabbath
 002	Billy Bragg & Wilco
@@ -887,7 +890,6 @@
 001	Southern Culture On The Skids
 001	Soulive
 001	Soul Survivors
-001	Soul Coughing
 001	Soul Brothers Six
 001	Sonny Landreth
 001	Sonia Dada
@@ -936,6 +938,7 @@
 001	Rilo Kiley
 001	Rick Nelson
 001	Rick James and The Temptations
+001	Rick James
 001	Rick Derringer
 001	Richard Thompson & Teddy Thompson
 001	Richard Hell & The Voidoids
@@ -1240,7 +1243,6 @@
 001	Fleet Foxes
 001	Flamin' Groovies
 001	Five Man Electrical Band
-001	Five For Fighting
 001	First Aid Kit
 001	Field Report
 001	Fairport Convention
@@ -1281,7 +1283,6 @@
 001	Doris Troy
 001	Donnie Iris
 001	Donna Summer
-001	Don Henley
 001	Dolly Parton
 001	Dobie Gray
 001	Django Django

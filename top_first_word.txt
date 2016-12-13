@@ -164,6 +164,7 @@
 005	Are
 005	American
 005	Always
+004	Super
 004	Sugar
 004	Steady
 004	Southern
@@ -219,6 +220,7 @@
 004	Brand
 004	Baby,
 004	After
+003	Superman
 003	Sunday
 003	Stuck
 003	Spirit
@@ -313,6 +315,8 @@
 003	Alone
 003	Alive
 003	Across
+002	Sunshine
+002	Sunny
 002	Such
 002	Subterranean
 002	Stubborn
@@ -582,6 +586,14 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Superstition
+001	Supersoaker
+001	Supernova
+001	Superman's
+001	Superfly
+001	Sunspots
+001	Sunset
+001	Sunrise
 001	Sundown
 001	Sunday,
 001	Summersong

@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-13, 10:49
+Last updated: 2016-12-13, 12:09
 
 
 ==============================
@@ -14,31 +14,31 @@ Top 50 artists:
 #   5:         46 Neil Young
 #   6:         34 David Bowie
 #   7:         31 Steely Dan
-#   8:         31 Led Zeppelin
-#   9:         31 Grateful Dead
-#  10:         30 R.E.M.
+#   8:         31 R.E.M.
+#   9:         31 Led Zeppelin
+#  10:         31 Grateful Dead
 #  11:         25 The Who
 #  12:         25 Joni Mitchell
-#  13:         24 Fleetwood Mac
-#  14:         23 Van Morrison
-#  15:         23 U2
-#  16:         23 Stevie Wonder
+#  13:         24 Stevie Wonder
+#  14:         24 Fleetwood Mac
+#  15:         23 Van Morrison
+#  16:         23 U2
 #  17:         22 Bob Marley & The Wailers
-#  18:         21 Elton John
-#  19:         20 Eric Clapton
+#  18:         21 Eric Clapton
+#  19:         21 Elton John
 #  20:         19 Warren Zevon
 #  21:         19 Paul Simon
 #  22:         19 Jackson Browne
-#  23:         18 Little Feat
-#  24:         18 Bonnie Raitt
-#  25:         17 The Kinks
+#  23:         18 The Kinks
+#  24:         18 Little Feat
+#  25:         18 Bonnie Raitt
 #  26:         17 The Doors
 #  27:         17 The Clash
 #  28:         17 The Allman Brothers
 #  29:         17 Talking Heads
-#  30:         16 Wilco
-#  31:         16 The Beach Boys
-#  32:         16 James Brown
+#  30:         17 James Brown
+#  31:         16 Wilco
+#  32:         16 The Beach Boys
 #  33:         15 The Pretenders
 #  34:         15 Jimi Hendrix
 #  35:         14 Todd Rundgren
@@ -124,9 +124,9 @@ Top 50 title words:
 #   3:        274 a
 #   4:        252 you
 #   5:        223 in
-#   6:        218 love
+#   6:        220 love
 #   7:        212 to
-#   8:        210 of
+#   8:        211 of
 #   9:        172 on
 #  10:        171 me
 #  11:        163 my
@@ -135,7 +135,7 @@ Top 50 title words:
 #  14:         91 don't
 #  15:         77 i'm
 #  16:         76 man
-#  17:         73 your
+#  17:         74 your
 #  18:         71 for
 #  19:         68 all
 #  20:         66 is
@@ -179,9 +179,9 @@ Top 50 release year:
 #   2:        158 1969
 #   3:        157 1
 #   4:        140 1973
-#   5:        136 1971
-#   6:        133 1972
-#   7:        129 1967
+#   5:        137 1971
+#   6:        135 1972
+#   7:        130 1967
 #   8:        128 1974
 #   9:        120 1976
 #  10:        112 1977
@@ -190,35 +190,35 @@ Top 50 release year:
 #  13:        101 1980
 #  14:        101 1978
 #  15:         96 1994
-#  16:         94 1993
-#  17:         94 1966
-#  18:         90 1979
-#  19:         88 1989
+#  16:         96 1966
+#  17:         94 1993
+#  18:         90 1989
+#  19:         90 1979
 #  20:         86 1992
 #  21:         83 1982
-#  22:         81 1991
-#  23:         80 1984
+#  22:         82 1991
+#  23:         81 1984
 #  24:         75 1985
-#  25:         69 1987
-#  26:         69 1986
+#  25:         70 1986
+#  26:         69 1987
 #  27:         69 1965
 #  28:         67 1988
-#  29:         61 1983
-#  30:         59 1996
-#  31:         58 1981
-#  32:         57 2004
-#  33:         57 1999
-#  34:         57 1998
-#  35:         57 1995
-#  36:         56 2007
-#  37:         56 2003
+#  29:         61 1996
+#  30:         61 1983
+#  31:         58 2004
+#  32:         58 1981
+#  33:         57 2003
+#  34:         57 1999
+#  35:         57 1998
+#  36:         57 1995
+#  37:         56 2007
 #  38:         56 1990
 #  39:         54 2016
 #  40:         53 2002
-#  41:         52 2001
-#  42:         51 2000
+#  41:         53 2001
+#  42:         52 2000
 #  43:         50 2006
-#  44:         47 2013
+#  44:         48 2013
 #  45:         46 2005
 #  46:         44 2011
 #  47:         44 2010

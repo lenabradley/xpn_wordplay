@@ -3,9 +3,9 @@
 274	a
 252	you
 223	in
-218	love
+220	love
 212	to
-210	of
+211	of
 172	on
 171	me
 163	my
@@ -14,7 +14,7 @@
 091	don't
 077	i'm
 076	man
-073	your
+074	your
 071	for
 068	all
 066	is
@@ -60,12 +60,13 @@
 031	now
 030	stop
 030	she
+030	bad
 029	woman
 029	hey
-029	bad
 028	rain
 028	over
 027	what
+027	song
 027	see
 027	people
 027	long
@@ -73,11 +74,10 @@
 027	big
 026	that
 026	soul
-026	song
+026	home
 026	fire
 025	world
 025	right
-025	home
 025	dance
 024	here
 023	train
@@ -104,9 +104,9 @@
 020	black
 020	around
 019	wanna
+019	not
 018	summer
 018	she's
-018	not
 018	need
 018	light
 018	city
@@ -120,6 +120,7 @@
 017	have
 017	feel
 017	eyes
+017	easy
 017	crazy
 016	there
 016	stay
@@ -129,7 +130,6 @@
 016	into
 016	hard
 016	free
-016	easy
 016	been
 016	another
 015	stand
@@ -273,6 +273,7 @@
 007	us
 007	than
 007	take
+007	sunshine
 007	sugar
 007	steady
 007	sometimes
@@ -384,7 +385,7 @@
 005	today
 005	that's
 005	sweet
-005	sunshine
+005	superman
 005	stranger
 005	spirit
 005	small
@@ -449,6 +450,7 @@
 005	close
 005	china
 005	chain
+005	came
 005	bye
 005	brown
 005	bright
@@ -467,6 +469,7 @@
 004	wall
 004	turn
 004	tears
+004	super
 004	stuff
 004	strikes
 004	storm
@@ -516,6 +519,7 @@
 004	knockin'
 004	jump
 004	jones
+004	inside
 004	hurts
 004	hurricane
 004	hotel
@@ -566,7 +570,6 @@
 004	cars
 004	carry
 004	care
-004	came
 004	calling
 004	bus
 004	brick
@@ -699,7 +702,6 @@
 003	joe
 003	jersey
 003	jackie
-003	inside
 003	hop
 003	honky
 003	hi
@@ -848,6 +850,9 @@
 002	sympathy
 002	swing
 002	surrender
+002	supernova
+002	sunrise
+002	sunny
 002	suite
 002	suede
 002	sue
@@ -1146,6 +1151,7 @@
 002	fun
 002	frontiers
 002	fresh
+002	freak
 002	francisco
 002	frame
 002	fought
@@ -1270,6 +1276,7 @@
 002	bottle
 002	boss
 002	bop
+002	bon
 002	bomb
 002	bojangles
 002	bohemian
@@ -1495,10 +1502,13 @@
 001	swallow
 001	suzanne
 001	sure
-001	supernova
+001	superstition
+001	supersoaker
 001	supermarket
-001	superman
-001	sunrise
+001	superman's
+001	superfly
+001	sunspots
+001	sunset
 001	sunlight
 001	sunflower
 001	sundown
@@ -2382,6 +2392,7 @@
 001	jacksonville
 001	jacket
 001	j
+001	its
 001	itchycoo
 001	itching
 001	istanbul
@@ -2548,6 +2559,7 @@
 001	gross
 001	groovin'
 001	groom
+001	grill
 001	grievous
 001	grey
 001	greetings
@@ -2618,7 +2630,6 @@
 001	freeker
 001	freddie's
 001	freddie
-001	freak
 001	frankie's
 001	frankenstein
 001	frank
@@ -2761,6 +2772,7 @@
 001	dying
 001	during
 001	dupree
+001	duper
 001	duncan
 001	duke
 001	dudes
@@ -3271,6 +3283,7 @@
 001	ahead
 001	ago
 001	against
+001	afternoon
 001	africano
 001	africa
 001	afraid

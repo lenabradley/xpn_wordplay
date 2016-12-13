@@ -259,6 +259,25 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Superstition
+001	Supersoaker
+001	Supernova
+001	Superman's Song
+001	Superman Inside
+001	Superman (its Not Easy)
+001	Superman
+001	Superfly
+001	Super Freak
+001	Super Duper Love
+001	Super Bon Bon
+001	Super Bad
+001	Sunspots
+001	Sunshine Superman
+001	Sunshine Of Your Love
+001	Sunset Grill
+001	Sunrise
+001	Sunny Came Home
+001	Sunny Afternoon
 001	Sundown
 001	Sunday, Bloody Sunday
 001	Sunday Papers
