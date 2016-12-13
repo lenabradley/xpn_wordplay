@@ -9,6 +9,7 @@
 004	Fever
 004	Dreams
 004	Crazy
+003	Sweet Jane
 003	Summertime Blues
 003	Only You Know And I Know
 003	One
@@ -28,6 +29,8 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Take It Easy
+002	Tainted Love
 002	Sweet Emotion
 002	Summertime
 002	Stop Your Sobbing
@@ -260,7 +263,29 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
-001	Sweet Jane
+001	Take Five
+001	Take Another Look
+001	Take A Walk
+001	Take A Letter Maria
+001	Take A Giant Step
+001	Take A Breath
+001	Tailspin
+001	T. S. O. P. (The Sound Of Philadelphia)
+001	Synchronicity II
+001	Sympathy For The Devil
+001	Switchin' To Glide / This Beat Goes On
+001	Switchboard Susan
+001	Sweetest Thing
+001	Sweet Thing
+001	Sweet Sweet Baby
+001	Sweet Surrender
+001	Sweet Spot
+001	Sweet Soul Music
+001	Sweet Sixteen
+001	Sweet Seasons
+001	Sweet Old World
+001	Sweet Lullaby
+001	Sweet Little Sixteen
 001	Sweet Home Chicago
 001	Sweet Home Alabama
 001	Sweet Hitch-hiker

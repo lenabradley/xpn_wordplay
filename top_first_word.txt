@@ -12,6 +12,7 @@
 027	No
 025	Rock
 023	Get
+022	Sweet
 022	Little
 022	Come
 021	Just
@@ -52,7 +53,6 @@
 011	I'll
 011	Hold
 011	For
-010	Sweet
 010	Strange
 010	Say
 010	People
@@ -71,6 +71,7 @@
 009	Dance
 009	Crazy
 009	Another
+008	Take
 008	Summertime
 008	Summer
 008	Stop
@@ -317,6 +318,7 @@
 003	Alone
 003	Alive
 003	Across
+002	Tainted
 002	Sunshine
 002	Sunny
 002	Such
@@ -588,6 +590,13 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Tailspin
+001	T.
+001	Synchronicity
+001	Sympathy
+001	Switchin'
+001	Switchboard
+001	Sweetest
 001	Swamp
 001	Suzanne
 001	Sussudio
