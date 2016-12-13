@@ -1,7 +1,7 @@
-104	The Beatles
-065	The Rolling Stones
-057	Bruce Springsteen
-056	Bob Dylan
+105	The Beatles
+066	The Rolling Stones
+059	Bruce Springsteen
+057	Bob Dylan
 045	Neil Young
 034	David Bowie
 031	Steely Dan
@@ -13,7 +13,7 @@
 023	Van Morrison
 023	The Who
 023	Stevie Wonder
-021	U2
+022	U2
 021	Elton John
 021	Bob Marley & The Wailers
 020	Eric Clapton
@@ -23,11 +23,11 @@
 018	Little Feat
 018	Bonnie Raitt
 017	The Kinks
+017	The Doors
 017	The Clash
 017	The Allman Brothers
 017	Talking Heads
 016	Wilco
-016	The Doors
 016	The Beach Boys
 016	James Brown
 015	The Pretenders
@@ -40,24 +40,25 @@
 014	John Lennon
 014	Coldplay
 013	Yes
+013	Tom Petty & The Heartbreakers
 013	Santana
 013	Pink Floyd
 013	My Morning Jacket
+013	Marvin Gaye
 013	John Hiatt
+013	Electric Light Orchestra
 013	Creedence Clearwater Revival
 012	Tom Waits
-012	Tom Petty & The Heartbreakers
 012	The Police
 012	Otis Redding
-012	Marvin Gaye
 012	Los Lobos
 012	Elvis Costello
-012	Electric Light Orchestra
 012	Dr. John
 011	Traffic
 011	The Temptations
 011	The Replacements
 011	The Eagles
+011	The Black Keys
 011	The Band
 011	Sly & The Family Stone
 011	Ryan Adams
@@ -72,7 +73,6 @@
 011	Crosby Stills & Nash
 011	Counting Crows
 011	Bee Gees
-010	The Black Keys
 010	The Black Crowes
 010	Sheryl Crow
 010	John Prine
@@ -141,6 +141,7 @@
 006	The Doobie Brothers
 006	Supertramp
 006	Spoon
+006	Pete Yorn
 006	NRBQ
 006	Mumford & Sons
 006	Modest Mouse
@@ -183,7 +184,6 @@
 005	Rickie Lee Jones
 005	Ray Charles
 005	Queen
-005	Pete Yorn
 005	Paul McCartney
 005	Norah Jones
 005	New Order
@@ -229,6 +229,7 @@
 004	The O'Jays
 004	The National
 004	The Meters
+004	The Lumineers
 004	The Killers
 004	The Jesus And Mary Chain
 004	The Heptones
@@ -267,8 +268,10 @@
 004	Iron And Wine
 004	INXS
 004	Harry Nilsson
+004	Gorillaz
 004	Gomez
 004	Gillian Welch
+004	Frank Sinatra
 004	Florence And The Machine
 004	Fiona Apple
 004	Fine Young Cannibals
@@ -313,7 +316,6 @@
 003	The Stone Roses
 003	The Specials
 003	The Raspberries
-003	The Lumineers
 003	The Impressions
 003	The Human League
 003	The Hooters
@@ -327,6 +329,7 @@
 003	Soul Asylum
 003	Slim Harpo
 003	Simple Minds
+003	Sharon Jones And The Dap-Kings
 003	Semisonic
 003	Sam Smith
 003	Sam Cooke
@@ -380,11 +383,9 @@
 003	Guster
 003	Gregg Allman
 003	Grace Potter And The Nocturnals
-003	Gorillaz
 003	Gin Blossoms
 003	Gary Clark Jr.
 003	Freddie King
-003	Frank Sinatra
 003	Foo Fighters
 003	Fitz & The Tantrums
 003	Father John Misty
@@ -428,6 +429,7 @@
 002	Tom Jones
 002	Toad The Wet Sprocket
 002	Tim Hardin
+002	Tim Buckley
 002	Three Dog Night
 002	The Youngbloods
 002	The Waterboys
@@ -454,6 +456,7 @@
 002	The Intruders
 002	The Iguanas
 002	The Grass Roots
+002	The Go-Betweens
 002	The Go Gos
 002	The Gaslight Anthem
 002	The Foundations
@@ -470,6 +473,7 @@
 002	The Alan Parsons Project
 002	Ten Years After
 002	Television
+002	Ted Hawkins
 002	Tammy Wynette
 002	Sylvan Esso
 002	Sugar
@@ -487,7 +491,6 @@
 002	Sinead O'Connor
 002	Shelby Lynne
 002	She & Him
-002	Sharon Jones And The Dap-Kings
 002	Sam Phillips
 002	Saint Etienne
 002	Sade
@@ -624,6 +627,7 @@
 002	Calexico
 002	Cage The Elephant
 002	Bryan Ferry
+002	Brothers Johnson
 002	Brian Auger's Oblivion Express
 002	Brenton Wood
 002	Boston
@@ -700,7 +704,6 @@
 001	Timbuk 3
 001	Tim Finn
 001	Tim Curry
-001	Tim Buckley
 001	Thunderclap Newman
 001	Thomas Dolby
 001	Thin Lizzy
@@ -781,7 +784,6 @@
 001	The Hombres
 001	The Heavy
 001	The Gourds
-001	The Go-Betweens
 001	The Go! Team
 001	The Fugees
 001	The Fray
@@ -836,7 +838,6 @@
 001	Tegan And Sara
 001	Teena Marie
 001	Teddy Pendergrass
-001	Ted Hawkins
 001	Tanita Tikaram
 001	Tame Impala
 001	Talk Talk
@@ -865,6 +866,7 @@
 001	Steeleye Span
 001	Steel Pulse
 001	Steam
+001	Stealers Wheel
 001	Status Quo
 001	Stanley Clarke
 001	Stan Ridgway
@@ -1240,6 +1242,7 @@
 001	Eric Burdon & War
 001	Emeli Sande
 001	Elvis Presley & JXL
+001	Elvin Bishop
 001	Elliott Smith
 001	Ellie Goulding
 001	Elle King
@@ -1296,6 +1299,7 @@
 001	David Ruffin
 001	David Gilmour
 001	David Essex
+001	David Byrne & Brian Eno
 001	David Byrne
 001	Dave Alvin
 001	Daughn Gibson
@@ -1345,7 +1349,6 @@
 001	Bubble Puppy
 001	Bruce Hornsby & The Range
 001	Bruce Hornsby
-001	Brothers Johnson
 001	Broken Bells
 001	Brighter Side Of Darkness
 001	Brian Eno and John Cale
@@ -1372,6 +1375,7 @@
 001	Billy Idol
 001	Billie Joe + Norah
 001	Billie Joe   Norah
+001	Billie Holiday
 001	Big Star
 001	Big Joe Turner
 001	Big Country

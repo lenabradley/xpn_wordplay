@@ -52,6 +52,7 @@
 011	I'll
 011	Hold
 011	For
+010	Strange
 010	Say
 010	People
 010	Only
@@ -214,6 +215,7 @@
 004	Brand
 004	Baby,
 004	After
+003	Stuck
 003	Spirit
 003	Spanish
 003	Slow
@@ -306,7 +308,9 @@
 003	Alone
 003	Alive
 003	Across
-002	Strange
+002	Stubborn
+002	Streets
+002	Strawberry
 002	Straight
 002	Stop!
 002	Stolen
@@ -571,6 +575,12 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Stylo
+001	Struttin'
+001	Street
+001	Strangers
+001	Strangered
+001	Stranger
 001	Straightface
 001	Stones
 001	Stoned
@@ -725,6 +735,7 @@
 001	Sailin'
 001	Sad
 001	Sabotage
+001	STREETS
 001	SOS
 001	SOB
 001	S.O.S.

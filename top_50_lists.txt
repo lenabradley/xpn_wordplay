@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-13, 05:23
+Last updated: 2016-12-13, 07:24
 
 
 ==============================
@@ -7,10 +7,10 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        104 The Beatles
-#   2:         65 The Rolling Stones
-#   3:         57 Bruce Springsteen
-#   4:         56 Bob Dylan
+#   1:        105 The Beatles
+#   2:         66 The Rolling Stones
+#   3:         59 Bruce Springsteen
+#   4:         57 Bob Dylan
 #   5:         45 Neil Young
 #   6:         34 David Bowie
 #   7:         31 Steely Dan
@@ -22,7 +22,7 @@ Top 50 artists:
 #  13:         23 Van Morrison
 #  14:         23 The Who
 #  15:         23 Stevie Wonder
-#  16:         21 U2
+#  16:         22 U2
 #  17:         21 Elton John
 #  18:         21 Bob Marley & The Wailers
 #  19:         20 Eric Clapton
@@ -32,11 +32,11 @@ Top 50 artists:
 #  23:         18 Little Feat
 #  24:         18 Bonnie Raitt
 #  25:         17 The Kinks
-#  26:         17 The Clash
-#  27:         17 The Allman Brothers
-#  28:         17 Talking Heads
-#  29:         16 Wilco
-#  30:         16 The Doors
+#  26:         17 The Doors
+#  27:         17 The Clash
+#  28:         17 The Allman Brothers
+#  29:         17 Talking Heads
+#  30:         16 Wilco
 #  31:         16 The Beach Boys
 #  32:         16 James Brown
 #  33:         15 The Pretenders
@@ -49,14 +49,14 @@ Top 50 artists:
 #  40:         14 John Lennon
 #  41:         14 Coldplay
 #  42:         13 Yes
-#  43:         13 Santana
-#  44:         13 Pink Floyd
-#  45:         13 My Morning Jacket
-#  46:         13 John Hiatt
-#  47:         13 Creedence Clearwater Revival
-#  48:         12 Tom Waits
-#  49:         12 Tom Petty & The Heartbreakers
-#  50:         12 The Police
+#  43:         13 Tom Petty & The Heartbreakers
+#  44:         13 Santana
+#  45:         13 Pink Floyd
+#  46:         13 My Morning Jacket
+#  47:         13 Marvin Gaye
+#  48:         13 John Hiatt
+#  49:         13 Electric Light Orchestra
+#  50:         13 Creedence Clearwater Revival
 
 ==============================
 Top 50 titles:
@@ -119,23 +119,23 @@ Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        446 the
+#   1:        450 the
 #   2:        303 i
-#   3:        272 a
-#   4:        250 you
-#   5:        218 in
-#   6:        216 love
-#   7:        211 to
-#   8:        202 of
+#   3:        273 a
+#   4:        252 you
+#   5:        222 in
+#   6:        217 love
+#   7:        212 to
+#   8:        208 of
 #   9:        172 on
 #  10:        171 me
-#  11:        161 my
+#  11:        163 my
 #  12:        130 it
 #  13:        117 and
 #  14:         91 don't
 #  15:         77 i'm
-#  16:         74 man
-#  17:         72 your
+#  16:         75 man
+#  17:         73 your
 #  18:         70 for
 #  19:         68 all
 #  20:         65 is
@@ -143,28 +143,28 @@ Top 50 title words:
 #  22:         60 up
 #  23:         60 be
 #  24:         60 baby
-#  25:         58 one
-#  26:         58 get
+#  25:         59 get
+#  26:         58 one
 #  27:         55 like
 #  28:         55 down
-#  29:         52 rock
-#  30:         52 can't
+#  29:         53 can't
+#  30:         52 rock
 #  31:         50 it's
 #  32:         49 time
 #  33:         48 go
-#  34:         47 roll
-#  35:         47 back
-#  36:         46 little
-#  37:         45 with
+#  34:         47 with
+#  35:         47 roll
+#  36:         47 back
+#  37:         46 little
 #  38:         45 girl
-#  39:         43 out
+#  39:         44 out
 #  40:         42 want
 #  41:         42 life
 #  42:         42 good
-#  43:         40 if
-#  44:         40 heart
-#  45:         39 so
-#  46:         39 night
+#  43:         41 night
+#  44:         40 if
+#  45:         40 heart
+#  46:         39 so
 #  47:         39 come
 #  48:         38 just
 #  49:         38 got
@@ -175,25 +175,25 @@ Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        160 1970
-#   2:        155 1
-#   3:        154 1969
+#   1:        161 1970
+#   2:        155 1969
+#   3:        155 1
 #   4:        139 1973
 #   5:        135 1971
-#   6:        130 1972
-#   7:        127 1967
+#   6:        131 1972
+#   7:        129 1967
 #   8:        126 1974
-#   9:        118 1976
-#  10:        111 1977
-#  11:        107 1975
+#   9:        119 1976
+#  10:        112 1977
+#  11:        109 1975
 #  12:        107 1968
 #  13:        100 1980
-#  14:         98 1978
-#  15:         94 1994
-#  16:         93 1993
+#  14:         99 1978
+#  15:         95 1994
+#  16:         94 1993
 #  17:         90 1979
-#  18:         88 1989
-#  19:         88 1966
+#  18:         90 1966
+#  19:         88 1989
 #  20:         85 1992
 #  21:         83 1982
 #  22:         80 1991
@@ -202,7 +202,7 @@ Top 50 release year:
 #  25:         69 1987
 #  26:         69 1965
 #  27:         68 1986
-#  28:         65 1988
+#  28:         66 1988
 #  29:         60 1983
 #  30:         59 1996
 #  31:         58 1981
@@ -215,13 +215,13 @@ Top 50 release year:
 #  38:         55 1990
 #  39:         54 2016
 #  40:         52 2002
-#  41:         50 2001
-#  42:         49 2006
-#  43:         49 2000
+#  41:         51 2001
+#  42:         51 2000
+#  43:         49 2006
 #  44:         47 2013
 #  45:         45 2005
 #  46:         44 2011
-#  47:         44 1964
-#  48:         43 2010
+#  47:         44 2010
+#  48:         44 1964
 #  49:         42 2015
-#  50:         39 2008
+#  50:         40 2008

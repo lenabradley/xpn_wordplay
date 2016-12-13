@@ -257,6 +257,29 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Stylo
+001	Stuck Inside Of Mobile With The Memphis Blues Again
+001	Stuck In The Middle With You
+001	Stuck In A Moment You Can't Get Out Of
+001	Stubborn Love
+001	Stubborn Kind Of Fellow
+001	Struttin' My Stuff
+001	Streets Of Philadelphia
+001	Streets Of Fire
+001	Street Fighting Man
+001	Strawberry Letter 23
+001	Strawberry Fields Forever
+001	Strangers In The Night
+001	Strangered In The Night
+001	Stranger to My Happiness
+001	Strange Times
+001	Strange Overtones
+001	Strange Magic
+001	Strange Fruit
+001	Strange Feelin
+001	Strange Days
+001	Strange Conversation
+001	Strange Condition
 001	Strange Brew
 001	Strange
 001	Straightface
@@ -664,6 +687,7 @@
 001	Safe European Home
 001	Sad And Deep As You
 001	Sabotage
+001	STREETS OF YOUR TOWN
 001	SOS (Overboard)
 001	SOB
 001	S.O.S.
