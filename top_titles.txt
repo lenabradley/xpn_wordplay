@@ -259,6 +259,17 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Sundown
+001	Sunday, Bloody Sunday
+001	Sunday Papers
+001	Sunday Morning
+001	Sunday Mornin' Comin' Down
+001	Sun King
+001	Sun Is Shining
+001	Sun Hands
+001	Sun Goddess
+001	Sun Comes Up
+001	Summertime Thing
 001	Summertime Summertime
 001	Summertime Clothes
 001	Summersong

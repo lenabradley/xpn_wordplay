@@ -70,6 +70,7 @@
 009	Dance
 009	Crazy
 009	Another
+008	Summertime
 008	Summer
 008	Stop
 008	Something
@@ -90,7 +91,6 @@
 008	Change
 008	California
 008	Born
-007	Summertime
 007	Mama
 007	Last
 007	Johnny
@@ -126,6 +126,7 @@
 006	Cherry
 006	Angel
 006	And
+005	Sun
 005	Stand
 005	Sometimes
 005	Someone
@@ -218,6 +219,7 @@
 004	Brand
 004	Baby,
 004	After
+003	Sunday
 003	Stuck
 003	Spirit
 003	Spanish
@@ -580,6 +582,8 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Sundown
+001	Sunday,
 001	Summersong
 001	Summerfling
 001	Summer,

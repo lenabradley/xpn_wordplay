@@ -13,6 +13,7 @@ import musicbrainzngs as mb
 import datetime as dt
 import glob
 import numpy as np
+import sys
 pd.options.mode.chained_assignment = None  # default='warn'
 
 # function definitions
@@ -271,6 +272,12 @@ def main():
     Use contained functions to import, analyze, and save results of xpn
     playlist data
     '''
+#    args = sys.argv[1:]
+#
+#    if not args:
+#        AtoZ = True
+#    else:
+#        AtoZ = bool(args[0])
 
     # gather song data and update MB info
     filename = 'playlistdata.csv'

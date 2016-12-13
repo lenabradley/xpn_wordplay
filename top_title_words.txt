@@ -17,15 +17,15 @@
 073	your
 071	for
 068	all
-065	is
+066	is
+061	up
 061	no
-060	up
 060	be
 060	baby
 059	get
 058	one
+056	down
 055	like
-055	down
 053	can't
 052	rock
 050	it's
@@ -92,6 +92,8 @@
 021	days
 021	cry
 021	at
+020	thing
+020	sun
 020	say
 020	radio
 020	mind
@@ -102,7 +104,6 @@
 020	black
 020	around
 019	wanna
-019	thing
 018	summer
 018	she's
 018	not
@@ -131,7 +132,6 @@
 016	easy
 016	been
 016	another
-015	sun
 015	stand
 015	or
 015	mr
@@ -146,6 +146,7 @@
 014	town
 014	tonight
 014	sky
+014	morning
 014	live
 014	lady
 014	dream
@@ -162,7 +163,6 @@
 013	red
 013	off
 013	music
-013	morning
 013	mama
 013	lost
 013	i'll
@@ -170,6 +170,7 @@
 013	cold
 013	as
 012	too
+012	summertime
 012	street
 012	strange
 012	please
@@ -178,7 +179,6 @@
 012	house
 012	head
 011	water
-011	summertime
 011	star
 011	something
 011	real
@@ -186,6 +186,7 @@
 011	money
 011	lover
 011	look
+011	king
 011	happy
 011	fall
 011	everybody
@@ -199,7 +200,6 @@
 010	old
 010	make
 010	kiss
-010	king
 010	goodbye
 010	gold
 010	funky
@@ -231,6 +231,7 @@
 009	friend
 009	everybody's
 009	could
+009	comes
 009	cherry
 009	boys
 008	yourself
@@ -239,6 +240,7 @@
 008	under
 008	together
 008	tell
+008	sunday
 008	still
 008	someone
 008	sleep
@@ -259,7 +261,6 @@
 008	ever
 008	drive
 008	doctor
-008	comes
 008	car
 008	boy
 008	box
@@ -526,6 +527,7 @@
 004	hearts
 004	heartbreak
 004	has
+004	hands
 004	hammer
 004	hallelujah
 004	hair
@@ -558,6 +560,7 @@
 004	da
 004	d
 004	confusion
+004	comin'
 004	chasing
 004	changes
 004	cars
@@ -607,7 +610,6 @@
 003	takes
 003	survive
 003	superstitious
-003	sunday
 003	such
 003	stuck
 003	strong
@@ -708,7 +710,6 @@
 003	hear
 003	he
 003	harlem
-003	hands
 003	groove
 003	golly
 003	goin'
@@ -752,7 +753,6 @@
 003	couldn't
 003	cool
 003	coming
-003	comin'
 003	coffee
 003	cocaine
 003	closer
@@ -897,6 +897,7 @@
 002	show
 002	shotgun
 002	ship
+002	shining
 002	sheriff
 002	sexual
 002	seventh
@@ -1275,6 +1276,7 @@
 002	bobby
 002	bo
 002	bluebird
+002	bloody
 002	block
 002	blank
 002	blame
@@ -1499,6 +1501,7 @@
 001	sunrise
 001	sunlight
 001	sunflower
+001	sundown
 001	summersong
 001	summerfling
 001	sultans
@@ -1666,7 +1669,6 @@
 001	shiver
 001	shirts
 001	shiny
-001	shining
 001	shinin'
 001	sherry
 001	shepherd
@@ -1989,6 +1991,7 @@
 001	parklife
 001	parade
 001	parachute
+001	papers
 001	paperback
 001	papa's
 001	pants
@@ -2092,6 +2095,7 @@
 001	motel
 001	moscow
 001	moronie
+001	mornin'
 001	morgantown
 001	moondance
 001	moonage
@@ -2563,6 +2567,7 @@
 001	gon'
 001	goldrush
 001	goldfinger
+001	goddess
 001	glorified
 001	glimmer
 001	glendale
@@ -3129,7 +3134,6 @@
 001	blow
 001	blossom
 001	bloom
-001	bloody
 001	bloodbuzz
 001	blonde
 001	blitzkrieg

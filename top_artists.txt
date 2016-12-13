@@ -1,4 +1,4 @@
-105	The Beatles
+106	The Beatles
 067	The Rolling Stones
 059	Bruce Springsteen
 059	Bob Dylan
@@ -12,10 +12,10 @@
 025	Joni Mitchell
 024	Fleetwood Mac
 023	Van Morrison
+023	U2
 023	Stevie Wonder
-022	U2
+022	Bob Marley & The Wailers
 021	Elton John
-021	Bob Marley & The Wailers
 020	Eric Clapton
 019	Warren Zevon
 019	Paul Simon
@@ -126,6 +126,7 @@
 007	Muddy Waters
 007	Lyle Lovett
 007	John Mellencamp
+007	Joe Jackson
 007	Jefferson Airplane
 007	Jeff Beck
 007	Frank Zappa
@@ -152,7 +153,6 @@
 006	Kathleen Edwards
 006	Josh Ritter
 006	John Lee Hooker
-006	Joe Jackson
 006	Jerry Garcia
 006	Jeff Buckley
 006	James Taylor
@@ -289,6 +289,7 @@
 004	Dave Mason
 004	Dave Edmunds
 004	Crowded House
+004	Cowboy Junkies
 004	Courtney Barnett
 004	Carole King
 004	Buddy Holly
@@ -313,6 +314,7 @@
 003	Toots Hibbert
 003	Third World
 003	Them
+003	The Velvet Underground & Nico
 003	The Thompson Twins
 003	The Stone Roses
 003	The Specials
@@ -400,7 +402,7 @@
 003	Dave Clark Five
 003	Daft Punk
 003	Cracker
-003	Cowboy Junkies
+003	Chuck Prophet
 003	Camper Van Beethoven
 003	Bright Eyes
 003	Bon Iver
@@ -437,7 +439,6 @@
 002	The Waterboys
 002	The War On Drugs
 002	The Wallflowers
-002	The Velvet Underground & Nico
 002	The Velvet Underground
 002	The Sundays
 002	The Style Council
@@ -590,6 +591,7 @@
 002	Haircut One Hundred
 002	Guided By Voices
 002	Grace Jones
+002	Gordon Lightfoot
 002	George Ezra
 002	Gang Of Four
 002	G Love
@@ -617,7 +619,6 @@
 002	Curtis Mayfield
 002	Crash Test Dummies
 002	Cornershop
-002	Chuck Prophet
 002	Chris Whitley
 002	Chris Isaak
 002	Chairmen Of The Board
@@ -942,6 +943,7 @@
 001	Ray Barretto
 001	Raul Malo
 001	Raphael Saadiq
+001	Ramsey Lewis
 001	Rag 'N' Bone Man
 001	Quincy Jones
 001	Quilt
@@ -1056,6 +1058,7 @@
 001	Lou Christie
 001	Los Bravos
 001	Lord Huron
+001	Local Natives
 001	Loamlands
 001	Lloyd Cole & The Commotions
 001	Lizz Wright
@@ -1081,6 +1084,7 @@
 001	Lana Del Rey
 001	Labelle
 001	Kyle Craft
+001	Kris Kristofferson
 001	Kraftwerk
 001	Koko Taylor
 001	Kiss
@@ -1191,7 +1195,6 @@
 001	Grace Potter
 001	Gov't Mule
 001	Gotye
-001	Gordon Lightfoot
 001	Good Old War
 001	Golden Earring
 001	Godley & Creme
