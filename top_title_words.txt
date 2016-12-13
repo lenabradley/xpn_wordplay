@@ -1,14 +1,14 @@
-433	the
+435	the
 301	i
 265	a
-242	you
+246	you
 213	love
-206	in
-205	to
+208	in
+207	to
 196	of
 164	on
-160	me
-156	my
+161	me
+157	my
 128	it
 116	and
 089	don't
@@ -17,16 +17,16 @@
 068	your
 068	for
 066	all
-064	is
+065	is
 061	no
 060	be
 060	baby
 058	one
 058	get
 055	up
-053	like
+055	like
+053	down
 052	rock
-052	down
 051	can't
 050	it's
 048	go
@@ -38,21 +38,21 @@
 043	with
 042	want
 042	out
-041	life
+042	life
 041	good
 040	if
 039	heart
 039	come
+038	so
+038	night
 038	just
 038	ain't
-037	so
-037	night
-036	got
+037	got
 036	do
 036	away
+034	new
 034	know
 034	day
-033	new
 032	way
 032	let
 031	now
@@ -66,9 +66,9 @@
 027	over
 027	long
 027	big
+026	what
 026	see
 026	blues
-025	what
 025	that
 025	home
 025	fire
@@ -113,6 +113,7 @@
 017	let's
 017	have
 017	city
+016	there
 016	oh
 016	lonely
 016	into
@@ -124,7 +125,6 @@
 016	crazy
 016	been
 016	another
-015	there
 015	sun
 015	or
 015	mr
@@ -135,7 +135,9 @@
 015	her
 015	eyes
 015	everything
+015	about
 014	will
+014	tonight
 014	live
 014	lady
 014	heaven
@@ -147,7 +149,6 @@
 014	alright
 013	was
 013	town
-013	tonight
 013	shake
 013	run
 013	red
@@ -158,6 +159,7 @@
 013	lost
 013	i'll
 013	cold
+012	we
 012	too
 012	soul
 012	sky
@@ -166,12 +168,11 @@
 012	house
 012	head
 012	as
-012	about
-011	we
 011	water
 011	times
 011	stone
 011	star
+011	something
 011	real
 011	pretty
 011	moon
@@ -231,6 +232,7 @@
 008	together
 008	these
 008	tell
+008	someone
 008	sleep
 008	sister
 008	save
@@ -269,6 +271,7 @@
 007	mountain
 007	magic
 007	lovin'
+007	lay
 007	late
 007	johnny
 007	hill
@@ -294,8 +297,10 @@
 007	2
 006	wind
 006	where
+006	when
 006	u
 006	think
+006	talk
 006	somebody
 006	smile
 006	shine
@@ -320,7 +325,6 @@
 006	luck
 006	looking
 006	lights
-006	lay
 006	jungle
 006	jesus
 006	jane
@@ -359,7 +363,6 @@
 005	year
 005	who
 005	white
-005	when
 005	well
 005	wants
 005	waiting
@@ -434,6 +437,7 @@
 005	book
 005	bit
 005	beat
+005	air
 004	you'll
 004	ya
 004	work
@@ -443,7 +447,6 @@
 004	wall
 004	top
 004	tears
-004	talk
 004	sunshine
 004	strikes
 004	storm
@@ -555,7 +558,6 @@
 004	arms
 004	angels
 004	alley
-004	air
 004	action
 003	zero
 003	yellow
@@ -589,6 +591,7 @@
 003	sunday
 003	summertime
 003	stuff
+003	strong
 003	streets
 003	step
 003	steady
@@ -596,8 +599,6 @@
 003	sorrow
 003	soon
 003	son
-003	something
-003	someone
 003	slow
 003	skies
 003	simple
@@ -819,7 +820,7 @@
 002	sugar
 002	suede
 002	sue
-002	strong
+002	stupid
 002	stranger
 002	strange
 002	story
@@ -832,6 +833,7 @@
 002	spark
 002	south
 002	sometimes
+002	somethin'
 002	somebody's
 002	solitary
 002	solid
@@ -868,6 +870,7 @@
 002	scream
 002	scotch
 002	scarecrow
+002	saved
 002	satisfy
 002	sara
 002	salty
@@ -1230,6 +1233,7 @@
 002	blackbird
 002	biloxi
 002	best
+002	beside
 002	beret
 002	believer
 002	belief
@@ -1446,7 +1450,6 @@
 001	such
 001	submarines
 001	style
-001	stupid
 001	stubb's
 001	stu
 001	strut
@@ -1489,7 +1492,6 @@
 001	sorry
 001	soothe
 001	someway
-001	somethin'
 001	solving
 001	solsbury
 001	solitude
@@ -1635,7 +1637,6 @@
 001	sayin'
 001	savoy
 001	savior
-001	saved
 001	saturday's
 001	satisfaction
 001	satin
@@ -2406,6 +2407,7 @@
 001	hasten
 001	harm
 001	hardly
+001	happens
 001	hank
 001	hangover
 001	hangin'
@@ -3040,7 +3042,6 @@
 001	between
 001	betcha
 001	bet
-001	beside
 001	bertha
 001	bernadette
 001	bermuda

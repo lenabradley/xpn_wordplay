@@ -1,7 +1,7 @@
-103	The Beatles
+104	The Beatles
 063	The Rolling Stones
-055	Bruce Springsteen
-055	Bob Dylan
+056	Bruce Springsteen
+056	Bob Dylan
 044	Neil Young
 031	Steely Dan
 030	Led Zeppelin
@@ -13,16 +13,16 @@
 023	The Who
 023	Stevie Wonder
 023	Fleetwood Mac
-020	Elton John
+021	Elton John
 020	Bob Marley & The Wailers
 019	Warren Zevon
 019	U2
 019	Jackson Browne
 019	Eric Clapton
 018	Paul Simon
+018	Bonnie Raitt
 017	The Clash
 017	Little Feat
-017	Bonnie Raitt
 016	Wilco
 016	The Beach Boys
 016	Talking Heads
@@ -39,6 +39,7 @@
 013	Todd Rundgren
 013	Pink Floyd
 013	My Morning Jacket
+013	Lucinda Williams
 013	John Lennon
 013	Creedence Clearwater Revival
 012	Yes
@@ -46,7 +47,6 @@
 012	Santana
 012	Otis Redding
 012	Marvin Gaye
-012	Lucinda Williams
 012	Los Lobos
 012	Elvis Costello
 012	Electric Light Orchestra
@@ -126,6 +126,7 @@
 007	Bruce Cockburn
 007	Aretha Franklin
 007	Arcade Fire
+007	Adele
 006	Wilson Pickett
 006	Tori Amos
 006	The Spinners
@@ -157,7 +158,6 @@
 006	Depeche Mode
 006	Crosby Stills Nash & Young
 006	Beastie Boys
-006	Adele
 005	Willie Nelson
 005	War
 005	Train
@@ -243,6 +243,7 @@
 004	Neil Diamond
 004	Mott The Hoople
 004	Morrissey
+004	Mayer Hawthorne
 004	Matthew Sweet
 004	LL Cool J
 004	Kings Of Leon
@@ -271,6 +272,7 @@
 004	David Bromberg
 004	Dave Mason
 004	Dave Edmunds
+004	Crowded House
 004	Cream
 004	Courtney Barnett
 004	Chicago Transit Authority
@@ -282,6 +284,7 @@
 004	Big Brother & The Holding Company
 004	Band Of Horses
 004	Badfinger
+004	B. B. King
 004	Arctic Monkeys
 004	Alison Krauss
 004	10cc
@@ -339,7 +342,6 @@
 003	Mountain
 003	Moby
 003	Michael Kiwanuka
-003	Mayer Hawthorne
 003	Massive Attack
 003	Marvin Gaye & Tammi Terrell
 003	Mark Knopfler
@@ -363,6 +365,7 @@
 003	Jackson 5
 003	JD McPherson
 003	Ingrid Michaelson
+003	Hozier
 003	Hot Tuna
 003	Hank Williams
 003	Guster
@@ -384,7 +387,6 @@
 003	David Gray
 003	Dave Clark Five
 003	Daft Punk
-003	Crowded House
 003	Cracker
 003	Cowboy Junkies
 003	Camper Van Beethoven
@@ -402,7 +404,6 @@
 003	Beth Orton
 003	Bangles
 003	B. B. King & Eric Clapton
-003	B. B. King
 003	Alice Cooper
 003	Alanis Morissette
 003	Air
@@ -542,6 +543,7 @@
 002	Kurt Vile
 002	Kool & The Gang
 002	Keane
+002	Karla Bonoff
 002	Karl Denson's Tiny Universe
 002	Kaiser Chiefs
 002	Jr. Walker & The All-Stars
@@ -563,7 +565,6 @@
 002	Ian Hunter
 002	Ian Dury & The Blockheads
 002	Husker Du
-002	Hozier
 002	Houndmouth
 002	Hound Dog Taylor And The Houserockers
 002	Hiss Golden Messenger
@@ -686,6 +687,7 @@
 001	Tim Finn
 001	Tim Curry
 001	Tim Buckley
+001	Thunderclap Newman
 001	Thomas Dolby
 001	Thin Lizzy
 001	Thievery Corporation
@@ -1058,7 +1060,6 @@
 001	Kenny Rogers
 001	Keller Williams
 001	Keith Richards
-001	Karla Bonoff
 001	Karl Blau
 001	KC & The Sunshine Band
 001	Justin Townes Earle
@@ -1187,6 +1188,7 @@
 001	Fred Neil
 001	Franz Ferdinand
 001	Frankie Goes To Hollywood
+001	Frank & Nancy Sinatra
 001	Fontella Bass
 001	Folk Implosion
 001	Focus

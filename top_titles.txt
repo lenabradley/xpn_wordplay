@@ -27,6 +27,7 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Someone Like You
 002	Someday
 002	Somebody To Love
 002	Some Kind Of Wonderful
@@ -247,6 +248,18 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Something You Got
+001	Something To Talk About
+001	Something There Is About You
+001	Something So Strong
+001	Something In The Night
+001	Something In The Air
+001	Something About What Happens When We Talk
+001	Something
+001	Somethin' Stupid
+001	Someone To Lay Down Beside Me
+001	Someone Saved My Life Tonight
+001	Someone New
 001	Someday, Someway
 001	Someday We'll Know
 001	Someday We'll Be Together
