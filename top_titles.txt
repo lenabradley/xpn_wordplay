@@ -248,6 +248,56 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Spanish Harlem
+001	Spanish Dancer
+001	Space Oddity
+001	Space Cowboy
+001	Soy Loco Por Ti America
+001	Sowing The Seeds Of Love
+001	Southtown Girls
+001	Southside Of Heaven
+001	Southern Nights
+001	Southern Man
+001	Southern Girls
+001	Southern Cross
+001	Southbound Again
+001	Southbound
+001	South Street
+001	South Side
+001	South Central Rain
+001	South California Purples
+001	Sour Times
+001	Sound And Vision
+001	Soulsville
+001	Soulshine
+001	Soulful Wind
+001	Soulful Strut
+001	Soul Singing
+001	Soul Singer In A Session Band
+001	Soul Shoes
+001	Soul Sacrifice
+001	Soul Refreshing
+001	Soul Power
+001	Soul Meets Body
+001	Soul Man
+001	Soul Makossa
+001	Soul Kitchen
+001	Soul Finger
+001	Soul Deep
+001	Soul Bossa Nova
+001	Song for Zula
+001	Song 2
+001	Son's Gonna Rise
+001	Son Of A Preacher Man
+001	Somewhere Only We Know
+001	Sometimes You Can't Make It On Your Own
+001	Sometimes Salvation
+001	Sometimes I Don't Know What To Feel
+001	Sometimes Good Guys Don't Wear White
+001	Sometimes Always
+001	Sometime Around Midnight
+001	Something's Got A Hold On Me
+001	Something's Always Wrong
 001	Something You Got
 001	Something To Talk About
 001	Something There Is About You
@@ -534,6 +584,7 @@
 001	Safe European Home
 001	Sad And Deep As You
 001	Sabotage
+001	SOS (Overboard)
 001	SOB
 001	S.O.S.
 001	Running Up That Hill

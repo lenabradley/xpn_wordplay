@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-12, 19:09
+Last updated: 2016-12-12, 22:54
 
 
 ==============================
@@ -11,11 +11,11 @@ Top 50 artists:
 #   2:         63 The Rolling Stones
 #   3:         56 Bruce Springsteen
 #   4:         56 Bob Dylan
-#   5:         44 Neil Young
+#   5:         45 Neil Young
 #   6:         31 Steely Dan
-#   7:         30 Led Zeppelin
-#   8:         29 David Bowie
-#   9:         28 R. E. M.
+#   7:         31 David Bowie
+#   8:         30 Led Zeppelin
+#   9:         29 R. E. M.
 #  10:         28 Grateful Dead
 #  11:         25 Joni Mitchell
 #  12:         23 Van Morrison
@@ -23,9 +23,9 @@ Top 50 artists:
 #  14:         23 Stevie Wonder
 #  15:         23 Fleetwood Mac
 #  16:         21 Elton John
-#  17:         20 Bob Marley & The Wailers
-#  18:         19 Warren Zevon
-#  19:         19 U2
+#  17:         20 U2
+#  18:         20 Bob Marley & The Wailers
+#  19:         19 Warren Zevon
 #  20:         19 Jackson Browne
 #  21:         19 Eric Clapton
 #  22:         18 Paul Simon
@@ -33,27 +33,27 @@ Top 50 artists:
 #  24:         17 The Clash
 #  25:         17 Little Feat
 #  26:         16 Wilco
-#  27:         16 The Beach Boys
-#  28:         16 Talking Heads
-#  29:         15 The Kinks
-#  30:         15 The Doors
-#  31:         15 The Allman Brothers
-#  32:         15 Jimi Hendrix
-#  33:         15 James Brown
-#  34:         14 The Pretenders
-#  35:         14 Sting
-#  36:         14 Peter Gabriel
-#  37:         14 Johnny Cash
-#  38:         14 Coldplay
-#  39:         13 Todd Rundgren
-#  40:         13 Pink Floyd
-#  41:         13 My Morning Jacket
-#  42:         13 Lucinda Williams
-#  43:         13 John Lennon
-#  44:         13 Creedence Clearwater Revival
-#  45:         12 Yes
-#  46:         12 Tom Petty & The Heartbreakers
-#  47:         12 Santana
+#  27:         16 The Doors
+#  28:         16 The Beach Boys
+#  29:         16 The Allman Brothers
+#  30:         16 Talking Heads
+#  31:         16 James Brown
+#  32:         15 The Kinks
+#  33:         15 Jimi Hendrix
+#  34:         14 Todd Rundgren
+#  35:         14 The Pretenders
+#  36:         14 Sting
+#  37:         14 Peter Gabriel
+#  38:         14 Johnny Cash
+#  39:         14 Coldplay
+#  40:         13 Santana
+#  41:         13 Pink Floyd
+#  42:         13 My Morning Jacket
+#  43:         13 Lucinda Williams
+#  44:         13 John Lennon
+#  45:         13 Creedence Clearwater Revival
+#  46:         12 Yes
+#  47:         12 Tom Petty & The Heartbreakers
 #  48:         12 Otis Redding
 #  49:         12 Marvin Gaye
 #  50:         12 Los Lobos
@@ -119,24 +119,24 @@ Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        435 the
-#   2:        301 i
-#   3:        265 a
-#   4:        246 you
-#   5:        213 love
-#   6:        208 in
-#   7:        207 to
-#   8:        196 of
-#   9:        164 on
-#  10:        161 me
+#   1:        436 the
+#   2:        302 i
+#   3:        268 a
+#   4:        247 you
+#   5:        214 love
+#   6:        209 in
+#   7:        208 to
+#   8:        199 of
+#   9:        166 on
+#  10:        162 me
 #  11:        157 my
-#  12:        128 it
-#  13:        116 and
-#  14:         89 don't
+#  12:        129 it
+#  13:        117 and
+#  14:         91 don't
 #  15:         77 i'm
-#  16:         69 man
-#  17:         68 your
-#  18:         68 for
+#  16:         72 man
+#  17:         69 your
+#  18:         69 for
 #  19:         66 all
 #  20:         65 is
 #  21:         61 no
@@ -148,7 +148,7 @@ Top 50 title words:
 #  27:         55 like
 #  28:         53 down
 #  29:         52 rock
-#  30:         51 can't
+#  30:         52 can't
 #  31:         50 it's
 #  32:         48 go
 #  33:         47 time
@@ -160,68 +160,68 @@ Top 50 title words:
 #  39:         42 want
 #  40:         42 out
 #  41:         42 life
-#  42:         41 good
+#  42:         42 good
 #  43:         40 if
 #  44:         39 heart
 #  45:         39 come
 #  46:         38 so
 #  47:         38 night
 #  48:         38 just
-#  49:         38 ain't
-#  50:         37 got
+#  49:         38 got
+#  50:         38 ain't
 
 ==============================
 Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        178 1
-#   2:        157 1970
-#   3:        146 1969
-#   4:        134 1973
-#   5:        130 1971
-#   6:        125 1972
-#   7:        123 1974
-#   8:        122 1967
-#   9:        112 1976
-#  10:        107 1977
-#  11:        104 1975
-#  12:        104 1968
-#  13:         99 1980
-#  14:         97 1978
-#  15:         90 1993
-#  16:         89 1994
+#   1:        179 1
+#   2:        158 1970
+#   3:        150 1969
+#   4:        136 1973
+#   5:        133 1971
+#   6:        126 1972
+#   7:        125 1967
+#   8:        123 1974
+#   9:        113 1976
+#  10:        109 1977
+#  11:        105 1975
+#  12:        105 1968
+#  13:        100 1980
+#  14:         98 1978
+#  15:         93 1994
+#  16:         90 1993
 #  17:         87 1979
-#  18:         86 1966
-#  19:         85 1989
-#  20:         81 1982
-#  21:         77 1992
+#  18:         87 1966
+#  19:         86 1989
+#  20:         82 1982
+#  21:         78 1992
 #  22:         77 1984
 #  23:         76 1991
-#  24:         71 1985
+#  24:         72 1985
 #  25:         68 1965
 #  26:         67 1986
-#  27:         65 1987
+#  27:         66 1987
 #  28:         61 1988
 #  29:         58 1983
-#  30:         56 1996
-#  31:         56 1995
-#  32:         54 2007
-#  33:         54 1990
-#  34:         53 2016
-#  35:         53 2004
-#  36:         53 2003
-#  37:         53 1998
-#  38:         52 1981
-#  39:         51 1999
-#  40:         49 2002
+#  30:         56 2004
+#  31:         56 1996
+#  32:         56 1995
+#  33:         55 2007
+#  34:         54 2016
+#  35:         54 2003
+#  36:         54 1999
+#  37:         54 1990
+#  38:         53 1998
+#  39:         52 1981
+#  40:         50 2002
 #  41:         49 2000
-#  42:         46 2006
-#  43:         46 2001
-#  44:         44 2013
+#  42:         47 2006
+#  43:         47 2001
+#  44:         45 2013
 #  45:         43 2010
-#  46:         43 1964
-#  47:         42 2011
-#  48:         41 2005
+#  46:         43 2005
+#  47:         43 1964
+#  48:         42 2011
 #  49:         40 2015
 #  50:         38 2009

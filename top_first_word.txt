@@ -39,6 +39,7 @@
 014	Down
 014	Black
 014	Back
+013	Soul
 013	Shake
 013	Night
 013	Give
@@ -120,6 +121,7 @@
 006	Cherry
 006	Angel
 006	And
+005	Sometimes
 005	Someone
 005	Someday
 005	Some
@@ -155,6 +157,8 @@
 005	Are
 005	American
 005	Always
+004	Southern
+004	South
 004	Somebody
 004	Seven
 004	San
@@ -296,6 +300,12 @@
 003	Alone
 003	Alive
 003	Across
+002	Spanish
+002	Space
+002	Southbound
+002	Soulful
+002	Song
+002	Something's
 002	Somebody's
 002	Solitary
 002	Solid
@@ -545,6 +555,18 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Soy
+001	Sowing
+001	Southtown
+001	Southside
+001	Sour
+001	Sound
+001	Soulsville
+001	Soulshine
+001	Son's
+001	Son
+001	Somewhere
+001	Sometime
 001	Somethin'
 001	Someday,
 001	Solving
@@ -652,6 +674,7 @@
 001	Sailin'
 001	Sad
 001	Sabotage
+001	SOS
 001	SOB
 001	S.O.S.
 001	Runnin'
