@@ -248,6 +248,12 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Spirit In The Sky
+001	Spirit In The Night
+001	Spill The Wine
+001	Spider Web
+001	Spare Me A Little
+001	Spanish Moon
 001	Spanish Harlem
 001	Spanish Dancer
 001	Space Oddity

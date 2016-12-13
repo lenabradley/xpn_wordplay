@@ -1,6 +1,6 @@
 104	The Beatles
 063	The Rolling Stones
-056	Bruce Springsteen
+057	Bruce Springsteen
 056	Bob Dylan
 045	Neil Young
 031	Steely Dan
@@ -9,10 +9,10 @@
 029	R. E. M.
 028	Grateful Dead
 025	Joni Mitchell
+024	Fleetwood Mac
 023	Van Morrison
 023	The Who
 023	Stevie Wonder
-023	Fleetwood Mac
 021	Elton John
 020	U2
 020	Bob Marley & The Wailers
@@ -20,9 +20,9 @@
 019	Jackson Browne
 019	Eric Clapton
 018	Paul Simon
+018	Little Feat
 018	Bonnie Raitt
 017	The Clash
-017	Little Feat
 016	Wilco
 016	The Doors
 016	The Beach Boys
@@ -124,6 +124,7 @@
 007	Muddy Waters
 007	Lyle Lovett
 007	John Mellencamp
+007	Joan Osborne
 007	Jefferson Airplane
 007	Jeff Beck
 007	Frank Zappa
@@ -148,7 +149,6 @@
 006	Kathleen Edwards
 006	Josh Ritter
 006	John Lee Hooker
-006	Joan Osborne
 006	Jeff Buckley
 006	Jack Johnson
 006	Grand Funk Railroad
@@ -623,6 +623,7 @@
 002	Bobby Womack
 002	Bobbie Gentry
 002	Bob Mould
+002	Blind Boys Of Alabama
 002	Black Uhuru
 002	Black Sabbath
 002	Billy Bragg & Wilco
@@ -1216,6 +1217,7 @@
 001	Erma Franklin
 001	Erin McKeown
 001	Eric Donaldson
+001	Eric Burdon & War
 001	Emeli Sande
 001	Elvis Presley & JXL
 001	Elliott Smith
@@ -1343,7 +1345,6 @@
 001	Blue Rodeo
 001	Bloodstone
 001	Blind Melon
-001	Blind Boys Of Alabama
 001	Blancmange
 001	Black Rebel Motorcycle Club
 001	Black Kids

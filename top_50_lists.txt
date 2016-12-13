@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-12, 22:54
+Last updated: 2016-12-12, 23:17
 
 
 ==============================
@@ -9,7 +9,7 @@ Top 50 artists:
 ==============================
 #   1:        104 The Beatles
 #   2:         63 The Rolling Stones
-#   3:         56 Bruce Springsteen
+#   3:         57 Bruce Springsteen
 #   4:         56 Bob Dylan
 #   5:         45 Neil Young
 #   6:         31 Steely Dan
@@ -18,10 +18,10 @@ Top 50 artists:
 #   9:         29 R. E. M.
 #  10:         28 Grateful Dead
 #  11:         25 Joni Mitchell
-#  12:         23 Van Morrison
-#  13:         23 The Who
-#  14:         23 Stevie Wonder
-#  15:         23 Fleetwood Mac
+#  12:         24 Fleetwood Mac
+#  13:         23 Van Morrison
+#  14:         23 The Who
+#  15:         23 Stevie Wonder
 #  16:         21 Elton John
 #  17:         20 U2
 #  18:         20 Bob Marley & The Wailers
@@ -29,9 +29,9 @@ Top 50 artists:
 #  20:         19 Jackson Browne
 #  21:         19 Eric Clapton
 #  22:         18 Paul Simon
-#  23:         18 Bonnie Raitt
-#  24:         17 The Clash
-#  25:         17 Little Feat
+#  23:         18 Little Feat
+#  24:         18 Bonnie Raitt
+#  25:         17 The Clash
 #  26:         16 Wilco
 #  27:         16 The Doors
 #  28:         16 The Beach Boys
@@ -119,16 +119,16 @@ Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        436 the
+#   1:        439 the
 #   2:        302 i
-#   3:        268 a
+#   3:        269 a
 #   4:        247 you
 #   5:        214 love
-#   6:        209 in
+#   6:        211 in
 #   7:        208 to
 #   8:        199 of
 #   9:        166 on
-#  10:        162 me
+#  10:        163 me
 #  11:        157 my
 #  12:        129 it
 #  13:        117 and
@@ -154,7 +154,7 @@ Top 50 title words:
 #  33:         47 time
 #  34:         47 roll
 #  35:         47 back
-#  36:         45 little
+#  36:         46 little
 #  37:         45 girl
 #  38:         43 with
 #  39:         42 want
@@ -162,10 +162,10 @@ Top 50 title words:
 #  41:         42 life
 #  42:         42 good
 #  43:         40 if
-#  44:         39 heart
-#  45:         39 come
-#  46:         38 so
-#  47:         38 night
+#  44:         39 night
+#  45:         39 heart
+#  46:         39 come
+#  47:         38 so
 #  48:         38 just
 #  49:         38 got
 #  50:         38 ain't
@@ -176,13 +176,13 @@ Top 50 release year:
 #Rank: Occurances Item
 ==============================
 #   1:        179 1
-#   2:        158 1970
+#   2:        159 1970
 #   3:        150 1969
-#   4:        136 1973
+#   4:        137 1973
 #   5:        133 1971
-#   6:        126 1972
+#   6:        127 1972
 #   7:        125 1967
-#   8:        123 1974
+#   8:        124 1974
 #   9:        113 1976
 #  10:        109 1977
 #  11:        105 1975
@@ -204,9 +204,9 @@ Top 50 release year:
 #  27:         66 1987
 #  28:         61 1988
 #  29:         58 1983
-#  30:         56 2004
-#  31:         56 1996
-#  32:         56 1995
+#  30:         57 1995
+#  31:         56 2004
+#  32:         56 1996
 #  33:         55 2007
 #  34:         54 2016
 #  35:         54 2003
@@ -219,8 +219,8 @@ Top 50 release year:
 #  42:         47 2006
 #  43:         47 2001
 #  44:         45 2013
-#  45:         43 2010
-#  46:         43 2005
+#  45:         44 2005
+#  46:         43 2010
 #  47:         43 1964
 #  48:         42 2011
 #  49:         40 2015

@@ -210,6 +210,7 @@
 004	Brand
 004	Baby,
 004	After
+003	Spanish
 003	Slow
 003	Sister
 003	Shout
@@ -300,7 +301,7 @@
 003	Alone
 003	Alive
 003	Across
-002	Spanish
+002	Spirit
 002	Space
 002	Southbound
 002	Soulful
@@ -555,6 +556,9 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Spill
+001	Spider
+001	Spare
 001	Soy
 001	Sowing
 001	Southtown

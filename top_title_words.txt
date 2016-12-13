@@ -1,13 +1,13 @@
-436	the
+439	the
 302	i
-268	a
+269	a
 247	you
 214	love
-209	in
+211	in
 208	to
 199	of
 166	on
-162	me
+163	me
 157	my
 129	it
 117	and
@@ -33,7 +33,7 @@
 047	time
 047	roll
 047	back
-045	little
+046	little
 045	girl
 043	with
 042	want
@@ -41,10 +41,10 @@
 042	life
 042	good
 040	if
+039	night
 039	heart
 039	come
 038	so
-038	night
 038	just
 038	got
 038	ain't
@@ -151,6 +151,7 @@
 013	we
 013	was
 013	town
+013	sky
 013	shake
 013	run
 013	red
@@ -164,8 +165,8 @@
 013	cold
 012	too
 012	times
-012	sky
 012	please
+012	moon
 012	mary
 012	house
 012	head
@@ -177,7 +178,6 @@
 011	something
 011	real
 011	pretty
-011	moon
 011	money
 011	lover
 011	look
@@ -364,6 +364,7 @@
 005	you're
 005	york
 005	year
+005	wine
 005	who
 005	well
 005	wants
@@ -445,7 +446,6 @@
 004	ya
 004	work
 004	won't
-004	wine
 004	window
 004	wall
 004	top
@@ -453,6 +453,7 @@
 004	sunshine
 004	strikes
 004	storm
+004	spirit
 004	southern
 004	son
 004	sneakin'
@@ -602,6 +603,7 @@
 003	step
 003	steady
 003	stars
+003	spanish
 003	sorrow
 003	soon
 003	slow
@@ -837,10 +839,8 @@
 002	stereo
 002	start
 002	square
-002	spirit
 002	spell
 002	spark
-002	spanish
 002	space
 002	southbound
 002	soulful
@@ -1334,6 +1334,7 @@
 001	weighs
 001	weeks
 001	wee
+001	web
 001	we're
 001	wave
 001	waters
@@ -1493,12 +1494,15 @@
 001	spoonful
 001	spo
 001	splinters
+001	spill
+001	spider
 001	spend
 001	speedway
 001	speed
 001	special
 001	speaker
 001	speak
+001	spare
 001	spain
 001	spaceman
 001	soy
