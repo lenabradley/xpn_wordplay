@@ -27,6 +27,13 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Stay With Me
+002	Stay
+002	Stand By Me
+002	Stand
+002	Stairway To Heaven
+002	Spit On A Stranger
+002	Spirit In The Sky
 002	Someone Like You
 002	Someday
 002	Somebody To Love
@@ -248,8 +255,59 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
-001	Spirit In The Sky
+001	Stolen Moments
+001	Stolen Dance
+001	Stockholm
+001	Stitched Up
+001	Stir It Up
+001	Sting Me
+001	Still... You Turn Me On
+001	Still Falling For You
+001	Still Crazy After All These Years
+001	Steve Mc Queen
+001	Stepping Stone
+001	Steppin' In A Slidezone
+001	Steppin Out
+001	Step Right Up
+001	Stella Blue
+001	Steal My Sunshine
+001	Steal My Kisses
+001	Steady Rollin' Man
+001	Steady Pull
+001	Steady On
+001	Steady As She Goes
+001	Stayin' Alive
+001	Stay Up Late
+001	Stay Positive
+001	Stay In My Corner
+001	Stay Gold
+001	Stay (faraway, So Close)
+001	Stay (Wasting Time)
+001	Stay (I Missed You)
+001	Station To Station
+001	Static On The Radio
+001	Statesboro Blues
+001	State Of Independence
+001	Starting All Over Again
+001	Start Me Up
+001	Start Choppin'
+001	Starstruck
+001	Starship Trooper
+001	Starry Eyes
+001	Starman
+001	Standing On The Top
+001	Standing In The Shadows of Love
+001	Stand By Your Man
+001	Stage Fright
+001	Stacy's Mom
+001	St. Theresa
+001	St. Stephen
+001	Square Biz
+001	Sponji Reggae
+001	Splish Splash
+001	Spirits In The Material World
 001	Spirit In The Night
+001	Spinning Wheel
 001	Spill The Wine
 001	Spider Web
 001	Spare Me A Little

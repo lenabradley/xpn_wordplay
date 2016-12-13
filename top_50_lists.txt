@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-12, 23:17
+Last updated: 2016-12-13, 04:21
 
 
 ==============================
@@ -8,55 +8,55 @@ Top 50 artists:
 #Rank: Occurances Item
 ==============================
 #   1:        104 The Beatles
-#   2:         63 The Rolling Stones
+#   2:         64 The Rolling Stones
 #   3:         57 Bruce Springsteen
 #   4:         56 Bob Dylan
 #   5:         45 Neil Young
-#   6:         31 Steely Dan
-#   7:         31 David Bowie
-#   8:         30 Led Zeppelin
-#   9:         29 R. E. M.
-#  10:         28 Grateful Dead
+#   6:         34 David Bowie
+#   7:         31 Steely Dan
+#   8:         31 Led Zeppelin
+#   9:         30 R. E. M.
+#  10:         30 Grateful Dead
 #  11:         25 Joni Mitchell
 #  12:         24 Fleetwood Mac
 #  13:         23 Van Morrison
 #  14:         23 The Who
 #  15:         23 Stevie Wonder
-#  16:         21 Elton John
-#  17:         20 U2
-#  18:         20 Bob Marley & The Wailers
-#  19:         19 Warren Zevon
-#  20:         19 Jackson Browne
-#  21:         19 Eric Clapton
-#  22:         18 Paul Simon
+#  16:         21 U2
+#  17:         21 Elton John
+#  18:         20 Eric Clapton
+#  19:         20 Bob Marley & The Wailers
+#  20:         19 Warren Zevon
+#  21:         19 Paul Simon
+#  22:         19 Jackson Browne
 #  23:         18 Little Feat
 #  24:         18 Bonnie Raitt
 #  25:         17 The Clash
-#  26:         16 Wilco
-#  27:         16 The Doors
-#  28:         16 The Beach Boys
-#  29:         16 The Allman Brothers
-#  30:         16 Talking Heads
-#  31:         16 James Brown
-#  32:         15 The Kinks
+#  26:         17 The Allman Brothers
+#  27:         17 Talking Heads
+#  28:         16 Wilco
+#  29:         16 The Kinks
+#  30:         16 The Doors
+#  31:         16 The Beach Boys
+#  32:         16 James Brown
 #  33:         15 Jimi Hendrix
 #  34:         14 Todd Rundgren
 #  35:         14 The Pretenders
 #  36:         14 Sting
 #  37:         14 Peter Gabriel
 #  38:         14 Johnny Cash
-#  39:         14 Coldplay
-#  40:         13 Santana
-#  41:         13 Pink Floyd
-#  42:         13 My Morning Jacket
-#  43:         13 Lucinda Williams
-#  44:         13 John Lennon
-#  45:         13 Creedence Clearwater Revival
-#  46:         12 Yes
-#  47:         12 Tom Petty & The Heartbreakers
-#  48:         12 Otis Redding
-#  49:         12 Marvin Gaye
-#  50:         12 Los Lobos
+#  39:         14 John Lennon
+#  40:         14 Coldplay
+#  41:         13 Yes
+#  42:         13 Santana
+#  43:         13 Pink Floyd
+#  44:         13 My Morning Jacket
+#  45:         13 Lucinda Williams
+#  46:         13 Creedence Clearwater Revival
+#  47:         12 Tom Waits
+#  48:         12 Tom Petty & The Heartbreakers
+#  49:         12 The Police
+#  50:         12 Otis Redding
 
 ==============================
 Top 50 titles:
@@ -92,80 +92,80 @@ Top 50 titles:
 #  27:          3 Cherry Oh Baby
 #  28:          3 California
 #  29:          3 Ball Of Confusion
-#  30:          2 Someone Like You
-#  31:          2 Someday
-#  32:          2 Somebody To Love
-#  33:          2 Some Kind Of Wonderful
-#  34:          2 Solitary Man
-#  35:          2 So You Want To Be A Rock And Roll Star
-#  36:          2 So Far Away
-#  37:          2 So Alive
-#  38:          2 Sideways
-#  39:          2 Shout
-#  40:          2 Shine
-#  41:          2 She's Gone
-#  42:          2 She Came In Through The Bathroom Window
-#  43:          2 Shake Rattle And Roll
-#  44:          2 Shake It Out
-#  45:          2 Shake It Baby
-#  46:          2 Shake
-#  47:          2 Sexual Healing
-#  48:          2 Secret Agent Man
-#  49:          2 Season Of The Witch
-#  50:          2 School Days
+#  30:          2 Stay With Me
+#  31:          2 Stay
+#  32:          2 Stand By Me
+#  33:          2 Stand
+#  34:          2 Stairway To Heaven
+#  35:          2 Spit On A Stranger
+#  36:          2 Spirit In The Sky
+#  37:          2 Someone Like You
+#  38:          2 Someday
+#  39:          2 Somebody To Love
+#  40:          2 Some Kind Of Wonderful
+#  41:          2 Solitary Man
+#  42:          2 So You Want To Be A Rock And Roll Star
+#  43:          2 So Far Away
+#  44:          2 So Alive
+#  45:          2 Sideways
+#  46:          2 Shout
+#  47:          2 Shine
+#  48:          2 She's Gone
+#  49:          2 She Came In Through The Bathroom Window
+#  50:          2 Shake Rattle And Roll
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        439 the
-#   2:        302 i
-#   3:        269 a
-#   4:        247 you
-#   5:        214 love
-#   6:        211 in
-#   7:        208 to
-#   8:        199 of
-#   9:        166 on
-#  10:        163 me
-#  11:        157 my
-#  12:        129 it
+#   1:        444 the
+#   2:        303 i
+#   3:        272 a
+#   4:        250 you
+#   5:        216 in
+#   6:        215 love
+#   7:        211 to
+#   8:        201 of
+#   9:        172 on
+#  10:        170 me
+#  11:        160 my
+#  12:        130 it
 #  13:        117 and
 #  14:         91 don't
 #  15:         77 i'm
-#  16:         72 man
-#  17:         69 your
-#  18:         69 for
-#  19:         66 all
+#  16:         74 man
+#  17:         70 your
+#  18:         70 for
+#  19:         68 all
 #  20:         65 is
 #  21:         61 no
-#  22:         60 be
-#  23:         60 baby
-#  24:         58 one
-#  25:         58 get
-#  26:         55 up
+#  22:         60 up
+#  23:         60 be
+#  24:         60 baby
+#  25:         58 one
+#  26:         58 get
 #  27:         55 like
 #  28:         53 down
 #  29:         52 rock
 #  30:         52 can't
 #  31:         50 it's
-#  32:         48 go
-#  33:         47 time
+#  32:         48 time
+#  33:         48 go
 #  34:         47 roll
 #  35:         47 back
 #  36:         46 little
-#  37:         45 girl
-#  38:         43 with
-#  39:         42 want
-#  40:         42 out
+#  37:         45 with
+#  38:         45 girl
+#  39:         43 out
+#  40:         42 want
 #  41:         42 life
 #  42:         42 good
 #  43:         40 if
-#  44:         39 night
-#  45:         39 heart
-#  46:         39 come
-#  47:         38 so
+#  44:         39 so
+#  45:         39 night
+#  46:         39 heart
+#  47:         39 come
 #  48:         38 just
 #  49:         38 got
 #  50:         38 ain't
@@ -175,53 +175,53 @@ Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        179 1
-#   2:        159 1970
-#   3:        150 1969
-#   4:        137 1973
-#   5:        133 1971
-#   6:        127 1972
-#   7:        125 1967
-#   8:        124 1974
-#   9:        113 1976
-#  10:        109 1977
-#  11:        105 1975
-#  12:        105 1968
+#   1:        184 1
+#   2:        160 1970
+#   3:        154 1969
+#   4:        139 1973
+#   5:        135 1971
+#   6:        130 1972
+#   7:        125 1974
+#   8:        125 1967
+#   9:        117 1976
+#  10:        111 1977
+#  11:        107 1975
+#  12:        106 1968
 #  13:        100 1980
 #  14:         98 1978
 #  15:         93 1994
-#  16:         90 1993
-#  17:         87 1979
-#  18:         87 1966
-#  19:         86 1989
-#  20:         82 1982
-#  21:         78 1992
-#  22:         77 1984
+#  16:         92 1993
+#  17:         88 1979
+#  18:         88 1966
+#  19:         87 1989
+#  20:         83 1982
+#  21:         80 1992
+#  22:         78 1984
 #  23:         76 1991
-#  24:         72 1985
+#  24:         73 1985
 #  25:         68 1965
-#  26:         67 1986
-#  27:         66 1987
-#  28:         61 1988
+#  26:         67 1987
+#  27:         67 1986
+#  28:         62 1988
 #  29:         58 1983
-#  30:         57 1995
-#  31:         56 2004
-#  32:         56 1996
-#  33:         55 2007
-#  34:         54 2016
-#  35:         54 2003
-#  36:         54 1999
-#  37:         54 1990
-#  38:         53 1998
-#  39:         52 1981
-#  40:         50 2002
-#  41:         49 2000
-#  42:         47 2006
-#  43:         47 2001
-#  44:         45 2013
-#  45:         44 2005
+#  30:         57 2004
+#  31:         57 1999
+#  32:         57 1996
+#  33:         57 1995
+#  34:         56 1981
+#  35:         55 2007
+#  36:         55 2003
+#  37:         55 1990
+#  38:         54 2016
+#  39:         54 1998
+#  40:         52 2002
+#  41:         49 2006
+#  42:         49 2000
+#  43:         48 2001
+#  44:         47 2013
+#  45:         45 2005
 #  46:         43 2010
 #  47:         43 1964
 #  48:         42 2011
-#  49:         40 2015
-#  50:         38 2009
+#  49:         41 2015
+#  50:         39 2008
