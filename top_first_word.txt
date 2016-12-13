@@ -89,6 +89,7 @@
 008	Change
 008	California
 008	Born
+007	Summer
 007	Mama
 007	Last
 007	Johnny
@@ -161,6 +162,7 @@
 005	Are
 005	American
 005	Always
+004	Sugar
 004	Steady
 004	Southern
 004	South
@@ -308,6 +310,8 @@
 003	Alone
 003	Alive
 003	Across
+002	Such
+002	Subterranean
 002	Stubborn
 002	Streets
 002	Strawberry
@@ -575,6 +579,16 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Summer,
+001	Sultans
+001	Suite:
+001	Suite
+001	Sugarfoot
+001	Sugaree
+001	Suddenly
+001	Substitute
+001	Submarines
+001	Suavecito
 001	Stylo
 001	Struttin'
 001	Street

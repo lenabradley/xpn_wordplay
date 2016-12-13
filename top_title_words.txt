@@ -1,11 +1,11 @@
-450	the
-303	i
-273	a
+451	the
+304	i
+274	a
 252	you
-222	in
-217	love
+223	in
+218	love
 212	to
-208	of
+210	of
 172	on
 171	me
 163	my
@@ -13,9 +13,9 @@
 117	and
 091	don't
 077	i'm
-075	man
+076	man
 073	your
-070	for
+071	for
 068	all
 065	is
 061	no
@@ -38,9 +38,9 @@
 045	girl
 044	out
 042	want
+042	night
 042	life
 042	good
-041	night
 040	if
 040	heart
 039	so
@@ -53,19 +53,20 @@
 036	away
 034	new
 034	day
+033	blue
 032	way
 032	let
-032	blue
 031	now
 030	stop
 030	she
 029	woman
 029	hey
+029	blues
 029	bad
 028	rain
 028	over
-028	blues
 027	what
+027	see
 027	people
 027	long
 027	by
@@ -73,7 +74,6 @@
 026	that
 026	soul
 026	song
-026	see
 026	fire
 025	world
 025	right
@@ -89,6 +89,7 @@
 021	road
 021	never
 021	going
+021	days
 021	cry
 021	at
 020	say
@@ -98,7 +99,6 @@
 020	how
 020	gonna
 020	give
-020	days
 020	black
 020	around
 019	wanna
@@ -107,17 +107,19 @@
 018	not
 018	need
 018	light
+018	city
 018	change
 018	are
 017	this
+017	summer
 017	more
 017	let's
 017	hold
 017	heaven
 017	have
 017	feel
+017	eyes
 017	crazy
-017	city
 016	there
 016	stay
 016	oh
@@ -126,7 +128,6 @@
 016	into
 016	hard
 016	free
-016	eyes
 016	easy
 016	been
 016	another
@@ -212,7 +213,6 @@
 009	used
 009	through
 009	these
-009	summer
 009	some
 009	sing
 009	ride
@@ -246,6 +246,7 @@
 008	sally
 008	rockin'
 008	really
+008	mountain
 008	magic
 008	line
 008	left
@@ -270,6 +271,7 @@
 007	us
 007	than
 007	take
+007	sugar
 007	steady
 007	sometimes
 007	someday
@@ -279,7 +281,6 @@
 007	part
 007	nothing
 007	nights
-007	mountain
 007	memphis
 007	lovin'
 007	lay
@@ -318,6 +319,7 @@
 006	south
 006	somebody
 006	smile
+006	skin
 006	shine
 006	san
 006	s
@@ -384,7 +386,6 @@
 005	stranger
 005	spirit
 005	small
-005	skin
 005	side
 005	shot
 005	shame
@@ -430,6 +431,7 @@
 005	happiness
 005	handle
 005	half
+005	great
 005	glad
 005	friday
 005	freedom
@@ -529,7 +531,6 @@
 004	gypsy
 004	guys
 004	guitar
-004	great
 004	glory
 004	gimme
 004	garden
@@ -572,6 +573,7 @@
 004	behind
 004	because
 004	ballad
+004	babe
 004	arms
 004	angels
 004	america
@@ -606,6 +608,7 @@
 003	superstitious
 003	sunday
 003	summertime
+003	such
 003	stuck
 003	strong
 003	steal
@@ -715,6 +718,7 @@
 003	getting
 003	georgia
 003	gave
+003	g
 003	funny
 003	funk
 003	friends
@@ -759,6 +763,7 @@
 003	c
 003	burn
 003	broadway
+003	breeze
 003	breaking
 003	boyfriend
 003	bound
@@ -777,7 +782,6 @@
 003	bayou
 003	bathroom
 003	babylon
-003	babe
 003	astral
 003	anger
 003	agent
@@ -795,6 +799,7 @@
 002	women
 002	witness
 002	wish
+002	winter
 002	wilson
 002	wild
 002	why
@@ -841,10 +846,13 @@
 002	tale
 002	symphony
 002	sympathy
+002	swing
 002	surrender
-002	sugar
+002	suite
 002	suede
 002	sue
+002	subterranean
+002	submarines
 002	stupid
 002	stubborn
 002	strut
@@ -1083,6 +1091,7 @@
 002	k
 002	juliet
 002	julia
+002	judy
 002	jude
 002	joyful
 002	journey
@@ -1103,6 +1112,7 @@
 002	hungry
 002	houses
 002	horse
+002	homesick
 002	holy
 002	holdin'
 002	ho
@@ -1132,7 +1142,6 @@
 002	generation
 002	gang
 002	ga
-002	g
 002	fun
 002	frontiers
 002	fresh
@@ -1155,6 +1164,7 @@
 002	farther
 002	fantasy
 002	family
+002	falls
 002	fallin'
 002	fallen
 002	fake
@@ -1249,7 +1259,6 @@
 002	buddy
 002	brother
 002	bride
-002	breeze
 002	breathe
 002	breakin'
 002	breakfast
@@ -1342,7 +1351,6 @@
 001	wolf
 001	wizard
 001	wishing
-001	winter
 001	winds
 001	windows
 001	winding
@@ -1392,6 +1400,7 @@
 001	vibration
 001	very
 001	versus
+001	version
 001	velvet
 001	veins
 001	valley
@@ -1478,7 +1487,6 @@
 001	tall
 001	tail
 001	switching
-001	swing
 001	sweat
 001	swan
 001	swallow
@@ -1490,9 +1498,13 @@
 001	sunrise
 001	sunlight
 001	sunflower
+001	sultans
+001	sugarfoot
+001	sugaree
+001	suddenly
 001	sucker
-001	such
-001	submarines
+001	substitute
+001	suavecito
 001	stylo
 001	style
 001	stubb's
@@ -1769,6 +1781,7 @@
 001	roots
 001	romeos
 001	romeo's
+001	romance
 001	roller
 001	roland
 001	rojo
@@ -2172,6 +2185,7 @@
 001	maids
 001	maid
 001	mahgeetah
+001	magnolia
 001	magnet
 001	magical
 001	maggie's
@@ -2315,7 +2329,6 @@
 001	julio
 001	juice
 001	judy's
-001	judy
 001	josie
 001	josephine
 001	jose
@@ -2466,6 +2479,7 @@
 001	hips
 001	hip
 001	hills
+001	highland
 001	hidin'
 001	hickory
 001	heros
@@ -2480,6 +2494,7 @@
 001	helena
 001	helen
 001	hejira
+001	heights
 001	heeled
 001	heaven's
 001	heather
@@ -2659,7 +2674,6 @@
 001	fantastic
 001	fan
 001	fame
-001	falls
 001	fails
 001	fading
 001	fadeaway
@@ -3239,6 +3253,7 @@
 001	allow
 001	allison
 001	allen
+001	alien
 001	alice
 001	alex
 001	alcohol
@@ -3290,6 +3305,7 @@
 001	2525
 001	23
 001	2017
+001	20
 001	1st
 001	1957
 001	1927

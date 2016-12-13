@@ -1,17 +1,17 @@
 105	The Beatles
-066	The Rolling Stones
+067	The Rolling Stones
 059	Bruce Springsteen
-057	Bob Dylan
-045	Neil Young
+059	Bob Dylan
+046	Neil Young
 034	David Bowie
 031	Steely Dan
 031	Led Zeppelin
+031	Grateful Dead
 030	R.E.M.
-030	Grateful Dead
 025	Joni Mitchell
+024	The Who
 024	Fleetwood Mac
 023	Van Morrison
-023	The Who
 023	Stevie Wonder
 022	U2
 021	Elton John
@@ -47,13 +47,16 @@
 013	Marvin Gaye
 013	John Hiatt
 013	Electric Light Orchestra
+013	Dr. John
 013	Creedence Clearwater Revival
 012	Tom Waits
 012	The Police
+012	Radiohead
 012	Otis Redding
 012	Los Lobos
 012	Elvis Costello
-012	Dr. John
+012	Dire Straits
+012	Crosby Stills & Nash
 011	Traffic
 011	The Temptations
 011	The Replacements
@@ -62,15 +65,12 @@
 011	The Band
 011	Sly & The Family Stone
 011	Ryan Adams
-011	Radiohead
 011	Pearl Jam
 011	Paul McCartney & Wings
 011	John Mayer
 011	Indigo Girls
 011	George Harrison
 011	Elvis Presley
-011	Dire Straits
-011	Crosby Stills & Nash
 011	Counting Crows
 011	Bee Gees
 010	The Black Crowes
@@ -93,6 +93,7 @@
 009	Hall & Oates
 009	Dave Matthews Band
 009	Beck
+009	B-52's
 008	XTC
 008	Tom Petty
 008	The J. Geils Band
@@ -107,7 +108,6 @@
 008	Joan Osborne
 008	Genesis
 008	Cheap Trick
-008	B-52's
 008	Aretha Franklin
 007	The Shins
 007	The Ramones
@@ -153,12 +153,15 @@
 006	Josh Ritter
 006	John Lee Hooker
 006	Joe Jackson
+006	Jerry Garcia
 006	Jeff Buckley
+006	James Taylor
 006	Jack Johnson
 006	Grand Funk Railroad
 006	Earth Wind & Fire
 006	Derek & The Dominos
 006	Depeche Mode
+006	Death Cab For Cutie
 006	Crosby Stills Nash & Young
 006	Citizen Cope
 006	Beastie Boys
@@ -171,6 +174,7 @@
 005	The Staple Singers
 005	The Smithereens
 005	The Monkees
+005	The Lumineers
 005	The Lemonheads
 005	The Hollies
 005	The Hold Steady
@@ -184,18 +188,18 @@
 005	Rickie Lee Jones
 005	Ray Charles
 005	Queen
+005	Pavement
 005	Paul McCartney
 005	Norah Jones
 005	New Order
 005	Leon Russell
 005	LCD Soundsystem
+005	K. T. Tunstall
 005	Joe Walsh
 005	Joe Cocker
 005	Joan Armatrading
 005	Jethro Tull
-005	Jerry Garcia
 005	Janis Joplin
-005	James Taylor
 005	J. J. Cale
 005	Iggy Pop
 005	Howlin' Wolf
@@ -207,13 +211,13 @@
 005	Emerson Lake & Palmer
 005	Donovan
 005	Devo
-005	Death Cab For Cutie
 005	Dawes
 005	Cream
 005	Chicago Transit Authority
 005	Cake
 005	Bob Weir
 005	Blondie
+005	Billy Joel
 005	Ben Folds Five
 005	Barenaked Ladies
 005	Amos Lee
@@ -229,7 +233,6 @@
 004	The O'Jays
 004	The National
 004	The Meters
-004	The Lumineers
 004	The Killers
 004	The Jesus And Mary Chain
 004	The Heptones
@@ -251,7 +254,6 @@
 004	Prince & The Revolution
 004	Phoenix
 004	Peter Tosh
-004	Pavement
 004	Nils Lofgren
 004	Neville Brothers
 004	Neil Diamond
@@ -263,7 +265,6 @@
 004	LL Cool J
 004	Kings Of Leon
 004	Kate Bush
-004	K. T. Tunstall
 004	Jane Siberry
 004	Iron And Wine
 004	INXS
@@ -292,7 +293,7 @@
 004	Buddy Guy
 004	Blur
 004	Blood Sweat & Tears
-004	Billy Joel
+004	Black Joe Lewis & The Honeybears
 004	Billy Bragg
 004	Big Brother & The Holding Company
 004	Band Of Horses
@@ -316,6 +317,7 @@
 003	The Stone Roses
 003	The Specials
 003	The Raspberries
+003	The Lovin' Spoonful
 003	The Impressions
 003	The Human League
 003	The Hooters
@@ -406,7 +408,6 @@
 003	Blues Traveler
 003	Blind Faith
 003	Black Uhuru
-003	Black Joe Lewis & The Honeybears
 003	Bjork
 003	Bill Withers
 003	Big Head Todd & The Monsters
@@ -448,7 +449,6 @@
 002	The New Pornographers
 002	The Mamas & The Papas
 002	The Main Ingredient
-002	The Lovin' Spoonful
 002	The Left Banke
 002	The Knickerbockers
 002	The Jam
@@ -753,6 +753,7 @@
 001	The Raconteurs
 001	The Primitives
 001	The Presidents Of The United States Of America
+001	The Postal Service
 001	The Posies
 001	The Poozies
 001	The Polyphonic Spree
@@ -829,6 +830,7 @@
 001	The Bar-Kays
 001	The Association
 001	The Arcs
+001	The Archies
 001	The Angels
 001	The American Dream
 001	The Amboy Dukes
@@ -909,6 +911,7 @@
 001	Sergio Mendes & Brasil '66
 001	Serge Gainsbourg & Brigitte Bardot
 001	Serge Gainsbourg
+001	Seals & Crofts
 001	Seal
 001	Sea Level
 001	Screaming Trees
@@ -920,6 +923,7 @@
 001	Roy Ayers
 001	Roky Erickson & The Aliens
 001	Roger McGuinn
+001	Rodriguez
 001	Rockpile
 001	Robyn Hitchcock & The Egyptians
 001	Robert Plant & The Strange Sensation
@@ -1030,6 +1034,7 @@
 001	Manu Dibango
 001	Manfred Mann
 001	Man Man
+001	Malo
 001	Major Harris
 001	Maggie Rogers
 001	Madisen Ward and the Mama Bear

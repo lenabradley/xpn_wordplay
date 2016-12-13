@@ -257,6 +257,31 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Summer, Highland Falls
+001	Summer Skin
+001	Summer Romance
+001	Summer Of Love
+001	Summer In The City
+001	Summer Days
+001	Summer Breeze
+001	Summer Babe (Winter Version)
+001	Sultans Of Swing
+001	Suite: Judy Blue Eyes
+001	Suite For 20 G
+001	Sugarfoot
+001	Sugaree
+001	Sugar Sugar
+001	Sugar Mountain
+001	Sugar Man
+001	Sugar Magnolia
+001	Suddenly I See
+001	Such Great Heights
+001	Such A Night
+001	Subterranean Homesick Blues
+001	Subterranean Homesick Alien
+001	Substitute
+001	Submarines
+001	Suavecito
 001	Stylo
 001	Stuck Inside Of Mobile With The Memphis Blues Again
 001	Stuck In The Middle With You
