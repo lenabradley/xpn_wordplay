@@ -9,8 +9,8 @@
 031	Led Zeppelin
 031	Grateful Dead
 025	The Who
+025	Stevie Wonder
 025	Joni Mitchell
-024	Stevie Wonder
 024	Fleetwood Mac
 023	Van Morrison
 023	U2
@@ -18,28 +18,29 @@
 021	Eric Clapton
 021	Elton John
 019	Warren Zevon
+019	The Beach Boys
 019	Paul Simon
 019	Jackson Browne
 018	The Kinks
+018	Talking Heads
 018	Little Feat
 018	Bonnie Raitt
 017	The Doors
 017	The Clash
 017	The Allman Brothers
-017	Talking Heads
 017	James Brown
 016	Wilco
-016	The Beach Boys
 015	The Pretenders
 015	Jimi Hendrix
+014	Yes
 014	Todd Rundgren
 014	Sting
 014	Peter Gabriel
 014	Lucinda Williams
 014	Johnny Cash
 014	John Lennon
+014	Creedence Clearwater Revival
 014	Coldplay
-013	Yes
 013	Tom Petty & The Heartbreakers
 013	Santana
 013	Pink Floyd
@@ -48,12 +49,12 @@
 013	John Hiatt
 013	Electric Light Orchestra
 013	Dr. John
-013	Creedence Clearwater Revival
 012	Tom Waits
 012	The Police
 012	Radiohead
 012	Otis Redding
 012	Los Lobos
+012	Elvis Presley
 012	Elvis Costello
 012	Dire Straits
 012	Crosby Stills & Nash
@@ -70,7 +71,6 @@
 011	John Mayer
 011	Indigo Girls
 011	George Harrison
-011	Elvis Presley
 011	Counting Crows
 011	Bee Gees
 010	The Black Crowes
@@ -91,7 +91,9 @@
 009	Randy Newman
 009	Prince
 009	Hall & Oates
+009	Genesis
 009	Dave Matthews Band
+009	Cheap Trick
 009	Beck
 009	B-52's
 008	XTC
@@ -106,8 +108,6 @@
 008	Nirvana
 008	Lenny Kravitz
 008	Joan Osborne
-008	Genesis
-008	Cheap Trick
 008	Aretha Franklin
 007	The Shins
 007	The Ramones
@@ -125,10 +125,12 @@
 007	Nick Lowe
 007	Muddy Waters
 007	Lyle Lovett
+007	Leonard Cohen
 007	John Mellencamp
 007	Joe Jackson
 007	Jefferson Airplane
 007	Jeff Beck
+007	James Taylor
 007	Frank Zappa
 007	Faces
 007	Bruce Cockburn
@@ -149,14 +151,12 @@
 006	Modest Mouse
 006	Lou Reed
 006	Little Richard
-006	Leonard Cohen
 006	King Crimson
 006	Kathleen Edwards
 006	Josh Ritter
 006	John Lee Hooker
 006	Jerry Garcia
 006	Jeff Buckley
-006	James Taylor
 006	Jack Johnson
 006	Grand Funk Railroad
 006	Earth Wind & Fire
@@ -215,6 +215,7 @@
 005	Emerson Lake & Palmer
 005	Devo
 005	Dawes
+005	Cowboy Junkies
 005	Chicago Transit Authority
 005	Cake
 005	Bob Weir
@@ -281,6 +282,7 @@
 004	Fiona Apple
 004	Fine Young Cannibals
 004	Fats Domino
+004	Eurythmics
 004	Etta James
 004	Emmylou Harris
 004	Dusty Springfield
@@ -291,7 +293,6 @@
 004	Dave Mason
 004	Dave Edmunds
 004	Crowded House
-004	Cowboy Junkies
 004	Courtney Barnett
 004	Carole King
 004	Buddy Holly
@@ -305,6 +306,7 @@
 004	B. B. King
 004	Arctic Monkeys
 004	Alison Krauss
+004	Aerosmith
 004	10cc
 004	10,000 Maniacs
 003	Ziggy Marley
@@ -346,6 +348,7 @@
 003	R. L. Burnside
 003	Public Image Ltd.
 003	Procol Harum
+003	Phil Collins
 003	Paul Westerberg
 003	Parquet Courts
 003	Ohio Players
@@ -360,6 +363,7 @@
 003	Marvin Gaye & Tammi Terrell
 003	Mark Knopfler
 003	Madonna
+003	Lynyrd Skynyrd
 003	Love And Rockets
 003	Loudon Wainwright III
 003	Little Willie John
@@ -394,7 +398,6 @@
 003	Foo Fighters
 003	Fitz & The Tantrums
 003	Father John Misty
-003	Eurythmics
 003	Elmore James
 003	Donald Fagen
 003	David Lindley
@@ -424,7 +427,6 @@
 003	Alice Cooper
 003	Alanis Morissette
 003	Air
-003	Aerosmith
 002	Zero 7
 002	ZZ Top
 002	X
@@ -517,7 +519,6 @@
 002	Professor Longhair
 002	Primal Scream
 002	Poco
-002	Phil Collins
 002	Peter Paul & Mary
 002	Paula Cole
 002	Paul Butterfield Blues Band
@@ -550,7 +551,6 @@
 002	Madeleine Peyroux
 002	MGMT
 002	MC5
-002	Lynyrd Skynyrd
 002	Luscious Jackson
 002	Luna
 002	Love
@@ -579,6 +579,7 @@
 002	Jerry Lee Lewis
 002	Jenny Lewis
 002	Jane's Addiction
+002	Jan & Dean
 002	James Hunter
 002	Jackie Wilson
 002	Imogen Heap
@@ -688,6 +689,7 @@
 001	Wang Chung
 001	Wanda Jackson
 001	Walter Egan
+001	Wailing Souls
 001	Veruca Salt
 001	Vanity Fare
 001	Van Hunt
@@ -726,6 +728,7 @@
 001	The Undisputed Truth
 001	The Turtles
 001	The Troggs
+001	The Trashmen
 001	The Tragically Hip
 001	The Ting Tings
 001	The Time
@@ -1009,6 +1012,7 @@
 001	Moby Grape
 001	Minus The Bear
 001	Miles Davis
+001	Mike Gordon & Leo Kottke
 001	Mike Doughty
 001	Miike Snow
 001	Midlake
@@ -1150,7 +1154,6 @@
 001	Jean Knight
 001	Jason Isbell
 001	Jason & The Scorchers
-001	Jan & Dean
 001	Jamie xx
 001	James McMurtry
 001	James Gang
@@ -1312,6 +1315,7 @@
 001	David Essex
 001	David Byrne & Brian Eno
 001	David Byrne
+001	David Bromberg Band
 001	Dave Alvin
 001	Daughn Gibson
 001	Darlingside
@@ -1320,6 +1324,7 @@
 001	Dan Hicks & The Hot Licks
 001	Dan Fogelberg
 001	Damien Rice
+001	Dale Hawkins
 001	Dada
 001	DJ Jazzy Jeff & The Fresh Prince
 001	Cyndi Lauper

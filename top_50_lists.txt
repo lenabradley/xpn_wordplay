@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-13, 12:09
+Last updated: 2016-12-13, 14:17
 
 
 ==============================
@@ -18,8 +18,8 @@ Top 50 artists:
 #   9:         31 Led Zeppelin
 #  10:         31 Grateful Dead
 #  11:         25 The Who
-#  12:         25 Joni Mitchell
-#  13:         24 Stevie Wonder
+#  12:         25 Stevie Wonder
+#  13:         25 Joni Mitchell
 #  14:         24 Fleetwood Mac
 #  15:         23 Van Morrison
 #  16:         23 U2
@@ -27,36 +27,36 @@ Top 50 artists:
 #  18:         21 Eric Clapton
 #  19:         21 Elton John
 #  20:         19 Warren Zevon
-#  21:         19 Paul Simon
-#  22:         19 Jackson Browne
-#  23:         18 The Kinks
-#  24:         18 Little Feat
-#  25:         18 Bonnie Raitt
-#  26:         17 The Doors
-#  27:         17 The Clash
-#  28:         17 The Allman Brothers
-#  29:         17 Talking Heads
-#  30:         17 James Brown
-#  31:         16 Wilco
-#  32:         16 The Beach Boys
+#  21:         19 The Beach Boys
+#  22:         19 Paul Simon
+#  23:         19 Jackson Browne
+#  24:         18 The Kinks
+#  25:         18 Talking Heads
+#  26:         18 Little Feat
+#  27:         18 Bonnie Raitt
+#  28:         17 The Doors
+#  29:         17 The Clash
+#  30:         17 The Allman Brothers
+#  31:         17 James Brown
+#  32:         16 Wilco
 #  33:         15 The Pretenders
 #  34:         15 Jimi Hendrix
-#  35:         14 Todd Rundgren
-#  36:         14 Sting
-#  37:         14 Peter Gabriel
-#  38:         14 Lucinda Williams
-#  39:         14 Johnny Cash
-#  40:         14 John Lennon
-#  41:         14 Coldplay
-#  42:         13 Yes
-#  43:         13 Tom Petty & The Heartbreakers
-#  44:         13 Santana
-#  45:         13 Pink Floyd
-#  46:         13 My Morning Jacket
-#  47:         13 Marvin Gaye
-#  48:         13 John Hiatt
-#  49:         13 Electric Light Orchestra
-#  50:         13 Dr. John
+#  35:         14 Yes
+#  36:         14 Todd Rundgren
+#  37:         14 Sting
+#  38:         14 Peter Gabriel
+#  39:         14 Lucinda Williams
+#  40:         14 Johnny Cash
+#  41:         14 John Lennon
+#  42:         14 Creedence Clearwater Revival
+#  43:         14 Coldplay
+#  44:         13 Tom Petty & The Heartbreakers
+#  45:         13 Santana
+#  46:         13 Pink Floyd
+#  47:         13 My Morning Jacket
+#  48:         13 Marvin Gaye
+#  49:         13 John Hiatt
+#  50:         13 Electric Light Orchestra
 
 ==============================
 Top 50 titles:
@@ -93,26 +93,26 @@ Top 50 titles:
 #  28:          3 Cherry Oh Baby
 #  29:          3 California
 #  30:          3 Ball Of Confusion
-#  31:          2 Summertime
-#  32:          2 Stop Your Sobbing
-#  33:          2 Stop Breakin' Down
-#  34:          2 Stay With Me
-#  35:          2 Stay
-#  36:          2 Stand By Me
-#  37:          2 Stand
-#  38:          2 Stairway To Heaven
-#  39:          2 Spit On A Stranger
-#  40:          2 Spirit In The Sky
-#  41:          2 Someone Like You
-#  42:          2 Someday
-#  43:          2 Somebody To Love
-#  44:          2 Some Kind Of Wonderful
-#  45:          2 Solitary Man
-#  46:          2 So You Want To Be A Rock And Roll Star
-#  47:          2 So Far Away
-#  48:          2 So Alive
-#  49:          2 Sideways
-#  50:          2 Shout
+#  31:          2 Sweet Emotion
+#  32:          2 Summertime
+#  33:          2 Stop Your Sobbing
+#  34:          2 Stop Breakin' Down
+#  35:          2 Stay With Me
+#  36:          2 Stay
+#  37:          2 Stand By Me
+#  38:          2 Stand
+#  39:          2 Stairway To Heaven
+#  40:          2 Spit On A Stranger
+#  41:          2 Spirit In The Sky
+#  42:          2 Someone Like You
+#  43:          2 Someday
+#  44:          2 Somebody To Love
+#  45:          2 Some Kind Of Wonderful
+#  46:          2 Solitary Man
+#  47:          2 So You Want To Be A Rock And Roll Star
+#  48:          2 So Far Away
+#  49:          2 So Alive
+#  50:          2 Sideways
 
 ==============================
 Top 50 title words:
@@ -120,13 +120,13 @@ Top 50 title words:
 #Rank: Occurances Item
 ==============================
 #   1:        451 the
-#   2:        304 i
+#   2:        305 i
 #   3:        274 a
-#   4:        252 you
+#   4:        254 you
 #   5:        223 in
 #   6:        220 love
 #   7:        212 to
-#   8:        211 of
+#   8:        212 of
 #   9:        172 on
 #  10:        171 me
 #  11:        163 my
@@ -139,10 +139,10 @@ Top 50 title words:
 #  18:         71 for
 #  19:         68 all
 #  20:         66 is
-#  21:         61 up
+#  21:         62 up
 #  22:         61 no
-#  23:         60 be
-#  24:         60 baby
+#  23:         61 baby
+#  24:         60 be
 #  25:         59 get
 #  26:         58 one
 #  27:         56 down
@@ -175,36 +175,36 @@ Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        166 1970
-#   2:        158 1969
-#   3:        157 1
-#   4:        140 1973
-#   5:        137 1971
-#   6:        135 1972
-#   7:        130 1967
-#   8:        128 1974
-#   9:        120 1976
+#   1:        168 1970
+#   2:        159 1969
+#   3:        158 1
+#   4:        141 1973
+#   5:        138 1971
+#   6:        137 1972
+#   7:        131 1967
+#   8:        129 1974
+#   9:        121 1976
 #  10:        112 1977
-#  11:        110 1968
-#  12:        109 1975
-#  13:        101 1980
-#  14:        101 1978
+#  11:        110 1975
+#  12:        110 1968
+#  13:        102 1978
+#  14:        101 1980
 #  15:         96 1994
 #  16:         96 1966
 #  17:         94 1993
 #  18:         90 1989
 #  19:         90 1979
-#  20:         86 1992
+#  20:         87 1992
 #  21:         83 1982
 #  22:         82 1991
 #  23:         81 1984
-#  24:         75 1985
+#  24:         77 1985
 #  25:         70 1986
 #  26:         69 1987
 #  27:         69 1965
-#  28:         67 1988
-#  29:         61 1996
-#  30:         61 1983
+#  28:         68 1988
+#  29:         63 1983
+#  30:         61 1996
 #  31:         58 2004
 #  32:         58 1981
 #  33:         57 2003

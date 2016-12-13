@@ -28,6 +28,7 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Sweet Emotion
 002	Summertime
 002	Stop Your Sobbing
 002	Stop Breakin' Down
@@ -259,6 +260,27 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Sweet Jane
+001	Sweet Home Chicago
+001	Sweet Home Alabama
+001	Sweet Hitch-hiker
+001	Sweet Dreams (Are Made Of This)
+001	Sweet Dreams
+001	Sweet Black Angel
+001	Sweet Baby James
+001	Swamp
+001	Suzanne
+001	Sussudio
+001	Suspicious Minds
+001	Susie-Q
+001	Surrender
+001	Surfin' USA
+001	Surfin' Safari
+001	Surfin' Bird
+001	Surf's Up
+001	Surf City
+001	Suppers Ready
+001	Superwoman (Where Were You When I Needed You)
 001	Superstition
 001	Supersoaker
 001	Supernova

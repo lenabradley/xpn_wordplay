@@ -1,11 +1,11 @@
 451	the
-304	i
+305	i
 274	a
-252	you
+254	you
 223	in
 220	love
 212	to
-211	of
+212	of
 172	on
 171	me
 163	my
@@ -18,10 +18,10 @@
 071	for
 068	all
 066	is
-061	up
+062	up
 061	no
+061	baby
 060	be
-060	baby
 059	get
 058	one
 056	down
@@ -65,6 +65,7 @@
 029	hey
 028	rain
 028	over
+028	home
 027	what
 027	song
 027	see
@@ -74,7 +75,6 @@
 027	big
 026	that
 026	soul
-026	home
 026	fire
 025	world
 025	right
@@ -91,6 +91,7 @@
 021	going
 021	days
 021	cry
+021	black
 021	at
 020	thing
 020	sun
@@ -101,18 +102,17 @@
 020	how
 020	gonna
 020	give
-020	black
 020	around
 019	wanna
 019	not
+019	city
+019	are
+018	this
 018	summer
 018	she's
 018	need
 018	light
-018	city
 018	change
-018	are
-017	this
 017	more
 017	let's
 017	hold
@@ -132,6 +132,7 @@
 016	free
 016	been
 016	another
+015	sweet
 015	stand
 015	or
 015	mr
@@ -182,6 +183,7 @@
 011	star
 011	something
 011	real
+011	ready
 011	pretty
 011	money
 011	lover
@@ -195,7 +197,6 @@
 010	things
 010	running
 010	river
-010	ready
 010	queen
 010	old
 010	make
@@ -230,10 +231,12 @@
 009	god
 009	friend
 009	everybody's
+009	dreams
 009	could
 009	comes
 009	cherry
 009	boys
+009	angel
 008	yourself
 008	without
 008	wind
@@ -267,8 +270,9 @@
 008	born
 008	believe
 008	band
-008	angel
 008	2
+007	where
+007	when
 007	wait
 007	us
 007	than
@@ -288,6 +292,7 @@
 007	lovin'
 007	lay
 007	johnny
+007	jane
 007	hill
 007	help
 007	hello
@@ -302,7 +307,6 @@
 007	falling
 007	face
 007	fa
-007	dreams
 007	dog
 007	deep
 007	dear
@@ -313,8 +317,6 @@
 007	after
 007	across
 006	white
-006	where
-006	when
 006	u
 006	think
 006	talk
@@ -340,13 +342,13 @@
 006	monday
 006	miles
 006	makes
+006	made
 006	mad
 006	luck
 006	looking
 006	lights
 006	jungle
 006	jesus
-006	jane
 006	human
 006	honey
 006	holiday
@@ -384,7 +386,6 @@
 005	top
 005	today
 005	that's
-005	sweet
 005	superman
 005	stranger
 005	spirit
@@ -416,7 +417,6 @@
 005	mess
 005	may
 005	marie
-005	made
 005	ma
 005	low
 005	loving
@@ -458,6 +458,7 @@
 005	brand
 005	book
 005	bit
+005	bird
 005	beat
 005	air
 004	you'll
@@ -467,6 +468,7 @@
 004	window
 004	wheel
 004	wall
+004	usa
 004	turn
 004	tears
 004	super
@@ -565,6 +567,7 @@
 004	d
 004	confusion
 004	comin'
+004	chicago
 004	chasing
 004	changes
 004	cars
@@ -576,7 +579,6 @@
 004	breakdown
 004	border
 004	bleeding
-004	bird
 004	behind
 004	because
 004	ballad
@@ -601,7 +603,6 @@
 003	ways
 003	walk
 003	vegas
-003	usa
 003	twice
 003	trying
 003	triangle
@@ -612,6 +613,8 @@
 003	talkin'
 003	takes
 003	survive
+003	surrender
+003	surfin'
 003	superstitious
 003	such
 003	stuck
@@ -668,6 +671,7 @@
 003	north
 003	nineteen
 003	nine
+003	needed
 003	naked
 003	na
 003	n
@@ -737,6 +741,7 @@
 003	eyed
 003	eye
 003	express
+003	emotion
 003	edge
 003	doin'
 003	does
@@ -759,7 +764,6 @@
 003	cocaine
 003	closer
 003	children
-003	chicago
 003	catch
 003	cadillac
 003	c
@@ -786,6 +790,7 @@
 003	babylon
 003	astral
 003	anger
+003	alabama
 003	agent
 003	4
 003	'n'
@@ -808,6 +813,7 @@
 002	whistle
 002	whisper
 002	west
+002	were
 002	week
 002	weather
 002	wear
@@ -849,7 +855,7 @@
 002	symphony
 002	sympathy
 002	swing
-002	surrender
+002	suzanne
 002	supernova
 002	sunrise
 002	sunny
@@ -1024,7 +1030,6 @@
 002	nothin'
 002	nite
 002	needs
-002	needed
 002	nature's
 002	nation
 002	names
@@ -1109,6 +1114,7 @@
 002	jealous
 002	jazz
 002	jamming
+002	james
 002	jackson
 002	isn't
 002	iron
@@ -1328,7 +1334,6 @@
 002	along
 002	almost
 002	alison
-002	alabama
 002	ah
 002	age
 002	absolutely
@@ -1371,7 +1376,6 @@
 001	whiter
 001	whales
 001	western
-001	were
 001	went
 001	weight
 001	weighs
@@ -1499,9 +1503,16 @@
 001	switching
 001	sweat
 001	swan
+001	swamp
 001	swallow
-001	suzanne
+001	sussudio
+001	suspicious
+001	susie
+001	surf's
+001	surf
 001	sure
+001	suppers
+001	superwoman
 001	superstition
 001	supersoaker
 001	supermarket
@@ -1767,6 +1778,7 @@
 001	sake
 001	saints
 001	sailor
+001	safari
 001	sadie
 001	sacrifice
 001	sabotage
@@ -1902,6 +1914,7 @@
 001	que
 001	quattro
 001	quarter
+001	q
 001	puzzle
 001	pushin'
 001	push
@@ -2138,6 +2151,7 @@
 001	mirage
 001	minus
 001	minestrone
+001	minds
 001	mind's
 001	milk
 001	mile
@@ -2382,7 +2396,6 @@
 001	jane's
 001	jams
 001	jammin'
-001	james
 001	jambalaya
 001	jamaica
 001	jam
@@ -2490,6 +2503,7 @@
 001	hitchin'
 001	hitchhike
 001	hitchcock
+001	hitch
 001	history
 001	hissing
 001	hiss
@@ -2497,6 +2511,7 @@
 001	hips
 001	hip
 001	hills
+001	hiker
 001	highland
 001	hidin'
 001	hickory
@@ -2735,7 +2750,6 @@
 001	empire
 001	emotions
 001	emotional
-001	emotion
 001	eminence
 001	emily
 001	embryonic
