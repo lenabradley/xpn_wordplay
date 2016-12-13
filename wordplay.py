@@ -39,6 +39,7 @@ def read_playlist_data(filename=None, update_mb=False, save_data=True):
     raw_data = raw_data.drop_duplicates().reset_index()
 
     # import all current data & remove duplicates
+    # manually fix REM
     if filename is None:
         filename = 'playlistdata.csv'
     filename = os.path.abspath(filename)
@@ -100,7 +101,10 @@ def get_mb_data(data):
         # only run the search if we don't have the data already
         if (song.release_year is None) or (song.release_year==0):
 
+            # run query search
             query = 'artist:"{0}" AND recording:"{1}" AND status:"official"'.format(song.artist, song.track)
+            if song.artist == 'R. E. M.':
+                query = 'artist:"{0}" AND recording:"{1}" AND status:"official"'.format('R.E.M', song.track)
             results = mb.search_recordings(query=query, strict=True)
 
             # extract fields of interest

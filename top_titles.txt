@@ -27,6 +27,8 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Stop Your Sobbing
+002	Stop Breakin' Down
 002	Stay With Me
 002	Stay
 002	Stand By Me
@@ -255,6 +257,20 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Strange Brew
+001	Strange
+001	Straightface
+001	Straight Outta Time
+001	Straight Ahead
+001	Stop! Stop! Stop!
+001	Stop! In The Name Of Love
+001	Stop That Train
+001	Stop Stop
+001	Stop Me
+001	Stop Draggin' My Heart Around
+001	Stones In The Road
+001	Stoned Soul Picnic
+001	Stone Rollin'
 001	Stolen Moments
 001	Stolen Dance
 001	Stockholm

@@ -106,6 +106,10 @@ class PlaylistSpider(Spider):
                     album = match.group(3)
                     linkOK = True
 
+                    # manually fix REM's name
+                    if artist == 'R. E. M.':
+                        artist = 'R.E.M.'
+
             # store all data
             if dateOK and textOK and linkOK:
                 songtime = dt.datetime(year, month, day, hour, minute)

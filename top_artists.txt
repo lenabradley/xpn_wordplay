@@ -1,12 +1,12 @@
 104	The Beatles
-064	The Rolling Stones
+065	The Rolling Stones
 057	Bruce Springsteen
 056	Bob Dylan
 045	Neil Young
 034	David Bowie
 031	Steely Dan
 031	Led Zeppelin
-030	R. E. M.
+030	R.E.M.
 030	Grateful Dead
 025	Joni Mitchell
 024	Fleetwood Mac
@@ -15,26 +15,27 @@
 023	Stevie Wonder
 021	U2
 021	Elton John
+021	Bob Marley & The Wailers
 020	Eric Clapton
-020	Bob Marley & The Wailers
 019	Warren Zevon
 019	Paul Simon
 019	Jackson Browne
 018	Little Feat
 018	Bonnie Raitt
+017	The Kinks
 017	The Clash
 017	The Allman Brothers
 017	Talking Heads
 016	Wilco
-016	The Kinks
 016	The Doors
 016	The Beach Boys
 016	James Brown
+015	The Pretenders
 015	Jimi Hendrix
 014	Todd Rundgren
-014	The Pretenders
 014	Sting
 014	Peter Gabriel
+014	Lucinda Williams
 014	Johnny Cash
 014	John Lennon
 014	Coldplay
@@ -42,7 +43,7 @@
 013	Santana
 013	Pink Floyd
 013	My Morning Jacket
-013	Lucinda Williams
+013	John Hiatt
 013	Creedence Clearwater Revival
 012	Tom Waits
 012	Tom Petty & The Heartbreakers
@@ -50,7 +51,6 @@
 012	Otis Redding
 012	Marvin Gaye
 012	Los Lobos
-012	John Hiatt
 012	Elvis Costello
 012	Electric Light Orchestra
 012	Dr. John
@@ -72,6 +72,7 @@
 011	Crosby Stills & Nash
 011	Counting Crows
 011	Bee Gees
+010	The Black Keys
 010	The Black Crowes
 010	Sheryl Crow
 010	John Prine
@@ -82,7 +83,6 @@
 009	Vampire Weekend
 009	The Cure
 009	The Byrds
-009	The Black Keys
 009	Simon & Garfunkel
 009	Shawn Colvin
 009	Robert Palmer
@@ -135,6 +135,7 @@
 007	Adele
 006	Wilson Pickett
 006	Tori Amos
+006	The Supremes
 006	The Spinners
 006	The Jayhawks
 006	The Doobie Brothers
@@ -166,11 +167,11 @@
 005	Tommy James & The Shondells
 005	They Might Be Giants
 005	The Yardbirds
-005	The Supremes
 005	The Staple Singers
 005	The Smithereens
 005	The Monkees
 005	The Lemonheads
+005	The Hollies
 005	The Hold Steady
 005	The Head And The Heart
 005	The English Beat
@@ -208,6 +209,7 @@
 005	Devo
 005	Death Cab For Cutie
 005	Dawes
+005	Cream
 005	Chicago Transit Authority
 005	Cake
 005	Bob Weir
@@ -229,7 +231,6 @@
 004	The Meters
 004	The Killers
 004	The Jesus And Mary Chain
-004	The Hollies
 004	The Heptones
 004	The Flaming Lips
 004	The Animals
@@ -282,7 +283,6 @@
 004	Dave Mason
 004	Dave Edmunds
 004	Crowded House
-004	Cream
 004	Courtney Barnett
 004	Carole King
 004	Buddy Holly
@@ -355,6 +355,7 @@
 003	Loudon Wainwright III
 003	Little Willie John
 003	Leon Bridges
+003	Laura Nyro
 003	Lake Street Dive
 003	Keane
 003	Kate & Anna McGarrigle
@@ -364,6 +365,7 @@
 003	Johnny Winter
 003	Johnny Nash
 003	John Mayall
+003	Joan Baez
 003	Jimmy Reed
 003	Jimmy Cliff
 003	Jim Lauderdale
@@ -472,11 +474,13 @@
 002	Sylvan Esso
 002	Sugar
 002	Strawbs
+002	Stevie Nicks
 002	Stephen Stills
 002	St. Vincent
 002	Soup Dragons
 002	Sonny Boy Williamson
 002	Sonny & Cher
+002	Son Volt
 002	Social Distortion
 002	Smokey Robinson & The Miracles
 002	Sir Douglas Quintet
@@ -549,7 +553,6 @@
 002	Little Walter
 002	Lissie
 002	Lindsey Buckingham
-002	Laura Nyro
 002	Larry Williams
 002	Langhorne Slim
 002	Kurt Vile
@@ -564,7 +567,6 @@
 002	John Martyn
 002	John Coltrane
 002	Joan Jett And The Blackhearts
-002	Joan Baez
 002	Jim James
 002	Jerry Lee Lewis
 002	Jenny Lewis
@@ -622,6 +624,7 @@
 002	Calexico
 002	Cage The Elephant
 002	Bryan Ferry
+002	Brian Auger's Oblivion Express
 002	Brenton Wood
 002	Boston
 002	Booker T. & The MG's
@@ -856,7 +859,6 @@
 001	Strand Of Oaks
 001	Stories
 001	Stone Temple Pilots
-001	Stevie Nicks
 001	Steve Wynn & The Miracle 3
 001	Steppenwolf
 001	Stephen Malkmus
@@ -883,7 +885,6 @@
 001	Soul Brothers Six
 001	Sonny Landreth
 001	Sonia Dada
-001	Son Volt
 001	Solomon Burke
 001	Solange
 001	Soggy Bottom Boys
@@ -933,6 +934,7 @@
 001	Renaissance
 001	Ray Barretto
 001	Raul Malo
+001	Raphael Saadiq
 001	Rag 'N' Bone Man
 001	Quincy Jones
 001	Quilt
@@ -1018,6 +1020,7 @@
 001	Martha & The Muffins
 001	Marshall Tucker Band
 001	Marmalade
+001	Mark Ronson
 001	Marianne Faithfull
 001	Maria McKee
 001	Marcy Playground
@@ -1206,6 +1209,7 @@
 001	Gary Jules
 001	Garnet Mimms
 001	Garland Jeffreys
+001	Galaxie 500
 001	Future Islands
 001	Fujiya & Miyagi
 001	Frente
@@ -1345,7 +1349,6 @@
 001	Broken Bells
 001	Brighter Side Of Darkness
 001	Brian Eno and John Cale
-001	Brian Auger's Oblivion Express
 001	Brett Dennen
 001	Brent Cobb
 001	Brenda & The Tabulations

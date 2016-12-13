@@ -69,6 +69,7 @@
 009	Dance
 009	Crazy
 009	Another
+008	Stop
 008	Something
 008	See
 008	Rain
@@ -305,6 +306,9 @@
 003	Alone
 003	Alive
 003	Across
+002	Strange
+002	Straight
+002	Stop!
 002	Stolen
 002	Still
 002	Steal
@@ -567,6 +571,10 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Straightface
+001	Stones
+001	Stoned
+001	Stone
 001	Stockholm
 001	Stitched
 001	Stir

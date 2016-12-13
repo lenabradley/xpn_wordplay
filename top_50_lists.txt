@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-13, 04:21
+Last updated: 2016-12-13, 05:23
 
 
 ==============================
@@ -8,14 +8,14 @@ Top 50 artists:
 #Rank: Occurances Item
 ==============================
 #   1:        104 The Beatles
-#   2:         64 The Rolling Stones
+#   2:         65 The Rolling Stones
 #   3:         57 Bruce Springsteen
 #   4:         56 Bob Dylan
 #   5:         45 Neil Young
 #   6:         34 David Bowie
 #   7:         31 Steely Dan
 #   8:         31 Led Zeppelin
-#   9:         30 R. E. M.
+#   9:         30 R.E.M.
 #  10:         30 Grateful Dead
 #  11:         25 Joni Mitchell
 #  12:         24 Fleetwood Mac
@@ -24,39 +24,39 @@ Top 50 artists:
 #  15:         23 Stevie Wonder
 #  16:         21 U2
 #  17:         21 Elton John
-#  18:         20 Eric Clapton
-#  19:         20 Bob Marley & The Wailers
+#  18:         21 Bob Marley & The Wailers
+#  19:         20 Eric Clapton
 #  20:         19 Warren Zevon
 #  21:         19 Paul Simon
 #  22:         19 Jackson Browne
 #  23:         18 Little Feat
 #  24:         18 Bonnie Raitt
-#  25:         17 The Clash
-#  26:         17 The Allman Brothers
-#  27:         17 Talking Heads
-#  28:         16 Wilco
-#  29:         16 The Kinks
+#  25:         17 The Kinks
+#  26:         17 The Clash
+#  27:         17 The Allman Brothers
+#  28:         17 Talking Heads
+#  29:         16 Wilco
 #  30:         16 The Doors
 #  31:         16 The Beach Boys
 #  32:         16 James Brown
-#  33:         15 Jimi Hendrix
-#  34:         14 Todd Rundgren
-#  35:         14 The Pretenders
+#  33:         15 The Pretenders
+#  34:         15 Jimi Hendrix
+#  35:         14 Todd Rundgren
 #  36:         14 Sting
 #  37:         14 Peter Gabriel
-#  38:         14 Johnny Cash
-#  39:         14 John Lennon
-#  40:         14 Coldplay
-#  41:         13 Yes
-#  42:         13 Santana
-#  43:         13 Pink Floyd
-#  44:         13 My Morning Jacket
-#  45:         13 Lucinda Williams
-#  46:         13 Creedence Clearwater Revival
-#  47:         12 Tom Waits
-#  48:         12 Tom Petty & The Heartbreakers
-#  49:         12 The Police
-#  50:         12 Otis Redding
+#  38:         14 Lucinda Williams
+#  39:         14 Johnny Cash
+#  40:         14 John Lennon
+#  41:         14 Coldplay
+#  42:         13 Yes
+#  43:         13 Santana
+#  44:         13 Pink Floyd
+#  45:         13 My Morning Jacket
+#  46:         13 John Hiatt
+#  47:         13 Creedence Clearwater Revival
+#  48:         12 Tom Waits
+#  49:         12 Tom Petty & The Heartbreakers
+#  50:         12 The Police
 
 ==============================
 Top 50 titles:
@@ -92,50 +92,50 @@ Top 50 titles:
 #  27:          3 Cherry Oh Baby
 #  28:          3 California
 #  29:          3 Ball Of Confusion
-#  30:          2 Stay With Me
-#  31:          2 Stay
-#  32:          2 Stand By Me
-#  33:          2 Stand
-#  34:          2 Stairway To Heaven
-#  35:          2 Spit On A Stranger
-#  36:          2 Spirit In The Sky
-#  37:          2 Someone Like You
-#  38:          2 Someday
-#  39:          2 Somebody To Love
-#  40:          2 Some Kind Of Wonderful
-#  41:          2 Solitary Man
-#  42:          2 So You Want To Be A Rock And Roll Star
-#  43:          2 So Far Away
-#  44:          2 So Alive
-#  45:          2 Sideways
-#  46:          2 Shout
-#  47:          2 Shine
-#  48:          2 She's Gone
-#  49:          2 She Came In Through The Bathroom Window
-#  50:          2 Shake Rattle And Roll
+#  30:          2 Stop Your Sobbing
+#  31:          2 Stop Breakin' Down
+#  32:          2 Stay With Me
+#  33:          2 Stay
+#  34:          2 Stand By Me
+#  35:          2 Stand
+#  36:          2 Stairway To Heaven
+#  37:          2 Spit On A Stranger
+#  38:          2 Spirit In The Sky
+#  39:          2 Someone Like You
+#  40:          2 Someday
+#  41:          2 Somebody To Love
+#  42:          2 Some Kind Of Wonderful
+#  43:          2 Solitary Man
+#  44:          2 So You Want To Be A Rock And Roll Star
+#  45:          2 So Far Away
+#  46:          2 So Alive
+#  47:          2 Sideways
+#  48:          2 Shout
+#  49:          2 Shine
+#  50:          2 She's Gone
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        444 the
+#   1:        446 the
 #   2:        303 i
 #   3:        272 a
 #   4:        250 you
-#   5:        216 in
-#   6:        215 love
+#   5:        218 in
+#   6:        216 love
 #   7:        211 to
-#   8:        201 of
+#   8:        202 of
 #   9:        172 on
-#  10:        170 me
-#  11:        160 my
+#  10:        171 me
+#  11:        161 my
 #  12:        130 it
 #  13:        117 and
 #  14:         91 don't
 #  15:         77 i'm
 #  16:         74 man
-#  17:         70 your
+#  17:         72 your
 #  18:         70 for
 #  19:         68 all
 #  20:         65 is
@@ -146,11 +146,11 @@ Top 50 title words:
 #  25:         58 one
 #  26:         58 get
 #  27:         55 like
-#  28:         53 down
+#  28:         55 down
 #  29:         52 rock
 #  30:         52 can't
 #  31:         50 it's
-#  32:         48 time
+#  32:         49 time
 #  33:         48 go
 #  34:         47 roll
 #  35:         47 back
@@ -162,9 +162,9 @@ Top 50 title words:
 #  41:         42 life
 #  42:         42 good
 #  43:         40 if
-#  44:         39 so
-#  45:         39 night
-#  46:         39 heart
+#  44:         40 heart
+#  45:         39 so
+#  46:         39 night
 #  47:         39 come
 #  48:         38 just
 #  49:         38 got
@@ -175,53 +175,53 @@ Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        184 1
-#   2:        160 1970
+#   1:        160 1970
+#   2:        155 1
 #   3:        154 1969
 #   4:        139 1973
 #   5:        135 1971
 #   6:        130 1972
-#   7:        125 1974
-#   8:        125 1967
-#   9:        117 1976
+#   7:        127 1967
+#   8:        126 1974
+#   9:        118 1976
 #  10:        111 1977
 #  11:        107 1975
-#  12:        106 1968
+#  12:        107 1968
 #  13:        100 1980
 #  14:         98 1978
-#  15:         93 1994
-#  16:         92 1993
-#  17:         88 1979
-#  18:         88 1966
-#  19:         87 1989
-#  20:         83 1982
-#  21:         80 1992
-#  22:         78 1984
-#  23:         76 1991
-#  24:         73 1985
-#  25:         68 1965
-#  26:         67 1987
-#  27:         67 1986
-#  28:         62 1988
-#  29:         58 1983
-#  30:         57 2004
-#  31:         57 1999
-#  32:         57 1996
-#  33:         57 1995
-#  34:         56 1981
-#  35:         55 2007
-#  36:         55 2003
-#  37:         55 1990
-#  38:         54 2016
-#  39:         54 1998
+#  15:         94 1994
+#  16:         93 1993
+#  17:         90 1979
+#  18:         88 1989
+#  19:         88 1966
+#  20:         85 1992
+#  21:         83 1982
+#  22:         80 1991
+#  23:         80 1984
+#  24:         75 1985
+#  25:         69 1987
+#  26:         69 1965
+#  27:         68 1986
+#  28:         65 1988
+#  29:         60 1983
+#  30:         59 1996
+#  31:         58 1981
+#  32:         57 2004
+#  33:         57 1999
+#  34:         57 1998
+#  35:         57 1995
+#  36:         56 2007
+#  37:         55 2003
+#  38:         55 1990
+#  39:         54 2016
 #  40:         52 2002
-#  41:         49 2006
-#  42:         49 2000
-#  43:         48 2001
+#  41:         50 2001
+#  42:         49 2006
+#  43:         49 2000
 #  44:         47 2013
 #  45:         45 2005
-#  46:         43 2010
-#  47:         43 1964
-#  48:         42 2011
-#  49:         41 2015
+#  46:         44 2011
+#  47:         44 1964
+#  48:         43 2010
+#  49:         42 2015
 #  50:         39 2008
