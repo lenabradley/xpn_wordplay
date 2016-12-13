@@ -17,7 +17,7 @@ import sys
 pd.options.mode.chained_assignment = None  # default='warn'
 
 # function definitions
-def read_playlist_data(filename=None, update_mb=False, save_data=True):
+def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=True):
     '''
     import data saved by the scrapy spider, update the musicbrainz data,
     re-save the data, and return the data as a pandas DataFrame
@@ -32,7 +32,9 @@ def read_playlist_data(filename=None, update_mb=False, save_data=True):
     csv_kwargs = {'sep': '\t', 'header': 0, 'dtype': col_dtypes, 'index_col':'time'}
 
     # import all raw data & remove duplicates
-    paths = glob.glob('./scrape_playlist/playlistdata_*.csv')
+    if rawglob is None:
+        rawglob = './scrape_playlist/playlistdata_*.csv'
+    paths = glob.glob(rawglob)
     dflist = []
     for path in paths:
         dflist.append(pd.read_csv(path, **csv_kwargs))
@@ -44,11 +46,21 @@ def read_playlist_data(filename=None, update_mb=False, save_data=True):
     if filename is None:
         filename = 'playlistdata.csv'
     filename = os.path.abspath(filename)
-    prev_data = pd.read_csv(filename, **csv_kwargs)
-    prev_data = prev_data.drop_duplicates().reset_index()
+    if os.path.isfile(filename):
+        # import prevous data
+        prev_data = pd.read_csv(filename, **csv_kwargs)
+        prev_data = prev_data.drop_duplicates().reset_index()
 
-    # combine into master dataframe & fill NaNs with zeros
-    data = prev_data.merge(raw_data, how='outer')
+        # combine into master dataframe
+        data = prev_data.merge(raw_data, how='outer')
+
+    else:
+        # set raw data as current data
+        data = raw_data
+
+    # fill NaNs with zeros
+    if 'release_year' not in data.columns:
+        data['release_year'] = 0
     data = data.fillna(value=int(0))
     data['release_year'] = data['release_year'].astype(np.int64)
 
@@ -272,92 +284,106 @@ def main():
     Use contained functions to import, analyze, and save results of xpn
     playlist data
     '''
-#    args = sys.argv[1:]
-#
-#    if not args:
-#        AtoZ = True
-#    else:
-#        AtoZ = bool(args[0])
 
-    # gather song data and update MB info
-    filename = 'playlistdata.csv'
-    data = read_playlist_data(filename=filename, update_mb=True, save_data=True)
-    artists = list(data['artist'])
-    years = list(data['release_year'])
-    tracks = list(data['track'])
-    first_word = [x.split()[0] for x in tracks]
-    albums = list(data['album'])
-    times = pd.to_datetime(data['time']).tolist()
+    # parse inputs (lookback vs AtoZ)
+    args = sys.argv[1:]
+    if not args:
+        lookback = False
+    else:
+        lookback = args[0]=='lookback'
 
-    # count unique artists, titles, and title words
-    unique_track_words = count_list(tracks, break_words=True)
-    unique_tracks = count_list(tracks, break_words=False)
-    unique_artists = count_list(artists, break_words=False)
-    unique_years = count_list(years, break_words=False)
-    unique_first_word = count_list(first_word, break_words=False)
+    if lookback:
+        print 'Running lookback analysis'
+    else:
+        print 'Running AtoZ analysis'
 
-    # save title, title-word and artists counts
-    save_counts(unique_track_words, filename='top_title_words.txt')
-    save_counts(unique_tracks, filename='top_titles.txt')
-    save_counts(unique_artists, filename='top_artists.txt')
-    save_counts(unique_years, filename='top_years.txt')
-    save_counts(unique_first_word, filename='top_first_word.txt')
+    if lookback:
+        # gather song data
+        filename = 'lookback_playlistdata.csv'
+        data = read_playlist_data(filename=filename, rawglob='./scrape_playlist/lookback/playlistdata_*.csv',
+                                  update_mb=False, save_data=True)
 
-    # get top 20 lists
-    top_track_words = print_top(unique_track_words, title='title words', num=50, quiet=True)
-    top_tracks = print_top(unique_tracks, title='titles', num=50, quiet=True)
-    top_artists = print_top(unique_artists, title='artists', num=50, quiet=True)
-    top_years = print_top(unique_years, title='release year', num=50, quiet=True)
+    else: # standard A to Z analysis
 
-    # save top 20 lists to a text file
-    f = open('last_updated.txt')
-    nowstr = f.readline()
-    f.close()
-    f = open('top_50_lists.txt', 'w')
-    f.write('WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell\n')
-    f.write(nowstr)
-    f.write('\n\n')
-    f.write(top_artists)
-    f.write('\n')
-    f.write(top_tracks)
-    f.write('\n')
-    f.write(top_track_words)
-    f.write('\n')
-    f.write(top_years)
-    f.close()
+        #gather song data and update MB info
+        filename = 'playlistdata.csv'
+        data = read_playlist_data(filename=filename, update_mb=True, save_data=True)
+        artists = list(data['artist'])
+        years = list(data['release_year'])
+        tracks = list(data['track'])
+        first_word = [x.split()[0] for x in tracks]
+        albums = list(data['album'])
+        times = pd.to_datetime(data['time']).tolist()
 
-    # Number of tracks in each letter
-    first_letter = [x[0].lower() for x in tracks]
-    letter_counts = dict((x,0) for x in list(string.ascii_lowercase))
-    unique_letters = count_list(first_letter, break_words=False)
-    letter_counts.update(unique_letters)
-    unique_letters = zip(letter_counts.keys(), letter_counts.values())
-    save_counts(unique_letters, filename='letter_counts.txt')
+        # count unique artists, titles, and title words
+        unique_track_words = count_list(tracks, break_words=True)
+        unique_tracks = count_list(tracks, break_words=False)
+        unique_artists = count_list(artists, break_words=False)
+        unique_years = count_list(years, break_words=False)
+        unique_first_word = count_list(first_word, break_words=False)
 
-    # gather some summary data/notes
+        # save title, title-word and artists counts
+        save_counts(unique_track_words, filename='top_title_words.txt')
+        save_counts(unique_tracks, filename='top_titles.txt')
+        save_counts(unique_artists, filename='top_artists.txt')
+        save_counts(unique_years, filename='top_years.txt')
+        save_counts(unique_first_word, filename='top_first_word.txt')
 
-    # - totals
-    letters_played = len([x[0] for x in unique_letters if x[1]>0])
-    pct_played = letters_played / 26. * 100.
-    letters_played_str = '{0:d} ({1:04.1f}%)'.format(letters_played, pct_played)
-    elapsed = max(times)-min(times)
+        # get top 20 lists
+        top_track_words = print_top(unique_track_words, title='title words', num=50, quiet=True)
+        top_tracks = print_top(unique_tracks, title='titles', num=50, quiet=True)
+        top_artists = print_top(unique_artists, title='artists', num=50, quiet=True)
+        top_years = print_top(unique_years, title='release year', num=50, quiet=True)
 
-    # - last updated
-    filename = os.path.abspath('last_updated.txt')
-    f = open(filename, 'r')
-    last_update_str = f.readline().strip()
-    f.close()
+        # save top 20 lists to a text file
+        f = open('last_updated.txt')
+        nowstr = f.readline()
+        f.close()
+        f = open('top_50_lists.txt', 'w')
+        f.write('WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell\n')
+        f.write(nowstr)
+        f.write('\n\n')
+        f.write(top_artists)
+        f.write('\n')
+        f.write(top_tracks)
+        f.write('\n')
+        f.write(top_track_words)
+        f.write('\n')
+        f.write(top_years)
+        f.close()
 
-    # text file summary
-    f = open(os.path.abspath('summary.txt'),'w')
-    f.write('{0}:\t{1}\n'.format('Elapsed time', str(elapsed)))
-    f.write('{0}:\t{1}\n'.format('Songs', len(tracks)))
-    f.write('{0}:\t{1}\n'.format('Artists', len(unique_artists)))
-    f.write('{0}:\t{1}\n'.format('Song Titles', len(unique_tracks)))
-    f.write('{0}:\t{1}\n'.format('Song Title Words', len(unique_track_words)))
-    f.write('{0}:\t{1}\n'.format('Letters', letters_played_str))
-    f.write('{0}:\t{1}\n'.format(*last_update_str.split(': ')))
-    f.close()
+        # Number of tracks in each letter
+        first_letter = [x[0].lower() for x in tracks]
+        letter_counts = dict((x,0) for x in list(string.ascii_lowercase))
+        unique_letters = count_list(first_letter, break_words=False)
+        letter_counts.update(unique_letters)
+        unique_letters = zip(letter_counts.keys(), letter_counts.values())
+        save_counts(unique_letters, filename='letter_counts.txt')
+
+        # gather some summary data/notes
+
+        # - totals
+        letters_played = len([x[0] for x in unique_letters if x[1]>0])
+        pct_played = letters_played / 26. * 100.
+        letters_played_str = '{0:d} ({1:04.1f}%)'.format(letters_played, pct_played)
+        elapsed = max(times)-min(times)
+
+        # - last updated
+        filename = os.path.abspath('last_updated.txt')
+        f = open(filename, 'r')
+        last_update_str = f.readline().strip()
+        f.close()
+
+        # text file summary
+        f = open(os.path.abspath('summary.txt'),'w')
+        f.write('{0}:\t{1}\n'.format('Elapsed time', str(elapsed)))
+        f.write('{0}:\t{1}\n'.format('Songs', len(tracks)))
+        f.write('{0}:\t{1}\n'.format('Artists', len(unique_artists)))
+        f.write('{0}:\t{1}\n'.format('Song Titles', len(unique_tracks)))
+        f.write('{0}:\t{1}\n'.format('Song Title Words', len(unique_track_words)))
+        f.write('{0}:\t{1}\n'.format('Letters', letters_played_str))
+        f.write('{0}:\t{1}\n'.format(*last_update_str.split(': ')))
+        f.close()
 
 if __name__ == '__main__':
   main()
