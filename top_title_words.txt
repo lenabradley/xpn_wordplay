@@ -56,12 +56,12 @@
 033	blue
 032	way
 032	let
+032	blues
 031	now
 030	stop
 030	she
 029	woman
 029	hey
-029	blues
 029	bad
 028	rain
 028	over
@@ -103,6 +103,7 @@
 020	around
 019	wanna
 019	thing
+018	summer
 018	she's
 018	not
 018	need
@@ -111,7 +112,6 @@
 018	change
 018	are
 017	this
-017	summer
 017	more
 017	let's
 017	hold
@@ -178,6 +178,7 @@
 012	house
 012	head
 011	water
+011	summertime
 011	star
 011	something
 011	real
@@ -234,6 +235,7 @@
 009	boys
 008	yourself
 008	without
+008	wind
 008	under
 008	together
 008	tell
@@ -266,7 +268,6 @@
 008	band
 008	angel
 008	2
-007	wind
 007	wait
 007	us
 007	than
@@ -607,7 +608,6 @@
 003	survive
 003	superstitious
 003	sunday
-003	summertime
 003	such
 003	stuck
 003	strong
@@ -1230,6 +1230,7 @@
 002	comfortably
 002	clover
 002	cloud
+002	clothes
 002	closing
 002	clocks
 002	clock
@@ -1498,6 +1499,8 @@
 001	sunrise
 001	sunlight
 001	sunflower
+001	summersong
+001	summerfling
 001	sultans
 001	sugarfoot
 001	sugaree
@@ -2955,7 +2958,6 @@
 001	clowns
 001	clown
 001	cloudbusting
-001	clothes
 001	clint
 001	climb
 001	cleveland

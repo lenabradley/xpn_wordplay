@@ -9,6 +9,7 @@
 004	Fever
 004	Dreams
 004	Crazy
+003	Summertime Blues
 003	Only You Know And I Know
 003	One
 003	Mess Around
@@ -27,6 +28,7 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Summertime
 002	Stop Your Sobbing
 002	Stop Breakin' Down
 002	Stay With Me
@@ -257,7 +259,12 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Summertime Summertime
+001	Summertime Clothes
+001	Summersong
+001	Summerfling
 001	Summer, Highland Falls
+001	Summer Wind
 001	Summer Skin
 001	Summer Romance
 001	Summer Of Love

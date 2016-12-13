@@ -70,6 +70,7 @@
 009	Dance
 009	Crazy
 009	Another
+008	Summer
 008	Stop
 008	Something
 008	See
@@ -89,7 +90,7 @@
 008	Change
 008	California
 008	Born
-007	Summer
+007	Summertime
 007	Mama
 007	Last
 007	Johnny
@@ -579,6 +580,8 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Summersong
+001	Summerfling
 001	Summer,
 001	Sultans
 001	Suite:
