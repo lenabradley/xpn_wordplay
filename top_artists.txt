@@ -1,57 +1,59 @@
-106	The Beatles
+109	The Beatles
 068	The Rolling Stones
-059	Bruce Springsteen
-059	Bob Dylan
-046	Neil Young
+062	Bob Dylan
+060	Bruce Springsteen
+047	Neil Young
 034	David Bowie
+033	Grateful Dead
+032	R.E.M.
+032	Led Zeppelin
 031	Steely Dan
-031	R.E.M.
-031	Led Zeppelin
-031	Grateful Dead
 025	The Who
 025	Stevie Wonder
 025	Joni Mitchell
 024	Van Morrison
 024	U2
 024	Fleetwood Mac
+022	Elton John
 022	Bob Marley & The Wailers
 021	Eric Clapton
-021	Elton John
+020	Warren Zevon
+020	Paul Simon
 020	Jackson Browne
-019	Warren Zevon
 019	The Beach Boys
-019	Paul Simon
+019	Talking Heads
+019	Bonnie Raitt
 018	The Kinks
-018	Talking Heads
 018	Little Feat
-018	Bonnie Raitt
 017	The Doors
 017	The Clash
 017	The Allman Brothers
 017	James Brown
 016	Wilco
-015	The Pretenders
+016	The Pretenders
 015	Jimi Hendrix
+015	Coldplay
 014	Yes
 014	Todd Rundgren
+014	The Eagles
 014	Sting
 014	Peter Gabriel
 014	Lucinda Williams
 014	Johnny Cash
 014	John Lennon
+014	John Hiatt
+014	Electric Light Orchestra
 014	Creedence Clearwater Revival
-014	Coldplay
 013	Tom Petty & The Heartbreakers
 013	The Police
 013	Santana
 013	Pink Floyd
 013	My Morning Jacket
 013	Marvin Gaye
-013	John Hiatt
-013	Electric Light Orchestra
 013	Dr. John
 012	Tom Waits
-012	The Eagles
+012	Sly & The Family Stone
+012	Shawn Colvin
 012	Radiohead
 012	Otis Redding
 012	Los Lobos
@@ -64,7 +66,6 @@
 011	The Replacements
 011	The Black Keys
 011	The Band
-011	Sly & The Family Stone
 011	Ryan Adams
 011	Pearl Jam
 011	Paul McCartney & Wings
@@ -74,36 +75,38 @@
 011	Counting Crows
 011	Chuck Berry
 011	Bee Gees
+011	Al Green
 010	The Black Crowes
 010	Sheryl Crow
-010	Shawn Colvin
+010	Richard Thompson
 010	John Prine
+010	Cheap Trick
 010	Buffalo Springfield
 010	Boz Scaggs
-010	Al Green
 009	Vampire Weekend
 009	The Cure
 009	The Byrds
+009	T Rex
+009	Stevie Ray Vaughan
 009	Simon & Garfunkel
 009	Sarah McLachlan
 009	Robert Palmer
-009	Richard Thompson
 009	Red Hot Chili Peppers
 009	Randy Newman
 009	Prince
 009	Hall & Oates
 009	Genesis
 009	Dave Matthews Band
-009	Cheap Trick
 009	Beck
 009	B-52's
 009	Aretha Franklin
 008	XTC
 008	Tom Petty
+008	The Jayhawks
 008	The J. Geils Band
 008	Taj Mahal
-008	T Rex
-008	Stevie Ray Vaughan
+008	Steve Winwood
+008	Steve Earle
 008	Rod Stewart
 008	Pete Townshend
 008	Patty Griffin
@@ -114,11 +117,10 @@
 007	The Shins
 007	The Ramones
 007	The Moody Blues
-007	The Jayhawks
+007	The Doobie Brothers
 007	The Cars
 007	Tears For Fears
-007	Steve Winwood
-007	Steve Earle
+007	Supertramp
 007	Psychedelic Furs
 007	Phish
 007	Patti Smith
@@ -135,6 +137,8 @@
 007	James Taylor
 007	Frank Zappa
 007	Faces
+007	Derek & The Dominos
+007	Cream
 007	Bruce Cockburn
 007	Arcade Fire
 007	Adele
@@ -142,35 +146,37 @@
 006	Tori Amos
 006	The Supremes
 006	The Spinners
-006	The Doobie Brothers
-006	Supertramp
+006	The English Beat
+006	Steve Miller Band
 006	Spoon
 006	Pete Yorn
 006	Norah Jones
+006	New Order
 006	NRBQ
 006	Mumford & Sons
 006	Modest Mouse
 006	Little Richard
+006	Kings Of Leon
 006	King Crimson
 006	Kathleen Edwards
 006	Josh Ritter
 006	John Lee Hooker
+006	Jethro Tull
 006	Jerry Garcia
 006	Jeff Buckley
 006	Jack Johnson
 006	Grand Funk Railroad
 006	Earth Wind & Fire
 006	Donovan
-006	Derek & The Dominos
 006	Depeche Mode
 006	Death Cab For Cutie
 006	Crosby Stills Nash & Young
-006	Cream
 006	Citizen Cope
 006	Beastie Boys
 005	Willie Nelson
 005	War
 005	Train
+005	Tracy Chapman
 005	Tommy James & The Shondells
 005	They Might Be Giants
 005	The Yardbirds
@@ -182,26 +188,26 @@
 005	The Hollies
 005	The Hold Steady
 005	The Head And The Heart
-005	The English Beat
 005	The Blasters
 005	The Avett Brothers
 005	Tedeschi Trucks Band
-005	Steve Miller Band
+005	Squeeze
 005	Roxy Music
+005	Rodrigo Y Gabriela
 005	Rickie Lee Jones
 005	Ray Charles
 005	Queen
+005	Prince & The Revolution
 005	Pavement
 005	Paul McCartney
-005	New Order
+005	Neil Diamond
 005	Leon Russell
 005	LCD Soundsystem
-005	Kings Of Leon
 005	K. T. Tunstall
+005	Joss Stone
 005	Joe Walsh
 005	Joe Cocker
 005	Joan Armatrading
-005	Jethro Tull
 005	Janis Joplin
 005	J. J. Cale
 005	Iggy Pop
@@ -211,9 +217,11 @@
 005	G Love & Special Sauce
 005	Frank Sinatra
 005	Four Tops
+005	Etta James
 005	Enya
 005	Emmylou Harris
 005	Emerson Lake & Palmer
+005	Dr. Dog
 005	Devo
 005	Dawes
 005	Cowboy Junkies
@@ -234,8 +242,8 @@
 004	World Party
 004	Violent Femmes
 004	Trey Anastasio
-004	Tracy Chapman
 004	The White Stripes
+004	The Velvet Underground
 004	The Smiths
 004	The Pixies
 004	The O'Jays
@@ -251,32 +259,34 @@
 004	Steve Forbert
 004	Spirit
 004	Snow Patrol
+004	Slim Harpo
 004	Siouxsie & The Banshees
 004	Sam & Dave
 004	Run-DMC
 004	Rufus Wainwright
 004	Roy Orbison
 004	Rosanne Cash
-004	Rodrigo Y Gabriela
 004	Ringo Starr
 004	Ray Lamontagne
-004	Prince & The Revolution
 004	Phoenix
 004	Peter Tosh
 004	Nils Lofgren
 004	Neville Brothers
-004	Neil Diamond
 004	Mott The Hoople
 004	Morrissey
 004	Moby
+004	Michael Kiwanuka
 004	Mayer Hawthorne
 004	Matthew Sweet
+004	Loudon Wainwright III
 004	LL Cool J
 004	Kate Bush
-004	Joss Stone
+004	John Mayall
+004	Jimmy Reed
 004	Jane Siberry
 004	Iron And Wine
 004	INXS
+004	Hozier
 004	Harry Nilsson
 004	Gorillaz
 004	Gomez
@@ -286,18 +296,20 @@
 004	Fine Young Cannibals
 004	Fats Domino
 004	Eurythmics
-004	Etta James
 004	Dusty Springfield
-004	Dr. Dog
 004	Dionne Warwick
 004	De La Soul
 004	David Bromberg
 004	Dave Mason
 004	Dave Edmunds
 004	Crowded House
+004	Cracker
 004	Courtney Barnett
+004	Chuck Prophet
+004	Camper Van Beethoven
 004	Buddy Holly
 004	Buddy Guy
+004	Bright Eyes
 004	Blur
 004	Blood Sweat & Tears
 004	Black Joe Lewis & The Honeybears
@@ -316,10 +328,10 @@
 003	UB40
 003	Traveling Wilburys
 003	Toots Hibbert
+003	Toots & The Maytals
 003	Third World
 003	Them
 003	The Velvet Underground & Nico
-003	The Velvet Underground
 003	The Thompson Twins
 003	The Stone Roses
 003	The Specials
@@ -335,9 +347,9 @@
 003	The Afghan Whigs
 003	TV On The Radio
 003	Sufjan Stevens
-003	Squeeze
 003	Soul Asylum
-003	Slim Harpo
+003	Son Volt
+003	Smokey Robinson & The Miracles
 003	Simple Minds
 003	Sharon Jones And The Dap-Kings
 003	Semisonic
@@ -360,14 +372,12 @@
 003	Nathaniel Rateliff & The Night Sweats
 003	Natalie Merchant
 003	Mountain
-003	Michael Kiwanuka
 003	Massive Attack
 003	Marvin Gaye & Tammi Terrell
 003	Mark Knopfler
 003	Madonna
 003	Lynyrd Skynyrd
 003	Love And Rockets
-003	Loudon Wainwright III
 003	Little Willie John
 003	Leon Bridges
 003	Laura Nyro
@@ -378,9 +388,7 @@
 003	Joseph Arthur
 003	Johnny Winter
 003	Johnny Nash
-003	John Mayall
 003	Joan Baez
-003	Jimmy Reed
 003	Jimmy Cliff
 003	Jim Lauderdale
 003	Jerry Butler
@@ -388,7 +396,6 @@
 003	Jackson 5
 003	JD McPherson
 003	Ingrid Michaelson
-003	Hozier
 003	Hot Tuna
 003	Hank Williams
 003	Guster
@@ -408,10 +415,6 @@
 003	Daft Punk
 003	Curtis Mayfield
 003	Crash Test Dummies
-003	Cracker
-003	Chuck Prophet
-003	Camper Van Beethoven
-003	Bright Eyes
 003	Bon Iver
 003	Bobby "Blue" Bland
 003	Bob Mould
@@ -425,6 +428,7 @@
 003	Beth Orton
 003	Bangles
 003	B. B. King & Eric Clapton
+003	Arrested Development
 003	Allen Toussaint
 003	Alice Cooper
 003	Alanis Morissette
@@ -436,12 +440,12 @@
 002	Weezer
 002	Wall Of Voodoo
 002	Utopia
-002	Toots & The Maytals
 002	Tom Jones
 002	Toad The Wet Sprocket
 002	Tim Hardin
 002	Tim Buckley
 002	Three Dog Night
+002	The Zombies
 002	The Youngbloods
 002	The Waterboys
 002	The War On Drugs
@@ -482,6 +486,7 @@
 002	Television
 002	Ted Hawkins
 002	Tammy Wynette
+002	Talk Talk
 002	Sylvan Esso
 002	Sugar
 002	Strawbs
@@ -492,9 +497,7 @@
 002	Soul Coughing
 002	Sonny Boy Williamson
 002	Sonny & Cher
-002	Son Volt
 002	Social Distortion
-002	Smokey Robinson & The Miracles
 002	Sir Douglas Quintet
 002	Sinead O'Connor
 002	Shelby Lynne
@@ -508,6 +511,7 @@
 002	Roy Brown
 002	Ron Wood
 002	Rodney Crowell
+002	Rockpile
 002	Robin Trower
 002	Robert Cray
 002	Richie Havens
@@ -523,6 +527,7 @@
 002	Peter Paul & Mary
 002	Paula Cole
 002	Paul Butterfield Blues Band
+002	Patty Larkin
 002	Patsy Cline
 002	Parliament
 002	PJ Harvey
@@ -546,6 +551,7 @@
 002	Melanie
 002	Me'shell Ndegeocello
 002	Martha & The Vandellas
+002	Marshall Tucker Band
 002	Marshall Crenshaw
 002	Madness
 002	Madeleine Peyroux
@@ -565,6 +571,7 @@
 002	Langhorne Slim
 002	Kurt Vile
 002	Kool & The Gang
+002	Keith Richards
 002	Karla Bonoff
 002	Karl Denson's Tiny Universe
 002	Kaiser Chiefs
@@ -573,9 +580,11 @@
 002	Johnny Cash & June Carter Cash
 002	John Wesley Harding
 002	John Martyn
+002	John Denver
 002	John Coltrane
 002	Joan Jett And The Blackhearts
 002	Jim James
+002	Jesse Winchester
 002	Jerry Lee Lewis
 002	Jenny Lewis
 002	Jane's Addiction
@@ -601,11 +610,13 @@
 002	Gang Of Four
 002	G Love
 002	Funkadelic
+002	Franz Ferdinand
 002	Frank Ocean
 002	Francis Dunnery
 002	Foster The People
 002	Five For Fighting
 002	Feist
+002	Fairport Convention
 002	Ernie K-Doe
 002	Eric Burdon & The Animals
 002	Edward Sharpe & The Magnetic Zeros
@@ -615,6 +626,7 @@
 002	Duran Duran
 002	Donavon Frankenreiter
 002	Don Henley
+002	Dido
 002	Dickey Betts & Great Southern
 002	Diana Ross & The Supremes
 002	Diana Ross
@@ -654,7 +666,6 @@
 002	Barry White
 002	Aztec Camera
 002	Average White Band
-002	Arrested Development
 002	Argent
 002	Andrew Bird
 002	Amy Winehouse
@@ -664,10 +675,12 @@
 002	Adrian Belew
 002	Action Figure Party
 002	Abba
+002	Aaron Neville
 002	AC/DC
 002	A Tribe Called Quest
 001	fun.
 001	case/lang/veirs
+001	a-ha
 001	Zapp & Roger
 001	Zager & Evans
 001	Young-Holt Unlimited
@@ -717,7 +730,6 @@
 001	Thievery Corporation
 001	The xx
 001	The dB's
-001	The Zombies
 001	The Young Rascals
 001	The Word
 001	The Walkmen
@@ -727,10 +739,12 @@
 001	The Velvelettes
 001	The Vaughan Brothers
 001	The Undisputed Truth
+001	The Undertones
 001	The Turtles
 001	The Troggs
 001	The Trashmen
 001	The Tragically Hip
+001	The Tornados
 001	The Ting Tings
 001	The Time
 001	The Syndicate Of Sound
@@ -772,12 +786,14 @@
 001	The Origin
 001	The Only Ones
 001	The Nerves
+001	The Music Machine
 001	The Modern Lovers
 001	The Melodians
 001	The Mavericks
 001	The Marvelettes
 001	The Marcus King Band
 001	The Mar-Keys
+001	The Lone Bellow
 001	The Lightning Seeds
 001	The Lemon Pipers
 001	The Korgis
@@ -827,6 +843,7 @@
 001	The Chills
 001	The Chiffons
 001	The Chantays
+001	The Champs
 001	The Castaways
 001	The Cardigans
 001	The Capitols
@@ -853,7 +870,6 @@
 001	Teddy Pendergrass
 001	Tanita Tikaram
 001	Tame Impala
-001	Talk Talk
 001	TLC
 001	T-Bone Walker
 001	Syd Straw
@@ -898,6 +914,7 @@
 001	Soul Survivors
 001	Soul Brothers Six
 001	Sonny Landreth
+001	Sonic Youth
 001	Sonia Dada
 001	Solomon Burke
 001	Solange
@@ -931,11 +948,11 @@
 001	Sara Bareilles
 001	Santogold
 001	Ryley Walker
+001	Rufus
 001	Roy Ayers
 001	Roky Erickson & The Aliens
 001	Roger McGuinn
 001	Rodriguez
-001	Rockpile
 001	Robyn Hitchcock & The Egyptians
 001	Robert Plant & The Strange Sensation
 001	Robert Knight
@@ -980,7 +997,6 @@
 001	Peggy Lee
 001	Paul Revere & The Raiders
 001	Paul Mauriat
-001	Patty Larkin
 001	Patti Drew
 001	Patrice Rushen
 001	Pat Metheny Group
@@ -993,6 +1009,7 @@
 001	Ollabelle
 001	Okkervil River
 001	Of Monsters And Men
+001	October Project
 001	Norman Greenbaum
 001	Nine Inch Nails
 001	Nina Simone
@@ -1039,7 +1056,6 @@
 001	Matisyahu
 001	Mary Black
 001	Martha & The Muffins
-001	Marshall Tucker Band
 001	Marmalade
 001	Mark Ronson
 001	Marianne Faithfull
@@ -1069,6 +1085,7 @@
 001	Lou Reed & John Cale
 001	Lou Rawls
 001	Lou Christie
+001	Los Super Seven
 001	Los Bravos
 001	Lord Huron
 001	Local Natives
@@ -1112,7 +1129,7 @@
 001	Kid Creole & The Coconuts
 001	Kenny Rogers
 001	Keller Williams
-001	Keith Richards
+001	Keb' Mo'
 001	Karl Blau
 001	KC & The Sunshine Band
 001	Justin Townes Earle
@@ -1132,12 +1149,12 @@
 001	Johnny Clegg & Savuka
 001	Johnny Ace
 001	Johnny A
+001	Johnnie Johnson
 001	John Legend & The Roots
 001	John Legend
 001	John Gorka
 001	John Fred and His Playboy Band
 001	John Eddie
-001	John Denver
 001	John Cale
 001	John Butler Trio
 001	John Barry
@@ -1151,7 +1168,6 @@
 001	Jill Sobule
 001	Jesus Jones
 001	Jessica Lea Mayfield
-001	Jesse Winchester
 001	Jesse Colin Young
 001	Jerry Jeff Walker
 001	Jerry Harrison
@@ -1226,6 +1242,7 @@
 001	George Thorogood & The Destroyers
 001	George Clinton
 001	Generation X
+001	General Public
 001	Gene Vincent
 001	Gene Clark
 001	Gary Wright
@@ -1243,7 +1260,6 @@
 001	Free
 001	Frederick Knight
 001	Fred Neil
-001	Franz Ferdinand
 001	Frankie Goes To Hollywood
 001	Frank & Nancy Sinatra
 001	Fountains Of Wayne
@@ -1257,7 +1273,6 @@
 001	Five Man Electrical Band
 001	First Aid Kit
 001	Field Report
-001	Fairport Convention
 001	Euphoria
 001	Erma Franklin
 001	Erin McKeown
@@ -1306,7 +1321,6 @@
 001	Dinah Washington
 001	Digable Planets
 001	Diego Garcia
-001	Dido
 001	Dick Dale
 001	Dexy's Midnight Runners
 001	Desmond Dekker
@@ -1325,6 +1339,7 @@
 001	David Byrne & Brian Eno
 001	David Byrne
 001	David Bromberg Band
+001	Dave Carter & Tracy Grammer
 001	Dave Alvin
 001	Daughn Gibson
 001	Darlingside
@@ -1351,6 +1366,7 @@
 001	Clap Your Hands Say Yeah
 001	Chuck Jackson
 001	Chubby Checker
+001	Chris Stapleton
 001	Chris Rea
 001	Chris Botti
 001	Chris Bell
@@ -1395,6 +1411,7 @@
 001	Bloodstone
 001	Blind Melon
 001	Blancmange
+001	Blake Babies
 001	Black Rebel Motorcycle Club
 001	Black Kids
 001	Black 47
@@ -1451,7 +1468,6 @@
 001	Adam Duritz
 001	Adam Ant
 001	Adam & The Ants
-001	Aaron Neville
 001	Aaron Lee Tasjan
 001	ACE
 001	ABC

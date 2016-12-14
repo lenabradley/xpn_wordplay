@@ -9,6 +9,7 @@
 004	Fever
 004	Dreams
 004	Crazy
+003	Thank You
 003	Sweet Jane
 003	Summertime Blues
 003	Only You Know And I Know
@@ -29,6 +30,13 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Thank You Girl
+002	Tennessee
+002	Tenderness On The Block
+002	Tell Me Why
+002	Tears Of A Clown
+002	Talk Talk
+002	Take Me To The River
 002	Take It Easy
 002	Tainted Love
 002	Sweet Emotion
@@ -263,6 +271,84 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Thank You (Falettinme Be Micelf Again)
+001	Thank The Lord For The Nighttime
+001	Thank God I'm A Country Boy
+001	Texas Flood
+001	Terrapin Station
+001	Teresa
+001	Tequila Sunrise
+001	Tequila
+001	Tenth Avenue Freeze Out
+001	Tennessee Whiskey
+001	Tennessee Jed
+001	Tenderness
+001	Ten Years Are Gone
+001	Tempted
+001	Temptation Inside Your Heart
+001	Temptation Eyes
+001	Temptation
+001	Temporary Like Achilles
+001	Temple
+001	Telstar
+001	Tell The Truth
+001	Tell Me Something Good
+001	Tell Me Bout It
+001	Tell Me Anything (Turn To Gold)
+001	Tell Me A Tale
+001	Tell Mama
+001	Tell It Like It Is
+001	Tell Her No
+001	Tell Everybody I Know
+001	Telephone Road
+001	Telephone Line
+001	Telegram Sam
+001	Teenage Riot
+001	Teenage Kicks
+001	Teen Angst (What The World Needs Now)
+001	Tear Stained Letter
+001	Tear Stained Eye
+001	Teacher, Teacher
+001	Teacher
+001	Te-ni-nee-ni-nu
+001	Taxman
+001	Tanqueray
+001	Tango
+001	Tanglewood Tree
+001	Tangled Up In Blue
+001	Tamacun
+001	Tam Lin
+001	Talking New Bob Dylan
+001	Talking Back To The Night
+001	Talkin' New York
+001	Talkin' Bout A Revolution
+001	Talk Of The Town
+001	Talk Memphis
+001	Talk About the Passion
+001	Talk
+001	Tales Of Brave Ulysses
+001	Takin' Me Back
+001	Takin' It To The Streets
+001	Take The Skinheads Bowling
+001	Take The Money & Run
+001	Take The Long Way Home
+001	Take The Highway
+001	Take Out Some Insurance
+001	Take On Me
+001	Take My Love
+001	Take Me With You
+001	Take Me With U
+001	Take Me To The Pilot
+001	Take Me To The Mardis Gras
+001	Take Me To Church
+001	Take Me Out
+001	Take Me Into Town
+001	Take Me I'm Yours
+001	Take Me Home, Country Roads
+001	Take Me As I Am
+001	Take It To The Limit
+001	Take It So Hard
+001	Take It Easy (Love Nothing)
 001	Take Five
 001	Take Another Look
 001	Take A Walk
