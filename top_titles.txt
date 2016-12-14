@@ -30,6 +30,14 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	The Sky Is Crying
+002	The River
+002	The One I Love
+002	The Ocean
+002	The Night They Drove Old Dixie Down
+002	The Mountain
+002	The Mighty Quinn (Quinn The Eskimo)
+002	The Man Who Sold The World
 002	The Letter
 002	The End
 002	The Chokin' Kind
@@ -274,6 +282,86 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	The Ties That Bind
+001	The Tide Is High
+001	The Thrill Is Gone
+001	The Things We Do For Love
+001	The Thing That Only Eats Hippies
+001	The Sunny Side Of The Street
+001	The Sun Ain't Gonna Shine Anymore
+001	The Stranger
+001	The Story In Your Eyes
+001	The Story
+001	The Stars (Are Out Tonight)
+001	The Space Between
+001	The Sound Of Silence
+001	The Song Remains The Same
+001	The Soft Parade
+001	The Sins Of Memphisto
+001	The Sidewinder Sleeps Tonight
+001	The Shape I'm In
+001	The Seventh Son
+001	The Seed
+001	The Scientist
+001	The Safety Dance
+001	The Royal Scam
+001	The Rockafeller Skank
+001	The Road To Utopia
+001	The Road Goes On Forever
+001	The Road And The Sky
+001	The Road
+001	The Rising
+001	The Righteous Path
+001	The Right Time
+001	The Revolution Will Not Be Televised
+001	The Revolution Starts Now
+001	The Refugee
+001	The Reeling
+001	The Red Rooster
+001	The Real One
+001	The Real Me
+001	The Real Life
+001	The Real End
+001	The Rain Song
+001	The Punk Meets The Godfather
+001	The Promised Land
+001	The Pretender
+001	The Politics Of Dancing
+001	The Piano Has Been Drinking (Not Me)
+001	The Persecution and Restoration of Dean Moriarty (On The Road)
+001	The Perfect Kiss
+001	The Perfect Crime #2
+001	The Passenger
+001	The Only One I Know
+001	The Only Living Boy In New York
+001	The Only Flame In Town
+001	The One Thing
+001	The Old Man Down The Road
+001	The Old Laughing Lady
+001	The Obvious Child
+001	The Numbers Game
+001	The Night Inside Me
+001	The Night Before
+001	The Next Voice You Hear
+001	The New Pollution
+001	The Needle And The Damage Done
+001	The National Anthem
+001	The Mystery Zone
+001	The Music Never Stopped
+001	The Mummer's Dance
+001	The Most Beautiful Girl In The Room
+001	The More You Ignore Me, The Closer I Get
+001	The Moon & The Sun
+001	The Mind Of Love
+001	The Message
+001	The Man Who Wants You
+001	The Maker
+001	The Magnificent Seven
+001	The Lovely Linda
+001	The Love You Save
+001	The Love I Lost - Part 1
+001	The Love Cats
+001	The Losing End
 001	The Look Of Love (part One)
 001	The Look Of Love
 001	The Long Road
