@@ -30,6 +30,9 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	The Letter
+002	The End
+002	The Chokin' Kind
 002	Thank You Girl
 002	Tennessee
 002	Tenderness On The Block
@@ -271,6 +274,143 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	The Look Of Love (part One)
+001	The Look Of Love
+001	The Long Road
+001	The Long Cut
+001	The Long And Winding Road
+001	The Loner
+001	The Logical Song
+001	The Loco-Motion
+001	The Load Out / Stay
+001	The Lion Sleeps Tonight
+001	The Lemon Song
+001	The Laws Must Change
+001	The Last Time
+001	The Last Resort
+001	The Lamb Lies Down On Broadway
+001	The Killing Moon
+001	The Kids Are Alright
+001	The Jean Genie
+001	The Impression That I Get
+001	The Hustle
+001	The Hurdy Gurdy Man
+001	The Humpty Dance
+001	The House That Jack Built
+001	The House Is Rockin'
+001	The Horse
+001	The Horizon Has Been Defeated
+001	The Holdup
+001	The High Road
+001	The Heart's A Lonely Hunter
+001	The Healing
+001	The Healer
+001	The Headmaster Ritual
+001	The Hardest Button To Button
+001	The Harder They Come
+001	The Happening
+001	The Guns Of Brixton
+001	The Great Gig In The Sky
+001	The Great Defector
+001	The Great Beyond
+001	The Goodbye Look
+001	The Golden State
+001	The Girl From Ipanema
+001	The Girl Can't Help It
+001	The Ghosts That Haunt Me
+001	The Ghost Of You Lingers
+001	The Ghost In You
+001	The Ghetto
+001	The Future's So Bright (I Gotta Wear Shades)
+001	The Fundamental Things
+001	The Forecast (Calls For Pain)
+001	The Fool On The Hill
+001	The Finer Things
+001	The Fez
+001	The Fever
+001	The Envoy
+001	The Engine Driver
+001	The End Of The Innocence
+001	The Emperor's New Clothes
+001	The E Street Shuffle
+001	The Distance
+001	The Difference
+001	The Denial Twist
+001	The Dead Heart
+001	The Dancer
+001	The Cutter
+001	The Crystal Ship
+001	The Crunge
+001	The Court Of The Crimson King
+001	The Core
+001	The Continuing Story Of Bungalow Bill
+001	The Connection
+001	The Concept
+001	The Cisco Kid
+001	The Circle Game
+001	The Cheapest Key
+001	The Changingman
+001	The Changeling
+001	The Chain
+001	The Cave
+001	The Cat
+001	The Castle
+001	The Carpet Crawlers 1999
+001	The Captain
+001	The Candy Man
+001	The Call Up
+001	The Breakup Song
+001	The Breaks
+001	The Boys Of Summer
+001	The Boys Are Back In Town
+001	The Boy In The Bubble
+001	The Boxer
+001	The Bottom Line.
+001	The Bottle Let Me Down
+001	The Bottle
+001	The Book of Love
+001	The Bomber
+001	The Blues Had A Baby And Called It Rock And Roll
+001	The Bitterest Pill
+001	The Bike
+001	The Best Of What's Around
+001	The Bed's Too Big Without You
+001	The Beat(en) Generation
+001	The Beat Goes On
+001	The Beat
+001	The Beast In Me
+001	The Battle Of Evermore
+001	The Ballroom Blitz
+001	The Ballad of Dorothy Parker
+001	The Ballad Of Peter Pumpkinhead
+001	The Ballad Of John And Yoko
+001	The Ballad Of Billy The Kid
+001	The Babysitter's Here
+001	The Angel In The House
+001	The Angel
+001	The Air That I Breathe
+001	The Afterlife
+001	The Adventures of Rain Dance Maggie
+001	The 59th Street Bridge Song (Feelin' Groovy)
+001	The "In" Crowd
+001	That's The Way (I Like It)
+001	That's The Way
+001	That's Right (you're Not From Texas)
+001	That's Not My Name
+001	That's Just What You Are
+001	That's How Strong My Love Is
+001	That's All the Lumber You Sent
+001	That's All Right
+001	That'll Be The Day
+001	That Would Be Something
+001	That Voice Again
+001	That Train Don't Stop Here Anymore
+001	That Summer Feeling
+001	That Old Black Hole
+001	That Lady
+001	That Girl Could Sing
+001	That Girl
+001	Thank You Too
 001	Thank You (Falettinme Be Micelf Again)
 001	Thank The Lord For The Nighttime
 001	Thank God I'm A Country Boy

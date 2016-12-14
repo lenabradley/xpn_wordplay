@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-13, 23:20
+Last updated: 2016-12-14, 10:19
 
 
 ==============================
@@ -7,56 +7,56 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        109 The Beatles
-#   2:         68 The Rolling Stones
-#   3:         62 Bob Dylan
-#   4:         60 Bruce Springsteen
-#   5:         47 Neil Young
-#   6:         34 David Bowie
-#   7:         33 Grateful Dead
-#   8:         32 R.E.M.
-#   9:         32 Led Zeppelin
-#  10:         31 Steely Dan
-#  11:         25 The Who
-#  12:         25 Stevie Wonder
-#  13:         25 Joni Mitchell
-#  14:         24 Van Morrison
-#  15:         24 U2
-#  16:         24 Fleetwood Mac
-#  17:         22 Elton John
-#  18:         22 Bob Marley & The Wailers
-#  19:         21 Eric Clapton
-#  20:         20 Warren Zevon
-#  21:         20 Paul Simon
-#  22:         20 Jackson Browne
-#  23:         19 The Beach Boys
-#  24:         19 Talking Heads
-#  25:         19 Bonnie Raitt
-#  26:         18 The Kinks
-#  27:         18 Little Feat
-#  28:         17 The Doors
-#  29:         17 The Clash
+#   1:        114 The Beatles
+#   2:         69 The Rolling Stones
+#   3:         63 Bruce Springsteen
+#   4:         62 Bob Dylan
+#   5:         48 Neil Young
+#   6:         36 Led Zeppelin
+#   7:         35 David Bowie
+#   8:         33 R.E.M.
+#   9:         33 Grateful Dead
+#  10:         32 Steely Dan
+#  11:         26 The Who
+#  12:         26 Stevie Wonder
+#  13:         26 Joni Mitchell
+#  14:         25 Fleetwood Mac
+#  15:         24 Van Morrison
+#  16:         24 U2
+#  17:         22 Paul Simon
+#  18:         22 Jackson Browne
+#  19:         22 Eric Clapton
+#  20:         22 Elton John
+#  21:         22 Bob Marley & The Wailers
+#  22:         21 Warren Zevon
+#  23:         20 The Doors
+#  24:         20 Bonnie Raitt
+#  25:         19 The Clash
+#  26:         19 The Beach Boys
+#  27:         19 Talking Heads
+#  28:         18 The Kinks
+#  29:         18 Little Feat
 #  30:         17 The Allman Brothers
 #  31:         17 James Brown
 #  32:         16 Wilco
 #  33:         16 The Pretenders
-#  34:         15 Jimi Hendrix
-#  35:         15 Coldplay
-#  36:         14 Yes
-#  37:         14 Todd Rundgren
-#  38:         14 The Eagles
-#  39:         14 Sting
-#  40:         14 Peter Gabriel
-#  41:         14 Lucinda Williams
-#  42:         14 Johnny Cash
-#  43:         14 John Lennon
-#  44:         14 John Hiatt
-#  45:         14 Electric Light Orchestra
-#  46:         14 Creedence Clearwater Revival
-#  47:         13 Tom Petty & The Heartbreakers
-#  48:         13 The Police
-#  49:         13 Santana
-#  50:         13 Pink Floyd
+#  34:         15 The Eagles
+#  35:         15 Peter Gabriel
+#  36:         15 Jimi Hendrix
+#  37:         15 Coldplay
+#  38:         14 Yes
+#  39:         14 Todd Rundgren
+#  40:         14 Sting
+#  41:         14 Pink Floyd
+#  42:         14 My Morning Jacket
+#  43:         14 Lucinda Williams
+#  44:         14 Johnny Cash
+#  45:         14 John Lennon
+#  46:         14 John Hiatt
+#  47:         14 Electric Light Orchestra
+#  48:         14 Creedence Clearwater Revival
+#  49:         13 Tom Petty & The Heartbreakers
+#  50:         13 The Police
 
 ==============================
 Top 50 titles:
@@ -95,133 +95,133 @@ Top 50 titles:
 #  30:          3 Cherry Oh Baby
 #  31:          3 California
 #  32:          3 Ball Of Confusion
-#  33:          2 Thank You Girl
-#  34:          2 Tennessee
-#  35:          2 Tenderness On The Block
-#  36:          2 Tell Me Why
-#  37:          2 Tears Of A Clown
-#  38:          2 Talk Talk
-#  39:          2 Take Me To The River
-#  40:          2 Take It Easy
-#  41:          2 Tainted Love
-#  42:          2 Sweet Emotion
-#  43:          2 Summertime
-#  44:          2 Stop Your Sobbing
-#  45:          2 Stop Breakin' Down
-#  46:          2 Stay With Me
-#  47:          2 Stay
-#  48:          2 Stand By Me
-#  49:          2 Stand
-#  50:          2 Stairway To Heaven
+#  33:          2 The Letter
+#  34:          2 The End
+#  35:          2 The Chokin' Kind
+#  36:          2 Thank You Girl
+#  37:          2 Tennessee
+#  38:          2 Tenderness On The Block
+#  39:          2 Tell Me Why
+#  40:          2 Tears Of A Clown
+#  41:          2 Talk Talk
+#  42:          2 Take Me To The River
+#  43:          2 Take It Easy
+#  44:          2 Tainted Love
+#  45:          2 Sweet Emotion
+#  46:          2 Summertime
+#  47:          2 Stop Your Sobbing
+#  48:          2 Stop Breakin' Down
+#  49:          2 Stay With Me
+#  50:          2 Stay
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        472 the
-#   2:        307 i
-#   3:        283 a
-#   4:        261 you
-#   5:        224 love
-#   6:        224 in
-#   7:        222 to
-#   8:        217 of
-#   9:        191 me
-#  10:        176 on
-#  11:        164 my
-#  12:        139 it
-#  13:        117 and
-#  14:         91 don't
+#   1:        608 the
+#   2:        311 i
+#   3:        285 a
+#   4:        267 you
+#   5:        233 of
+#   6:        231 in
+#   7:        228 love
+#   8:        223 to
+#   9:        194 me
+#  10:        179 on
+#  11:        166 my
+#  12:        142 it
+#  13:        121 and
+#  14:         92 don't
 #  15:         79 i'm
-#  16:         76 man
+#  16:         78 man
 #  17:         75 your
-#  18:         73 for
-#  19:         68 all
-#  20:         67 is
-#  21:         63 up
-#  22:         62 no
-#  23:         62 baby
-#  24:         61 be
-#  25:         59 get
-#  26:         58 one
-#  27:         57 like
-#  28:         56 down
-#  29:         53 can't
-#  30:         52 rock
-#  31:         50 it's
-#  32:         49 with
-#  33:         49 time
-#  34:         49 back
-#  35:         48 go
-#  36:         47 roll
-#  37:         47 out
-#  38:         47 little
-#  39:         47 girl
+#  18:         74 for
+#  19:         70 all
+#  20:         69 is
+#  21:         64 up
+#  22:         63 be
+#  23:         63 baby
+#  24:         62 no
+#  25:         60 get
+#  26:         59 one
+#  27:         58 like
+#  28:         58 down
+#  29:         54 can't
+#  30:         53 rock
+#  31:         51 girl
+#  32:         50 time
+#  33:         50 it's
+#  34:         50 back
+#  35:         49 with
+#  36:         48 roll
+#  37:         48 out
+#  38:         48 go
+#  39:         47 little
 #  40:         43 night
 #  41:         43 good
 #  42:         42 want
 #  43:         42 life
-#  44:         41 heart
-#  45:         40 so
+#  44:         42 heart
+#  45:         41 so
 #  46:         40 if
-#  47:         39 come
-#  48:         38 just
-#  49:         38 got
-#  50:         38 ain't
+#  47:         40 come
+#  48:         39 just
+#  49:         38 that
+#  50:         38 got
 
 ==============================
 Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        174 1970
-#   2:        165 1
-#   3:        162 1969
-#   4:        145 1973
-#   5:        140 1971
-#   6:        139 1972
-#   7:        135 1967
-#   8:        134 1974
-#   9:        125 1976
-#  10:        113 1977
-#  11:        112 1968
-#  12:        111 1975
-#  13:        107 1978
-#  14:        103 1980
-#  15:        100 1966
-#  16:         97 1994
-#  17:         96 1992
-#  18:         95 1993
-#  19:         93 1979
-#  20:         90 1989
-#  21:         86 1982
-#  22:         85 1991
-#  23:         83 1984
-#  24:         80 1985
-#  25:         72 1986
-#  26:         71 1988
-#  27:         71 1987
-#  28:         71 1965
-#  29:         66 1983
-#  30:         61 1996
-#  31:         60 2004
-#  32:         60 1981
-#  33:         59 1995
-#  34:         58 2003
-#  35:         58 1999
-#  36:         58 1998
-#  37:         57 2007
-#  38:         57 1990
+#   1:        181 1970
+#   2:        171 1
+#   3:        167 1969
+#   4:        152 1973
+#   5:        143 1972
+#   6:        142 1971
+#   7:        140 1967
+#   8:        136 1974
+#   9:        128 1976
+#  10:        116 1977
+#  11:        116 1968
+#  12:        112 1975
+#  13:        108 1980
+#  14:        108 1978
+#  15:        103 1966
+#  16:         98 1994
+#  17:         97 1993
+#  18:         97 1992
+#  19:         97 1989
+#  20:         95 1979
+#  21:         90 1982
+#  22:         87 1991
+#  23:         87 1984
+#  24:         82 1985
+#  25:         77 1986
+#  26:         76 1987
+#  27:         74 1965
+#  28:         72 1988
+#  29:         68 1983
+#  30:         65 1996
+#  31:         63 1999
+#  32:         63 1981
+#  33:         61 2004
+#  34:         61 2003
+#  35:         61 1995
+#  36:         60 2007
+#  37:         60 1998
+#  38:         58 1990
 #  39:         54 2016
 #  40:         54 2001
-#  41:         53 2002
-#  42:         53 2000
+#  41:         54 2000
+#  42:         53 2002
 #  43:         52 2006
 #  44:         50 2013
-#  45:         47 2005
-#  46:         45 2011
-#  47:         45 2010
-#  48:         45 1964
-#  49:         44 2015
-#  50:         42 2009
+#  45:         50 2005
+#  46:         47 2011
+#  47:         47 1964
+#  48:         46 2009
+#  49:         45 2015
+#  50:         45 2010

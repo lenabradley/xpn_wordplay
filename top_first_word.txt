@@ -1,4 +1,5 @@
 216	I
+125	The
 066	Love
 060	I'm
 059	Don't
@@ -63,6 +64,7 @@
 010	Midnight
 010	Life
 010	Everybody
+009	Thank
 009	Right
 009	Red
 009	Is
@@ -73,7 +75,8 @@
 009	Dance
 009	Crazy
 009	Another
-008	Thank
+008	That's
+008	That
 008	Summertime
 008	Summer
 008	Stop
@@ -604,6 +607,7 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	That'll
 001	Texas
 001	Terrapin
 001	Teresa
