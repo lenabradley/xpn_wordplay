@@ -98,6 +98,7 @@ for letter in letters[20:]:
 
 print 'Number of songs remaining:', numleft
 
+
 # how long will the reamining songs take?
 dt_Tend = dt.datetime(2016, 12, 15, 14, 4)
 avg_rate = 13.75 / 3600. # songs per second
@@ -107,9 +108,19 @@ end_time = dt_Tend + dt_left
 print 'Predicted end time:', end_time
 
 
+# modify prediction
+numleft = int(round(numleft * 1.02))
+print 'Modified Number of songs remaining (*1.02):', numleft
+dt_Tend = dt.datetime(2016, 12, 15, 14, 4)
+avg_rate = 13.75 / 3600. # songs per second
+sec_left = numleft / avg_rate
+dt_left = dt.timedelta(seconds=sec_left) # time remaining (after T ended)
+end_time = dt_Tend + dt_left
+print 'Modified Predicted end time (*1.02):', end_time
 
-
-
+# modify for the Friday concert
+end_time = end_time + dt.timedelta(seconds=60.*45)
+print 'Modified Predicted end time (*1.02 & +45 for free at noon):', end_time
 
 
 

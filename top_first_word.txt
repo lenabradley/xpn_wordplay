@@ -44,6 +44,7 @@
 014	Down
 014	Black
 014	Back
+013	Two
 013	Soul
 013	Shake
 013	Night
@@ -80,6 +81,7 @@
 009	Dance
 009	Crazy
 009	Another
+008	Under
 008	There
 008	That's
 008	That
@@ -185,6 +187,7 @@
 005	Are
 005	American
 005	Always
+004	Until
 004	To
 004	Tired
 004	Tennessee
@@ -244,6 +247,7 @@
 004	Brand
 004	Baby,
 004	After
+003	Up
 003	Twist
 003	Treat
 003	Tenderness
@@ -344,6 +348,7 @@
 003	Alone
 003	Alive
 003	Across
+002	Uncle
 002	Tunnel
 002	Tumbling
 002	Trying
@@ -641,7 +646,18 @@
 002	Alison
 002	Alabama
 002	Absolutely
-001	Two
+001	Unknown
+001	Union
+001	Une
+001	Undone-
+001	Unchained
+001	Uncertain
+001	Unbroken
+001	Unbelievers
+001	Unbelieveable
+001	Uh-oh
+001	U
+001	Typical
 001	Twisting
 001	Twistin'
 001	Twisterella

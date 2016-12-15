@@ -299,6 +299,47 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Up From The Skies
+001	Up For The Down Stroke
+001	Up Around The Bend
+001	Until You Come Back To Me (That's What I'm Gonna Do)
+001	Until The End Of The World
+001	Until She Comes
+001	Until I Fall Away
+001	Unknown Legend
+001	Union Man
+001	Une Nuit A Paris
+001	Undone- The Sweater Song
+001	Under the Pressure
+001	Under The Milky Way
+001	Under The Falling Sky
+001	Under The Bridge
+001	Under The Boardwalk
+001	Under Pressure
+001	Under My Thumb
+001	Under African Skies
+001	Uncle John's Band
+001	Uncle Albert / Admiral Halsey
+001	Unchained Melody
+001	Uncertain Smile
+001	Unbroken Chain
+001	Unbelievers
+001	Unbelieveable
+001	Uh-oh Love Comes To Town
+001	U Get Me High
+001	Typical Situation
+001	Two Weeks
+001	Two Tribes
+001	Two Trains
+001	Two Tickets To Paradise
+001	Two Step
+001	Two Princes
+001	Two Of Us
+001	Two Lights In The Nightime
+001	Two Hearts Beat As One
+001	Two Hearts
+001	Two Angels
+001	Two Against Nature
 001	Two
 001	Twisting By The Pool
 001	Twistin' The Night Away

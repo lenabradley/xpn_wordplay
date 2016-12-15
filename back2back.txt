@@ -22,3 +22,4 @@
 22	The Beach Boys	Surfin' Safari	Surf's Up	Surfin' USA
 23	Bruce Springsteen	The Rising	The River
 24	Jackson Browne	The Road	The Road And The Sky
+25	Neil Young	Union Man	Unknown Legend
