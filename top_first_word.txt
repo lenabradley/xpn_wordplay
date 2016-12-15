@@ -70,6 +70,7 @@
 010	Midnight
 010	Life
 010	Everybody
+009	Up
 009	Thank
 009	Right
 009	Red
@@ -247,7 +248,6 @@
 004	Brand
 004	Baby,
 004	After
-003	Up
 003	Twist
 003	Treat
 003	Tenderness

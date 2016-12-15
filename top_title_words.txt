@@ -1,4 +1,4 @@
-785	the
+789	the
 321	i
 302	a
 282	you
@@ -7,7 +7,7 @@
 249	to
 247	in
 209	me
-191	on
+195	on
 175	my
 150	it
 130	and
@@ -17,10 +17,10 @@
 082	your
 082	i'm
 080	for
+078	up
 074	time
 072	be
 071	all
-070	up
 069	no
 069	down
 067	one
@@ -71,6 +71,7 @@
 031	stop
 031	rain
 031	home
+030	from
 030	big
 030	bad
 029	woman
@@ -79,7 +80,6 @@
 029	over
 029	hey
 029	here
-029	from
 029	dance
 028	sweet
 028	soul
@@ -98,9 +98,9 @@
 024	never
 024	can
 024	around
+023	sun
 023	radio
 022	town
-022	sun
 022	more
 022	gonna
 022	cry
@@ -378,6 +378,7 @@
 006	step
 006	south
 006	skin
+006	skies
 006	san
 006	runaway
 006	room
@@ -445,7 +446,6 @@
 005	spirit
 005	son
 005	small
-005	skies
 005	shot
 005	shame
 005	shakin'
@@ -556,6 +556,7 @@
 004	saturday
 004	sail
 004	sad
+004	roof
 004	rocket
 004	remember
 004	quinn
@@ -1069,7 +1070,6 @@
 002	rough
 002	rosemary
 002	rope
-002	roof
 002	romeo
 002	rollercoaster
 002	rocky
@@ -3222,9 +3222,11 @@
 001	crossroads
 001	crossfire
 001	crippled
+001	cripple
 001	criminals
 001	criminal
 001	creepin'
+001	creek
 001	creatures
 001	creation
 001	cream

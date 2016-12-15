@@ -31,6 +31,8 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Up On The Roof
+002	Up From The Skies
 002	Turn To Stone
 002	Tunnel Of Love
 002	Tumbling Dice
@@ -299,7 +301,9 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
-001	Up From The Skies
+001	Up Up Up
+001	Up On The Sun
+001	Up On Cripple Creek
 001	Up For The Down Stroke
 001	Up Around The Bend
 001	Until You Come Back To Me (That's What I'm Gonna Do)

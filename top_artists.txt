@@ -34,11 +34,11 @@
 017	The Eagles
 017	Jimi Hendrix
 017	Coldplay
+016	The Band
 016	Otis Redding
 016	Creedence Clearwater Revival
 015	Tom Petty & The Heartbreakers
 015	Todd Rundgren
-015	The Band
 015	Sting
 015	Radiohead
 015	Pink Floyd
@@ -142,6 +142,7 @@
 007	The Cars
 007	Tears For Fears
 007	Steve Miller Band
+007	Rickie Lee Jones
 007	Ray Charles
 007	Patti Smith
 007	Old 97's
@@ -173,7 +174,6 @@
 006	The Staple Singers
 006	The Spinners
 006	The Hollies
-006	Rickie Lee Jones
 006	Ray Lamontagne
 006	Queen
 006	Pete Yorn
@@ -278,6 +278,7 @@
 004	The Killers
 004	The Jesus And Mary Chain
 004	The Heptones
+004	The Drifters
 004	The Animals
 004	Steve Forbert
 004	Spirit
@@ -307,6 +308,7 @@
 004	Matthew Sweet
 004	Lynyrd Skynyrd
 004	Loudon Wainwright III
+004	Laura Nyro
 004	LL Cool J
 004	Kate Bush
 004	Joan Baez
@@ -372,7 +374,6 @@
 003	The Impressions
 003	The Human League
 003	The Hooters
-003	The Drifters
 003	The Delfonics
 003	The Cranberries
 003	The Civil Wars
@@ -423,7 +424,6 @@
 003	Little Willie John
 003	Lindsey Buckingham
 003	Leon Bridges
-003	Laura Nyro
 003	Lake Street Dive
 003	Keane
 003	Kate & Anna McGarrigle
@@ -589,6 +589,7 @@
 002	Michael Penn
 002	Michael Franti & Spearhead
 002	Melanie
+002	Meat Puppets
 002	Me'shell Ndegeocello
 002	Martha & The Vandellas
 002	Marshall Crenshaw
@@ -1117,7 +1118,6 @@
 001	Mel & Tim
 001	Meg Mac
 001	Meatloaf
-001	Meat Puppets
 001	McFadden & Whitehead
 001	Mazzy Star
 001	Mavis Staples
@@ -1315,6 +1315,7 @@
 001	Glen Hansard & Marketa Irglova
 001	Glen Campbell
 001	Gladys Knight & the Pips
+001	Givers
 001	Gipsy Kings
 001	Gino Vannelli
 001	Gilberto Gil
