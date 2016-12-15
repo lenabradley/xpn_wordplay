@@ -11,10 +11,10 @@ import os
 #from scrapy.utils.response import open_in_browser
 
 # hard code start time and the number of days to search
-timezero = dt.datetime(2016, 9, 1) # time to start reading
+timezero = dt.datetime(2016, 8, 1) # time to start reading
 
 # number of days to read
-num_days = 21
+num_days = 49
 
 
 class PlaylistSpider(Spider):
