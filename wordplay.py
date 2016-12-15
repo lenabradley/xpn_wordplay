@@ -289,8 +289,9 @@ def backtoback(df, column='artist'):
 
     # initialize output
     back2back = pd.DataFrame(columns=df.columns)
-    runs = {}
-
+    curr_artist = ''
+    curr_tracks = []
+    runs = []
 
     # compare each entry to previous
     first = True
@@ -301,12 +302,10 @@ def backtoback(df, column='artist'):
             first = False
             continue
 
-        # compare current to prev artist
+        # compare current to prev & store if its a repeat
         if prev_song[column] == song[column]:
-            if to_add is None:
-                runs[prev_song[column]] = [prev_song['track']]
-            else:
-                runs[prev_song[column]].append(prev_song['track'])
+            curr_artist = prev_song[column]
+            curr_tracks.append(prev_song['track'])
 
             back2back = back2back.append(prev_song)
             to_add = song
@@ -314,9 +313,14 @@ def backtoback(df, column='artist'):
 
         else:
             if to_add is not None:
-                runs[to_add[column]].append(to_add['track'])
+                curr_tracks.append(to_add['track'])
                 back2back = back2back.append(to_add)
+                runs.append((curr_artist, curr_tracks))
+                curr_artist = ''
+                curr_tracks = []
                 to_add = None
+
+
 
 
         # reset previous
@@ -435,10 +439,11 @@ def main():
 
         # get back-to-back artists
         b2b, _ = backtoback(data)
+
         f = open(os.path.abspath('back2back.txt'), 'w')
         ix = 1;
-        for (key, val) in b2b.iteritems():
-            f.write('{0:d}\t{1}\t{2}\n'.format(ix, key, '\t'.join(val)))
+        for tup in b2b:
+            f.write('{0:d}\t{1}\t{2}\n'.format(ix, tup[0], '\t'.join(tup[1])))
             ix += 1
         f.close()
 

@@ -1,5 +1,6 @@
 005	Home
 005	Hold On
+004	Trouble
 004	Revolution
 004	Night Train
 004	It's Alright
@@ -30,6 +31,14 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Turn To Stone
+002	Tunnel Of Love
+002	Tumbling Dice
+002	True Love Travels On A Gravel Road
+002	Trouble No More
+002	Train In Vain
+002	Town Without Pity
+002	Tired Of My Tears
 002	Time Is On My Side
 002	Tighten Up
 002	Tight Rope
@@ -290,6 +299,137 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Two
+001	Twisting By The Pool
+001	Twistin' The Night Away
+001	Twisterella
+001	Twist In My Sobriety
+001	Twist & Shout
+001	Twist & Crawl
+001	Twine Time
+001	Twenty-Five Miles
+001	Twenty Flight Rock
+001	Tweeter and The Monkey Man
+001	Tutti Frutti
+001	Tusk
+001	Turning Japanese
+001	Turn! Turn! Turn!
+001	Turn Your Radio On
+001	Turn Your Lights Down Low
+001	Turn On Your Love Light
+001	Turn On Me
+001	Turn It On Again
+001	Turn It Around
+001	Turn Down Day
+001	Turn Back The Hands Of Time
+001	Tupelo Honey
+001	Tumblin' Down
+001	Tulsa Time
+001	Tuff Enuff
+001	Tuesday's Gone
+001	Tuesday Afternoon
+001	Trying to Be Cool
+001	Trying To Throw Your Arms Around The World
+001	Tryin' To Get To Heaven
+001	Try Not To Breathe
+001	Try Jah Love
+001	Try It One More Time
+001	Try And Love Again
+001	Try A Little Tenderness
+001	Try
+001	Truth No. 2
+001	Truly, Truly
+001	True To Myself
+001	True Love Waits
+001	True Love Is Hard To Find
+001	True Fine Love
+001	True
+001	Truckin'
+001	Trouble With Dreams
+001	Trouble Me
+001	Trouble Man
+001	Trouble Comes Running
+001	Trouble Child/Twisted
+001	Trouble Boys
+001	Tropicalia
+001	Tripping Billies
+001	Trip Through Your Wires
+001	Trick Of The Light
+001	Trick Bag
+001	Triad
+001	Trenchtown Rock
+001	Treat Me Like A Saturday Night
+001	Treat Her Right
+001	Treat Her Like A Lady
+001	Travelin' Shoes
+001	Travelin' Band
+001	Trashcan
+001	Transcendental Blues
+001	Trans-Europe Express
+001	Trampoline
+001	Trampled Under Foot
+001	Tramp
+001	Trains To Brazil
+001	Train Leaves Here This Morning
+001	Train Kept A Rollin'
+001	Train In The Distance
+001	Train From Kansas City
+001	Train
+001	Trailer
+001	Traffic And Weather
+001	Towers Of London
+001	Tougher Than The Rest
+001	Tough Mama
+001	Touch Of Grey
+001	Touch Me
+001	Tore Up Over You
+001	Tore Down A La Rimbaud
+001	Top Floor, Bottom Buzzer
+001	Too Shy
+001	Too Rolling Stoned
+001	Too Much Stuff
+001	Too Much Saturn
+001	Too Much Pressure
+001	Too Much Information
+001	Too Much
+001	Too Many People
+001	Too Long In Exile
+001	Too Late To Turn Back Now
+001	Too High
+001	Tonight's The Night
+001	Tonight Tonight
+001	Tonight I'll Be Staying Here With You
+001	Tones Of Home
+001	Tomorrow People
+001	Tomorrow Never Knows
+001	Tommy Can You Hear Me?
+001	Tombstone Blues
+001	Tom's Diner
+001	Tom Traubert's Blues
+001	Toe Hold
+001	Today
+001	To Sir With Love
+001	To Love Somebody
+001	To Cry You A Song
+001	To Be Young (is To Be Sad, Is To Be High)
+001	Title And Registration
+001	Tired Of Waiting
+001	Tired Of Being Alone
+001	Tipitina
+001	Tiny Dancer
+001	Tinseltown In The Rain
+001	Time to Run
+001	Time Waits For No One
+001	Time Tough
+001	Time To Pretend
+001	Time To Move On
+001	Time The Avenger
+001	Time Spent In Los Angeles
+001	Time Of The Season
+001	Time Of Inconvenience
+001	Time Loves A Hero
+001	Time Is Tight
+001	Time Is Running Out
 001	Time In A Bottle
 001	Time Heals
 001	Time Has Told Me
@@ -692,6 +832,8 @@
 001	Take A Giant Step
 001	Take A Breath
 001	Tailspin
+001	TVC15
+001	TV Is King
 001	T. S. O. P. (The Sound Of Philadelphia)
 001	Synchronicity II
 001	Sympathy For The Devil
