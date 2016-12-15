@@ -278,6 +278,54 @@ def save_song_info(infolist=[], headerstr=None, pattern='{2:d}\t{0}\t{1}\n',
     f.close()
     return
 
+def backtoback(df, column='artist'):
+    '''
+    Back to back artists in the playlist? Check and return a datafram with the
+    repeated results
+    '''
+
+    # sort data frame by time stamp
+    df = df.sort_values('time')
+
+    # initialize output
+    back2back = pd.DataFrame(columns=df.columns)
+    runs = {}
+
+
+    # compare each entry to previous
+    first = True
+    to_add = None
+    for (ix, song) in df.iterrows():
+        if first:
+            prev_song = song
+            first = False
+            continue
+
+        # compare current to prev artist
+        if prev_song[column] == song[column]:
+            if to_add is None:
+                runs[prev_song[column]] = [prev_song['track']]
+            else:
+                runs[prev_song[column]].append(prev_song['track'])
+
+            back2back = back2back.append(prev_song)
+            to_add = song
+
+
+        else:
+            if to_add is not None:
+                runs[to_add[column]].append(to_add['track'])
+                back2back = back2back.append(to_add)
+                to_add = None
+
+
+        # reset previous
+        prev_song = song
+
+    # return
+    return (runs, back2back)
+
+
 
 def main():
     '''
@@ -384,6 +432,16 @@ def main():
         f.write('{0}:\t{1}\n'.format('Letters', letters_played_str))
         f.write('{0}:\t{1}\n'.format(*last_update_str.split(': ')))
         f.close()
+
+        # get back-to-back artists
+        b2b, _ = backtoback(data)
+        f = open(os.path.abspath('back2back.txt'), 'w')
+        ix = 1;
+        for (key, val) in b2b.iteritems():
+            f.write('{0:d}\t{1}\t{2}\n'.format(ix, key, '\t'.join(val)))
+            ix += 1
+        f.close()
+
 
 if __name__ == '__main__':
   main()

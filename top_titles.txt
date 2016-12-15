@@ -30,6 +30,14 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Time Is On My Side
+002	Tighten Up
+002	Tight Rope
+002	Think
+002	Thing Called Love
+002	These Days
+002	The Weight
+002	The Way It Is
 002	The Sky Is Crying
 002	The River
 002	The One I Love
@@ -282,6 +290,106 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Time In A Bottle
+001	Time Heals
+001	Time Has Told Me
+001	Time Has Come Today
+001	Time
+001	Till The Next Goodbye
+001	Till The Morning Comes
+001	Til The End Of The Day
+001	Til I Hear It From You
+001	Tightrope
+001	Tiger Lily
+001	Tie Your Mother Down
+001	Ticket To Ride
+001	Thunder Road
+001	Throw It All Away
+001	Thriller
+001	Three Of A Perfect Pair
+001	Three O'Clock Blues
+001	Three More Days
+001	Three Marlenas
+001	Three Little Birds
+001	Three Hits
+001	Three Button Hand Me Down
+001	Thought It Would Be Easier
+001	Those Were The Days
+001	This Wheel's On Fire
+001	This Town Ain't Big Enough For The Both Of Us
+001	This Tornado Loves You
+001	This Old Porch
+001	This Ol' Cowboy
+001	This Must Be The Place (Naive Melody)
+001	This Is What I Do
+001	This Is Us
+001	This Is Radio Clash
+001	This Is Pop
+001	This Is Not America
+001	This Is Not A Love Song
+001	This Is Hip
+001	This Is Cracker Soul
+001	This Heart
+001	This Cowboy Song
+001	This Charming Man
+001	This And That
+001	This Ain't The Summer Of Love
+001	Thirty Three
+001	Think I'm In Love
+001	Think For Yourself
+001	Think About Me
+001	Things We Said Today
+001	Things We Do
+001	Things That I Used To Do
+001	Things Have Changed
+001	Things Happen
+001	Thin Line Between Love & Hate
+001	Thick As A Brick (Edit No. 1)
+001	These Dreams Of You
+001	These Days In An Open Book
+001	These Boots Are Made For Walkin'
+001	These Arms Of Mine
+001	These Are Days
+001	There's No Way Out Of Here
+001	There's No Other Way
+001	There There
+001	There She Goes
+001	There Must Be An Angel (Playing With My Heart)
+001	There Is A Mountain
+001	There Is A Light That Never Goes Out
+001	There Is
+001	There Goes The Neighborhood
+001	There Goes My Baby
+001	Theologians
+001	Then He Kissed Me
+001	Then Came The Morning
+001	Theme From Shaft
+001	Them Belly Full
+001	The Zephyr Song
+001	The Wrong Heartbeat
+001	The Wreck of the Edmund Fitzgerald
+001	The Word
+001	The Wolf
+001	The Wire
+001	The Wind Cries Mary
+001	The Whole Of The Moon
+001	The Whistler
+001	The Wheel
+001	The Way Young Lovers Do
+001	The Way You Move
+001	The Way You Do The Things You Do
+001	The Way I Am
+001	The Way
+001	The Wasp (texas Radio And The Big Beat)
+001	The Walls Came Down
+001	The Wall Street Shuffle
+001	The Walk
+001	The Waiting
+001	The Village Green Preservation Society
+001	The Unknown Soldier
+001	The Ubiquitous Mr Lovegrove
+001	The Tracks Of My Tears
+001	The Times They Are A-Changin'
 001	The Ties That Bind
 001	The Tide Is High
 001	The Thrill Is Gone

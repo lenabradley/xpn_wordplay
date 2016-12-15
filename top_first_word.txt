@@ -1,4 +1,4 @@
-221	The
+250	The
 216	I
 066	Love
 060	I'm
@@ -19,6 +19,7 @@
 022	Come
 021	Just
 020	She
+019	This
 019	Let
 019	Hey
 019	Good
@@ -75,6 +76,7 @@
 009	Dance
 009	Crazy
 009	Another
+008	There
 008	That's
 008	That
 008	Summertime
@@ -98,6 +100,9 @@
 008	Change
 008	California
 008	Born
+007	Time
+007	Three
+007	These
 007	Mama
 007	Last
 007	Johnny
@@ -134,6 +139,8 @@
 006	Cherry
 006	Angel
 006	And
+005	Think
+005	Things
 005	Sun
 005	Stand
 005	Sometimes
@@ -327,6 +334,13 @@
 003	Alone
 003	Alive
 003	Across
+002	Till
+002	Til
+002	Tighten
+002	Tight
+002	Thing
+002	There's
+002	Then
 002	Tequila
 002	Telephone
 002	Teenage
@@ -607,6 +621,21 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Tightrope
+001	Tiger
+001	Tie
+001	Ticket
+001	Thunder
+001	Throw
+001	Thriller
+001	Thought
+001	Those
+001	Thirty
+001	Thin
+001	Thick
+001	Theologians
+001	Theme
+001	Them
 001	That'll
 001	Texas
 001	Terrapin
