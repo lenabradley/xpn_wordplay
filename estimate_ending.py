@@ -106,7 +106,8 @@ sec_left = numleft / avg_rate
 dt_left = dt.timedelta(seconds=sec_left) # time remaining (after T ended)
 end_time = dt_Tend + dt_left
 print 'Predicted end time:', end_time
-
+end_time2 = end_time + dt.timedelta(seconds=60.*45)
+print 'Modified Predicted end time:', end_time2
 
 # modify prediction
 numleft = int(round(numleft * 1.02))

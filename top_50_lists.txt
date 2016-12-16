@@ -1,5 +1,5 @@
 WXPN A to Z analysis #XPNAtoZ www.xpn.org, by Lena Bartell
-Last updated: 2016-12-15, 16:42
+Last updated: 2016-12-16, 15:41
 
 
 ==============================
@@ -7,56 +7,56 @@ Top 50 artists:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        122 The Beatles
-#   2:         74 The Rolling Stones
-#   3:         71 Bruce Springsteen
-#   4:         69 Bob Dylan
-#   5:         54 Neil Young
-#   6:         40 Led Zeppelin
-#   7:         39 Grateful Dead
-#   8:         38 David Bowie
+#   1:        127 The Beatles
+#   2:         76 The Rolling Stones
+#   3:         74 Bruce Springsteen
+#   4:         72 Bob Dylan
+#   5:         58 Neil Young
+#   6:         42 Led Zeppelin
+#   7:         42 Grateful Dead
+#   8:         41 David Bowie
 #   9:         36 R.E.M.
 #  10:         34 Steely Dan
-#  11:         30 The Who
-#  12:         29 Van Morrison
-#  13:         29 U2
-#  14:         28 Jackson Browne
-#  15:         27 Stevie Wonder
-#  16:         27 Joni Mitchell
-#  17:         27 Fleetwood Mac
-#  18:         26 Bob Marley & The Wailers
-#  19:         25 Paul Simon
-#  20:         24 The Doors
-#  21:         23 Eric Clapton
-#  22:         23 Elton John
-#  23:         23 Bonnie Raitt
-#  24:         22 The Clash
-#  25:         21 Warren Zevon
-#  26:         21 The Kinks
-#  27:         21 Talking Heads
-#  28:         20 Little Feat
-#  29:         19 The Beach Boys
-#  30:         19 The Allman Brothers
-#  31:         18 James Brown
-#  32:         17 Wilco
-#  33:         17 The Pretenders
-#  34:         17 The Eagles
-#  35:         17 Jimi Hendrix
-#  36:         17 Coldplay
-#  37:         16 The Band
-#  38:         16 Otis Redding
-#  39:         16 Creedence Clearwater Revival
-#  40:         15 Tom Petty & The Heartbreakers
-#  41:         15 Todd Rundgren
-#  42:         15 Sting
-#  43:         15 Radiohead
-#  44:         15 Pink Floyd
-#  45:         15 Peter Gabriel
-#  46:         15 John Hiatt
-#  47:         15 Electric Light Orchestra
-#  48:         15 Dave Matthews Band
-#  49:         14 Yes
-#  50:         14 Tom Waits
+#  11:         33 U2
+#  12:         31 Van Morrison
+#  13:         31 The Who
+#  14:         29 Stevie Wonder
+#  15:         28 Joni Mitchell
+#  16:         28 Jackson Browne
+#  17:         28 Fleetwood Mac
+#  18:         27 Bob Marley & The Wailers
+#  19:         26 Paul Simon
+#  20:         25 The Doors
+#  21:         25 Bonnie Raitt
+#  22:         24 The Kinks
+#  23:         24 Elton John
+#  24:         23 Eric Clapton
+#  25:         22 Warren Zevon
+#  26:         22 The Clash
+#  27:         21 The Allman Brothers
+#  28:         21 Talking Heads
+#  29:         20 Little Feat
+#  30:         19 Wilco
+#  31:         19 The Beach Boys
+#  32:         19 Coldplay
+#  33:         18 The Pretenders
+#  34:         18 The Eagles
+#  35:         18 Jimi Hendrix
+#  36:         18 James Brown
+#  37:         17 The Police
+#  38:         17 Pink Floyd
+#  39:         17 Dave Matthews Band
+#  40:         16 Todd Rundgren
+#  41:         16 The Band
+#  42:         16 Otis Redding
+#  43:         16 Marvin Gaye
+#  44:         16 John Lennon
+#  45:         16 John Hiatt
+#  46:         16 Elvis Costello
+#  47:         16 Dire Straits
+#  48:         16 Creedence Clearwater Revival
+#  49:         15 Tom Waits
+#  50:         15 Tom Petty & The Heartbreakers
 
 ==============================
 Top 50 titles:
@@ -75,153 +75,153 @@ Top 50 titles:
 #  10:          4 Fever
 #  11:          4 Dreams
 #  12:          4 Crazy
-#  13:          3 Thank You
-#  14:          3 Sweet Jane
-#  15:          3 Summertime Blues
-#  16:          3 Only You Know And I Know
-#  17:          3 One
-#  18:          3 Mess Around
-#  19:          3 Long Time Gone
-#  20:          3 I'm Free
-#  21:          3 I Thank You
-#  22:          3 I Need Love
-#  23:          3 I Ain't Superstitious
-#  24:          3 Heaven
-#  25:          3 Head Over Heels
-#  26:          3 Hard Times
-#  27:          3 Hallelujah
-#  28:          3 Gloria
-#  29:          3 Do It Again
-#  30:          3 Cocaine
-#  31:          3 Cherry Oh Baby
-#  32:          3 California
-#  33:          3 Ball Of Confusion
-#  34:          2 Up On The Roof
-#  35:          2 Up From The Skies
-#  36:          2 Turn To Stone
-#  37:          2 Tunnel Of Love
-#  38:          2 Tumbling Dice
-#  39:          2 True Love Travels On A Gravel Road
-#  40:          2 Trouble No More
-#  41:          2 Train In Vain
-#  42:          2 Town Without Pity
-#  43:          2 Tired Of My Tears
-#  44:          2 Time Is On My Side
-#  45:          2 Tighten Up
-#  46:          2 Tight Rope
-#  47:          2 Think
-#  48:          2 Thing Called Love
-#  49:          2 These Days
-#  50:          2 The Weight
+#  13:          3 What Goes On
+#  14:          3 Walk On By
+#  15:          3 Walk Away Renee
+#  16:          3 Valerie
+#  17:          3 Thank You
+#  18:          3 Sweet Jane
+#  19:          3 Summertime Blues
+#  20:          3 Only You Know And I Know
+#  21:          3 One
+#  22:          3 Mess Around
+#  23:          3 Long Time Gone
+#  24:          3 I'm Free
+#  25:          3 I Thank You
+#  26:          3 I Need Love
+#  27:          3 I Ain't Superstitious
+#  28:          3 Heaven
+#  29:          3 Head Over Heels
+#  30:          3 Hard Times
+#  31:          3 Hallelujah
+#  32:          3 Gloria
+#  33:          3 Do It Again
+#  34:          3 Cocaine
+#  35:          3 Cherry Oh Baby
+#  36:          3 California
+#  37:          3 Ball Of Confusion
+#  38:          2 What Is Life
+#  39:          2 What Becomes Of The Brokenhearted
+#  40:          2 We Can Work It Out
+#  41:          2 Waterloo Sunset
+#  42:          2 Walk on the Wild Side
+#  43:          2 Walk On
+#  44:          2 Walk Away
+#  45:          2 Wake Up
+#  46:          2 Waiting In Vain
+#  47:          2 Waiting For The Sun
+#  48:          2 Wait
+#  49:          2 Viva Las Vegas
+#  50:          2 Venus
 
 ==============================
 Top 50 title words:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        789 the
-#   2:        321 i
-#   3:        302 a
-#   4:        282 you
-#   5:        264 of
-#   6:        254 love
-#   7:        249 to
-#   8:        247 in
-#   9:        209 me
-#  10:        195 on
-#  11:        175 my
-#  12:        150 it
-#  13:        130 and
-#  14:         94 is
-#  15:         92 don't
-#  16:         86 man
-#  17:         82 your
-#  18:         82 i'm
-#  19:         80 for
-#  20:         78 up
-#  21:         74 time
-#  22:         72 be
-#  23:         71 all
-#  24:         69 no
-#  25:         69 down
-#  26:         67 one
-#  27:         64 baby
-#  28:         63 get
-#  29:         60 like
-#  30:         55 rock
-#  31:         54 can't
-#  32:         53 with
-#  33:         53 back
-#  34:         52 out
-#  35:         52 girl
-#  36:         50 night
-#  37:         50 it's
-#  38:         49 little
-#  39:         48 roll
-#  40:         48 go
-#  41:         45 way
-#  42:         44 heart
-#  43:         44 do
-#  44:         43 that
-#  45:         43 life
-#  46:         43 good
-#  47:         42 want
-#  48:         42 come
-#  49:         41 so
-#  50:         41 ain't
+#   1:        840 the
+#   2:        331 i
+#   3:        322 a
+#   4:        302 you
+#   5:        279 of
+#   6:        272 to
+#   7:        262 love
+#   8:        259 in
+#   9:        217 on
+#  10:        211 me
+#  11:        184 my
+#  12:        158 it
+#  13:        136 and
+#  14:        105 is
+#  15:         95 don't
+#  16:         93 man
+#  17:         86 your
+#  18:         86 up
+#  19:         86 for
+#  20:         83 i'm
+#  21:         80 be
+#  22:         77 down
+#  23:         76 time
+#  24:         76 all
+#  25:         70 no
+#  26:         68 one
+#  27:         67 get
+#  28:         65 like
+#  29:         64 baby
+#  30:         62 what
+#  31:         57 rock
+#  32:         56 out
+#  33:         55 with
+#  34:         55 girl
+#  35:         54 can't
+#  36:         53 back
+#  37:         52 night
+#  38:         52 go
+#  39:         51 it's
+#  40:         51 do
+#  41:         50 little
+#  42:         48 roll
+#  43:         48 away
+#  44:         47 way
+#  45:         47 life
+#  46:         46 want
+#  47:         45 that
+#  48:         45 heart
+#  49:         45 good
+#  50:         42 we
 
 ==============================
 Top 50 release year:
 ------------------------------
 #Rank: Occurances Item
 ==============================
-#   1:        196 1970
-#   2:        189 1
-#   3:        181 1969
-#   4:        162 1973
-#   5:        157 1972
-#   6:        153 1974
-#   7:        152 1971
-#   8:        147 1967
-#   9:        139 1976
-#  10:        129 1977
-#  11:        129 1968
-#  12:        120 1975
-#  13:        118 1980
-#  14:        116 1978
-#  15:        110 1994
-#  16:        108 1966
-#  17:        106 1992
-#  18:        104 1989
-#  19:        103 1993
-#  20:        101 1979
-#  21:         98 1984
-#  22:         96 1982
-#  23:         95 1991
-#  24:         88 1985
-#  25:         86 1986
-#  26:         84 1987
-#  27:         81 1988
-#  28:         80 1965
-#  29:         78 1983
-#  30:         70 1996
-#  31:         69 1981
-#  32:         66 2007
-#  33:         66 2004
-#  34:         66 1995
-#  35:         65 2003
-#  36:         65 1998
-#  37:         64 1999
-#  38:         64 1990
-#  39:         62 2000
-#  40:         61 2002
-#  41:         58 2006
-#  42:         56 2016
-#  43:         56 2001
-#  44:         55 2005
-#  45:         53 2013
-#  46:         53 1964
-#  47:         50 2009
-#  48:         49 2011
-#  49:         49 2010
-#  50:         47 2015
+#   1:        209 1970
+#   2:        208 1
+#   3:        189 1969
+#   4:        171 1973
+#   5:        166 1971
+#   6:        164 1972
+#   7:        162 1974
+#   8:        155 1967
+#   9:        143 1976
+#  10:        135 1977
+#  11:        135 1968
+#  12:        126 1980
+#  13:        125 1975
+#  14:        121 1978
+#  15:        114 1994
+#  16:        113 1992
+#  17:        112 1966
+#  18:        108 1989
+#  19:        108 1979
+#  20:        105 1993
+#  21:        101 1984
+#  22:        100 1985
+#  23:         99 1991
+#  24:         99 1982
+#  25:         92 1986
+#  26:         89 1987
+#  27:         87 1988
+#  28:         85 1965
+#  29:         83 1983
+#  30:         78 1996
+#  31:         71 2007
+#  32:         71 2004
+#  33:         71 1995
+#  34:         71 1981
+#  35:         68 2003
+#  36:         68 1998
+#  37:         68 1990
+#  38:         67 2002
+#  39:         66 2000
+#  40:         65 1999
+#  41:         62 2016
+#  42:         62 2006
+#  43:         61 2001
+#  44:         57 2005
+#  45:         56 2013
+#  46:         56 2009
+#  47:         54 1964
+#  48:         53 2011
+#  49:         49 2015
+#  50:         49 2010

@@ -10,6 +10,10 @@
 004	Fever
 004	Dreams
 004	Crazy
+003	What Goes On
+003	Walk On By
+003	Walk Away Renee
+003	Valerie
 003	Thank You
 003	Sweet Jane
 003	Summertime Blues
@@ -31,6 +35,21 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	What Is Life
+002	What Becomes Of The Brokenhearted
+002	We Can Work It Out
+002	Waterloo Sunset
+002	Walk on the Wild Side
+002	Walk On
+002	Walk Away
+002	Wake Up
+002	Waiting In Vain
+002	Waiting For The Sun
+002	Wait
+002	Viva Las Vegas
+002	Venus
+002	Urge For Going
+002	Upside Down
 002	Up On The Roof
 002	Up From The Skies
 002	Turn To Stone
@@ -301,6 +320,257 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	White Rabbit
+001	White Punks On Dope
+001	White Lines (Don't Do It)
+001	White Lies
+001	White Ladder
+001	White Horses
+001	White Honey
+001	White Flag
+001	White Bird
+001	Whispers (Gettin' Louder)
+001	Whisky Train
+001	Whipping Post
+001	Whip It
+001	While You See A Chance
+001	While My Guitar Gently Weeps
+001	Wherever Is Your Heart
+001	Where You Lead
+001	Where Will I Be
+001	Where Were You?
+001	Where To Now St. Peter?
+001	Where The Streets Have No Name
+001	Where It's At
+001	Where Is The Love
+001	Where Is My Mind?
+001	Where Have All The Good Times Gone
+001	Where Have All The Cowboys Gone
+001	Where Did Our Love Go
+001	Where Are You Going
+001	Whenever You're On My Mind
+001	When the Tequila Runs Out
+001	When You're Falling
+001	When You're Away
+001	When You Were Young
+001	When You Were Mine
+001	When You Dance I Can Really Love
+001	When Will I See You
+001	When We Ran
+001	When The World Is Running Down
+001	When The Whip Comes Down
+001	When The Stars Go Blue
+001	When The Spell Is Broken
+001	When The Morning Comes
+001	When The Levee Breaks
+001	When The Daylight Comes
+001	When That Evening Sun Goes Down
+001	When My Train Pulls In
+001	When My Time Comes
+001	When Love Comes To Town
+001	When I'm Sixty-Four
+001	When I Write The Book
+001	When I Paint My Masterpiece
+001	When I Go Away
+001	When I Get To The Border
+001	When Heroes Go Down
+001	When Doves Cry
+001	When An Old Crickater Leaves The Crease
+001	When A Man Loves A Woman
+001	When 2 & 2 Are Five
+001	Wheels Of Fortune
+001	Whatever Gets You Through The Night
+001	Whatcha See Is Whatcha Get
+001	What's Up?
+001	What's The Matter Here
+001	What's Happening Brother
+001	What's Good?
+001	What's Going On
+001	What's Been Goin' On
+001	What'd I Say
+001	What'cha Say
+001	What You Need
+001	What You Don't Do
+001	What Would You Say
+001	What Makes You Think You're The One
+001	What Made Milwaukee Famous
+001	What Light
+001	What Kind Of Man
+001	What It Is
+001	What Is Hip
+001	What Is And What Should Never Be
+001	What In The World
+001	What I Am
+001	What Does It Take (to Win Your Love)
+001	What Do You Want The Girl To Do
+001	What Do You Want The Boy To Do
+001	What Do You Want From Life
+001	What Difference Does It Make?
+001	What Can I Say
+001	What Are You Like
+001	What About Me
+001	What A Wonderful Man
+001	What A Man
+001	What A Crying Shame
+001	Wharf Rat
+001	Whammer Jammer
+001	Western Union
+001	Western Stars
+001	West L.A. Fadeaway
+001	West End Girls
+001	West Coast
+001	Werewolves Of London
+001	Well Alright
+001	Welfare Mothers
+001	Welcome To The Working Week
+001	Welcome To The Terrordome
+001	Welcome To The Machine
+001	Welcome To The Club
+001	Welcome To The Boomtown
+001	Welcome To My Party
+001	Welcome To My Nightmare
+001	Wedding Song
+001	Wedding Bell Blues
+001	Wear Your Love Like Heaven
+001	We're Not Gonna Take It
+001	We're Going To Be Friends
+001	We're An American Band
+001	We're A Winner
+001	We Will Rock You / We Are The Champions
+001	We Will Not Be Lovers
+001	We Used To Vacation
+001	We Used To Be Friends
+001	We Take Care Of Our Own
+001	We Shall Overcome
+001	We Meet, We Part, We Remember
+001	We Live So Fast
+001	We Just Disagree
+001	We Gotta Get You A Woman
+001	We Gotta Get Out Of This Place
+001	We Got To Have Peace
+001	We Got More Soul
+001	We Didn't Start The Fire
+001	We Built This City
+001	We Belong Together
+001	We Are Young
+001	We Are The Champions
+001	We Are Family
+001	We Are All Made Of Stars
+001	Wayward Son
+001	Ways To Be Wicked
+001	Way Down Now
+001	Wavin' Flag
+001	Wavelength
+001	Wave Of Mutilation
+001	Watermelon Man
+001	Water With The Wine
+001	Water Song
+001	Water Of Love
+001	Water Fountain
+001	Watching The Wheels
+001	Watching The River Flow
+001	Watching The Detectives
+001	Watcher Of The Skies
+001	Watch That Man
+001	Wasting Time
+001	Wasted Words
+001	Waste A Moment
+001	Wasn't Born To Follow
+001	Wash Us Away
+001	Was A Sunny Day
+001	War Pigs
+001	War
+001	Want Ads
+001	Wanna Be Startin' Somethin'
+001	Wang Dang Doodle
+001	Waltz #2
+001	Walls (Circus)
+001	Wall Of Death
+001	Walking With A Ghost
+001	Walking Spanish
+001	Walking On The Moon
+001	Walking On Broken Glass
+001	Walking In Your Footsteps
+001	Walking In The Wind
+001	Walking In Rhythm
+001	Walking In My Shoes
+001	Walking In Memphis
+001	Walking In L. A.
+001	Walking Down Madison
+001	Walking After Midnight
+001	Walkin' To New Orleans
+001	Walkin' The Dog
+001	Walkin' After Midnight
+001	Walken
+001	Walk This Way
+001	Walk On The Ocean
+001	Walk Of Life
+001	Walk Like An Egyptian
+001	Walk Like A Man
+001	Walk In The Sun
+001	Walk Don't Run
+001	Walk Between The Raindrops
+001	Walk And Talk Like An Angel
+001	Wakin' On A Pretty Day
+001	Wake Up Little Susie
+001	Wake Up Everybody
+001	Waitress In The Sky
+001	Waiting Room
+001	Waiting On The World To Change
+001	Waiting On A Friend
+001	Waiting For The Bus
+001	Waiting All Night
+001	Waiting
+001	Waitin' On You
+001	Waitin' On A Sunny Day
+001	Waitin' For A Superman
+001	Wait Up
+001	Wait Until Tomorrow
+001	Wah-wah
+001	Wagon Wheel
+001	Wack Wack
+001	Vultures
+001	Voodoo Child (slight Return)
+001	Voodoo Child
+001	Volunteers
+001	Volcano
+001	Voices Carry
+001	Viva La Vida
+001	Visions Of Johanna
+001	Virtual Insanity
+001	Virginia Plain
+001	Violet Hill
+001	Vincent
+001	Vienna
+001	Video Killed The Radio Star
+001	Video Games
+001	Victoria
+001	Victim Of Love
+001	Vicious
+001	Vertigo
+001	Venus As A Boy
+001	Venus And Mars/Rockshow
+001	Venus And Mars-Rock Show-Jet
+001	Velouria
+001	Vehicle
+001	Vasoline
+001	Vaporize
+001	Van Lear Rose
+001	Vampire Blues
+001	Valley Girl
+001	Valleri
+001	VCR
+001	Used to Rule the World
+001	Used To Be A Cop
+001	Use Somebody
+001	Use Me
+001	Us V. Them
+001	Us And Them
+001	Uptown Girl
+001	Uptown Funk
+001	Uptight (everything's All Right)
+001	Upfield
+001	Up, Up And Away
 001	Up Up Up
 001	Up On The Sun
 001	Up On Cripple Creek
@@ -330,6 +600,7 @@
 001	Unbelievers
 001	Unbelieveable
 001	Uh-oh Love Comes To Town
+001	U.S. Blues
 001	U Get Me High
 001	Typical Situation
 001	Two Weeks

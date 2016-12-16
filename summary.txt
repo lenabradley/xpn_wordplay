@@ -1,7 +1,7 @@
-Elapsed time:	15 days 10:40:00
-Songs:	5083
-Artists:	1561
-Song Titles:	4733
-Song Title Words:	3696
-Letters:	21 (80.8%)
-Last updated:	2016-12-15, 16:42
+Elapsed time:	16 days 09:38:00
+Songs:	5377
+Artists:	1604
+Song Titles:	5004
+Song Title Words:	3819
+Letters:	23 (88.5%)
+Last updated:	2016-12-16, 15:41

@@ -23,3 +23,4 @@
 23	Bruce Springsteen	The Rising	The River
 24	Jackson Browne	The Road	The Road And The Sky
 25	Neil Young	Union Man	Unknown Legend
+26	Marvin Gaye	What's Going On	What's Happening Brother
