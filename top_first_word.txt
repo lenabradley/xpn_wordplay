@@ -39,6 +39,7 @@
 017	Big
 016	I've
 016	How
+015	Wild
 015	Bad
 014	On
 014	Never
@@ -59,6 +60,7 @@
 012	Trouble
 012	Keep
 012	Here
+011	White
 011	Too
 011	Tell
 011	Stay
@@ -67,6 +69,7 @@
 011	I'll
 011	Hold
 011	For
+010	Why
 010	Waiting
 010	Turn
 010	Strange
@@ -77,7 +80,6 @@
 010	Midnight
 010	Life
 010	Everybody
-009	White
 009	Up
 009	Thank
 009	Right
@@ -90,6 +92,7 @@
 009	Dance
 009	Crazy
 009	Another
+008	Who
 008	Under
 008	There
 008	That's
@@ -115,6 +118,7 @@
 008	Change
 008	California
 008	Born
+007	With
 007	Welcome
 007	True
 007	Train
@@ -199,6 +203,8 @@
 005	Are
 005	American
 005	Always
+004	Will
+004	Whole
 004	We're
 004	Water
 004	Wake
@@ -263,6 +269,7 @@
 004	Brand
 004	Baby,
 004	After
+003	Wishing
 003	West
 003	Watching
 003	Walkin'
@@ -369,6 +376,11 @@
 003	Alone
 003	Alive
 003	Across
+002	Wipe
+002	Willin'
+002	Wichita
+002	Who's
+002	Who'll
 002	While
 002	Western
 002	Wedding
@@ -680,6 +692,26 @@
 002	Alison
 002	Alabama
 002	Absolutely
+001	Wolf
+001	Woke
+001	Without
+001	Within
+001	Witchi
+001	Wishlist
+001	Wish
+001	Wired
+001	Winter
+001	Winner/Loser
+001	Windows
+001	Window
+001	Windfall
+001	Wind
+001	Willie
+001	Wildwood
+001	Wildflowers
+001	Wildfire
+001	Wicked
+001	Whose
 001	Whispers
 001	Whisky
 001	Whipping

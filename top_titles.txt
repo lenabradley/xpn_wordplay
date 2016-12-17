@@ -35,6 +35,14 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	With A Little Help From My Friends
+002	Wishing Well
+002	Wipe Out
+002	Willin'
+002	Wild Thing
+002	Wild Horses
+002	Wild Child
+002	Wichita Lineman
 002	What Is Life
 002	What Becomes Of The Brokenhearted
 002	We Can Work It Out
@@ -320,6 +328,73 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Wolf Like Me
+001	Woke Up This Morning
+001	Without You
+001	Within You Without You
+001	With You
+001	With The Lid Off
+001	With Or Without You
+001	With My Own Two Hands
+001	With A Girl Like You
+001	Witchi Tai To
+001	Wishlist
+001	Wishing (I Had A Photograph Of You)
+001	Wish You Were Here
+001	Wired All Night
+001	Winter In America
+001	Winner/Loser
+001	Windows Are Rolled Down
+001	Window To The World
+001	Windfall
+001	Wind Up Workin' In A Gas Station
+001	Willie And The Hand Jive
+001	Will You Still Love Me Tomorrow
+001	Will You Love Me Tomorrow
+001	Will The Wolf Survive?
+001	Will The Circle Be Unbroken
+001	Wildwood Days
+001	Wildflowers
+001	Wildfire
+001	Wild World
+001	Wild Wild Life
+001	Wild West End
+001	Wild One
+001	Wild Night
+001	Wild Mountain Honey
+001	Wild Is The Wind
+001	Wild In The Streets
+001	Wild Honey Pie
+001	Wicked Game
+001	Why I Sing The Blues
+001	Why Georgia
+001	Why Don't We Talk About It
+001	Why Don't We Do It In The Road?
+001	Why Does Love Got To Be So Sad?
+001	Why Does It Always Rain On Me
+001	Why Do Fools Fall In Love
+001	Why Can't We Live Together?
+001	Why Can't We Live Together
+001	Why Can't I Touch It?
+001	Whose Authority
+001	Whole Wide World
+001	Whole New You
+001	Whole Lotta Shakin' Goin' On
+001	Whole Lotta Love
+001	Who's That Girl?
+001	Who's Gonna Ride Your Wild Horses
+001	Who'll Stop The Rain
+001	Who'll Be The Next In Line
+001	Who Will Comfort Me
+001	Who Loves The Sun
+001	Who Knows Where The Time Goes
+001	Who Is He And What Is He To You
+001	Who Is He (And What Is He To You)?
+001	Who Have You Been Loving
+001	Who Can It Be Now?
+001	Who Are You
+001	White Winter Hymnal
+001	White Room
 001	White Rabbit
 001	White Punks On Dope
 001	White Lines (Don't Do It)
