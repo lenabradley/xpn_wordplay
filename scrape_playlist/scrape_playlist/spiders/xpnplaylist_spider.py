@@ -15,6 +15,7 @@ import numpy as np
 timezero = dt.datetime(2016, 11, 30, 6, 0) # time the A-Z started
 now = dt.datetime.now()
 now = dt.datetime(now.year, now.month, now.day, 23, 59) # set now to be the end of today to ensure proper num_days
+endtime = dt.datetime(2016, 12, 17, 13, 26) # time the A-Z ended
 
 # import all current data & remove duplicates
 filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
@@ -115,7 +116,7 @@ class PlaylistSpider(Spider):
                 songtime = dt.datetime(year, month, day, hour, minute)
 
                 # skip if before the 'zero' time
-                if songtime > timezero:
+                if (songtime > timezero) and (songtime < endtime):
                     songtimes.append(songtime)
                     artists.append(artist)
                     albums.append(album)

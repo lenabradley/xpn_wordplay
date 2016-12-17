@@ -24,3 +24,6 @@
 24	Jackson Browne	The Road	The Road And The Sky
 25	Neil Young	Union Man	Unknown Legend
 26	Marvin Gaye	What's Going On	What's Happening Brother
+27	The Beatles	Yellow Submarine	Yer Blues
+28	The Rolling Stones	You Gotta Move	You Got The Silver
+29	U2	Zooropa	Zoo Station

@@ -35,6 +35,22 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+002	Zombie
+002	You've Got A Friend
+002	You're The One
+002	You're Gonna Make Me Lonesome When You Go
+002	You Showed Me
+002	You Keep Me Hanging On
+002	You Got It
+002	You Belong To Me
+002	You
+002	Yes We Can Can
+002	Ya Hey
+002	Wrecking Ball
+002	Wrap It Up
+002	Work To Do
+002	Woodstock
+002	Wooden Ships
 002	With A Little Help From My Friends
 002	Wishing Well
 002	Wipe Out
@@ -328,6 +344,189 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+001	Zoot Suit Riot
+001	Zooropa
+001	Zoo Station
+001	Zomby Woof
+001	Ziggy Stardust--Suffragette City
+001	Zig Zag Wanderer
+001	Zebra
+001	ZZ Top Goes To Egypt
+001	Yummy, Yummy, Yummy
+001	Yours Is No Disgrace
+001	Your Woman
+001	Your Wildest Dreams
+001	Your Touch
+001	Your Time Is Gonna Come
+001	Your Song
+001	Your Own Sweet Way
+001	Your Own Special Way
+001	Your Mother Should Know
+001	Your Mind Is On Vacation
+001	Your Love Is Killing Me
+001	Your Love
+001	Your Lips
+001	Your Lies
+001	Your Gold Teeth
+001	Your Ghost
+001	Your Eyes Open
+001	Your Cheatin' Heart
+001	Your Bright Baby Blues
+001	Your Body Is A Wonderland
+001	Young Gifted and Black
+001	Young Folks
+001	Young Americans
+001	You've Really Got A Hold On Me
+001	You've Lost That Lovin' Feelin'
+001	You've Got To Hide Your Love Away
+001	You've Got It Bad Girl
+001	You've Been In Love Too Long
+001	You're The First, The Last, My Everything
+001	You're So Vain
+001	You're Right (I'm Wrong)
+001	You're Playing Us Too Close
+001	You're Only Lonely
+001	You're No Good
+001	You're My Favorite Waste Of Time
+001	You're My Best Friend
+001	You're Much Too Soon
+001	You're Gonna Miss Me
+001	You're Gonna Get What's Coming
+001	You're Going To Lose That Girl
+001	You're Crazy For Taking The Bus
+001	You're All I've Got Tonight
+001	You're All I Need To Get By
+001	You're Aging Well
+001	You're A Wolf
+001	You're A Big Girl Now
+001	You Won't See Me
+001	You Woke Up My Neighborhood
+001	You Were Never There
+001	You Wear It Well
+001	You Want It Darker
+001	You Turn Me On, I'm A Radio
+001	You Spin Me Round
+001	You Should Be Dancing
+001	You Shook Me All Night Long
+001	You Shook Me
+001	You Sexy Thing
+001	You Set The Scene
+001	You Send Me
+001	You Really Got Me
+001	You Only Live Once
+001	You Never Need Nobody
+001	You Never Know
+001	You Never Give Me Your Money
+001	You Never Can Tell
+001	You Need To Be With Me
+001	You Need Love
+001	You Must Be Good For Something
+001	You May Be Right
+001	You Make Loving Fun
+001	You Make It So Hard
+001	You Made Me The Thief Of Your Heart
+001	You Love The Thunder
+001	You Know My Name (Look Up The Number)
+001	You Know I'm No Good
+001	You Haven't Done Nothin'
+001	You Gotta Move
+001	You Got Yr. Cherry Bomb
+001	You Got What It Takes
+001	You Got The Silver
+001	You Got My Letter
+001	You Got Lucky
+001	You Go Down Smooth
+001	You Get What You Give
+001	You Get What You Deserve
+001	You Gave Me The Answer
+001	You Don't Treat Me No Good
+001	You Don't Move Me
+001	You Don't Know Like I Know
+001	You Don't Have To Cry
+001	You Dance
+001	You Cried Wolf
+001	You Cannot Win If You Do Not Play
+001	You Can't Judge A Book By Its Cover
+001	You Can't Hurry Love
+001	You Can't Hide
+001	You Can't Get What You Want
+001	You Can't Do That
+001	You Can't Catch Me
+001	You Can't Buy My Love
+001	You Can't Be Told
+001	You Can't Always Get What You Want
+001	You Can Make It If You Try
+001	You Can Look (But You Better Not Touch)
+001	You Can Leave Your Hat On
+001	You Can Get It If You Really Want
+001	You Can Call Me Al
+001	You Can Bring Me Flowers
+001	You Can All Join In
+001	You Bowed Down
+001	You Better You Bet
+001	You Be Illin'
+001	You Are The Sunshine Of My Life
+001	You Are The Best Thing
+001	You Are In My System
+001	You Are A Tourist
+001	You And Your Sister
+001	You And I
+001	You Ain't Seen Nothing Yet
+001	You Ain't Going Nowhere
+001	You & I
+001	Yesterday's News
+001	Yesterday
+001	Yester-Me, Yester-You, Yesterday
+001	Yes, I'm Ready
+001	Yer Blues
+001	Yellow Submarine
+001	Yellow Moon
+001	Yellow Ledbetter
+001	Yellow Eyes
+001	Yellow
+001	Year Of The Cat
+001	Yeah Yeah Yeah Song
+001	Ya Ya
+001	Xanadu
+001	X Offender
+001	Wrote For Luck
+001	Wrote A Song For Everyone
+001	Wrong 'em Boyo
+001	Written In Reverse
+001	Wristband
+001	Wreck On The Highway
+001	Wouldn't It Be Nice
+001	Would I Lie To You?
+001	Worst Trip
+001	Worrisome Heart
+001	Worn Me Down
+001	World Turning
+001	World Shut Your Mouth
+001	World In Motion
+001	World In Changes
+001	Working On A Dream
+001	Working In The Coal Mine
+001	Working Girl
+001	Working For MCA
+001	Workin' Day and Night
+001	Work To Make It Work
+001	Work It Out
+001	Wordy Rappinghood
+001	Words
+001	Wordless Chorus
+001	Word Up
+001	Word On A Wing
+001	Woody And Dutch On The Slow Train To Peking
+001	Wonderwall
+001	Wondering Where The Lions Are
+001	Wonderful World Beautiful People
+001	Wonderful Tonight
+001	Wonder
+001	Won't Give In
+001	Won't Get Fooled Again
+001	Woman's Got The Power
+001	Woman With The Strength of 10,000 Men
+001	Woman
 001	Wolf Like Me
 001	Woke Up This Morning
 001	Without You
@@ -343,6 +542,7 @@
 001	Wish You Were Here
 001	Wired All Night
 001	Winter In America
+001	Winter
 001	Winner/Loser
 001	Windows Are Rolled Down
 001	Window To The World
@@ -464,6 +664,7 @@
 001	What's Been Goin' On
 001	What'd I Say
 001	What'cha Say
+001	What the Winter Said
 001	What You Need
 001	What You Don't Do
 001	What Would You Say
@@ -604,6 +805,7 @@
 001	Wah-wah
 001	Wagon Wheel
 001	Wack Wack
+001	W*O*L*D
 001	Vultures
 001	Voodoo Child (slight Return)
 001	Voodoo Child
@@ -902,6 +1104,7 @@
 001	The Word
 001	The Wolf
 001	The Wire
+001	The Winter Sun
 001	The Wind Cries Mary
 001	The Whole Of The Moon
 001	The Whistler
@@ -1004,6 +1207,7 @@
 001	The Look Of Love (part One)
 001	The Look Of Love
 001	The Long Road
+001	The Long Night
 001	The Long Cut
 001	The Long And Winding Road
 001	The Loner
@@ -1509,6 +1713,7 @@
 001	So High (Rock Me Baby And Roll Me Away)
 001	So Fine
 001	So Beautiful or So What
+001	Snow
 001	Sneakin' Sally Thru The Alley
 001	Sneakin' Sally Through The Alley
 001	Snatch It Back And Hold It
@@ -1893,6 +2098,7 @@
 001	Requiem Pour Un Con
 001	Repo Man
 001	Rent I Pay
+001	Remembering Bud
 001	Remember (Walkin' In The Sand)
 001	Remedy
 001	Release
@@ -2222,6 +2428,7 @@
 001	On Call
 001	On An Island
 001	On A Night Like This
+001	Old Pennsylvania
 001	Old Man
 001	Old Brown Shoe
 001	Old
@@ -2351,6 +2558,7 @@
 001	Nature's Way
 001	Natural One
 001	Natural High
+001	Natural Causes
 001	Natural Blues
 001	Nashville Cats
 001	Nantucket Sleighride (To Owen Coffin)
@@ -3107,6 +3315,7 @@
 001	Inner City Blues
 001	Industrial Disease
 001	Indoor Fireworks
+001	Indian Summer
 001	Incident on 57th St
 001	Incense And Peppermints
 001	In-a-gadda-da-vida
@@ -3967,6 +4176,7 @@
 001	Feel A Whole Lot Better
 001	Feed The Tree
 001	Feats Don't Fail Me Now
+001	Featherbed Lane
 001	Favourite Shirts (Boy Meets Girl)
 001	Father And Daughter
 001	Fate's Right Hand
@@ -4703,6 +4913,7 @@
 001	Blue Sky
 001	Blue Skies
 001	Blue Rose
+001	Blue Purple
 001	Blue Money
 001	Blue Monday
 001	Blue Letter
@@ -4874,6 +5085,7 @@
 001	Avenging Annie
 001	Avant Gardener
 001	Avalon
+001	Autumn Colours
 001	Australia
 001	Atomic Power
 001	Atomic Dog

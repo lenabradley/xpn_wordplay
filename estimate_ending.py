@@ -70,10 +70,16 @@ font = {'family' : 'sans',
         'size'   : 16}
 matplotlib.rc('font', **font)
 labels = ['{0}'.format(x) for x in letters[:20]]
-plt.scatter(xdata, ydata, s=20, marker='*', color='r') # plot raw data
+plt.scatter(xdata, ydata, s=20, marker='*', color='k') # plot raw data
 for (text, x, y) in zip(letters, xdata, ydata): # annotate each point
     plt.annotate(s=text, xy=(x+10,y+10), size=12)
 plt.plot(xfit, yfit, 'b-', label='Linear Fit [{0:0.4f}, {1:0.4f}]'.format(*tuple(pfit))) #linear fit line
+
+
+for (text, x, y) in zip(letters[20:24], lookback_count[20:24], atoz_count[20:24]):
+    plt.plot(x, y, 'r*', ms=20)
+    plt.annotate(s=text, xy=(x+10, y+10), size=18, color='r')
+
 plt.xlabel('Historical playlist count (# songs)')
 plt.ylabel('A to Z playlist count (# songs)')
 plt.xlim([0, 800])
