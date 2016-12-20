@@ -14,10 +14,12 @@ import datetime as dt
 import glob
 import numpy as np
 import sys
+import unidecode
 pd.options.mode.chained_assignment = None  # default='warn'
 
 # function definitions
-def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=True):
+def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=True,
+                       reset_MB=False):
     '''
     import data saved by the scrapy spider, update the musicbrainz data,
     re-save the data, and return the data as a pandas DataFrame
@@ -59,8 +61,9 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
         data = raw_data
 
     # fill NaNs with zeros
-    if 'release_year' not in data.columns:
-        data['release_year'] = 0
+    if ('release_year' not in data.columns) or reset_MB:
+        data['release_year'] = np.int64(0)
+
     data = data.fillna(value=int(0))
     data['release_year'] = data['release_year'].astype(np.int64)
 
@@ -107,6 +110,7 @@ def get_mb_data(data):
 
     # setup output
     years = []
+    albums = []
 
     # run search on each song
     for song in data.itertuples():
@@ -116,21 +120,28 @@ def get_mb_data(data):
 
             # run query search
             query = 'artist:"{0}" AND recording:"{1}" AND status:"official"'.format(song.artist, song.track)
-            if song.artist == 'R. E. M.':
-                query = 'artist:"{0}" AND recording:"{1}" AND status:"official"'.format('R.E.M', song.track)
             results = mb.search_recordings(query=query, strict=True)
 
-            # extract fields of interest
-            release_year, _ = extract_mb_results(results)
+            # extract fields of interest (earliest release year & associated album)
+            release_year, album = extract_mb_results(results)
+            if type(album) is unicode:
+                album = unidecode.unidecode(album)
 
-            # show result
+            # show result, catching errors
             try:
-                print '{0:d} {1} by {2}'.format(release_year, song.track, song.artist)
+                print '{0:d} {1} by {2}'.format(release_year, song.track, song.artist),
             except:
-                print 'error', release_year, 'setting to 1'
                 release_year = 1
+                print 'ERROR {0:d} {1} by {2}'.format(release_year, song.track, song.artist),
+
+            try:
+                print 'on {0}'.format(album)
+            except:
+                album = song.album
+                print 'ERROR on {0}'.format(album)
 
             years.append(release_year)
+            albums.append(album)
 
         else:
             release_year = int(song.release_year)
@@ -138,6 +149,7 @@ def get_mb_data(data):
 
     # update dataframe
     data.loc[:,'release_year'] = years
+    data.loc[:,'album'] = albums
 
     # return data frame
     return data
@@ -320,9 +332,6 @@ def backtoback(df, column='artist'):
                 curr_tracks = []
                 to_add = None
 
-
-
-
         # reset previous
         prev_song = song
 
@@ -340,13 +349,15 @@ def main():
     # parse inputs (lookback vs AtoZ)
     args = sys.argv[1:]
     if not args:
+        atoz = False
         lookback = False
     else:
         lookback = args[0]=='lookback'
+        atoz = args[0]=='atoz'
 
     if lookback:
         print 'Running lookback analysis'
-    else:
+    elif atoz:
         print 'Running AtoZ analysis'
 
     if lookback:
@@ -355,11 +366,12 @@ def main():
         data = read_playlist_data(filename=filename, rawglob='./scrape_playlist/lookback/playlistdata_*.csv',
                                   update_mb=False, save_data=True)
 
-    else: # standard A to Z analysis
+    elif atoz: # standard A to Z analysis
 
         #gather song data and update MB info
         filename = 'playlistdata.csv'
-        data = read_playlist_data(filename=filename, update_mb=True, save_data=True)
+        data = read_playlist_data(filename=filename, update_mb=True, save_data=True,
+                                  reset_MB=True)
         artists = list(data['artist'])
         years = list(data['release_year'])
         tracks = list(data['track'])
