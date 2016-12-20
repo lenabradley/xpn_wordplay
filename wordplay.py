@@ -127,18 +127,22 @@ def get_mb_data(data):
             if type(album) is unicode:
                 album = unidecode.unidecode(album)
 
+            if (release_year==1) or (album==''):
+                album = song.album # revert to playlist album result
+                print 'NO RESULTS',
+
             # show result, catching errors
             try:
                 print '{0:d} {1} by {2}'.format(release_year, song.track, song.artist),
             except:
                 release_year = 1
-                print 'ERROR {0:d} {1} by {2}'.format(release_year, song.track, song.artist),
+                print 'INVALID {0:d} {1} by {2}'.format(release_year, song.track, song.artist),
 
             try:
                 print 'on {0}'.format(album)
             except:
                 album = song.album
-                print 'ERROR on {0}'.format(album)
+                print 'INVALID on {0}'.format(album)
 
             years.append(release_year)
             albums.append(album)

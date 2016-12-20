@@ -14,7 +14,6 @@ import numpy as np
 # hard code start time and the number of days to search
 timezero = dt.datetime(2016, 11, 30, 6, 0) # time the A-Z started
 now = dt.datetime.now()
-now = dt.datetime(now.year, now.month, now.day, 23, 59) # set now to be the end of today to ensure proper num_days
 endtime = dt.datetime(2016, 12, 17, 13, 26) # time the A-Z ended
 
 # import all current data & remove duplicates
@@ -25,13 +24,13 @@ csv_kwargs = {'sep': '\t', 'header': 0, 'dtype': col_dtypes, 'index_col':'time'}
 prev_data = pd.read_csv(filename, **csv_kwargs)
 prev_data = prev_data.drop_duplicates().reset_index()
 
-# get last song's day
-if not prev_data.empty:
-    start_time_str = max(prev_data['time'])
-    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
+## get last song's day
+#if not prev_data.empty:
+#    start_time_str = max(prev_data['time'])
+#    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
 
 # number of days to read
-num_days = (now-timezero).days+1
+num_days = (endtime-timezero).days+1
 print '*** TIME ZERO: ', timezero
 
 class PlaylistSpider(Spider):
@@ -107,9 +106,17 @@ class PlaylistSpider(Spider):
                     album = match.group(3)
                     linkOK = True
 
-                    # manually fix REM's name
+                    # manually fix names  ******* obviouslly a pattern here - add regex to fix it!!
                     if artist == 'R. E. M.':
                         artist = 'R.E.M.'
+                    elif artist == 'The Eagles':
+                        artist = 'Eagles'
+                    elif artist == 'J. J. Cale':
+                        artist = 'J.J. Cale'
+                    elif artist =='k. d. lang':
+                        artist = 'k.d. lang'
+                    elif artist = 'K. T. Tunstall':
+                        artist = 'KT Tunstall'
 
             # store all data
             if dateOK and textOK and linkOK:

@@ -90,9 +90,17 @@ class PlaylistSpider(Spider):
                     album = match.group(3)
                     linkOK = True
 
-                    # manually fix REM's name
+                    # manually fix names  ******* obviouslly a pattern here - add regex to fix it!!
                     if artist == 'R. E. M.':
                         artist = 'R.E.M.'
+                    elif artist == 'The Eagles':
+                        artist = 'Eagles'
+                    elif artist == 'J. J. Cale':
+                        artist = 'J.J. Cale'
+                    elif artist =='k. d. lang':
+                        artist = 'k.d. lang'
+                    elif artist = 'K. T. Tunstall':
+                        artist = 'KT Tunstall'
 
             # store all data
             if dateOK and textOK and linkOK:
