@@ -85,7 +85,7 @@ Traffic And Weather	Fountains Of Wayne	2016-12-15 05:48:00	Traffic And Weather
 New Ground	Robert Bradley's Blackwater Surprise	2016-12-15 05:57:00	Train
 The Tigers Have Spoken	Neko Case	2016-12-15 06:00:00	Train From Kansas City
 Get Your Wings	Aerosmith	2016-12-15 06:04:00	Train Kept A Rollin'
-The Eagles	Eagles	2016-12-15 06:12:00	Train Leaves Here This Morning
+The Eagles	The Eagles	2016-12-15 06:12:00	Train Leaves Here This Morning
 Hearts And Bones	Paul Simon	2016-12-15 06:16:00	Train In The Distance
 Medusa	Annie Lennox	2016-12-15 06:25:00	Train In Vain
 London Calling	The Clash	2016-12-15 06:30:00	Train In Vain
@@ -132,7 +132,7 @@ Jubilee	Grant Lee Buffalo	2016-12-15 09:40:00	Truly, Truly
 Home	Dixie Chicks	2016-12-15 09:44:00	Truth No. 2
 I Got Dem Ol' Kosmic Blues Again Mama!	Janis Joplin	2016-12-15 09:48:00	Try
 Complete & Unbelieveable: The Otis Redding Dictionary Of Soul	Otis Redding	2016-12-15 09:52:00	Try A Little Tenderness
-Hotel California	Eagles	2016-12-15 09:56:00	Try And Love Again
+Hotel California	The Eagles	2016-12-15 09:56:00	Try And Love Again
 Enlightened Rogues	The Allman Brothers	2016-12-15 10:02:00	Try It One More Time
 You've Got The Power	Third World	2016-12-15 10:07:00	Try Jah Love
 Automatic For The People	R.E.M.	2016-12-15 10:14:00	Try Not To Breathe
@@ -176,6 +176,42 @@ Ancient Heart	Tanita Tikaram	2016-12-15 12:54:00	Twist In My Sobriety
 The Man And His Music	Sam Cooke	2016-12-15 12:59:00	Twistin' The Night Away
 Twisting By The Pool (e.p.)	Dire Straits	2016-12-15 13:02:00	Twisting By The Pool
 Easy Tiger	Ryan Adams	2016-12-15 13:06:00	Two
+Two Against Nature	Steely Dan	2016-12-15 13:08:00	Two Against Nature
+Hollywood Town Hall	The Jayhawks	2016-12-15 13:16:00	Two Angels
+The River	Bruce Springsteen	2016-12-15 13:20:00	Two Hearts
+War	U2	2016-12-15 13:24:00	Two Hearts Beat As One
+Souls Alike	Bonnie Raitt	2016-12-15 13:28:00	Two Lights In The Nightime
+Let It Be	The Beatles	2016-12-15 13:33:00	Two Of Us
+Pocket Full Of Kryptonite	Spin Doctors	2016-12-15 13:36:00	Two Princes
+Crash	Dave Matthews Band	2016-12-15 13:41:00	Two Step
+Eddie Money	Eddie Money	2016-12-15 13:47:00	Two Tickets To Paradise
+Dixie Chicken	Little Feat	2016-12-15 13:51:00	Two Trains
+Just Can't Get Enough	Frankie Goes To Hollywood	2016-12-15 13:56:00	Two Tribes
+Veckatimest	Grizzly Bear	2016-12-15 14:00:00	Two Weeks
+Under The Table And Dreaming	Dave Matthews Band	2016-12-15 14:04:00	Typical Situation
+Hypnotic Eye	Tom Petty & The Heartbreakers	2016-12-15 14:11:00	U Get Me High
+Talking Heads '77	Talking Heads	2016-12-15 14:17:00	Uh-oh Love Comes To Town
+Schubert Dip	EMF	2016-12-15 14:19:00	Unbelieveable
+Modern Vampires Of The City	Vampire Weekend	2016-12-15 14:23:00	Unbelievers
+Mars Hotel	Grateful Dead	2016-12-15 14:29:00	Unbroken Chain
+Soul Mining	The The	2016-12-15 14:35:00	Uncertain Smile
+Just Once In My Life	The Righteous Brothers	2016-12-15 14:43:00	Unchained Melody
+Ram	Paul McCartney	2016-12-15 14:46:00	Uncle Albert / Admiral Halsey
+Workingman's Dead	Grateful Dead	2016-12-15 14:51:00	Uncle John's Band
+Graceland	Paul Simon	2016-12-15 14:56:00	Under African Skies
+Aftermath	The Rolling Stones	2016-12-15 15:00:00	Under My Thumb
+Hot Space	David Bowie & Queen	2016-12-15 15:04:00	Under Pressure
+The Drifters Box	The Drifters	2016-12-15 15:08:00	Under The Boardwalk
+Blood Sugar Sex Magik	Red Hot Chili Peppers	2016-12-15 15:11:00	Under The Bridge
+Give It Up	Bonnie Raitt	2016-12-15 15:15:00	Under The Falling Sky
+Starfish	The Church	2016-12-15 15:21:00	Under The Milky Way
+Lost In The Dream	The War On Drugs	2016-12-15 15:25:00	Under the Pressure
+Weezer	Weezer	2016-12-15 15:30:00	Undone- The Sweater Song
+The Original Soundtrack	10cc	2016-12-15 15:35:00	Une Nuit A Paris
+Hawks & Doves	Neil Young	2016-12-15 15:44:00	Union Man
+Harvest Moon	Neil Young	2016-12-15 15:46:00	Unknown Legend
+World Outside	Psychedelic Furs	2016-12-15 15:51:00	Until She Comes
+Achtung Baby	U2	2016-12-15 15:55:00	Until The End Of The World
 Two Against Nature	Steely Dan	2016-12-15 13:08:00	Two Against Nature
 Hollywood Town Hall	The Jayhawks	2016-12-15 13:16:00	Two Angels
 The River	Bruce Springsteen	2016-12-15 13:20:00	Two Hearts
@@ -258,8 +294,9 @@ Wings Over America	Wings	2016-12-15 19:11:00	Venus And Mars-Rock Show-Jet
 Debut	Bjork	2016-12-15 19:22:00	Venus As A Boy
 How To Dismantle An Atomic Bomb	U2	2016-12-15 19:27:00	Vertigo
 Transformer	Lou Reed	2016-12-15 19:30:00	Vicious
-Hotel California	Eagles	2016-12-15 19:34:00	Victim Of Love
+Hotel California	The Eagles	2016-12-15 19:34:00	Victim Of Love
 Arthur	The Kinks	2016-12-15 19:39:00	Victoria
+Born To Die	Lana Del Rey	2016-12-15 19:42:00	Video Games
 Born To Die	Lana Del Rey	2016-12-15 19:42:00	Video Games
 The Age Of Plastic	The Buggles	2016-12-15 19:46:00	Video Killed The Radio Star
 Vienna	Ultravox	2016-12-15 19:51:00	Vienna
@@ -270,6 +307,7 @@ Travelling Without Moving	Jamiroquai	2016-12-15 20:06:00	Virtual Insanity
 Blonde On Blonde	Bob Dylan	2016-12-15 20:14:00	Visions Of Johanna
 Viva La Vida	Coldplay	2016-12-15 20:21:00	Viva La Vida
 The Essential	Bruce Springsteen	2016-12-15 20:25:00	Viva Las Vegas
+Elvis At The Movies	Elvis Presley	2016-12-15 20:28:00	Viva Las Vegas
 Elvis At The Movies	Elvis Presley	2016-12-15 20:28:00	Viva Las Vegas
 Voices Carry	'Til Tuesday	2016-12-15 20:32:00	Voices Carry
 O	Damien Rice	2016-12-15 20:36:00	Volcano
