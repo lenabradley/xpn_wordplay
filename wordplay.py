@@ -30,7 +30,7 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
     '''
 
     # setup for import
-    col_dtypes = {'artist':str, 'track':str, 'time':dt.datetime, 'release_year':np.int64}
+    col_dtypes = {'artist':str, 'track':str, 'time':dt.datetime, 'release_year':np.int64, 'sec_diff':np.float}
     csv_kwargs = {'sep': '\t', 'header': 0, 'dtype': col_dtypes, 'index_col':'time'}
 
     # import all raw data & remove duplicates
@@ -89,6 +89,19 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
             data[keep] = sub_data
             data.to_csv(filename, **to_csv_kwargs)
             print 'data - update MB data for {0} and saved to: {1}'.format(letter, filename)
+
+    # add elapsed time column
+    if not data.empty:
+        data = data.sort_values('time')
+        times =  pd.to_datetime(data['time'])
+        c = [(y-x) for (x,y) in zip(times[:-1], times[1:])]
+        c.append(times[0]-times[0])
+        secs = [x.total_seconds() for x in c]
+        data['sec_diff'] = secs
+
+        if save_data:
+            data.to_csv(filename, **to_csv_kwargs)
+            print 'data - sec_diff added and saved to: {0}'.format(filename)
 
     return data
 
@@ -374,8 +387,8 @@ def main():
 
         #gather song data and update MB info
         filename = 'playlistdata.csv'
-        data = read_playlist_data(filename=filename, update_mb=True, save_data=True,
-                                  reset_MB=True)
+        data = read_playlist_data(filename=filename, update_mb=False, save_data=True,
+                                  reset_MB=False)
         artists = list(data['artist'])
         years = list(data['release_year'])
         tracks = list(data['track'])
