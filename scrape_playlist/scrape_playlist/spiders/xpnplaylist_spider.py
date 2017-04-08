@@ -11,10 +11,24 @@ from xpn_wordplay import wordplay as wp
 import numpy as np
 #from scrapy.utils.response import open_in_browser
 
+## hard code start time and the number of days to search
+#timezero = dt.datetime(2016, 11, 30, 6, 0) # time the A-Z started
+#now = dt.datetime.now()
+#endtime = dt.datetime(2016, 12, 17, 13, 28) # time the A-Z ended
+
 # hard code start time and the number of days to search
-timezero = dt.datetime(2016, 11, 30, 6, 0) # time the A-Z started
+starttime1 = dt.datetime(2017, 4, 7, 19, 0)
+endtime1 = dt.datetime(2017, 4, 7, 23, 0)
+
+starttime2 = dt.datetime(2017, 4, 8, 10, 0)
+endtime2 = dt.datetime(2017, 4, 8, 17, 0)
+
+starttime3 = dt.datetime(2017, 4, 9, 12, 0)
+endtime3 = dt.datetime(2017, 4, 9, 17, 0)
+
 now = dt.datetime.now()
-endtime = dt.datetime(2016, 12, 17, 13, 28) # time the A-Z ended
+endtime = min(now, endtime2)
+#timezero = starttime2
 
 # import all current data & remove duplicates
 filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'
@@ -24,10 +38,10 @@ csv_kwargs = {'sep': '\t', 'header': 0, 'dtype': col_dtypes, 'index_col':'time'}
 prev_data = pd.read_csv(filename, **csv_kwargs)
 prev_data = prev_data.drop_duplicates().reset_index()
 
-## get last song's day
-#if not prev_data.empty:
-#    start_time_str = max(prev_data['time'])
-#    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
+# get last song's day
+if not prev_data.empty:
+    start_time_str = max(prev_data['time'])
+    timezero = dt.datetime.strptime(start_time_str, '%Y-%m-%d %H:%M:%S')
 
 # number of days to read
 num_days = (endtime-timezero).days+1
@@ -115,7 +129,7 @@ class PlaylistSpider(Spider):
                         artist = 'J.J. Cale'
                     elif artist =='k. d. lang':
                         artist = 'k.d. lang'
-                    elif artist = 'K. T. Tunstall':
+                    elif artist == 'K. T. Tunstall':
                         artist = 'KT Tunstall'
 
             # store all data
@@ -123,7 +137,9 @@ class PlaylistSpider(Spider):
                 songtime = dt.datetime(year, month, day, hour, minute)
 
                 # skip if before the 'zero' time
-                if (songtime > timezero) and (songtime < endtime):
+                if ((songtime > starttime1) and (songtime < endtime1)) \
+                    or ((songtime > starttime2) and (songtime < endtime2)) \
+                    or ((songtime > starttime3) and (songtime < endtime3)):
                     songtimes.append(songtime)
                     artists.append(artist)
                     albums.append(album)

@@ -20,7 +20,6 @@
 003	Only You Know And I Know
 003	One
 003	Mess Around
-003	Long Time Gone
 003	I'm Free
 003	I Thank You
 003	I Need Love
@@ -35,11 +34,12 @@
 003	Cherry Oh Baby
 003	California
 003	Ball Of Confusion
+003	(I Know) I'm Losing You
+003	#9 Dream
 002	Zombie
 002	You've Got A Friend
 002	You're The One
 002	You're Gonna Make Me Lonesome When You Go
-002	You Showed Me
 002	You Keep Me Hanging On
 002	You Got It
 002	You Belong To Me
@@ -202,6 +202,7 @@
 002	Love Rollercoaster
 002	Love Hurts
 002	Love And Happiness
+002	Long Time Gone
 002	Lively Up Yourself
 002	Little Wing
 002	Like A Rolling Stone
@@ -344,6 +345,11 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+002	32 Flavors
+002	2000 Light Years From Home
+002	1979
+002	(You Make Me Feel Like) A Natural Woman
+002	(I Can't Get No) Satisfaction
 001	Zoot Suit Riot
 001	Zooropa
 001	Zoo Station
@@ -406,6 +412,7 @@
 001	You Want It Darker
 001	You Turn Me On, I'm A Radio
 001	You Spin Me Round
+001	You Showed Me
 001	You Should Be Dancing
 001	You Shook Me All Night Long
 001	You Shook Me
@@ -413,8 +420,6 @@
 001	You Set The Scene
 001	You Send Me
 001	You Really Got Me
-001	You Only Live Once
-001	You Never Need Nobody
 001	You Never Know
 001	You Never Give Me Your Money
 001	You Never Can Tell
@@ -2274,7 +2279,6 @@
 001	Pipeline
 001	Pink Moon
 001	Pink + White
-001	Pink   White
 001	Pinball Wizard
 001	Pigs (three Different Ones)
 001	Pictures Of You
@@ -2558,7 +2562,6 @@
 001	Nature's Way
 001	Natural One
 001	Natural High
-001	Natural Causes
 001	Natural Blues
 001	Nashville Cats
 001	Nantucket Sleighride (To Owen Coffin)
@@ -5289,3 +5292,134 @@
 001	A Case Of You
 001	A Boy Named Sue (live)
 001	A Big Hunk O' Love
+001	3am Spiritual
+001	38th Street Blues
+001	36-22-36
+001	36 Inches High
+001	33's & 45's
+001	33 Rpm Soul
+001	33 "GOD"
+001	30 Days In The Hole
+001	3/5 Of A Mile In 10 Seconds
+001	28
+001	27 Spanishes
+001	27 Jennifers
+001	26 Miles (Santa Catalina)
+001	25 Or 6 To 4
+001	25 O'clock
+001	25 Miles
+001	24 Frames
+001	24
+001	22 (OVER S??N)
+001	2112
+001	20th Century Man
+001	20th Century Fox
+001	20th Century Boy
+001	2080
+001	2001: A Space Odyssey
+001	2-4-6-8 Motorway
+001	2+2=5 (The Lukewarm)
+001	2 Wicky
+001	2 Kool 2 B Forgotten
+001	2 H.B.
+001	19th Nervous Breakdown
+001	1999
+001	1998
+001	1993
+001	1984
+001	1983 (A Merman I Should Turn To Be)
+001	1977
+001	1973
+001	1972
+001	1969
+001	1952 Vincent Black Lightning
+001	1904
+001	1901
+001	19
+001	16 Shells From A Thirty-Ought-Six
+001	16 Military Wives
+001	16 Days
+001	16 Candles
+001	15 Step
+001	13 Questions
+001	12:51
+001	1234
+001	123
+001	12-step Program (To Quit You Babe)
+001	12 Bar Blues
+001	11 O'Clock Tick Tock
+001	100 Years
+001	100 Yard Dash
+001	100 Days 100 Nights
+001	10,000 Emerald Pools
+001	10 Rocks
+001	10 Ribs & All / Carrot Pod Pod (Pod)
+001	10 A.M. Automatic
+001	1-2-3 Go! (This Town's A Fairground)
+001	1-2-3
+001	(Your Love Keeps Lifting Me) Higher And Higher
+001	(Your Love Is Like) Nuclear Waste
+001	(You're) Having My Baby
+001	(You're My) Soul and Inspiration
+001	(You'll Be) Satisfied
+001	(You Gotta) Fight For Your Right (To Party)
+001	(You Caught Me) Smilin'
+001	(Wish I Could Fly Like) Superman
+001	(Who Discovered) America?
+001	(White Man) In Hammersmith Palais
+001	(What's So Funny 'bout) Peace, Love And Understanding?
+001	(What's So Funny 'bout) Peace, Love & Understanding
+001	(What A) Wonderful World
+001	(We Ain't Got) Nothin' Yet
+001	(They Long To Be) Close To You
+001	(Theme From) The Monkees
+001	(Theme From) New York, New  York
+001	(Sittin' On) The Dock Of The Bay
+001	(Shake Shake Shake) Shake Your Booty
+001	(Return To The Valley Of) Out Come The Freaks
+001	(Nothing But) Flowers
+001	(Not Just) Knee Deep
+001	(Nice Dream)
+001	(My Baby Does) Good Sculptures
+001	(Love Is Like A) Heat Wave
+001	(Looking For) The Heart Of Saturday Night
+001	(Let Me Be Your) Teddy Bear
+001	(Keep Feeling) Fascination
+001	(Just Like) Starting Over
+001	(If You Let Me Make Love To You Then) Why Can't I Touch You?
+001	(If Loving You Is Wrong) I Don't Want To Be Right
+001	(I've Had) The Time Of My Life
+001	(I've Been) Searchin' So Long
+001	(I'm) Stranded
+001	(I'm The) Teacher
+001	(I'm Not Your) Steppin' Stone
+001	(I'm A) Roadrunner
+001	(I Love The Sound Of) Breaking Glass
+001	(I Love It When You) Call Me Names
+001	(I Got To) Testify
+001	(I Don't Want To Go To) Chelsea
+001	(I Do) Like We Do
+001	(I Could Only) Whisper Your Name
+001	(I Belong To The) Blank Generation
+001	(Hey Won't You Play) Another Somebody Done Somebody Wrong Song
+001	(Hep-Hep!) The Jumpin Jive
+001	(Gotta Get) A Meal Ticket
+001	(Get A) Grip (On Yourself)
+001	(Find A) Reason To Believe
+001	(Every Time I Turn Around) Back In Love Again
+001	(Drawing) Rings Around The World
+001	(Don't Worry) If There's A Hell Below
+001	(Don't Go Back To) Rockville
+001	(Don't Fear) The Reaper
+001	(Do The) Push And Pull (Part 1)
+001	(Do The) Instant Mash
+001	(Divisionary) Do The Right Thing
+001	(Da Le) Yaleo
+001	(Baby) Hold On
+001	(Angels Want To Wear My) Red Shoes
+001	'39
+001	$1,000 Wedding
+001	#41
+001	#34
+001	#1 Hit Song
+001	#1 Crush

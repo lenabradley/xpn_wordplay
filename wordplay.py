@@ -41,20 +41,30 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
     for path in paths:
         dflist.append(pd.read_csv(path, **csv_kwargs))
     raw_data = pd.concat(dflist)
-    raw_data = raw_data.drop_duplicates().reset_index()
+    raw_data.index = pd.to_datetime(raw_data.index)
+    raw_data['time'] = raw_data.index
+    raw_data = raw_data.drop_duplicates(subset='time')
+    #raw_data = raw_data.drop_duplicates().reset_index()
 
     # import all current data & remove duplicates
-    # manually fix REM
     if filename is None:
         filename = 'playlistdata.csv'
     filename = os.path.abspath(filename)
     if os.path.isfile(filename):
         # import prevous data
         prev_data = pd.read_csv(filename, **csv_kwargs)
-        prev_data = prev_data.drop_duplicates().reset_index()
+        prev_data.index = pd.to_datetime(prev_data.index)
+        prev_data['time'] = prev_data.index
+        prev_data = prev_data.drop_duplicates(subset='time')
+
+        #prev_data = prev_data.drop_duplicates().reset_index()
 
         # combine into master dataframe
+        cols_to_keep = ['release_year', 'album', 'artist', 'track', 'sec_diff', 'time']
         data = prev_data.merge(raw_data, how='outer')
+        data = data.drop_duplicates(subset='time')
+        data = data[cols_to_keep]
+        data = data.reset_index()
 
     else:
         # set raw data as current data
@@ -68,17 +78,21 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
     data['release_year'] = data['release_year'].astype(np.int64)
 
     # save data
-    to_csv_kwargs = {'sep':'\t', 'encoding':'utf-8', 'index':False}
+    cols_to_write = ['release_year', 'album', 'artist', 'track', 'sec_diff', 'time']
+    to_csv_kwargs = {'sep':'\t', 'encoding':'utf-8', 'index':False, 'columns':cols_to_write}
     if save_data:
         data.to_csv(filename, **to_csv_kwargs)
         print 'data - combined raw and prev data and saved to: {0}'.format(filename)
 
     # update musicbrainz data
     if (not data.empty) and update_mb:
-        letters = list(string.ascii_lowercase)
+        #letters = list(string.ascii_lowercase)
+        letters = list(set([x[0] for x in data.track]))
 
         # update one letter at a time, saving in between
         for letter in letters:
+
+            print letter
 
             # get MB data for the current subset
             keep = [x[0].lower()==letter for x in data['track']]
@@ -97,8 +111,15 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
         c = [(y-x) for (x,y) in zip(times[:-1], times[1:])]
         c.append(times[0]-times[0])
         secs = [x.total_seconds() for x in c]
-        data['sec_diff'] = secs
+        secs_fixed = []
+        maxdt = 30.*60. # if a song was longer than 30 mins, dont' trust the time - just set to 1 second instead
+        for s in secs:
+            if s <= maxdt:
+                secs_fixed.append(s)
+            elif s > maxdt:
+                secs_fixed.append(1.)
 
+        data['sec_diff'] = secs_fixed
         if save_data:
             data.to_csv(filename, **to_csv_kwargs)
             print 'data - sec_diff added and saved to: {0}'.format(filename)
@@ -163,6 +184,7 @@ def get_mb_data(data):
         else:
             release_year = int(song.release_year)
             years.append(release_year)
+            albums.append(song.album)
 
     # update dataframe
     data.loc[:,'release_year'] = years
@@ -387,7 +409,7 @@ def main():
 
         #gather song data and update MB info
         filename = 'playlistdata.csv'
-        data = read_playlist_data(filename=filename, update_mb=False, save_data=True,
+        data = read_playlist_data(filename=filename, update_mb=True, save_data=True,
                                   reset_MB=False)
         artists = list(data['artist'])
         years = list(data['release_year'])
@@ -435,6 +457,7 @@ def main():
 
         # Number of tracks in each letter
         first_letter = [x[0].lower() for x in tracks]
+
         letter_counts = dict((x,0) for x in list(string.ascii_lowercase))
         unique_letters = count_list(first_letter, break_words=False)
         letter_counts.update(unique_letters)
@@ -446,8 +469,12 @@ def main():
         # - totals
         letters_played = len([x[0] for x in unique_letters if x[1]>0])
         pct_played = letters_played / 26. * 100.
-        letters_played_str = '{0:d} ({1:04.1f}%)'.format(letters_played, pct_played)
-        elapsed = max(times)-min(times)
+        letters_played_str = '{0:d}'.format(letters_played, pct_played)
+
+#        elapsed = max(times)-min(times)
+        elapsed = dt.datetime(2017, 4, 7, 23, 0) - \
+            dt.datetime(2017, 4, 7, 19, 0) + max(times) - dt.datetime(2017, 4, 8, 10, 0)
+#        elapsed = dt.datetime(2017, 4, 7, 23, 0) - dt.datetime(2017, 4, 7, 19, 0)
 
         # - last updated
         filename = os.path.abspath('last_updated.txt')
@@ -462,7 +489,7 @@ def main():
         f.write('{0}:\t{1}\n'.format('Artists', len(unique_artists)))
         f.write('{0}:\t{1}\n'.format('Song Titles', len(unique_tracks)))
         f.write('{0}:\t{1}\n'.format('Song Title Words', len(unique_track_words)))
-        f.write('{0}:\t{1}\n'.format('Letters', letters_played_str))
+        f.write('{0}:\t{1}\n'.format('Letters / Characters', letters_played_str))
         f.write('{0}:\t{1}\n'.format(*last_update_str.split(': ')))
         f.close()
 

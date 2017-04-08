@@ -99,7 +99,7 @@ class PlaylistSpider(Spider):
                         artist = 'J.J. Cale'
                     elif artist =='k. d. lang':
                         artist = 'k.d. lang'
-                    elif artist = 'K. T. Tunstall':
+                    elif artist == 'K. T. Tunstall':
                         artist = 'KT Tunstall'
 
             # store all data
