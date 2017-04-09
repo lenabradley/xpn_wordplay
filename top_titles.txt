@@ -345,6 +345,10 @@
 002	Absolutely Sweet Marie
 002	A Girl Like You
 002	A Certain Girl
+002	96 Tears
+002	500 Miles
+002	4th Of July
+002	45
 002	32 Flavors
 002	2000 Light Years From Home
 002	1979
@@ -5292,7 +5296,62 @@
 001	A Case Of You
 001	A Boy Named Sue (live)
 001	A Big Hunk O' Love
+001	992 Arguments
+001	99.9 F
+001	99 Luft Balloons
+001	99
+001	96 Degrees In The Shade
+001	9 Crimes
+001	88 Lines About 44 Women
+001	8-track
+001	8 Piece Box
+001	8 Miles High
+001	8 (circle)
+001	777-9311
+001	70's Scenario
+001	7/4 (Shoreline)
+001	7 Seconds
+001	7 Deadly Sins
+001	7 And 7 Is
+001	6th Avenue Heartache
+001	66
+001	634-5789 (Soulsville, U.S.A)
+001	6'1"
+001	6 Underground
+001	6 String Belief
+001	6 AM
+001	5D (Fifth Dimension)
+001	5:15 The Angels Have Gone
+001	5:15
+001	59th Street Bridge Song (Feelin' Groovy)
+001	57 Channels (And Nothin' On)
+001	54-46 (Thats My Number)
+001	53rd & 3rd
+001	53 Miles West Of Venus
+001	52nd Street
+001	52 Girls
+001	51st Anniversary
+001	51 Phantom
+001	500
+001	50 Ways To Leave Your Lover
+001	5-10-15-20 (25-30 Years of Love)
+001	5 O'Clock World
+001	5 Days In May
+001	4th and Roebling
+001	4th Time Around
+001	4th Of July, Asbury Park (Sandy)
+001	49 Bye-byes
+001	48 Hours
+001	46 Days
+001	42
+001	409
+001	40,000 Headmen
+001	40 Days And 40 Nights
+001	40 Day Dream
+001	40
+001	4 & 20
 001	3am Spiritual
+001	3WW
 001	38th Street Blues
 001	36-22-36
 001	36 Inches High
@@ -5301,6 +5360,7 @@
 001	33 "GOD"
 001	30 Days In The Hole
 001	3/5 Of A Mile In 10 Seconds
+001	3's & 7's
 001	28
 001	27 Spanishes
 001	27 Jennifers
@@ -5417,6 +5477,10 @@
 001	(Da Le) Yaleo
 001	(Baby) Hold On
 001	(Angels Want To Wear My) Red Shoes
+001	'83
+001	'74-'75
+001	'68 Comeback
+001	'63
 001	'39
 001	$1,000 Wedding
 001	#41

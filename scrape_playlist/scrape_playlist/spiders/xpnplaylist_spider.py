@@ -27,8 +27,8 @@ starttime3 = dt.datetime(2017, 4, 9, 12, 0)
 endtime3 = dt.datetime(2017, 4, 9, 17, 0)
 
 now = dt.datetime.now()
-endtime = min(now, endtime2)
-#timezero = starttime2
+endtime = min(now, endtime3)
+#timezero = starttime3
 
 # import all current data & remove duplicates
 filename = 'D:\\Users\\Lena\\Documents\\projects\\xpn_wordplay\\playlistdata.csv'

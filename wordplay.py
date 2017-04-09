@@ -154,10 +154,15 @@ def get_mb_data(data):
 
             # run query search
             query = 'artist:"{0}" AND recording:"{1}" AND status:"official"'.format(song.artist, song.track)
-            results = mb.search_recordings(query=query, strict=True)
+            try:
+                results = mb.search_recordings(query=query, strict=True)
+                # extract fields of interest (earliest release year & associated album)
+                release_year, album = extract_mb_results(results)
 
-            # extract fields of interest (earliest release year & associated album)
-            release_year, album = extract_mb_results(results)
+            except:
+                release_year = 1
+                album = ''
+
             if type(album) is unicode:
                 album = unidecode.unidecode(album)
 
@@ -472,9 +477,9 @@ def main():
         letters_played_str = '{0:d}'.format(letters_played, pct_played)
 
 #        elapsed = max(times)-min(times)
-        elapsed = dt.datetime(2017, 4, 7, 23, 0) - \
-            dt.datetime(2017, 4, 7, 19, 0) + max(times) - dt.datetime(2017, 4, 8, 10, 0)
-#        elapsed = dt.datetime(2017, 4, 7, 23, 0) - dt.datetime(2017, 4, 7, 19, 0)
+        elapsed = dt.datetime(2017, 4, 7, 23, 0) - dt.datetime(2017, 4, 7, 19, 0) + \
+            dt.datetime(2017, 4, 8, 17, 0) - dt.datetime(2017, 4, 8, 10, 0) + \
+            max(times) - dt.datetime(2017, 4, 9, 12, 0)
 
         # - last updated
         filename = os.path.abspath('last_updated.txt')
