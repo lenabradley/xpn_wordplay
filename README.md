@@ -10,7 +10,13 @@ Here's a quick analysis, including code to
 2. Use the MusicBrainz.org online database & API to collect more song metadata (`wordplay.py`)
 3. Analyze and export the results (`wordplay.py`)
 
-For a fun visualization of the data see my Tableau Viz: 
+## In the news
+
+1. ["Meet Lena Bartell, #XPNAtoZ data nerd and massive music fan"](http://thekey.xpn.org/2016/12/16/lena-bartell/), by Bruce Warren. December 16, 2016.
+2. ["Tuning in to the WXPN A to Z marathon, alphabetically"](http://www.philly.com/philly/blogs/inthemix/Tuning-in-alphabetically-to-the-XPN-A-to-Z.html), by Dan DeLuca. December 16, 2016.
+3. ["BEHOLD, DATA NERDS, THIS INSANE BREAKDOWN OF WXPN'S #XPNATOZ COUNTDOWN"](http://www.philebrity.com/blog/2016/12/16/behold-data-nerds-this-is-insane-breakdown-of-wxpns-xpnatoz-countdown), on philebrity.com. December 16, 2016.
+
+## Interactive Tableau Viz: 
 
 [![Tableau Viz Link](xpnatoz.jpg)](http://public.tableau.com/views/XPN_AtoZ/XPNA-Z?%3AshowVizHome=no&:display_count=yes)
 
