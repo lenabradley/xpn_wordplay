@@ -18,7 +18,7 @@ Here's a quick analysis, including code to
 
 ## Tableau interactive viz 
 
-[![Tableau Viz Link](xpnatoz.jpg =350px)](http://public.tableau.com/views/XPN_AtoZ/XPNA-Z?%3AshowVizHome=no&:display_count=yes)
+[![Tableau Viz Link](xpnatoz.jpg)](http://public.tableau.com/views/XPN_AtoZ/XPNA-Z?%3AshowVizHome=no&:display_count=yes)
 
 ## Related Work
 
