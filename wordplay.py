@@ -3,9 +3,9 @@ Functions to download and display stats about WXPN's A-Z songs playlist
 
 Author: Lena Bartell, github.com/lbartell
 """
+
 # imports
 import re
-import warnings
 import pandas as pd
 import os
 import string
@@ -17,26 +17,49 @@ import sys
 import unidecode
 pd.options.mode.chained_assignment = None  # default='warn'
 
+# =========================================================================== #
 # function definitions
-def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=True,
-                       reset_MB=False):
+# =========================================================================== #
+
+def read_playlist_data(filename=None, rawbasename=None, updateMB=False, savedata=True,
+                       resetMB=False):
     '''
-    import data saved by the scrapy spider, update the musicbrainz data,
+    Import data saved by the scrapy spider, update the musicbrainz data,
     re-save the data, and return the data as a pandas DataFrame
 
-    release_year key:
-    if 0: haven't looked for this track yet (new data)
-    if 1: failed to find this track before (don't try again)
+    Args:
+        filename (str): path to csv file with current playlist data, if None
+            use default 'playlistdata.csv'
+
+        rawbasename (str): path to csv files with raw/scraped playlist data,
+            use wildcards to define path format, string is fed to glob for
+            pattern matching, if None use default
+            './scrape_playlist/playlistdata_*.csv'
+
+        updateMB (bool): if True, connect to and update release year data from
+            the MusicBrainz database. Default is False. Note, only entries with
+            a release year of 0 will be searched for and updated. If no results
+            are found in MB, then set year to 1 (see below)
+
+        savedata (bool): if True, save combined data to CSV. Default is True
+
+        resetMB (bool): if True, set all release year values to 0 (see below)
+
+        Release year key
+            if 0: haven't looked for this track yet (new data)
+            if 1: failed to find this track before (don't try again)
     '''
 
     # setup for import
-    col_dtypes = {'artist':str, 'track':str, 'time':dt.datetime, 'release_year':np.int64, 'sec_diff':np.float}
-    csv_kwargs = {'sep': '\t', 'header': 0, 'dtype': col_dtypes, 'index_col':'time'}
+    col_dtypes = {'artist':str, 'track':str, 'time':dt.datetime,
+                  'release_year':np.int64, 'sec_diff':np.float}
+    csv_kwargs = {'sep': '\t', 'header': 0, 'dtype': col_dtypes,
+                  'index_col':'time'}
 
     # import all raw data & remove duplicates
-    if rawglob is None:
-        rawglob = './scrape_playlist/playlistdata_*.csv'
-    paths = glob.glob(rawglob)
+    if rawbasename is None:
+        rawbasename = './scrape_playlist/playlistdata_*.csv'
+    paths = glob.glob(rawbasename)
     dflist = []
     for path in paths:
         dflist.append(pd.read_csv(path, **csv_kwargs))
@@ -49,6 +72,7 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
     # import all current data & remove duplicates
     if filename is None:
         filename = 'playlistdata.csv'
+
     filename = os.path.abspath(filename)
     if os.path.isfile(filename):
         # import prevous data
@@ -71,7 +95,7 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
         data = raw_data
 
     # fill NaNs with zeros
-    if ('release_year' not in data.columns) or reset_MB:
+    if ('release_year' not in data.columns) or resetMB:
         data['release_year'] = np.int64(0)
 
     data = data.fillna(value=int(0))
@@ -80,12 +104,12 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
     # save data
     cols_to_write = ['release_year', 'album', 'artist', 'track', 'sec_diff', 'time']
     to_csv_kwargs = {'sep':'\t', 'encoding':'utf-8', 'index':False, 'columns':cols_to_write}
-    if save_data:
+    if savedata:
         data.to_csv(filename, **to_csv_kwargs)
         print 'data - combined raw and prev data and saved to: {0}'.format(filename)
 
     # update musicbrainz data
-    if (not data.empty) and update_mb:
+    if (not data.empty) and updateMB:
         #letters = list(string.ascii_lowercase)
         letters = list(set([x[0] for x in data.track]))
 
@@ -120,7 +144,7 @@ def read_playlist_data(filename=None, rawglob=None, update_mb=False, save_data=T
                 secs_fixed.append(1.)
 
         data['sec_diff'] = secs_fixed
-        if save_data:
+        if savedata:
             data.to_csv(filename, **to_csv_kwargs)
             print 'data - sec_diff added and saved to: {0}'.format(filename)
 
@@ -407,15 +431,16 @@ def main():
     if lookback:
         # gather song data
         filename = 'lookback_playlistdata.csv'
-        data = read_playlist_data(filename=filename, rawglob='./scrape_playlist/lookback/playlistdata_*.csv',
-                                  update_mb=False, save_data=True)
+        data = read_playlist_data(filename=filename,
+                                  rawbasename='./scrape_playlist/lookback/playlistdata_*.csv',
+                                  updateMB=False, savedata=True)
 
     elif atoz: # standard A to Z analysis
 
         #gather song data and update MB info
         filename = 'playlistdata.csv'
-        data = read_playlist_data(filename=filename, update_mb=True, save_data=True,
-                                  reset_MB=False)
+        data = read_playlist_data(filename=filename, updateMB=True, savedata=True,
+                                  resetMB=False)
         artists = list(data['artist'])
         years = list(data['release_year'])
         tracks = list(data['track'])
